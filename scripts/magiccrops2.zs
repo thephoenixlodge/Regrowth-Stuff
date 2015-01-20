@@ -52,6 +52,7 @@ val strengthSeeds = <magicalcrops:magicalcrops_PotionSeedsStrength>;
 val regenSeeds = <magicalcrops:magicalcrops_PotionSeedsRegen>;
 val nightVisSeeds = <magicalcrops:magicalcrops_PotionSeedsNight>;
 val speedSeeds = <magicalcrops:magicalcrops_PotionSeedsSpeed>;
+val rutileSeeds = <AgriCraft:seedRutile>;
 
 //Essences
 val redstoneEssence = <magicalcrops:magicalcrops_CropEssence:1>;
@@ -97,6 +98,7 @@ val regenPetal = <magicalcrops:magicalcrops_PotionPetals:3>;
 val nightVisionPetal = <magicalcrops:magicalcrops_PotionPetals:4>;
 val speedPetal = <magicalcrops:magicalcrops_PotionPetals:5>;
 val natureEssence = <magicalcrops:magicalcrops_CropEssence>;
+val rutileEssence = <Quadrum:rutileEssence>;
 
 //Materials
 val infusedDiamond = <magicalcrops:magicalcrops_ArmourMaterials>;
@@ -135,6 +137,8 @@ val manaPearl = <Botania:manaResource:1>;
 val pastureSeeds = <Botania:grassSeeds>;
 val creeperHeart = <witchery:ingredient:74>;
 val oreOsmium = <Mekanism:OreBlock>;
+val oreRutile = <Mariculture:rocks:3>;
+val blockRutile = <Mariculture:metals:2>;
 
 //Runes
 val waterRune = <Botania:rune>;
@@ -160,157 +164,8 @@ val whiffOfMagic = <witchery:ingredient:34>;
 val reekOfMisfortune = <witchery:ingredient:35>;
 
 
-//Temp recipe for Nature essence
-//recipes.addShapeless(natureEssence, [<minecraft:dye:2>, essenceWeak]);
-
-//Essence Seed crafting
-ManaInfusion.addInfusion(essenceSeeds, seeds, 2500);
-
-//add osmium essence -> ore crafting recipe
-recipes.addShaped(oreOsmium * 2, [[osmiumEssence, osmiumEssence, osmiumEssence], [osmiumEssence, null, osmiumEssence], [osmiumEssence, osmiumEssence, osmiumEssence]]);
-
-//change infusion stone recipes
-recipes.remove(infusionStoneWeak);
-recipes.addShaped(infusionStoneWeak, [[essenceDust, essenceDust, essenceDust], [essenceDust, manaPearl, essenceDust], [essenceDust, essenceDust, essenceDust]]);
-recipes.remove(infusionStoneRegular);
-RuneAltar.addRecipe(infusionStoneRegular, [essenceWeak, essenceWeak, essenceWeak, essenceWeak, ironEssence, dyeEssence, coalEssence, enderEssence, copperEssence, tinEssence], 15000);
-recipes.remove(infusionStoneStrong);
-RuneAltar.addRecipe(infusionStoneStrong, [essenceRegular, essenceRegular, essenceRegular, essenceRegular, blazeEssence, obsidianEssence, airEssence, fireEssence, waterEssence, earthEssence, goldEssence, skeletonEssence, aluminumEssence], 30000);
-recipes.remove(infusionStoneExtreme);
-RuneAltar.addRecipe(infusionStoneExtreme, [essenceStrong, essenceStrong, essenceStrong, essenceStrong, redstoneEssence, glowstoneEssence, lapisEssence, diamondEssence, emeraldEssence, tcShardEssence, creeperEssence, spiderEssence, expEssence], 50000);
-recipes.remove(infusionStoneMaster);
-RuneAltar.addRecipe(infusionStoneMaster, [infusionStoneWeak, infusionStoneRegular, infusionStoneStrong, infusionStoneExtreme, essenceDust, essenceWeak, essenceRegular, essenceStrong, essenceExtreme, osmiumEssence, cobaltEssence, arditeEssence, certusEssence, sulfurEssence, ghastEssence, witherEssence], 100000);
-
-//remove magic crops materials, tools and armour recipes
-recipes.remove(infusedDiamond);
-NEI.hide(infusedDiamond);
-recipes.remove(infusedIngot);
-NEI.hide(infusedIngot);
-recipes.remove(infusedFeather);
-NEI.hide(infusedFeather);
-recipes.remove(infusedString);
-NEI.hide(infusedString);
-recipes.remove(essenceOrb);
-NEI.hide(essenceOrb);
-recipes.removeShaped(essenceDust, [[<*>, <*>, <*>], [<*>, essenceOrb, <*>], [<*>, <*>, <*>]]);
-recipes.removeShaped(essenceDust, [[<*>, essenceOrb]]);
-for i, armour in essenceArmour {
-	recipes.remove(armour);
-	NEI.hide(armour);
-}
-for j, tools in essenceTools {
-	recipes.remove(tools);
-	NEI.hide(tools);
-}
-
-
-//remove all seed recipes
-recipes.remove(ironSeeds);
-recipes.remove(coalSeeds);
-recipes.remove(diamondSeeds);
-recipes.remove(goldSeeds);
-recipes.remove(emeraldSeeds);
-recipes.remove(dyeSeeds);
-recipes.remove(redstoneSeeds);
-recipes.remove(glowstoneSeeds);
-recipes.remove(obsidianSeeds);
-recipes.remove(lapisSeeds);
-recipes.remove(enderSeeds);
-recipes.remove(netherSeeds);
-recipes.remove(expSeeds);
-recipes.remove(blazeSeeds);
-recipes.remove(airSeeds);
-recipes.remove(fireSeeds);
-recipes.remove(waterSeeds);
-recipes.remove(earthSeeds);
-recipes.remove(copperSeeds);
-recipes.remove(tinSeeds);
-recipes.remove(leadSeeds);
-recipes.remove(certusSeeds);
-recipes.remove(aluminumSeeds);
-recipes.remove(cobaltSeeds);
-recipes.remove(arditeSeeds);
-recipes.remove(tcShardSeeds);
-recipes.remove(osmiumSeeds);
-recipes.remove(sulfurSeeds);
-recipes.remove(cowSeeds);
-recipes.remove(creeperSeeds);
-recipes.remove(magmaCubeSeeds);
-recipes.remove(skeletonSeeds);
-recipes.remove(slimeSeeds);
-recipes.remove(spiderSeeds);
-recipes.remove(ghastSeeds);
-recipes.remove(witherSeeds);
-recipes.remove(fireResistSeeds);
-recipes.remove(waterBreathSeeds);
-recipes.remove(strengthSeeds);
-recipes.remove(regenSeeds);
-recipes.remove(speedSeeds);
-recipes.remove(nightVisSeeds);
-
-//Hide Unused Essences
-NEI.hide(cowEssence);
-NEI.hide(magmaCubeEssence);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:2>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:3>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:5>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:6>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:7>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:9>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:12>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:13>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:15>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:16>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:17>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:18>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:19>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:20>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:21>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:22>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:23>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:24>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:26>);
-NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:28>);
-//Unhide mistakenly hidden essences
-NEI.addEntry(copperEssence);
-NEI.addEntry(tinEssence);
-NEI.addEntry(certusEssence);
-NEI.addEntry(aluminumEssence);
-NEI.addEntry(cobaltEssence);
-NEI.addEntry(arditeEssence);
-NEI.addEntry(tcShardEssence);
-NEI.addEntry(osmiumEssence);
-NEI.addEntry(sulfurEssence);
-//Hide Unused Seeds
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsSilver>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsLead>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsSapphire>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsRuby>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsPeridot>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsForce>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsNickel>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsPlatinum>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsUranium>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsOil>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsRubber>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsVinteum>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsBlueTopaz>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsChimerite>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsMoonstone>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsSunstone>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsIridium>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsYellorite>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsManganese>);
-NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsDarkiron>);
-NEI.hide(<magicalcrops:magicalcrops_SeedsSugarCane>);
-NEI.hide(magmaCubeSeeds);
-NEI.hide(cowSeeds);
-//Hide charms
-NEI.hide(<magicalcrops:magicalcrops_Charms>);
-NEI.hide(<magicalcrops:magicalcrops_Charms:1>);
-NEI.hide(<magicalcrops:magicalcrops_Charms:2>);
-NEI.hide(<magicalcrops:magicalcrops_Charms:3>);
-NEI.hide(<magicalcrops:magicalcrops_Charms:4>);
+//add rutile essence -> ore crafting recipe
+recipes.addShaped(oreRutile * 2, [[rutileEssence, rutileEssence, rutileEssence], [rutileEssence, null, rutileEssence], [rutileEssence, rutileEssence, rutileEssence]]);
 
 //////Readding new seed recipes
 ////Tier 1
@@ -348,6 +203,8 @@ RuneAltar.addRecipe(aluminumSeeds, [essenceSeeds, essenceRegular, essenceRegular
 RuneAltar.addRecipe(goldSeeds, [essenceSeeds, essenceRegular, essenceRegular, essenceRegular, essenceRegular, earthRune, fireRune, copperEssence, goldEssence], 10000);
 //skeleton seeds
 RuneAltar.addRecipe(skeletonSeeds, [essenceSeeds, essenceRegular, essenceRegular, essenceRegular, earthRune, earthRune, <minecraft:bone>, <minecraft:bone>], 12000);
+//exp seeds
+RuneAltar.addRecipe(expSeeds, [essenceSeeds, essenceRegular, essenceRegular, essenceRegular, essenceStrong, manaRune, manaRune, <minecraft:experience_bottle>, <minecraft:experience_bottle>], 14000);
 
 ////Tier 3
 //redstone seeds
@@ -370,8 +227,8 @@ RuneAltar.addRecipe(spiderSeeds, [essenceSeeds, essenceStrong, essenceStrong, es
 RuneAltar.addRecipe(speedSeeds, [essenceSeeds, essenceStrong, essenceStrong, essenceStrong, essenceStrong, summerRune, airRune, <minecraft:potion:16418>], 27000);
 //regen potion seeds
 RuneAltar.addRecipe(regenSeeds, [essenceSeeds, essenceStrong, essenceStrong, essenceStrong, essenceStrong, springRune, earthRune, <minecraft:potion:16417>], 27000);
-//exp seeds
-RuneAltar.addRecipe(expSeeds, [essenceSeeds, essenceStrong, essenceStrong, essenceStrong, essenceStrong, summerRune, manaRune, <minecraft:experience_bottle>, <minecraft:experience_bottle>], 28000);
+//Rutile seeds
+RuneAltar.addRecipe(rutileSeeds, [essenceSeeds, essenceStrong, essenceStrong, essenceStrong, essenceStrong, summerRune, winterRune, earthRune, fireRune, blockRutile], 30000);
 
 ////Tier 4
 //osmium seeds

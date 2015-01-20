@@ -8,7 +8,7 @@ import mods.nei.NEI;
 val flintPickHead = <TConstruct:pickaxeHead:3>;
 val flintAxeHead = <TConstruct:hatchetHead:3>;
 val flintShovelHead = <TConstruct:shovelHead:3>;
-val flintChiselHead = <TConstruct:chiselHead:3>;
+val flintToolRod = <TConstruct:toolRod:3>;
 val woodToolRod = <TConstruct:toolRod>;
 val woodBinding = <TConstruct:binding>;
 val stick = <minecraft:stick>;
@@ -37,7 +37,6 @@ val mysticPetal = <Botania:petal:*>;
 val earthRune = <Botania:rune:2>;
 val manaRune = <Botania:rune:8>;
 //Seeds
-val sugarCaneSeeds = <magicalcrops:magicalcrops_SeedsSugarCane>;
 val clay = <minecraft:clay_ball>;
 val bonemeal = <minecraft:dye:15>;
 val pastureSeeds = <Botania:grassSeeds>;
@@ -63,6 +62,51 @@ val crackedSand = <ExtrabiomesXL:terrain_blocks2>;
 val chisel = <chisel:chisel>;
 val egg = <minecraft:egg>;
 val craftingTable = <minecraft:crafting_table>;
+val map = <minecraft:map>;
+val paper = <minecraft:paper>;
+val ink = <ore:dyeBlack>;
+val slottedBook = <BiblioCraft:item.SlottedBook>;
+val book = <minecraft:book>;
+val label = <BiblioCraft:BiblioLabel:*>;
+val draftingCompass = <BiblioCraft:item.BiblioMapTool>;
+val leather = <minecraft:leather>;
+val wheat = <minecraft:wheat>;
+val expDrop = <magicalcrops:magicalcrops_ExperienceDrop>;
+val questBook = <HardcoreQuesting:quest_book>;
+val emerald = <minecraft:emerald>;
+val potato = <minecraft:potato>;
+val carrot = <minecraft:carrot>;
+val bone = <minecraft:bone>;
+val rawBeef = <minecraft:beef>;
+val gunpowder = <minecraft:gunpowder>;
+val fish = <ore:fish>;
+val brownMushroom = <minecraft:brown_mushroom>;
+val redMushroom = <minecraft: red_mushroom>;
+val constructionWooden = <Mariculture:woods>;
+val copper = <ore:ingotCopper>;
+val bronze = <ore:ingotBronze>;
+val steel = <ore:ingotSteel>;
+val magicFert = <magicalcrops:magicalcrops_MagicalCropFertilizer>;
+val floralFert = <Botania:fertilizer>;
+val natureEssence = <magicalcrops:magicalcrops_CropEssence>;
+val yHeartCanister = <TConstruct:heartCanister:4>;
+val yHeart = <TConstruct:heartCanister:3>;
+val gHeart = <TConstruct:heartCanister:5>;
+val gHeartCanister = <TConstruct:heartCanister:6>;
+val terrasteel = <Botania:manaResource:4>;
+val gaiaSpirit = <Botania:manaResource:5>;
+//Spawn eggs
+val spawnCow = <minecraft:spawn_egg:92>;
+val spawnVillager = <minecraft:spawn_egg:120>;
+val spawnWolf = <minecraft:spawn_egg:95>;
+val spawnOcelot = <minecraft:spawn_egg:98>;
+val spawnPig = <minecraft:spawn_egg:90>;
+//Barrel Structural Upgrades
+val struct1 = <JABBA:upgradeStructural>;
+val struct3 = <JABBA:upgradeStructural:2>;
+val struct6 = <JABBA:upgradeStructural:5>;
+
+
 
 //Basic Tool parts for early game
 //Pick Head
@@ -78,7 +122,11 @@ recipes.addShaped(woodBinding, [[null, stick], [stick, null]]);
 
 //Change crafting table recipe
 recipes.remove(craftingTable);
-recipes.addShapeless(craftingTable, [hatchet, <ore:plankWood>]);
+recipes.addShapeless(craftingTable, [hatchet.reuse(), <ore:plankWood>]);
+
+//Change Quest Book recipe
+recipes.remove(questBook);
+recipes.addShaped(questBook, [[stick, <ore:plankWood>], [<minecraft:coal:*>, <ore:plankWood>]]);
 
 //remove vanilla tool recipes
 recipes.remove(swordWood);
@@ -123,10 +171,10 @@ vanilla.seeds.removeSeed(<magicalcrops:magicalcrops_SeedsTomato>);
 vanilla.seeds.removeSeed(<witchery:seedsartichoke>);
 vanilla.seeds.removeSeed(mandrakeSeeds);
 vanilla.seeds.removeSeed(<witchery:seedssnowbell>);
+vanilla.seeds.removeSeed(<witchery:seedswolfsbane>);
 
 //Add to grass drops
 vanilla.seeds.addSeed(floralFertilizer.weight(40));
-//vanilla.seeds.addSeed(sugarCaneSeeds.weight(10));
 vanilla.seeds.addSeed(clay.weight(20));
 vanilla.seeds.addSeed(pastureSeeds.weight(5));
 vanilla.seeds.addSeed(bonemeal.weight(30));
@@ -136,7 +184,7 @@ recipes.remove(lexicaBotania);
 recipes.addShapeless(lexicaBotania, [<minecraft:paper>, botaniaFlower]);
 
 //Alt Floral fertilizer recipe
-ManaInfusion.addInfusion(floralFertilizer, bonemeal, 2000);
+ManaInfusion.addInfusion(floralFertilizer, bonemeal, 500);
 
 //Change to spreader recipe - replacing gold with livingwood
 recipes.remove(manaSpreader);
@@ -164,7 +212,42 @@ recipes.addShapeless(sand, [crackedSand, bucketWater]);
 
 //change chisel recipe
 recipes.remove(chisel);
-recipes.addShaped(chisel, [[null, flintChiselHead], [stick, null]]);
+recipes.addShaped(chisel, [[null, flint], [stick, null]]);
 
 //Add egg recipe
-RuneAltar.addRecipe(egg, [seeds, pastureSeeds, mandrakeSeeds, earthRune, manaRune], 3000);
+RuneAltar.addRecipe(egg * 16, [seeds, pastureSeeds, mandrakeSeeds, earthRune, manaRune], 3000);
+
+//Change Map recipe
+recipes.removeShaped(map, [[<*>, <*>, <*>], [<*>, <minecraft:compass>, <*>], [<*>, <*>, <*>]]);
+recipes.addShaped(map, [[paper, ink, paper], [paper, paper, paper], [paper, paper, paper]]);
+
+//Change Slotted Book recipe
+recipes.remove(slottedBook);
+recipes.addShapeless(slottedBook, [book, label]);
+
+//Change Drafting Compass Recipe
+recipes.remove(draftingCompass);
+recipes.addShaped(draftingCompass, [[null, flint, null], [flintToolRod, null, flintToolRod], [stick, null, stick]]);
+
+//Spawn egg recipes
+RuneAltar.addRecipe(spawnCow, [leather, leather, wheat, wheat, expDrop, expDrop, expDrop, egg], 20000);
+RuneAltar.addRecipe(spawnVillager, [emerald, emerald, wheat, potato, carrot, expDrop, expDrop, expDrop, egg], 30000);
+RuneAltar.addRecipe(spawnWolf, [bone, bone, rawBeef, rawBeef, expDrop, expDrop, expDrop, egg], 22000);
+RuneAltar.addRecipe(spawnOcelot, [gunpowder, gunpowder, fish, fish, expDrop, expDrop, expDrop, egg], 22000);
+RuneAltar.addRecipe(spawnPig, [redMushroom, brownMushroom, carrot, carrot, expDrop, expDrop, expDrop, egg], 20000);
+
+//Fix JABBA
+recipes.remove(struct1);
+recipes.remove(struct3);
+recipes.remove(struct6);
+recipes.addShaped(struct1, [[constructionWooden, copper, constructionWooden], [copper, null, copper], [constructionWooden, copper, constructionWooden]]);
+recipes.addShaped(struct3, [[constructionWooden, bronze, constructionWooden], [bronze, null, bronze], [constructionWooden, bronze, constructionWooden]]);
+recipes.addShaped(struct6, [[constructionWooden, steel, constructionWooden], [steel, null, steel], [constructionWooden, steel, constructionWooden]]);
+
+//Change magical fertilizer recipe
+recipes.remove(magicFert);
+recipes.addShapeless(magicFert * 3, [bonemeal, floralFert, mutandis, natureEssence, natureEssence]);
+
+//Add recipes for green heart canister
+recipes.addShaped(gHeart, [[null, terrasteel, null], [terrasteel, yHeart, terrasteel], [null, terrasteel, null]]);
+recipes.addShapeless(gHeartCanister, [yHeartCanister, gHeart, gaiaSpirit]);

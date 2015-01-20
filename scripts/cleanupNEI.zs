@@ -1,6 +1,55 @@
 ////Imports
 import mods.nei.NEI;
 
+////Variable declarations
+val cowSeeds = <magicalcrops:magicalcrops_SoulSeedsCow>;
+val magmaCubeSeeds = <magicalcrops:magicalcrops_SoulSeedsMagma>;
+//Essences
+val redstoneEssence = <magicalcrops:magicalcrops_CropEssence:1>;
+val glowstoneEssence = <magicalcrops:magicalcrops_CropEssence:2>;
+val diamondEssence = <magicalcrops:magicalcrops_CropEssence:3>;
+val ironEssence = <magicalcrops:magicalcrops_CropEssence:4>;
+val goldEssence = <magicalcrops:magicalcrops_CropEssence:5>;
+val lapisEssence = <magicalcrops:magicalcrops_CropEssence:6>;
+val blazeEssence = <magicalcrops:magicalcrops_CropEssence:7>;
+val emeraldEssence = <magicalcrops:magicalcrops_CropEssence:8>;
+val enderEssence = <magicalcrops:magicalcrops_CropEssence:9>;
+val obsidianEssence = <magicalcrops:magicalcrops_CropEssence:10>;
+val coalEssence = <magicalcrops:magicalcrops_CropEssence:11>;
+val expEssence = <magicalcrops:magicalcrops_CropEssence:12>;
+val dyeEssence = <magicalcrops:magicalcrops_CropEssence:13>;
+val netherEssence = <magicalcrops:magicalcrops_CropEssence:14>;
+val waterEssence = <magicalcrops:magicalcrops_ElementEssence>;
+val fireEssence = <magicalcrops:magicalcrops_ElementEssence:1>;
+val earthEssence = <magicalcrops:magicalcrops_ElementEssence:2>;
+val airEssence = <magicalcrops:magicalcrops_ElementEssence:3>;
+val copperEssence = <magicalcrops:magicalcrops_ModCropEssence>;
+val tinEssence = <magicalcrops:magicalcrops_ModCropEssence:1>;
+val leadEssence = <magicalcrops:magicalcrops_ModCropEssence:3>;
+val certusEssence = <magicalcrops:magicalcrops_ModCropEssence:4>;
+val aluminumEssence = <magicalcrops:magicalcrops_ModCropEssence:8>;
+val cobaltEssence = <magicalcrops:magicalcrops_ModCropEssence:10>;
+val arditeEssence = <magicalcrops:magicalcrops_ModCropEssence:11>;
+val tcShardEssence = <magicalcrops:magicalcrops_ModCropEssence:14>;
+val osmiumEssence = <magicalcrops:magicalcrops_ModCropEssence:25>;
+val sulfurEssence = <magicalcrops:magicalcrops_ModCropEssence:27>;
+val creeperEssence = <magicalcrops:magicalcrops_SoulEssence:1>;
+val skeletonEssence = <magicalcrops:magicalcrops_SoulEssence:3>;
+val slimeEssence = <magicalcrops:magicalcrops_SoulEssence:4>;
+val spiderEssence = <magicalcrops:magicalcrops_SoulEssence:5>;
+val ghastEssence = <magicalcrops:magicalcrops_SoulEssence:6>;
+val witherEssence = <magicalcrops:magicalcrops_SoulEssence:7>;
+val fireResistPetal = <magicalcrops:magicalcrops_PotionPetals>;
+val waterBreathPetal = <magicalcrops:magicalcrops_PotionPetals:1>;
+val strengthPetal = <magicalcrops:magicalcrops_PotionPetals:2>;
+val regenPetal = <magicalcrops:magicalcrops_PotionPetals:3>;
+val nightVisionPetal = <magicalcrops:magicalcrops_PotionPetals:4>;
+val speedPetal = <magicalcrops:magicalcrops_PotionPetals:5>;
+val natureEssence = <magicalcrops:magicalcrops_CropEssence>;
+val rutileEssence = <Quadrum:rutileEssence>;
+val cowEssence = <magicalcrops:magicalcrops_SoulEssence>;
+val magmaCubeEssence = <magicalcrops:magicalcrops_SoulEssence:2>;
+
 //Hide plant blocks - why were these even visible to begin with -.-
 NEI.hide(<magicalcrops:magicalcrops_MagicCropEssence>);
 NEI.hide(<magicalcrops:magicalcrops_MagicCropCoal>);
@@ -74,3 +123,68 @@ NEI.hide(<magicalcrops:magicalcrops_CropStrawberry>);
 NEI.hide(<magicalcrops:magicalcrops_CropSweetcorn>);
 NEI.hide(<magicalcrops:magicalcrops_CropTomato>);
 NEI.hide(<magicalcrops:magicalcrops_CropSugarCane>);
+
+//Hide charms
+NEI.hide(<magicalcrops:magicalcrops_Charms>);
+NEI.hide(<magicalcrops:magicalcrops_Charms:1>);
+NEI.hide(<magicalcrops:magicalcrops_Charms:2>);
+NEI.hide(<magicalcrops:magicalcrops_Charms:3>);
+NEI.hide(<magicalcrops:magicalcrops_Charms:4>);
+
+//Hide Unused Essences
+NEI.hide(cowEssence);
+NEI.hide(magmaCubeEssence);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:2>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:3>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:5>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:6>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:7>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:9>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:12>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:13>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:15>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:16>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:17>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:18>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:19>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:20>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:21>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:22>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:23>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:24>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:26>);
+NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:28>);
+//Unhide mistakenly hidden essences
+NEI.addEntry(copperEssence);
+NEI.addEntry(tinEssence);
+NEI.addEntry(certusEssence);
+NEI.addEntry(aluminumEssence);
+NEI.addEntry(cobaltEssence);
+NEI.addEntry(arditeEssence);
+NEI.addEntry(tcShardEssence);
+NEI.addEntry(osmiumEssence);
+NEI.addEntry(sulfurEssence);
+//Hide Unused Seeds
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsSilver>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsLead>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsSapphire>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsRuby>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsPeridot>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsForce>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsNickel>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsPlatinum>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsUranium>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsOil>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsRubber>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsVinteum>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsBlueTopaz>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsChimerite>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsMoonstone>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsSunstone>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsIridium>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsYellorite>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsManganese>);
+NEI.hide(<magicalcrops:magicalcrops_ModMagicSeedsDarkiron>);
+NEI.hide(<magicalcrops:magicalcrops_SeedsSugarCane>);
+NEI.hide(magmaCubeSeeds);
+NEI.hide(cowSeeds);
