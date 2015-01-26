@@ -139,6 +139,11 @@ val creeperHeart = <witchery:ingredient:74>;
 val oreOsmium = <Mekanism:OreBlock>;
 val oreRutile = <Mariculture:rocks:3>;
 val blockRutile = <Mariculture:metals:2>;
+val limestone = <Mariculture:limestone>;
+val marble = <chisel:marble>;
+val granite = <chisel:granite>;
+val andesite = <chisel:andesite>;
+val diorite = <chisel:diorite>;
 
 //Runes
 val waterRune = <Botania:rune>;
@@ -166,6 +171,17 @@ val reekOfMisfortune = <witchery:ingredient:35>;
 
 //add rutile essence -> ore crafting recipe
 recipes.addShaped(oreRutile * 2, [[rutileEssence, rutileEssence, rutileEssence], [rutileEssence, null, rutileEssence], [rutileEssence, rutileEssence, rutileEssence]]);
+
+//add recipe for limestone from earth and water essence
+recipes.addShaped(limestone * 16, [[waterEssence, waterEssence, waterEssence], [earthEssence, earthEssence, earthEssence]]);
+
+//add recipe for marble from earth and air essence
+recipes.addShaped(marble * 16, [[earthEssence, airEssence], [earthEssence, earthEssence]]);
+
+//add recipes for granite, diorite and andesite from earth and fire essences
+recipes.addShaped(granite * 32, [[fireEssence, earthEssence], [earthEssence, earthEssence]]);
+recipes.addShaped(diorite * 32, [[earthEssence, fireEssence], [earthEssence, earthEssence]]);
+recipes.addShaped(andesite * 32, [[earthEssence, earthEssence], [fireEssence, earthEssence]]);
 
 //////Readding new seed recipes
 ////Tier 1

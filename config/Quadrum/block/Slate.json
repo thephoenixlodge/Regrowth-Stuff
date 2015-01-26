@@ -1,0 +1,12 @@
+{
+    "name": "blockSlate",
+    "default-texture": "slate",
+    "material": "ground",
+    "hardness": 1,
+    "type": "block",
+	"drops": [
+        {"item": "minecraft:flint", "amount": "3-4"}
+    ],
+	"drops-self": "false",
+    "requires-tool": "true"
+}

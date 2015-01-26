@@ -1,0 +1,17 @@
+{
+    "name": "deadWood",
+    "default-texture": "deadwood",
+    "material": "wood",
+    "hardness": 1,
+    "type": "block",
+	"ore-dictionary": [
+        "logWood"
+    ],
+	"drops-self": "false",
+	"drops": [
+        {"item": "minecraft:stick", "amount": "3-4"},
+		{"item": "Quadrum:deadPlank", "amount": "1-3"}
+    ],
+	"flammable": "true",
+    "requires-tool": "false"
+}

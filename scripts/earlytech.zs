@@ -72,10 +72,18 @@ val plateSteel = <Railcraft:part.plate:1>;
 val castIngot = <TConstruct:metalPattern>;
 val castNugget = <TConstruct:metalPattern:27>;
 val redSand = <minecraft:sand:1>;
+val fishTank = <Mariculture:tanks:1>;
+val mobMagnet = <Mariculture:mobMagnet>;
 
 //remove grout recipes - force use of crucible furnace for smeltery building (slime soil is nether grout)
 recipes.remove(grout);
 recipes.remove(slimeSoil);
+
+//Disable fish tank
+recipes.remove(fishTank);
+
+//Disable mob magnet
+recipes.remove(mobMagnet);
 
 //allow creation of seared brick and seared stone in the crucible furnace for smeltery building
 Crucible.addRecipe(218, <minecraft:cobblestone>, <liquid:stone.seared> * 18);
@@ -160,13 +168,13 @@ recipes.remove(engineCombustion);
 recipes.remove(enginePeat);
 recipes.remove(engineBiogas);
 recipes.remove(engineClockwork);
-recipes.remove(engineSteam2);
+//recipes.remove(engineSteam2);
 recipes.remove(engineSteam3);
 recipes.remove(engineStirling);
 recipes.addShaped(engineCombustion, [[iron, iron, iron],[null, redstone, null],[gearIron, piston, gearIron]]);
 recipes.addShaped(enginePeat, [[copper, copper, copper], [null, redstone, null], [gearCopper, piston, gearCopper]]);
 recipes.addShaped(engineBiogas, [[bronze, bronze, bronze], [null, redstone, null], [gearBronze, piston, gearBronze]]);
-recipes.addShaped(engineSteam2, [[plateIron, plateIron, plateIron], [null, redstone, null], [gearIron, piston, gearIron]]);
+//recipes.addShaped(engineSteam2, [[plateIron, plateIron, plateIron], [null, redstone, null], [gearIron, piston, gearIron]]);
 recipes.addShaped(engineSteam3, [[plateSteel, plateSteel, plateSteel], [null, redstone, null], [gearSteel, piston, gearSteel]]);
 
 //Change name or redstone engine to wooden engine

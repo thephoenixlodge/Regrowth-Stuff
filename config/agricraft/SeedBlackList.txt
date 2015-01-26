@@ -1,0 +1,4 @@
+#Define blacklisted seeds here: <mod>:<seedname>:<seedmeta>
+#You can these values from NEI, the data you put here will be corrected up to a certain level, but you should always try to use the values NEI gives you
+#Blacklisted seeds will not be able to planted on crops
+#For example: AgriCraft:seedDandelion

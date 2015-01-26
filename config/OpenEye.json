@@ -1,0 +1,47 @@
+{
+    "gui": {
+        "mainScreenNotes": {
+            "comment": "Enables OpenEye additions to main menu screen",
+            "value": true
+        },
+        "mainScreenExtraLine": {
+            "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
+            "value": false
+        }
+    },
+    "features": {
+        "reportsBlacklist": {
+            "value": []
+        },
+        "responseBlacklist": {
+            "value": []
+        }
+    },
+    "data": {
+        "tags": {
+            "value": []
+        },
+        "sentCrashReportsLimit": {
+            "comment": "Maximum number of crash reports from single category sent per single run",
+            "value": 20
+        },
+        "scanOnly": {
+            "comment": "Send only information about files and crashes - no analytics",
+            "value": false
+        }
+    },
+    "debug": {
+        "debugSanitizer": {
+            "value": false
+        },
+        "dontSend": {
+            "value": false
+        },
+        "crashOnStartup": {
+            "value": false
+        },
+        "pingOnInitialReport": {
+            "value": false
+        }
+    }
+}

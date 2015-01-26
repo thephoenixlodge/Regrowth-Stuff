@@ -68,7 +68,6 @@ vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemSwordThaumium>);
 vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemAxeThaumium>);
 vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemPickThaumium>);
 vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemHoeThaumium>);
-//vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemLootBag>);
 vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemLootBag:*>);
 vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemResource:*>);
 //Mineshaft Chest
@@ -88,9 +87,9 @@ vanilla.loot.removeChestLoot("mineshaftCorridor", <minecraft:gold_ingot>);
 vanilla.loot.removeChestLoot("mineshaftCorridor", <minecraft:redstone>);
 vanilla.loot.removeChestLoot("mineshaftCorridor", <minecraft:diamond>);
 vanilla.loot.removeChestLoot("mineshaftCorridor", <minecraft:iron_pickaxe>);
-vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemLootBag:*>);
-vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemResource:*>);
-vanilla.loot.removeChestLoot("dungeonChest", <appliedenergistics2:item.ItemMultiMaterial:*>);
+vanilla.loot.removeChestLoot("mineshaftCorridor", <Thaumcraft:ItemLootBag:*>);
+vanilla.loot.removeChestLoot("mineshaftCorridor", <Thaumcraft:ItemResource:*>);
+vanilla.loot.removeChestLoot("mineshaftCorridor", <appliedenergistics2:item.ItemMultiMaterial:*>);
 //Ocean Floor Chest
 vanilla.loot.removeChestLoot("oceanFloorChest", <minecraft:diamond>);
 vanilla.loot.removeChestLoot("oceanFloorChest", <minecraft:gold_ingot>);
@@ -111,8 +110,8 @@ vanilla.loot.removeChestLoot("pyramidDesertyChest", <Thaumcraft:ItemAxeThaumium>
 vanilla.loot.removeChestLoot("pyramidDesertyChest", <Thaumcraft:ItemPickThaumium>);
 vanilla.loot.removeChestLoot("pyramidDesertyChest", <Thaumcraft:ItemHoeThaumium>);
 vanilla.loot.removeChestLoot("pyramidDesertyChest", <TConstruct:broadsword>);
-vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemLootBag:*>);
-vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemResource:*>);
+vanilla.loot.removeChestLoot("pyramidDesertyChest", <Thaumcraft:ItemLootBag:*>);
+vanilla.loot.removeChestLoot("pyramidDesertyChest", <Thaumcraft:ItemResource:*>);
 //Jungle Pyramid
 vanilla.loot.removeChestLoot("pyramidJungleChest", <minecraft:iron_ingot>);
 vanilla.loot.removeChestLoot("pyramidJungleChest", <minecraft:gold_ingot>);
@@ -129,8 +128,8 @@ vanilla.loot.removeChestLoot("pyramidJungleChest", <Thaumcraft:ItemAxeThaumium>)
 vanilla.loot.removeChestLoot("pyramidJungleChest", <Thaumcraft:ItemPickThaumium>);
 vanilla.loot.removeChestLoot("pyramidJungleChest", <Thaumcraft:ItemHoeThaumium>);
 vanilla.loot.removeChestLoot("pyramidJungleChest", <TConstruct:broadsword>);
-vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemLootBag:*>);
-vanilla.loot.removeChestLoot("dungeonChest", <Thaumcraft:ItemResource:*>);
+vanilla.loot.removeChestLoot("pyramidJungleChest", <Thaumcraft:ItemLootBag:*>);
+vanilla.loot.removeChestLoot("pyramidJungleChest", <Thaumcraft:ItemResource:*>);
 //Village Blacksmith
 vanilla.loot.removeChestLoot("villageBlacksmith", <minecraft:iron_ingot>);
 vanilla.loot.removeChestLoot("villageBlacksmith", <minecraft:gold_ingot>);

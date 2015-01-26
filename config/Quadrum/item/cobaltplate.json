@@ -1,0 +1,7 @@
+{
+    "name": "plateCobalt",
+    "texture": "cobaltPlate",
+	"ore-dictionary": [
+		"plateCobalt"
+	]
+}

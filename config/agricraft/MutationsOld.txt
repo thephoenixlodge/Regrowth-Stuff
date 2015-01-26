@@ -1,0 +1,41 @@
+#Define mutations here: <mutation>=<parent1>+<parent2>
+#To specify a crop, write <mod>:<cropname>:<meta>, all in lowercase (meta is optional)
+#You can these values from NEI, the data you put here will be corrected up to a certain level, but you should always try to use the values NEI gives you
+#For example if you write harvestcraft:tomato, it will be corrected to harvestcraft=tomatoseedItem, or if you write minecraft:dandelion, it will become AgriCraft:seedDandelion
+#Optionally you can also define a mutation like this: <mutation>=<parent1>+<parent2>,<id>,<block>
+#The crops are specified in the same way, the id must be an integer: 1 requires a specified block to be below the farmland and 2 requires a specific block nearby
+#The mutation will not occur if these requirements are not met. For example:
+#magicalcrops:magicalcrops_ModMagicSeedsLead=magicalcrops:magicalcrops_ModMagicSeedsCopper+magicalcrops:magicalcrops_ModMagicSeedsTin,1,ThermalFoundation:Ore:3
+#
+#Vanilla + Agricraft
+AgriCraft:seedSugarcane=minecraft:wheat_seeds+AgriCraft:seedCarrot
+minecraft:pumpkin_seeds=AgriCraft:seedPotato+AgriCraft:seedCarrot
+minecraft:melon_seeds=AgriCraft:carrot+minecraft:pumpkin_seeds
+AgriCraft:seedPoppy=AgriCraft:seedSugarcane+minecraft:pumpkin_seeds
+AgriCraft:seedDandelion=AgriCraft:seedSugarcane+minecraft:melon_seeds
+AgriCraft:seedOrchid=AgriCraft:seedPoppy+AgriCraft:seedDandelion
+AgriCraft:seedAllium=AgriCraft:seedPoppy+AgriCraft:seedOrchid
+AgriCraft:seedTulipRed=AgriCraft:seedPoppy+AgriCraft:seedAllium
+AgriCraft:seedTulipOrange=AgriCraft:seedDaisy+AgriCraft:seedOrchid
+AgriCraft:seedTulipWhite=AgriCraft:seedDaisy+AgriCraft:seedDandelion
+AgriCraft:seedTulipPink=AgriCraft:seedAllium+AgriCraft:seedDandelion
+AgriCraft:seedDaisy=AgriCraft:seedDandelion+AgriCraft:seedOrchid
+AgriCraft:seedNature=magicalcrops:magicalcrops_MagicSeedsEssence+AgriCraft:seedSugarcane
+#Natura
+Natura:barley.seed:0=minecraft:wheat_seeds+AgriCraft:seedSugarcane
+Natura:barley.seed:1=Natura:barley.seed:0+AgriCraft:seedDandelion
+#Witchery
+witchery:seedsmandrake=witchery:seedsbelladonna+AgriCraft:seedPotato
+witchery:seedsartichoke=witchery:seedsbelladonna+witchery:seedsmandrake
+witchery:seedssnowbell=witchery:seedsartichoke+witchery:seedsmandrake
+witchery:seedswormwood=witchery:seedssnowbell+minecraft:wheat_seeds,2,witchery:somniancotton
+#Standard Crops
+magicalcrops:magicalcrops_SeedsSweetcorn=AgriCraft:seedSugarcane+Natura:barley.seed:0
+magicalcrops:magicalcrops_SeedsCucumber=magicalcrops:magicalcrops_SeedsSweetcorn+minecraft:melon_seeds
+magicalcrops:magicalcrops_SeedsChili=magicalcrops:magicalcrops_SeedsSweetcorn+magicalcrops:magicalcrops_SeedsCucumber
+magicalcrops:magicalcrops_SeedsBlackberry=AgriCraft:seedCarrot+minecraft:melon_seeds
+magicalcrops:magicalcrops_SeedsBlueberry=magicalcrops:magicalcrops_SeedsBlackberry+witchery:seedsartichoke
+magicalcrops:magicalcrops_SeedsRaspberry=magicalcrops:magicalcrops_SeedsBlackberry+minecraft:melon_seeds
+magicalcrops:magicalcrops_SeedsStrawberry=magicalcrops:magicalcrops_SeedsBlueberry+magicalcrops:magicalcrops_SeedsBlackberry
+magicalcrops:magicalcrops_SeedsTomato=magicalcrops:magicalcrops_SeedsBlueberry+magicalcrops:magicalcrops_SeedsChili
+magicalcrops:magicalcrops_SeedsGrape=magicalcrops:magicalcrops_SeedsBlueberry+minecraft:pumpkin_seeds

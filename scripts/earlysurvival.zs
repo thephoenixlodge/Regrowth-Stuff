@@ -95,6 +95,7 @@ val gHeart = <TConstruct:heartCanister:5>;
 val gHeartCanister = <TConstruct:heartCanister:6>;
 val terrasteel = <Botania:manaResource:4>;
 val gaiaSpirit = <Botania:manaResource:5>;
+val charcoal = <minecraft:coal:1>;
 //Spawn eggs
 val spawnCow = <minecraft:spawn_egg:92>;
 val spawnVillager = <minecraft:spawn_egg:120>;
@@ -127,6 +128,9 @@ recipes.addShapeless(craftingTable, [hatchet.reuse(), <ore:plankWood>]);
 //Change Quest Book recipe
 recipes.remove(questBook);
 recipes.addShaped(questBook, [[stick, <ore:plankWood>], [<minecraft:coal:*>, <ore:plankWood>]]);
+
+//Add recipe for smelting dead logs
+furnace.addRecipe(charcoal * 3, deadLog);
 
 //remove vanilla tool recipes
 recipes.remove(swordWood);
@@ -172,12 +176,14 @@ vanilla.seeds.removeSeed(<witchery:seedsartichoke>);
 vanilla.seeds.removeSeed(mandrakeSeeds);
 vanilla.seeds.removeSeed(<witchery:seedssnowbell>);
 vanilla.seeds.removeSeed(<witchery:seedswolfsbane>);
+vanilla.seeds.removeSeed(<witchery:seedsbelladonna>);
 
 //Add to grass drops
 vanilla.seeds.addSeed(floralFertilizer.weight(40));
-vanilla.seeds.addSeed(clay.weight(20));
-vanilla.seeds.addSeed(pastureSeeds.weight(5));
+vanilla.seeds.addSeed(clay.weight(30));
+vanilla.seeds.addSeed(pastureSeeds.weight(10));
 vanilla.seeds.addSeed(bonemeal.weight(30));
+vanilla.seeds.addSeed(<witchery:seedsbelladonna>.weight(20));
 
 //Change lexica Botania recipe
 recipes.remove(lexicaBotania);

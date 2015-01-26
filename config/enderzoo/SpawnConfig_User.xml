@@ -1,0 +1,44 @@
+<SpawnConfig>
+
+  <entry id="EnderMiny1" mobName="enderzoo.Enderminy" rate="30">
+    <biomeFilter type="any">
+      <biome type="BASE_LAND_TYPES" />
+	  <biome type="OCEAN" />
+	  <biome type="BEACH" />
+      <biome type="NETHER" exclude="true" />
+      <biome type="END" exclude="true" />
+    </biomeFilter>
+  </entry>
+
+  <entry id="FallenKnight1" mobName="enderzoo.FallenKnight" rate="20" minGroupSize="1" maxGroupSize="4">
+    <biomeFilter type="any">
+      <biome type="BASE_LAND_TYPES" />
+	  <biome type="OCEAN" />
+	  <biome type="BEACH" />
+      <biome type="NETHER" exclude="true" />
+      <biome type="END" exclude="true" />
+    </biomeFilter>
+  </entry>
+
+  <entry id="WitherWitch1" mobName="enderzoo.WitherWitch" rate="5" minGroupSize="1" maxGroupSize="1">
+    <biomeFilter type="any">
+      <biome type="BASE_LAND_TYPES" />
+	  <biome type="OCEAN" />
+	  <biome type="BEACH" />
+      <biome type="NETHER" exclude="true" />
+      <biome type="END" exclude="true" />
+    </biomeFilter>
+  </entry>
+  
+  <entry id="DireWolf1" mobName="enderzoo.DireWolf" rate="30" minGroupSize="2" maxGroupSize="6">
+    <biomeFilter type="all">
+      <biome type="BASE_LAND_TYPES" />
+	  <biome type="OCEAN" />
+	  <biome type="BEACH" />
+      <biome type="NETHER" exclude="true" />
+      <biome type="END" exclude="true" />
+    </biomeFilter>
+  </entry>
+
+
+</SpawnConfig>

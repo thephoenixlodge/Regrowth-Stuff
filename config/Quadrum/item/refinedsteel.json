@@ -1,0 +1,7 @@
+{
+    "name": "refinedSteel",
+    "texture": "refinedsteel",
+	"ore-dictionary": [
+		"ingotBetterSteel"
+	]
+}

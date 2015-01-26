@@ -1,0 +1,4 @@
+#Define overides for mutation chances here: <mod>:<seedname>:<seedmeta>,<chance>
+#You can these values from NEI, the data you put here will be corrected up to a certain level, but you should always try to use the values NEI gives you
+#The chance is an integer specified in percent, minimum is 0, maximum a 100
+#For example: AgriCraft:seedDandelion,85

@@ -1,0 +1,15 @@
+{
+    "name": "charredWood",
+    "default-texture": "charredwood",
+    "material": "wood",
+    "hardness": 1,
+    "type": "block",
+	"drops-self": "false",
+	"drops": [
+		{"item": "minecraft:coal", "amount": "1-2", "damage": "1"},
+        {"item": "minecraft:stick", "amount": "3-4"},
+		{"item": "witchery:ingredient", "amount": "0-1", "damage": "18"}
+    ],
+	"flammable": "true",
+    "requires-tool": "false"
+}

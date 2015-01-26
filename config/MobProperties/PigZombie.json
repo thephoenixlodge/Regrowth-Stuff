@@ -1,0 +1,11 @@
+{
+  "_name": "PigZombie",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [{
+	"function" : "modifier",
+	"attribute" : "generic.attackDamage",
+	"value" : "-0.25",
+	"operator" : "2"
+	}]
+}

@@ -1,0 +1,3 @@
+#Put a list of seeds here that will drop from tall grass with the following schematic: <seedname:seedmeta>,<weight>
+#The seedname should be the name NEI gives you, the weight is the weighted chance for this seed to drop (for reference, minecraft wheat seeds have weight 10)
+#Only define one seed per line, meta is optional. Example: minecraft:melon_seeds,10

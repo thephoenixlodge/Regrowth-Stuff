@@ -54,7 +54,7 @@ recipes.remove(charger);
 recipes.addShaped(charger, [[refinedSteel, mekCircuitAdvanced, plateSteel], [ingotOsmium, null, null], [refinedSteel, mekCircuitElite, plateSteel]]);
 
 //Add skystone recipe
-ElvenTrade.addRecipe(skystone, [livingrock]);
+ElvenTrade.addRecipe(skystone, [livingrock * 2]);
 
 //Add Press
 recipes.addShapeless(pressSilicon, [chisel.reuse(), plateIron]);

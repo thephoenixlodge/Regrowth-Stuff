@@ -1,0 +1,108 @@
+{
+    "crackedSand": {
+        "template": "uniform",
+        "block": "ExtrabiomesXL:terrain_blocks2",
+		"material": "minecraft:grass",
+        "clusterSize": 1,
+        "numClusters": 50000,
+        "minHeight": 60,
+        "maxHeight": 90,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			-37,
+			-38
+        ]
+    },
+	"dreamgrass": {
+        "template": "uniform",
+        "material": "ExtrabiomesXL:terrain_blocks2",
+		"block": "minecraft:grass",
+        "clusterSize": 16,
+        "numClusters": 200,
+        "minHeight": 60,
+        "maxHeight": 75,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -37,
+			-38
+        ]
+    },
+	"crackedSand1": {
+        "template": "uniform",
+        "block": "ExtrabiomesXL:terrain_blocks2",
+		"material": "minecraft:dirt",
+        "clusterSize": 1,
+        "numClusters": 35000,
+        "minHeight": 58,
+        "maxHeight": 90,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+			-37,
+			-38
+        ]
+    },
+	"redSand": {
+        "template": "uniform",
+        "block": {"name": "minecraft:sand", "metadata": 1},
+		"material": "minecraft:sand",
+        "clusterSize": 1,
+        "numClusters": 85000,
+        "minHeight": 30,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"redSandUnderground": {
+        "template": "uniform",
+        "block": {"name": "minecraft:sand", "metadata": 1},
+		"material": "minecraft:stone",
+        "clusterSize": 48,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"deadGrass": {
+        "template": "uniform",
+        "block": { "name" : "ExtrabiomesXL:grass", "metadata" : 1},
+		"material": { "name" : "minecraft:tallgrass", "metadata" : 1},
+        "clusterSize": 0,
+        "numClusters": 100000,
+        "minHeight": 60,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

@@ -76,7 +76,7 @@ recipes.addShaped(sandyBlock, [[searedBrick, sand], [sand, searedBrick]]);
 
 //Change blast furnace recipe
 recipes.remove(blastFurnace);
-recipes.addShaped(blastFurnace * 6, [[plateTitanium, infernalBrick, plateTitanium], [brickConstruction, blazeEssence, brickConstruction], [plateTitanium, infernalBrick, plateTitanium]]);
+recipes.addShaped(blastFurnace * 9, [[plateTitanium, infernalBrick, plateTitanium], [brickConstruction, blazeEssence, brickConstruction], [plateTitanium, infernalBrick, plateTitanium]]);
 
 //Change shunting wire recipe (removes the only use for lead in the pack)
 Rolling.removeRecipe(shuntingWire * 8);

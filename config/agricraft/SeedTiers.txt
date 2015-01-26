@@ -1,0 +1,5 @@
+#Define overrides for seed tiers here: <mod>:<seedname>:<seedmeta>,<tier>
+#You can get these values from NEI (example: minecraft:wheat_seeds is the vanilla seeds)
+#The tier is an integer between 1 and 5 (1 and 5 included). The higher the tier, the slower it will grow, mutate, be analysed, ...
+#For example: AgriCraft:seedDandelion,2
+magicalcrops:magicalcrops_MagicSeedsEssence,2

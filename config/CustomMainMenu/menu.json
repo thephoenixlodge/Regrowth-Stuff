@@ -1,0 +1,184 @@
+{
+    "images":
+    {
+        
+		
+		"icon":
+		{
+			"image" : "custommainmenu:textures/gui/regrowth-thumbnail.png",
+            "posX" : 7,
+            "posY" : -215,
+            "width" : 63,
+            "height" : 63,
+			"alignment" : "bottom_left"
+		}
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 5,
+            "posY" : -155,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 5,
+            "posY" : -130,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "forum":
+        {
+            "text" : "Support",
+			"tooltip" : "Opens FTB Forums Thread for the Pack",
+            "posX" : 5,
+            "posY" : -105,
+            "width" : 100,
+            "height" : 20,
+			"action" : 
+			{
+				"type" : "openLink",
+				"link" : "http://forum.feed-the-beast.com/threads/1-7-10-regrowth-a-wip-hqm-pack.57184/"
+			},
+			"alignment" : "bottom_left"
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 5,
+            "posY" : -80,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 5,
+            "posY" : -55,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 5,
+            "posY" : -30,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 110,
+            "posY" : -55,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+			"tooltip" : "Refreshes Main Menu",
+			"texture" : "custommainmenu:textures/gui/buttons.png",
+            "posX" : 110,
+            "posY" : -30,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        },
+        
+        "openeye":
+        {
+            "text" : "",
+			"tooltip" : "OpenEye Crash Reporting",
+			"wrappedButton" = 666,
+			"texture" : "custommainmenu:textures/gui/openeyebutton.png",
+            "posX" : 110,
+            "posY" : -80,
+            "width" : 20,
+			"imageWidth" : 20,
+            "height" : 20,
+			"imageHeight" : 20,
+			"alignment" : "bottom_left"
+        }
+    },
+    
+    "texts":
+    {
+		"packName":
+		{
+			"text" : "Regrowth Mod Pack",
+			"alignment" : "bottom_left",
+            "posX" : 150,
+            "posY" : -30
+		},
+		
+		"packVersion":
+		{
+			"text" : "Version 0.6.2 (alpha)",
+			"alignment" : "bottom_left",
+            "posX" : 150,
+            "posY" : -20
+		}
+    },
+    
+    "other":
+    {
+        "panorama":
+        {
+			"images" : "custommainmenu:textures/gui/panorama/panorama_%c.png",
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

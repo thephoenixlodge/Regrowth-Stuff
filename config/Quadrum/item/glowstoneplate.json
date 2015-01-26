@@ -1,0 +1,7 @@
+{
+    "name": "plateGlowstone",
+    "texture": "glowstonePlate",
+	"ore-dictionary": [
+		"plateGlowstone"
+	]
+}

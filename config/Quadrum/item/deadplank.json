@@ -1,0 +1,7 @@
+{
+    "name": "deadPlank",
+    "texture": "deadplanks",
+	"ore-dictionary": [
+		"plankWood"
+	]
+}

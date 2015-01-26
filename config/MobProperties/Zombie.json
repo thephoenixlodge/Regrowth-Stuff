@@ -1,0 +1,9 @@
+{
+  "_name": "Zombie",
+  "drops": [{
+	"function" : "remove",
+	"id" : "minecraft:redstone"
+	}],
+  "pre_stats": [],
+  "stats": []
+}
