@@ -144,6 +144,16 @@ val marble = <chisel:marble>;
 val granite = <chisel:granite>;
 val andesite = <chisel:andesite>;
 val diorite = <chisel:diorite>;
+val gravel = <minecraft:gravel>;
+val quarriedStone = <Railcraft:cube:7>;
+val abyssalStone = <Railcraft:cube:6>;
+val redRock = <ExtrabiomesXL:terrain_blocks1>;
+val crackedSand = <ExtrabiomesXL:terrain_blocks2>;
+val cloud = <Natura:Cloud>;
+val heatSand = <Natura:heatsand>;
+val taintedSoil = <Natura:soil.tainted>;
+val packedIce = <minecraft:packed_ice>;
+val necroBone = <TConstruct:materials:8>;
 
 //Runes
 val waterRune = <Botania:rune>;
@@ -172,16 +182,38 @@ val reekOfMisfortune = <witchery:ingredient:35>;
 //add rutile essence -> ore crafting recipe
 recipes.addShaped(oreRutile * 2, [[rutileEssence, rutileEssence, rutileEssence], [rutileEssence, null, rutileEssence], [rutileEssence, rutileEssence, rutileEssence]]);
 
-//add recipe for limestone from earth and water essence
+//add wither essence -> necrotic bone recipe
+recipes.addShaped(necroBone, [[null, null, witherEssence], [null, witherEssence, null], [witherEssence, null, null]]);
+
+////add recipes for decor/building blocks from elemental essences
+//limestone
 recipes.addShaped(limestone * 16, [[waterEssence, waterEssence, waterEssence], [earthEssence, earthEssence, earthEssence]]);
-
-//add recipe for marble from earth and air essence
+//marble
 recipes.addShaped(marble * 16, [[earthEssence, airEssence], [earthEssence, earthEssence]]);
-
-//add recipes for granite, diorite and andesite from earth and fire essences
+//granite
 recipes.addShaped(granite * 32, [[fireEssence, earthEssence], [earthEssence, earthEssence]]);
+//diorite
 recipes.addShaped(diorite * 32, [[earthEssence, fireEssence], [earthEssence, earthEssence]]);
+//andesite
 recipes.addShaped(andesite * 32, [[earthEssence, earthEssence], [fireEssence, earthEssence]]);
+//gravel
+recipes.addShaped(gravel * 32, [[earthEssence, null, earthEssence], [null, earthEssence, null], [earthEssence, null, earthEssence]]);
+//quarried stone
+recipes.addShaped(quarriedStone * 32, [[null, airEssence, null], [airEssence, earthEssence, airEssence], [earthEssence, earthEssence, earthEssence]]);
+//abyssal stone
+recipes.addShaped(abyssalStone * 32, [[null, waterEssence, null], [waterEssence, earthEssence, waterEssence], [earthEssence, earthEssence, earthEssence]]);
+//cracked Sand
+recipes.addShaped(crackedSand * 32, [[null, earthEssence, null], [earthEssence, null, earthEssence], [null, earthEssence, null]]);
+//red rock
+recipes.addShaped(redRock * 32, [[earthEssence, fireEssence, earthEssence], [fireEssence, null, fireEssence], [earthEssence, fireEssence, earthEssence]]);
+//cloud
+recipes.addShaped(cloud * 8, [[airEssence, airEssence, airEssence], [airEssence, airEssence, airEssence]]);
+//heat sand
+recipes.addShaped(heatSand * 24, [[earthEssence, fireEssence, earthEssence], [fireEssence, netherEssence, fireEssence], [earthEssence, fireEssence, earthEssence]]);
+//tainted soil
+recipes.addShaped(taintedSoil * 24, [[earthEssence, earthEssence, earthEssence], [earthEssence, netherEssence, earthEssence], [earthEssence, earthEssence, earthEssence]]);
+//packed ice
+recipes.addShaped(packedIce * 16, [[waterEssence, airEssence], [airEssence, waterEssence]]);
 
 //////Readding new seed recipes
 ////Tier 1
@@ -220,7 +252,7 @@ RuneAltar.addRecipe(goldSeeds, [essenceSeeds, essenceRegular, essenceRegular, es
 //skeleton seeds
 RuneAltar.addRecipe(skeletonSeeds, [essenceSeeds, essenceRegular, essenceRegular, essenceRegular, earthRune, earthRune, <minecraft:bone>, <minecraft:bone>], 12000);
 //exp seeds
-RuneAltar.addRecipe(expSeeds, [essenceSeeds, essenceRegular, essenceRegular, essenceRegular, essenceStrong, manaRune, manaRune, <minecraft:experience_bottle>, <minecraft:experience_bottle>], 14000);
+RuneAltar.addRecipe(expSeeds, [essenceSeeds, essenceRegular, essenceRegular, essenceRegular, essenceRegular, manaRune, manaRune, <minecraft:experience_bottle>, <minecraft:experience_bottle>], 14000);
 
 ////Tier 3
 //redstone seeds

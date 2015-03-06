@@ -2,6 +2,7 @@
 import mods.botania.ManaInfusion;
 import mods.botania.RuneAltar;
 import mods.nei.NEI;
+import mods.botania.Lexicon;
 
 //Value declaration
 //Tool Parts
@@ -28,6 +29,7 @@ val hoeWood = <minecraft:wooden_hoe>;
 val hoeStone = <minecraft:stone_hoe>;
 val hoeIron = <minecraft:iron_hoe>;
 val hoeDia = <minecraft:diamond_hoe>;
+val swordIron = <minecraft:iron_sword>;
 //Botania
 val botaniaFlower = <Botania:flower:*>;
 val lexicaBotania = <Botania:lexicon>;
@@ -43,6 +45,13 @@ val pastureSeeds = <Botania:grassSeeds>;
 val floralFertilizer = <Botania:fertilizer>;
 val seeds = <minecraft:wheat_seeds>;
 val mandrakeSeeds = <witchery:seedsmandrake>;
+val wheatBag = <Natura:wheatBag>;
+val barleyBag = <Natura:barleyBag>;
+val cottonBag = <Natura:cottonBag>;
+val bMushSeed = <AgriCraft:seedShroomBrown>;
+val rMushSeed = <AgriCraft:seedShroomRed>;
+val bMush = <minecraft:brown_mushroom>;
+val rMush = <minecraft:red_mushroom>;
 //Other
 val redSand = <minecraft:sand:1>;
 val sand = <minecraft:sand>;
@@ -96,17 +105,47 @@ val gHeartCanister = <TConstruct:heartCanister:6>;
 val terrasteel = <Botania:manaResource:4>;
 val gaiaSpirit = <Botania:manaResource:5>;
 val charcoal = <minecraft:coal:1>;
+val cactus = <minecraft:cactus>;
+val wool = <minecraft:wool:*>;
+val redstone = <minecraft:redstone>;
+val glowstone = <minecraft:glowstone_dust>;
+val feather = <minecraft:feather>;
+val zombieCandle = <GraveStone:GSSkullCandle:2>;
+val skeleCandle = <GraveStone:GSSkullCandle>;
+val witherCandle = <GraveStone:GSSkullCandle:1>;
+val fleshBlock = <Thaumcraft:blockTaint:2>;
+val brain = <Thaumcraft:ItemZombieBrain>;
+val ironIngot = <minecraft:iron_ingot>;
+val boneBlock = <GraveStone:GSBoneBlock>;
+val bow = <minecraft:bow>;
+val arrow = <minecraft:arrow>;
+val creeperHeart = <witchery:ingredient:74>;
+val creeperHead = <minecraft:skull:4>;
+//val tnt = <minecraft:tnt>;
+//val string = <minecraft:string>;
+val spiderEye = <minecraft:spider_eye>;
+val emeraldNugget = <ForbiddenMagic:FMResource>;
+val milk = <minecraft:milk_bucket>;
+val slimeCrystal = <TConstruct:materials:1>;
 //Spawn eggs
 val spawnCow = <minecraft:spawn_egg:92>;
 val spawnVillager = <minecraft:spawn_egg:120>;
 val spawnWolf = <minecraft:spawn_egg:95>;
 val spawnOcelot = <minecraft:spawn_egg:98>;
 val spawnPig = <minecraft:spawn_egg:90>;
+val spawnSheep = <minecraft:spawn_egg:91>;
+val spawnBat = <minecraft:spawn_egg:65>;
+val spawnSkeleton = <minecraft:spawn_egg:51>;
+val spawnZombie = <minecraft:spawn_egg:54>;
+val spawnSpider = <minecraft:spawn_egg:52>;
+val spawnCreeper = <minecraft:spawn_egg:50>;
+val spawnSlime = <minecraft:spawn_egg:55>;
+val spawnSilverfish = <minecraft:spawn_egg:60>;
+val spawnFallenKnight = <minecraft:spawn_egg:5>;
 //Barrel Structural Upgrades
 val struct1 = <JABBA:upgradeStructural>;
 val struct3 = <JABBA:upgradeStructural:2>;
 val struct6 = <JABBA:upgradeStructural:5>;
-
 
 
 //Basic Tool parts for early game
@@ -133,12 +172,12 @@ recipes.addShaped(questBook, [[stick, <ore:plankWood>], [<minecraft:coal:*>, <or
 furnace.addRecipe(charcoal * 3, deadLog);
 
 //remove vanilla tool recipes
-recipes.remove(swordWood);
-NEI.hide(swordWood);
-recipes.remove(swordStone);
-NEI.hide(swordStone);
-recipes.remove(swordDia);
-NEI.hide(swordDia);
+//recipes.remove(swordWood);
+//NEI.hide(swordWood);
+//recipes.remove(swordStone);
+//NEI.hide(swordStone);
+//recipes.remove(swordDia);
+//NEI.hide(swordDia);
 recipes.remove(pickWood);
 NEI.hide(pickWood);
 recipes.remove(pickStone);
@@ -149,8 +188,8 @@ recipes.remove(shovelStone);
 NEI.hide(shovelStone);
 recipes.remove(axeWood);
 NEI.hide(axeWood);
-recipes.remove(axeStone);
-NEI.hide(axeStone);
+//recipes.remove(axeStone);
+//NEI.hide(axeStone);
 recipes.remove(hoeWood);
 NEI.hide(hoeWood);
 recipes.remove(hoeStone);
@@ -177,6 +216,15 @@ vanilla.seeds.removeSeed(mandrakeSeeds);
 vanilla.seeds.removeSeed(<witchery:seedssnowbell>);
 vanilla.seeds.removeSeed(<witchery:seedswolfsbane>);
 vanilla.seeds.removeSeed(<witchery:seedsbelladonna>);
+
+//Remove seed bag recipes
+recipes.remove(wheatBag);
+recipes.remove(barleyBag);
+recipes.remove(cottonBag);
+
+//Add Mushroom -> seed recipes
+recipes.addShapeless(rMushSeed, [rMush]);
+recipes.addShapeless(bMushSeed, [bMush]);
 
 //Add to grass drops
 vanilla.seeds.addSeed(floralFertilizer.weight(40));
@@ -241,6 +289,16 @@ RuneAltar.addRecipe(spawnVillager, [emerald, emerald, wheat, potato, carrot, exp
 RuneAltar.addRecipe(spawnWolf, [bone, bone, rawBeef, rawBeef, expDrop, expDrop, expDrop, egg], 22000);
 RuneAltar.addRecipe(spawnOcelot, [gunpowder, gunpowder, fish, fish, expDrop, expDrop, expDrop, egg], 22000);
 RuneAltar.addRecipe(spawnPig, [redMushroom, brownMushroom, carrot, carrot, expDrop, expDrop, expDrop, egg], 20000);
+RuneAltar.addRecipe(spawnSheep, [wool, wool, wheat, wheat, expDrop, expDrop, expDrop, egg], 20000);
+RuneAltar.addRecipe(spawnBat, [feather, wool, <ore:dyeBrown>, <ore:dyeBrown>, expDrop, expDrop, expDrop, egg], 25000);
+//hostiles
+RuneAltar.addRecipe(spawnZombie, [zombieCandle, fleshBlock, brain, ironIngot, expDrop, expDrop, expDrop, expDrop, spawnVillager], 35000);
+RuneAltar.addRecipe(spawnSkeleton, [skeleCandle, boneBlock, bow, arrow, expDrop, expDrop, expDrop, expDrop, spawnVillager], 35000);
+RuneAltar.addRecipe(spawnFallenKnight, [witherCandle, fleshBlock, boneBlock, swordIron, expDrop, expDrop, expDrop, expDrop, expDrop, spawnZombie, spawnSkeleton], 40000);
+RuneAltar.addRecipe(spawnCreeper, [creeperHead, creeperHeart, gunpowder, <minecraft:tnt>, expDrop, expDrop, expDrop, expDrop, spawnPig], 30000);
+RuneAltar.addRecipe(spawnSpider, [spiderEye, spiderEye, <minecraft:string>, <minecraft:string>, expDrop, expDrop, expDrop, expDrop, spawnSheep], 30000);
+RuneAltar.addRecipe(spawnSilverfish, [<ore:stone>, emeraldNugget, expDrop, expDrop, expDrop, expDrop, spawnSpider], 35000);
+RuneAltar.addRecipe(spawnSlime, [slimeCrystal, slimeCrystal, milk, expDrop, expDrop, expDrop, expDrop, spawnCow], 30000);
 
 //Fix JABBA
 recipes.remove(struct1);
@@ -257,3 +315,16 @@ recipes.addShapeless(magicFert * 3, [bonemeal, floralFert, mutandis, natureEssen
 //Add recipes for green heart canister
 recipes.addShaped(gHeart, [[null, terrasteel, null], [terrasteel, yHeart, terrasteel], [null, terrasteel, null]]);
 recipes.addShapeless(gHeartCanister, [yHeartCanister, gHeart, gaiaSpirit]);
+
+//Remove recipe for making cactus from Nature Essence
+recipes.remove(cactus);
+
+//Fix Lexica Botania showing incorrect recipe for mana spreader \o/
+Lexicon.removePage("botania.entry.spreader", 6);
+Lexicon.addCraftingPage("botania.page.spreaderR","botania.entry.spreader",7,[manaSpreader], [[[livingWood, livingWood, livingWood], [livingWood, mysticPetal, null], [livingWood, livingWood, livingWood]]]);
+game.setLocalization("en_US", "botania.page.spreaderR", "Crafting the &1Mana Spreader&0");
+
+//Remove redstone and glowstone alchemy
+ManaInfusion.removeRecipe(redstone * 1);
+ManaInfusion.removeRecipe(glowstone * 1);
+Lexicon.removePage("botania.entry.manaAlchemy", 19);

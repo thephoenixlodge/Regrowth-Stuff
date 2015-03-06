@@ -2,6 +2,8 @@
 import mods.botania.ManaInfusion;
 import mods.botania.RuneAltar;
 import mods.mariculture.Casting;
+import mods.forestry.ThermionicFabricator;
+import mods.forestry.Carpenter;
 
 ////Variables
 //Bees
@@ -21,6 +23,10 @@ val cactus = <minecraft:cactus>;
 val earthEssence = <magicalcrops:magicalcrops_ElementEssence:2>;
 val airEssence = <magicalcrops:magicalcrops_ElementEssence:3>;
 val blockCopper = <Forestry:resourceStorage:1>;
+val tubeCertus = <Quadrum:tubeCertus>;
+val pureCertus = <appliedenergistics2:item.ItemMultiMaterial:10>;
+val redstone = <minecraft:redstone>;
+val crackedSand = <ExtrabiomesXL:terrain_blocks2>;
 
 //Exchange through bees
 ManaInfusion.addAlchemy(hiveForest, hiveMarshy, 10000);
@@ -34,7 +40,8 @@ ManaInfusion.addAlchemy(hiveMarshy, hiveWintry, 10000);
 //Runic Altar recipe for Modest Hive
 RuneAltar.addRecipe(hiveModest, [princess, drone, drone, drone, sand, sand, cactus, earthEssence, airEssence], 10000);
 
-//Make the Forestry Copper block to circumvent a bug related to placing the block
-recipes.remove(blockCopper);
-mods.mariculture.Casting.removeBlockRecipe(blockCopper);
-mods.tconstruct.Casting.removeBasinRecipe(blockCopper);
+//Add recipe for custom certus electron tube
+ThermionicFabricator.addCast(<liquid:glass> * 500, [[null, pureCertus, null], [redstone, pureCertus, redstone], [pureCertus, pureCertus, pureCertus]], null, tubeCertus * 4);
+
+//Add carpenter recipe for making sand from cracked sand
+Carpenter.addRecipe(50, <liquid:water> * 500, [crackedSand, null, null, null, null, null, null, null, null], null, sand);

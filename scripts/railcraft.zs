@@ -15,18 +15,18 @@ val ingotAluminum = <ore:ingotAluminum>;
 val titanium = <Mariculture:materials:2>;
 
 //Machines
-val rollingMachine = <Railcraft:tile.railcraft.machine.alpha:8>;
+val rollingMachine = <Railcraft:machine.alpha:8>;
 val craftingTable = <minecraft:crafting_table>;
 val piston = <minecraft:piston>;
 val brickConstruction = <Mariculture:rocks:4>;
-val blastFurnace = <Railcraft:tile.railcraft.machine.alpha:12>;
-val infernalBrick = <Railcraft:tile.railcraft.brick.infernal>;
-val shuntingWire = <Railcraft:tile.railcraft.machine.delta>;
-val sandyBlock = <Railcraft:tile.railcraft.brick.sandy:2>;
-val cokeOvenBrick = <Railcraft:tile.railcraft.machine.alpha:7>;
-val waterTank = <Railcraft:tile.railcraft.machine.alpha:14>;
-val worldAnchor = <Railcraft:tile.railcraft.machine.alpha>;
-val personalAnchor = <Railcraft:tile.railcraft.machine.alpha:2>;
+val blastFurnace = <Railcraft:machine.alpha:12>;
+val infernalBrick = <Railcraft:brick.infernal>;
+val shuntingWire = <Railcraft:machine.delta>;
+val sandyBlock = <Railcraft:brick.sandy:2>;
+val cokeOvenBrick = <Railcraft:machine.alpha:7>;
+val waterTank = <Railcraft:machine.alpha:14>;
+val worldAnchor = <Railcraft:machine.alpha>;
+val personalAnchor = <Railcraft:machine.alpha:2>;
 
 //Other
 val blazeEssence = <magicalcrops:magicalcrops_CropEssence:7>;

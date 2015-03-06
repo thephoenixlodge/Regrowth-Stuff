@@ -2,7 +2,7 @@
   "_name": "Zombie",
   "drops": [{
 	"function" : "remove",
-	"id" : "minecraft:redstone"
+	"id" : "minecraft:iron_ingot"
 	}],
   "pre_stats": [],
   "stats": []

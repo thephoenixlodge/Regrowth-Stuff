@@ -135,7 +135,11 @@ val manaPearl = <Botania:manaResource:1>;
 val pastureSeeds = <Botania:grassSeeds>;
 val creeperHeart = <witchery:ingredient:74>;
 val oreOsmium = <Mekanism:OreBlock>;
-
+val netherWart = <minecraft:nether_wart>;
+val bone = <minecraft:bone>;
+val snowball = <minecraft:snowball>;
+val cactusGreen = <minecraft:dye:2>;
+val feather = <minecraft:feather>;
 //Runes
 val waterRune = <Botania:rune>;
 val fireRune = <Botania:rune:1>;
@@ -171,9 +175,9 @@ recipes.addShaped(infusionStoneWeak, [[essenceDust, essenceDust, essenceDust], [
 recipes.remove(infusionStoneRegular);
 RuneAltar.addRecipe(infusionStoneRegular, [essenceWeak, essenceWeak, essenceWeak, essenceWeak, ironEssence, dyeEssence, coalEssence, enderEssence, copperEssence, tinEssence], 15000);
 recipes.remove(infusionStoneStrong);
-RuneAltar.addRecipe(infusionStoneStrong, [essenceRegular, essenceRegular, essenceRegular, essenceRegular, blazeEssence, obsidianEssence, airEssence, fireEssence, waterEssence, earthEssence, goldEssence, skeletonEssence, aluminumEssence], 30000);
+RuneAltar.addRecipe(infusionStoneStrong, [essenceRegular, essenceRegular, essenceRegular, essenceRegular, blazeEssence, obsidianEssence, airEssence, fireEssence, waterEssence, earthEssence, goldEssence, skeletonEssence, aluminumEssence, expEssence], 30000);
 recipes.remove(infusionStoneExtreme);
-RuneAltar.addRecipe(infusionStoneExtreme, [essenceStrong, essenceStrong, essenceStrong, essenceStrong, redstoneEssence, glowstoneEssence, lapisEssence, diamondEssence, emeraldEssence, tcShardEssence, creeperEssence, spiderEssence, expEssence], 50000);
+RuneAltar.addRecipe(infusionStoneExtreme, [essenceStrong, essenceStrong, essenceStrong, essenceStrong, redstoneEssence, glowstoneEssence, lapisEssence, diamondEssence, emeraldEssence, tcShardEssence, creeperEssence, spiderEssence], 50000);
 recipes.remove(infusionStoneMaster);
 RuneAltar.addRecipe(infusionStoneMaster, [infusionStoneWeak, infusionStoneRegular, infusionStoneStrong, infusionStoneExtreme, essenceDust, essenceWeak, essenceRegular, essenceStrong, essenceExtreme, osmiumEssence, cobaltEssence, arditeEssence, certusEssence, sulfurEssence, ghastEssence, witherEssence], 100000);
 
@@ -198,6 +202,10 @@ for j, tools in essenceTools {
 	recipes.remove(tools);
 	NEI.hide(tools);
 }
+
+//Change Skeleton essence bone output
+recipes.removeShaped(bone, [[null, null, skeletonEssence], [null, skeletonEssence, null], [skeletonEssence, null, null]]);
+recipes.addShaped(bone * 2, [[null, null, skeletonEssence], [null, skeletonEssence, null], [skeletonEssence, null, null]]);
 
 
 //remove all seed recipes
@@ -243,3 +251,15 @@ recipes.remove(strengthSeeds);
 recipes.remove(regenSeeds);
 recipes.remove(speedSeeds);
 recipes.remove(nightVisSeeds);
+
+//Remove nether essence -> nether wart recipe
+recipes.remove(netherWart);
+
+//Remove elemental essence -> snowball recipe
+recipes.remove(snowball);
+
+//remove dye essence -> cactus green recipe
+recipes.removeShaped(cactusGreen, [[null, null, null], [null, null, null], [dyeEssence, dyeEssence, dyeEssence]]);
+
+//remove air essence -> feather recipe
+recipes.remove(feather);
