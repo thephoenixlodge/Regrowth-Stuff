@@ -149,8 +149,8 @@ recipes.addShaped(bioGen, [[bioFuel, mekCircuitAdvanced, bioFuel], [reinforcedAl
 //Change factory recipes
 for i, recipeType in recipeData {
 	recipes.addShaped(factories[0].withTag(recipeType), [[mekCircuitBasic, chipsetIron, mekCircuitBasic], [ingotOsmium, baseMachine[i], ingotOsmium], [plateSteel, mekCircuitAdvanced, plateSteel]]);
-	recipes.addShaped(factories[1].withTag(recipeType), [[mekCircuitAdvanced, chipsetGold, mekCircuitAdvanced], [enrichedAlloy, factories[0].withTag(recipeType), enrichedAlloy], [plateOsmium, mekCircuitElite, plateOsmium]]);
-	recipes.addShaped(factories[2].withTag(recipeType), [[mekCircuitElite, chipsetDiamond, mekCircuitElite], [reinforcedAlloy, factories[1].withTag(recipeType), reinforcedAlloy], [plateTitanium, mekCircuitUltimate, plateTitanium]]);
+	recipes.addShaped(factories[1].withTag(recipeType), [[mekCircuitAdvanced, chipsetGold, mekCircuitAdvanced], [enrichedAlloy, factories[0].onlyWithTag(recipeType), enrichedAlloy], [plateOsmium, mekCircuitElite, plateOsmium]]);
+	recipes.addShaped(factories[2].withTag(recipeType), [[mekCircuitElite, chipsetDiamond, mekCircuitElite], [reinforcedAlloy, factories[1].onlyWithTag(recipeType), reinforcedAlloy], [plateTitanium, mekCircuitUltimate, plateTitanium]]);
 }
 //Change infuser recipe
 recipes.remove(mettalurgicInfuser);
@@ -238,9 +238,9 @@ recipes.addShaped(salinationBlock, [[plateCopper, plateCopper, plateCopper], [pl
 //Change energy cube recipes
 recipes.remove(energyCube);
 recipes.addShaped(energyCubeBasic, [[mekCircuitBasic, energyTablet, mekCircuitBasic], [plateAluminum, steelCasing, plateAluminum], [mekCircuitBasic, energyTablet, mekCircuitBasic]]);
-recipes.addShaped(energyCubeAdvanced, [[mekCircuitAdvanced, energyTablet, mekCircuitAdvanced], [plateOsmium, energyCube.withTag({tier: "Basic"}), plateOsmium], [mekCircuitAdvanced, energyTablet, mekCircuitAdvanced]]);
-recipes.addShaped(energyCubeElite, [[mekCircuitElite, energyTablet, mekCircuitElite], [plateSteel, energyCube.withTag({tier: "Advanced"}), plateSteel], [mekCircuitElite, energyTablet, mekCircuitElite]]);
-recipes.addShaped(energyCubeUltimate, [[mekCircuitUltimate, energyTablet, mekCircuitUltimate], [plateTitanium, energyCube.withTag({tier: "Elite"}), plateTitanium], [mekCircuitUltimate, energyTablet, mekCircuitUltimate]]);
+recipes.addShaped(energyCubeAdvanced, [[mekCircuitAdvanced, energyTablet, mekCircuitAdvanced], [plateOsmium, energyCube.onlyWithTag({tier: "Basic"}), plateOsmium], [mekCircuitAdvanced, energyTablet, mekCircuitAdvanced]]);
+recipes.addShaped(energyCubeElite, [[mekCircuitElite, energyTablet, mekCircuitElite], [plateSteel, energyCube.onlyWithTag({tier: "Advanced"}), plateSteel], [mekCircuitElite, energyTablet, mekCircuitElite]]);
+recipes.addShaped(energyCubeUltimate, [[mekCircuitUltimate, energyTablet, mekCircuitUltimate], [plateTitanium, energyCube.onlyWithTag({tier: "Elite"}), plateTitanium], [mekCircuitUltimate, energyTablet, mekCircuitUltimate]]);
 //Change digital miner recipe
 recipes.remove(digiMiner);
 recipes.addShaped(digiMiner, [[atomicAlloy, mekCircuitUltimate, atomicAlloy], [logisticalSorter, steelCasing, logisticalSorter], [teleportCore, robit, teleportCore]]);

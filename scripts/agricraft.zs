@@ -82,6 +82,7 @@ val seedArtichoke = <witchery:seedsartichoke>;
 val seedSnowbell = <witchery:seedssnowbell>;
 val seedWolfsbane = <witchery:seedswolfsbane>;
 val seedWormwood = <witchery:seedswormwood>;
+val seedGarlic = <witchery:garlic>;
 //Standard crops
 val seedCorn = <magicalcrops:magicalcrops_SeedsSweetcorn>;
 val seedCucumber = <magicalcrops:magicalcrops_SeedsCucumber>;
@@ -219,6 +220,8 @@ SeedMutation.add(seedWolfsbane, seedSnowbell, seedMandrake);
 //wormwood
 SeedMutation.add(seedWormwood, seedSnowbell, seedWheat);
 BaseBlock.set(seedWormwood, wispyCotton, 2, false);
+//garlic
+SeedMutation.add(seedGarlic, seedSnowbell, seedArtichoke);
 //sweetcorn
 SeedMutation.add(seedCorn, seedSugarCane, seedBarley);
 //cucumber
