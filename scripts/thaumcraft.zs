@@ -27,16 +27,10 @@ val gwSlab = <Thaumcraft:blockCosmeticSlabWood>;
 val gwPlank = <Thaumcraft:blockWoodenDevice:6>;
 val totem = <Thaumcraft:blockCosmeticSolid>;
 val obsidianTile = <Thaumcraft:blockCosmeticSolid:1>;
-val thaumometer = <Thaumcraft:ItemThaumometer>;
 
 //Ores
 val oreAmber = <Thaumcraft:blockCustomOre:7>;
 val oreCinnabar = <Thaumcraft:blockCustomOre>;
-
-//Other
-val manaLens = <Botania:lens>;
-val gold = <minecraft:gold_ingot>;
-val shards = <Thaumcraft:ItemShard:*>;
 
 
 //add TC sapling recipes
@@ -57,11 +51,6 @@ Research.refreshResearchRecipe("TABLE");
 //remove lead transmutation research
 Research.orphanResearch("TRANSLEAD");
 Research.removeResearch("TRANSLEAD");
-
-//change thaumometer recipe
-recipes.remove(thaumometer);
-recipes.addShaped(thaumometer, [[null, shards, null], [gold, manaLens, gold], [null, shards, null]]);
-Research.refreshResearchRecipe("THAUMOMETER");
 
 //Add crucible recipe for obsidian totems
 Crucible.addRecipe("TOTEM", totem, obsidianTile, "alienis 8, tenebrae 8, mortuus 8, terra 12, auram 6, exanimis 6");

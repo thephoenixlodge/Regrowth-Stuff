@@ -48,9 +48,6 @@ val mandrakeSeeds = <witchery:seedsmandrake>;
 val wheatBag = <Natura:wheatBag>;
 val barleyBag = <Natura:barleyBag>;
 val cottonBag = <Natura:cottonBag>;
-val potatoBag = <Natura:potatoBag>;
-val carrotBag = <Natura:carrotBag>;
-val bonemealBag = <Natura:boneBag>;
 val bMushSeed = <AgriCraft:seedShroomBrown>;
 val rMushSeed = <AgriCraft:seedShroomRed>;
 val bMush = <minecraft:brown_mushroom>;
@@ -167,9 +164,6 @@ recipes.addShaped(woodBinding, [[null, stick], [stick, null]]);
 recipes.remove(craftingTable);
 recipes.addShapeless(craftingTable, [hatchet.reuse(), <ore:plankWood>]);
 
-//Add secondary crafting table recipe for after the first one
-recipes.addShaped(craftingTable, [[<ore:slabWood>, <ore:slabWood>], [<ore:plankWood>, <ore:plankWood>]]);
-
 //Change Quest Book recipe
 recipes.remove(questBook);
 recipes.addShaped(questBook, [[stick, <ore:plankWood>], [<minecraft:coal:*>, <ore:plankWood>]]);
@@ -222,21 +216,11 @@ vanilla.seeds.removeSeed(mandrakeSeeds);
 vanilla.seeds.removeSeed(<witchery:seedssnowbell>);
 vanilla.seeds.removeSeed(<witchery:seedswolfsbane>);
 vanilla.seeds.removeSeed(<witchery:seedsbelladonna>);
-vanilla.seeds.removeSeed(<witchery:garlic>);
 
 //Remove seed bag recipes
 recipes.remove(wheatBag);
-NEI.hide(wheatBag);
 recipes.remove(barleyBag);
-NEI.hide(barleyBag);
 recipes.remove(cottonBag);
-NEI.hide(cottonBag);
-recipes.remove(potatoBag);
-NEI.hide(potatoBag);
-recipes.remove(carrotBag);
-NEI.hide(carrotBag);
-recipes.remove(bonemealBag);
-NEI.hide(bonemealBag);
 
 //Add Mushroom -> seed recipes
 recipes.addShapeless(rMushSeed, [rMush]);

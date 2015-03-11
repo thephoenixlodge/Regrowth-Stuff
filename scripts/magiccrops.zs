@@ -167,14 +167,13 @@ val reekOfMisfortune = <witchery:ingredient:35>;
 ManaInfusion.addInfusion(essenceSeeds, seeds, 2500);
 
 //add osmium essence -> ore crafting recipe
-recipes.remove(oreOsmium);
 recipes.addShaped(oreOsmium * 2, [[osmiumEssence, osmiumEssence, osmiumEssence], [osmiumEssence, null, osmiumEssence], [osmiumEssence, osmiumEssence, osmiumEssence]]);
 
 //change infusion stone recipes
 recipes.remove(infusionStoneWeak);
 recipes.addShaped(infusionStoneWeak, [[essenceDust, essenceDust, essenceDust], [essenceDust, manaPearl, essenceDust], [essenceDust, essenceDust, essenceDust]]);
 recipes.remove(infusionStoneRegular);
-RuneAltar.addRecipe(infusionStoneRegular, [essenceWeak, essenceWeak, essenceWeak, essenceWeak, ironEssence, dyeEssence, coalEssence, copperEssence, tinEssence], 15000);
+RuneAltar.addRecipe(infusionStoneRegular, [essenceWeak, essenceWeak, essenceWeak, essenceWeak, ironEssence, dyeEssence, coalEssence, enderEssence, copperEssence, tinEssence], 15000);
 recipes.remove(infusionStoneStrong);
 RuneAltar.addRecipe(infusionStoneStrong, [essenceRegular, essenceRegular, essenceRegular, essenceRegular, blazeEssence, obsidianEssence, airEssence, fireEssence, waterEssence, earthEssence, goldEssence, skeletonEssence, aluminumEssence, expEssence], 30000);
 recipes.remove(infusionStoneExtreme);
