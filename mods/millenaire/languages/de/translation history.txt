@@ -1,0 +1,54 @@
+TRANSLATION HISTORY
+===================
+
+
+A file made to keep track of translation changes for the ENGLISH-GERMAN pair.
+
+
+----------
+09/07/2012
+----------
+
+(P)
+
+- Gaps fixed in quests.txt.
+- Parchment 1: corrected spelling mistakes.
+- Parchment 2: spelling.
+- Parchment 3: spelling and grammar.
+
+*Note: translation gaps file keeps reporting missing and mismatched sentences. I will beta test a bit to see if the right sentences show up or not.
+
+
+----------
+02/07/2012
+----------
+
+(P)
+
+Quests updated
+
+
+---------
+27/06/2012
+----------
+
+(Proclonius)
+
+Parchments 9, 11 and 12 reviewed (Maya people, buildings and objects)
+
+
+----------
+21/06/2012
+----------
+
+The following files were reviewed by Proclonius:
+
+
+strings.txt
+mayan_sentences.txt
+mayan_buildings.txt
+norman_sentences.txt
+hindi_sentences.txt
+
+
+Parchments are still outdated.

@@ -1,0 +1,35 @@
+﻿culture.mayan=maya
+
+villager.mayan_boy=Niño
+villager.mayan_girl=Niña
+villager.mayan_teenagerMale=Joven
+villager.mayan_teenagerFemale=Joven
+villager.mayan_lumberman=Leñador
+villager.mayan_miner=Minero
+villager.mayan_shaman=Chamán
+villager.mayan_peasant=Campesino
+villager.mayan_peasantwife=Campesina
+villager.mayan_leader=Líder
+villager.mayan_richwoman=Reina
+villager.mayan_warrior=Guerrero
+villager.mayan_chieftain=Cacique
+villager.mayan_crafter=Artesano
+villager.mayan_armysmith=Herrero militar
+villager.mayan_sculptor=Escultor
+villager.mayan_shamanwife=Esposa del chamán
+villager.mayan_king=Rey
+villager.mayan_merchant=Mercader
+villager.mayan_chickenfarmer=Criador de pollos
+villager.mayan_farmer=Granjero
+
+villager.lonemayanfarmer=Granjero solitario
+villager.lonemayanpeasantwife=Esposa del granjero
+villager.lonemayanshaman=Chamán
+villager.lonemayanshamanwife=Esposa del chamán
+villager.mayanbanditboy=Joven bandido
+villager.mayanbanditwarrior=Guerrero bandido
+villager.mayanfemalebandit=Joven bandida
+
+villager.merchant_mayanfarmer=Granjero comerciante
+villager.merchant_mayanhunter=Cazador comerciante
+villager.merchant_mayanshaman=Chamán comerciante

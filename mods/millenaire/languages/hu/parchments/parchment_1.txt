@@ -1,0 +1,44 @@
+version:1.1.4
+Millénaire: Norman Inhabitants
+
+Village heads
+
+Chevalier: Lovag. Várában él, ahonnan őrjáratra megy ki, vagy meglátogatja a kocsmát. Ne csatázz vele! A katonaság, és a környező városok vezetője.
+
+Moine: Pap. Az apátságban él, ahol lelkiismeretesen másol ősi könyveket új pergamenekre. Szerinte ez egy művészet. Az egyházi falvak és városok vezetője.
+
+Sénéchal : Usvarmester. Felűgyeli falva mezőgazdasági munkáit a kastélyából. A mezőgazdasági falvak és városok vezetője.
+
+Maître de la Guilde : Céhmester. Ellenőrzi a kisiparosok munkáját egy Céhházból. A kisipari falvak és városok vezetője.
+NEW_PAGE
+Women
+
+Villageoise: Falusi nő. Szinte minden felnőtt nő ide tartozik. Dolguk, hogy a férjük által gyűjtött/készített termékeket a Városházába vigyék, új épületeket építésenek, régi épületeket fejlesszenek, illetve, hogy a játékossal kereskedjenek sokféle helyen.
+
+Dame: Úrnő. Várban él a férjével, ahol faliszőnyegeket készít gyapjúból a vár díszétésére, illetve eadásra a játékosnak.
+NEW_PAGE
+Men
+
+Fermier: Férfi földműves. Farmon él, ahol búzát vet, és arat.
+
+Bûcheron: Favágó. Lumberman. Lives in a lumberman's hut. Gathers wood and cider apples from trees in groves he maintains and plant saplings to produce more trees.
+
+Garde: Guard. Lives in a guard's house. Does nothing but drink cider and very occasionaly prays, unless a fellow villager is attacked. Not a good enemy to have, especially if he is armed with a fearsome Normand Broadsword.
+
+Prêtre: Priest. Lives alone in a presbytery. When he is not praying in the church, he sleeps.
+
+Forgeron: Smith. Lives in a forge or an armoury.  If iron is available, will make tools if in a forge or armour and swords if in an armoury.
+
+Eleveur : Animal farmer. Lives in a cattle farm, a pig farm, or a chicken farm. Collects various goods from farm animals and make steamy Norman tripes and tasty boudin noir.
+
+Mineur : Miner. Lives and work in a quarry, tirelessly mining stone and sand. When his quarry gets upgraded with furnaces, smelt them into smooth stone and glass as well.
+
+Charpentier : Carpenter. Lives and work in a carpenter's house, where he makes timberframes for use in building construction.
+
+Marchant : Merchant. Goes from inn to inn, trading goods from one village to an other. It is his fate to roam for the good of all the villagers.
+
+Marchant étranger : foreign merchant. Merchants from far-away places will visit markets to sell their exotic goods, before leaving with your hard-earned deniers.
+NEW_PAGE
+Children
+
+Garçon / fille : boy and girl. Live with their parents, growing at night, until they are grown enough to move into a free house and become adult.

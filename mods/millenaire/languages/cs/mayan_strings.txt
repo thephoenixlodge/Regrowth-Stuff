@@ -1,0 +1,41 @@
+culture.mayan=Mayove
+
+villager.mayan_boy=Chlapec
+villager.mayan_girl=Divka
+villager.mayan_teenagerMale=Mladik
+villager.mayan_teenagerFemale=Slecna
+villager.mayan_lumberman=Drevorubec
+villager.mayan_miner=Hornik
+villager.mayan_shaman=Saman
+villager.mayan_peasant=Venkovan
+villager.mayan_peasantwife=Venkovanka
+villager.mayan_leader=Velitel
+villager.mayan_richwoman=Kralovna
+villager.mayan_warrior=Valecnik
+villager.mayan_chieftain=Kapitan
+villager.mayan_crafter=Remeslnik
+villager.mayan_armysmith=Vojensky kovar
+villager.mayan_sculptor=Sochar
+villager.mayan_shamanwife=Samanova zena
+villager.mayan_king=Kral
+villager.mayan_merchant=Obchodnik
+villager.mayan_chickenfarmer=Chovatel kurat
+villager.mayan_farmer=Pestovatel kukurice
+
+villager.lonemayanfarmer=Osamely farmar
+villager.lonemayanpeasantwife=Farmarova zena
+villager.lonemayanshaman=Lesni saman
+villager.lonemayanshamanwife=Samanova zena
+villager.mayanbanditboy=Bandita
+villager.mayanbanditwarrior=Bandita valecnik
+villager.mayanfemalebandit=Banditka
+
+villager.merchant_mayanfarmer=Farmarsky obchodnik
+villager.merchant_mayanhunter=Lovecky obchodnik
+villager.merchant_mayanshaman=Samansky obchodnik
+
+shop.mayantownhall=Obchod
+shop.mayancrafter=Nastroje
+shop.mayanarmyforge=Zbrane & zbroje
+shop.mayansheepchickenfarm=Drubezi produkty
+shop.mayanobsidiancrafter=Obsidianove nastroje

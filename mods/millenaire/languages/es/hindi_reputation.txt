@@ -1,0 +1,10 @@
+0;Extraño;No estamos acostumbrados a ver extranjeros en nuestra remota villa.
+4*64;Conocido;Hasta ahora has respetado nuestras costumbres.
+16*64;Visitante regular;¡Namaste, $name!¿Qué noticias nos traes?
+64*64;Mercader ;Bienvenido de nuevo, $name. ¿Qué nos traes para comerciar?
+2*64*64;Amigo de la aldea;$name-ji, Te consideramos un gran amigo aquí.
+8*64*64;Uno de nosotros;Nunca pensé vivir para ver a un extranjero ser aceptado en la aldea, mas $name-ji, ¡eres uno de los nuestros!
+32*64*64;Líder natural;$name, te has ganado la confianza y el respeto de mi gente. Te seguirán a donde vayas. 
+-64;Molestia;No nos gustan los extranjeros aquí, especialmente los de tu tipo.
+-4*64;Forastero indeseable;Quien te haya criado hizo un trabajo terrible. Esperamos que partas lo antes posible.
+-16*64;Enemigo público;Cada mañana le ruego a la Diosa no volver a ver tu cara.

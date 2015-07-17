@@ -1,0 +1,55 @@
+﻿Millénaire: Objetos normandos
+
+Denier: Moneda medieval utilizada por los aldeanos. Viene en tres denominaciones: normal, argent (plata), que vale 64 veces las regulares, y or (oro) que vale 64 veces las de plata.
+
+Pomme à cidre : Manzana de sidra. Esta manzana no comestible es recogida por el leñador y esutilizada para hacer calva.
+NEW_PAGE
+Comida
+
+Cidre:  Sidra. Hecha por aldeanas a partir de manzana de sidra, esta bebida refrescante cura dos corazones y puede beberse hasta tres veces.
+
+Calva: Mejor conocida como calvados, esta aguardiente de manzana normanda cura dos corazones y puede beberse diez veces. Se hace a partir de sidra en la taberna, y fuera de la consumición en Millénaire se recomienda en pequeñas dosis: tiene de 40 a 45° de alcohol.
+
+Tripes: Tripas. Este famoso plato normando es justo lo que se necesita luego de un largo tiempo trabajando afuera en el frío, o luego de una horrible caída en Minecraft. Cura cinco corazones y puede utilizarse tres veces. Los no-normandos suelen disfrutarlas más sino le dicen de qué están hechas. Estás advertido.
+
+Boudin noir: Budín negro. Casi tan bueno como las tripas, el budín negro cura tres corazones y puede utilizarse tres veces. Como su primo, el budín negro inglés, suele ser disfrutado por personas que no saben de qué está hecho.
+NEW_PAGE
+Herramientas y armas
+
+Pala normanda: Esta pala normanda de gran calidad es tan duradera como la de hierro, pero igual de rápida que la de oro. La herramienta elegida por cavadores serios, disponible en tu herrería más cercana.
+
+Pico normanda : Este pico mina tan rápido como el de oro y es tan duradero como el de hierro. ¡Perfecto para esas expediciones mineras largas! Cuidado, no puede minar obsidiana.
+
+Hacha normanda : Tan rápida como la de oro, tan duradera como la de hierro, propina un golpe muy fuerte. Especialmente en las manos de un leñador enojado.
+
+Azada normanda: Es igual a la de diamante, pero más bonita.
+
+Armadura normanda: El set de armadura normanda proporciona 50% más de protección que el de diamante, y te hace lucir peligroso, en lugar de vestido para una fiesta de disfraces.
+
+Espada larga normanda: Es extremadamente cara, y vale cada denier cuando se enfrenta a un enemigo fuerte.
+NEW_PAGE
+Construcción y decoración
+
+Marco de madera: Este material de construcción consiste en vigas de madera oscura rodeando un centro de ladrillos no cocidos. Es hecho por el carpintero para ser usado en los edificios de las aldeas o ser comerciado con el jugador.
+
+Tapisserie normande: Tapices normandos. Hechos a mano por la Dama del fuerte, estos tapices adornarán los mas suntiosos pasillos, sus épicas imágenes son tomadas del Tapiz de Bayeux, siendo el más grande una representación masiva de 15*3 de Guillermo el Conquistador navegando con su armada a Inglaterra.
+NEW_PAGE
+Amuletos
+
+Amulette d'Yggrasil: Amuleto de Yggrasil. Grabado con Yggrasil, el Árbol de la Vida de la mitología nórdica, el cual sus raíces llegan al fondo de la Tierra y sus ramas a la punta del cielo, este amuleto muestra que tan alto o profundo estás.
+
+Amulette du Corbeau: Amuleto del Cuervo. Los sacerdotes normandos pueden ser leales a la iglesia y a al Papa en la lejana Roma, pero no han olvidado sus costumbres ancestrales vikingas... Este amuleto dedicado a Odín te advertirá sobre el peligro si una critura no-natural está cerca de ti. Útil para evadirlos - o para cazarlos.
+
+Amulette des Nains: Amuleto de los enanos. Traido a las costas normandas por los vikingos y elaborado en la forma del martillo de Thor, el Amuleto de los enanos te guiará a las riquezas de la Tierra.
+
+Amulette de Sköll et Rati: Amuleto de Sköll y Rati. Su poder se deriva de Sköll y Rati, los grandes lobos que perseguían a la Luna y al Sol, este amuleto otorga a su creador el poder de convertir la noche en día y el día en noche. Pero advertencia: su poder no es infinito.
+NEW_PAGE
+Pergaminos
+
+Villageois normands: Aldeanos normandos. Un pergamino que muestra los tipos de aldeanos que te matarán si los molestas.
+
+Bâtiments normands: Edificios normandos. Una descripción de los edificios que los aldeanos pueden construir mientras se quedan atorados.
+
+Objets normands: Objetos normandos. Ya deberías saber de qué se trata.
+
+Parchemin complet: Pergamino completo. Con el contenido de los tres anteriores, en un único y cómodo rollo fácil de llevar.

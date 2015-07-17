@@ -1,0 +1,10 @@
+0;Estranho;Nunca vimos ninguém dessa cor de pele, é melhor termos cuidado.
+4*64;Conhecido;Fique avisado, os nossos guerreiros estão a vigiá-lo.
+16*64;Visitante Regular;$name! Os tempos trouxeram-lhe mudanças?
+64*64;Comerciante Favorito;Olá, $name. Como sempre, os seus bens são bem-vindos.
+2*64*64;Amigo da Aldeia;$name, ajudou-nos verdadeiramente a criar um futuro melhor para todos nós.
+8*64*64;Um de Nós;$name, os nossos xamãs consagraram-no um de nós!
+32*64*64;Líder Natural;Conquistou a confiança e o respeito de todos os Maias. Eles segui-lo-ão para qualquer lado.
+-64;Incómodo;Abandone as nossas terras. Não conseguirá profanar a nossa cultura!
+-4*64;Forasteiro Indesejável;Você trouxe consigo a desordem e a pestilência e sujou a nossa aldeia.
+-16*64;Inimigo Público;Você destruiu a nossa cultura, não o vamos tolerar!

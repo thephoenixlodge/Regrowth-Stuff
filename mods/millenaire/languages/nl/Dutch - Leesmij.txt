@@ -1,0 +1,7 @@
+Millénaire installatie
+
+Sinds Millénaire 3 is de manier van installeren veranderd, om het handmatig te installeren moet je:
+Forge installeren vanaf: http://minecraftforge.net/forum/index.php/board,3.0.html
+De Millenaire zip-file en de millenaire en millenaire-custom folders in de /mods folder zetten (maak de folder mods aan als die er nog niet is)
+
+Je kan Millénaire ook installeren met de installer die je kunt krijgen op www.millenaire.org

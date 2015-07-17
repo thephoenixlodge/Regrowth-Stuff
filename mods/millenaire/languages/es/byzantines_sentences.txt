@@ -1,0 +1,64 @@
+villager.greeting=Xaire, $name! / Hola, $name!
+villager.greeting=Omorfi mera, etsi den einai? / Es un hermoso día, verdad?
+villager.greeting=Tha brexei. Syntoma.  / Va a llover pronto.
+villager.greeting=Kamia polh ston kosmo den sygrinete me thn Kwnstantinoupolh./ Ninguna ciudad se compara a Constantinopla.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / No somos griegos, somos Romanos.
+villager.greeting=Eimaste oi Byzantinoi oi teleutaioi alhthinoi Romaioi. Ypoklitheite sthn doxa tou politismou mass. / Nosotros los Bizantinos somos los ultimos verdaderos romanos. Arrodillense ante nuesta gloriosa civilización.
+villager.GoPlay=Mallon tha paixw exw. / Creo que iré a jugar afuera.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Estoy cansando. Creo que iré a dormir.
+villager.makeBread=To psomi myrizei idi wraia. / El pan huele bien...
+villager.gorest=Mallon oti tha pao gia ypno. / Creo que iré a dormir.
+villager.BecomeAdult=Telika egina enas romaios poliths! / Finalmente soy un verdadero ciudadano Romano!
+villager.calltoarms=H Romaikh Autokratoria dexete epithesh! Sta opla! / El Imperio Romano está siendo atacado! A las armas!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Creo que iré a jugar afuera.
+
+architect_byzantine.construction=Xtizw toso peritexna xtismata. Eimai enas alhthinos kallitexnhs. / Construyo estructuras muy elaboradas. Soy un gran artista.
+architect_byzantine.construction=O arxitektonas mas den sigrinetai me kanena allo. / Nuestra arquitectura no puede compararse con ninguna otra.
+artisan_byzantine.greeting=H zwh mou einai poly kalyterh apo kapion allwn anthrwpwn edw. / Mi vida es mucho mejor que la de otras personas.
+artisan_byzantine.makePainting=H Romaikh texnh einai h pio exeligmenh ston kosmo. / El Arte Romano es el más avanzado de todos.
+
+merchant_art.greeting=Kamia polh ston kosmo den sygrinetai me thn Kwnstantinoupolh. / Ninguna ciudad en el mundo puede compararse a Constantinopla.
+merchant_art.greeting=	Emeis oi Byzantinoi eimaste oi teleutaioi alh8inoi Romaioi. / Nosotros los Bizantinos somos los ultimos verdaderos Romanos.
+
+smith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Las herramientas Bizantinas son las mejores.
+armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / Las herramientas Bizantinas son las mejores del mundo.
+armysmith_byzantine.MakeByzantineMace=Mhn prospatheis na katapolemhseis enan oplismeno andra. / Nunca ataque a nadia armado con mis creaciones.
+
+wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / Nuestra tarea es controlar a nuestra gente.
+wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / Siendo mujer no se te permite hacer mucho por aqui...
+wife_byzantine.getGoodsHousehold=Nomizw einai wra na frontisw gia thn kathariothta tou spitiou. / Tiempo de ocuparse de la casa.
+wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / Cosas como ésta solo se pueden hacer aqui.
+wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / Mi marido finalmente llevo los recursos como le dije.
+wife_byzantine.cooking=H mageirikh einai poly diaskedastikh. / Cocinar es muy divertido.
+
+miner_byzantine.Mining=Gia na kaneis aythn thn douleia h dynamh kai h antoxh einai aparaithta. Kaneis omws den to katalabainei... / Éste trabajo requiere fuerza y resistencia.Pero a nadie parece importarle...
+miner_byzantine.Mining=Eimai perifanos pou eimai Romaios katoikos kai pou douleyw gia thn aytokratoria , an kai einai dyskolh douleia. / Estoy orgulloso de ser un ciudadano Romano trabajando para este glorioso Imperio, a pesar de que sea difícil.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Mis libros son unos de los mejores que hay.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / Mis libros son unos de los mejores manuscritos que existen.
+
+lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera . / Mi esposa debe estar orgullosa de toda la madera que traje.
+lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! / Cada estructura aqui necesita madera, y es mi trabajo conseguirla!
+lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Este es un gran brote de árbol.
+lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw.  / ¡Pronto crecera un gran y majestoso árbol y yo lo cortaré!
+
+keeperBirch_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / ¿Cómo puede alguien pensar en poner publicidad aqui?...
+keeperBirch_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Es tan aburrido por aqui, nunca pasa nada...
+keeperBirch_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Saludos Viajante, me pregunto como acabaste en este lugar tan lejano.
+
+
+keeperOak_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / ¿Cómo puede alguien pensar en poner publicidad aqui?...
+keeperOak_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Es tan aburrido por aqui, nunca pasa nada...
+keeperOak_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Saludos Viajante, me pregunto como acabaste en este lugar tan lejano.
+keeperOak_byzantine.greeting=Aftoi oi anthrwpoi, autoapokalountai "Normans", moy thimyzoun thn xakousth autokratotria mas. / Estas personas, que se hacen llamar Normandos, me recuerdan a nuestro glorioso imperio.
+
+keeperPine_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / ¿Cómo puede alguien pensar en poner publicidad aqui?...
+keeperPine_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Es tan aburrido por aqui, nunca pasa nada...
+keeperPine_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Saludos Viajante, me pregunto como acabaste en este lugar tan lejano.
+keeperPine_byzantine.greeting=Afto to kryo einai tsouxtero. Den anarwtiemai pou den yparxei kaneis edw... / Éste frio es horrible. No es de extrañar que no haya nadie alrededor.
+
+keeperTropical_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / ¿Cómo puede alguien pensar en poner publicidad aqui?...
+keeperTropical_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / Es tan aburrido por aqui, nunca pasa nada...
+keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / Saludos Viajante, me pregunto como acabaste en este lugar tan lejano.
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den borw na katalavo giati aftoi 'Hindi' zoun se afth th gh. / Hace tanto calor aqui. No puedo comprender porque estos Hindúes viven en éstas tierras.
+keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / ¿Has visto alguna vez a los Mayas? Sus edificios parecen estar por colapsar todo el tiempo.

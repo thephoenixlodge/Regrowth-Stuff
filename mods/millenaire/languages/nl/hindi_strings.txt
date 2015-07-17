@@ -1,0 +1,35 @@
+culture.hindi=Hindoestaans
+
+villager.indian_boy=Jongen
+villager.indian_girl=Meisje
+villager.indian_teenagerMale=Jongere
+villager.indian_teenagerFemale=Jongere
+villager.indian_lumberman=Houthakker
+villager.indian_miner=Mijnwerker
+villager.indian_pandit=Priester
+villager.indian_peasant=Dorpeling
+villager.indian_peasantwife=Vrouwelijke Dorpeling
+villager.indian_rajputgeneral=Rajput Generaal
+villager.indian_richwoman=Rijke Vrouw
+villager.indian_soldier=Rajput Soldaat
+villager.indian_villagechief=Dorpshoofd
+villager.indian_smith=Smid
+villager.indian_armysmith=Legersmid
+villager.indian_sculptor=Steenhouwer
+villager.indian_panditayin=Priesteres
+villager.indian_raja=Raja
+villager.indian_rani=Rani
+villager.indian_merchant=Handelaar
+villager.indian_lonetrader=Eenzame Handelaar
+villager.indian_adivasipeasant=Adivasi Dorpeling
+villager.indian_adivasipeasantwife=Adivasi Boerin
+villager.indian_sadhu=Sadhu
+villager.merchant_oriental=Persische Handelaar
+villager.merchant_adivasi=Adivasi Handelaar
+villager.merchant_villagewoman=Dorpshandelaar
+
+shop.townhall=Centrale winkel
+shop.forge=Werktuigen
+shop.armyforge=Pantsers en wapens
+shop.adivasifarm=Adivasi producten
+shop.deserttradeoutpost=Luxe goederen

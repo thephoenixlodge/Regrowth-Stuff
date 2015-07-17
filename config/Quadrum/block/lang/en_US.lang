@@ -1,3 +1,15 @@
 tile.blockSlate.name=Slate
-tile.deadWood.name=Dead Wood
+tile.deadWood.name=Dead Wood Log
 tile.charredWood.name=Charred Log
+tile.cobblestoneburnt.name=Burnt Cobblestone
+tile.CobblestoneTrans.name=Transitional Burnt Cobblestone
+tile.charredPlank.name=Charred Wooden Planks
+tile.singedPlank.name=Singed Wooden Planks
+tile.stoneburnt.name=Burnt Stone
+tile.stonetransition.name=Transitional Burnt Stone
+tile.stonebrickcrackedburnt.name=Cracked & Burnt Stone Brick
+tile.stonebrickcrackedtrans.name=Transitional Cracked & Burnt Stone Brick
+tile.stonebrickburnt.name=Burnt Stone Brick
+tile.stonebricktrans.name=Transitional Burnt Stone Brick
+tile.singedSlab.name=Singed Wooden Slab
+tile.singedStair.name=Singed Wooden Stairs

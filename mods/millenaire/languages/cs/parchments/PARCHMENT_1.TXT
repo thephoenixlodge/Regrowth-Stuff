@@ -1,0 +1,44 @@
+version:1.1.4
+Millénaire: Popis Severskych obyvatel
+
+Vudci vesnic:
+
+Chevalier: Rytir zije v pevnosti, ze ktere chodi obhlizet jeho zeme a take navstevuje krcmu. Vyvarujte se ho potkat v bitve! Vudce armad a velikych mest.
+
+Moine: Mnich bydli v opatstvi, kde peclive opisuje stare knihy na nove pergameny. Podle nej je to umeni. Je hlavou cirkevnich osad a vesnic.
+
+Sénéchal : Spravce ze sveho panstvi dohlizi na zemedelskou produkci vesnice. Vudce zemedelskych osad a vesnic.
+
+Maître de la Guilde : Cechovni mistr dohlizi na pracujici remeslniky ze sveho cechovniho domu. Je hlavnou remeslnych osad.
+NEW_PAGE
+Zeny:
+
+Villageoise: Vesnicanka. Temer vsechny dospele zeny ve vesnici jsou tohoto typu. Jejich roli je prenaseni surovin, ktere jejich manzele vyprodukuji, na radnici, stavebni prace na novych budovach a vylepsovani stavajicich budov, take obchoduji s hracem na ruznych mistech.
+
+Dame: Pani zije v pevnosti se svym muzem, kde z vlny vyrabi tapiserie aby si mohla vyzdobit obydli, nebo je prodala hraci.
+NEW_PAGE
+Muzi:
+
+Fermier: Farmar zije na farme, kde pestuje a sklizi psenici.
+
+Bûcheron: Drevorubec zije v drevorubecke boude. Kaci stromy v okoli vesnice, ze kterych take trha jablka. Drevorubci zasazuji nove stromky.
+
+Garde: Strazce. Strazce zije ve svem dome. Vubec nic nedela, jen popiji most a vyjimecne se modli, ale pouze do te doby, nez je vesnice napadena. Neni to snadny nepritel, obzvlast kdyz je ozbrojen obavanou severskou savli.
+
+Prêtre: Knez bydli sam v presbytari. Pokud se nemodli v kostele, tak spi. Proslycha se, ze ma znalosti davnych Vikingskych ritualu, ktere skryva za rousku katolicke zboznosti.
+
+Forgeron: Kovar. Zije v kovarne nebo ve zbrojnici. Pokud ma k dispozici zelezo, vyrabi v kovarne nastroje, nebo ve zbrojnici zbrane a zbroje.
+
+Eleveur / Eleveuse : Chovatel a chovatelka zvirat. Ziji na dobytcich, prasecich nebo ovcich farmach. Shromazduji ruznorode prisady ze zvirat a vyrabi chutne klobasy.
+
+Mineur : Hornik pracuje a zije v lomu, kde neunavne tezi pisek a kamen. Kdyz je jeho lom vylepsen peci, muze v ni pote upravovat kamen a vyrabet sklo.
+
+Charpentier : Tesar. Zije a pracuje v tesarstvi, kde ze dreva vyrabi ramy, ktere se pouzivaji na stavbu budov.
+
+Marchant : Kupec putuje od hostince k hostinci, obchoduje se zbozim z ostatnich vesnic. Jeho osudem je putovat se zbozim pro dobro vesnicanu.
+
+Marchant étranger : Orientalni kupec. Obchodnik ze vzdalenych zemi navstevuje obchody, kde prodava sve luxusni zbozi, predtim, nez opusti osadu s tvymi tezce vydelanymi penezi.
+NEW_PAGE
+Deti:
+
+Garçon / fille : Chlapec a divka ziji se svymi rodici, pres noc rostou a kdyz vyrostou dostatecne, odstehuji se do volnych domu, kde se stanou dospelymi.

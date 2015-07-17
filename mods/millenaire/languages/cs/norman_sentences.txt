@@ -1,0 +1,99 @@
+villager.greeting=Bonjour, $name! / Bud zdrav, $name!
+villager.greeting=Belle journée, n'est pas? / Prekrasny den, ze?
+villager.greeting=Il va pleuvoir, je le sens / Bude prset, citim to.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Nevzpominam si, ze by Normandie vypadala takhle.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Vypadas nejak pohuble, $name. Ochranim te, pokud se dostanes do potizi.
+priest.greeting=Soyez béni, mon fils. / Zehnam ti, muj synu.
+monk.greeting=Dieu soit avec toi, mon frère. / Buh s tebou, bratre.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Az vyrostu, chci byt jako tatinek.
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Slouzim jedine krali Williamovi, vevodovy Normandie, a bohu. V tomto poradi.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, vis, ze jsem bojoval u Hastings?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Narokuji tyto zeme vevodovi Normandie!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Ma sestra se provdala za vevodu. Ja ziji zde.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Mel byste videt hrad meho otce. Je to impozantni poevnost.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Tyto zeme patri Vikingum. Anglie patri Vikingum. Sicilie patri Vikingum. My vladneme!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Dnes jsem prisel obchodovat. Zitra...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Chtel bys vedet, jak jsem prezil vsechna ta leta cestovat sam a s timhle cennym zbozim?
+plant_merchant.greeting=Certaines personnes disent que je suis un rêveur, mais je ne suis pas le seul... / Nekteri lide rikaji, ze jsem snilek, ale ja nejsem jediny...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Tato zeme je bohata, ale musi byt zaroven tak chladna?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Uz jsi byl na Kordobe? Je to velmi civilizovane misto.
+art_merchant.greeting=Les gens ici sont des barbares. / Zdejsi lide jsou barbari.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Zadne mesto sveta se nemuze rovnat Konstantinopoli.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / My Byzantinci jsme posledni opravdovi Rimane. Uzri slavou nasi civilizace!
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Holandske textilie jsou ty nejlepsi na zapad od Ciny.
+seneschal.greeting=Je gère ces terres pour mon roi. / Spravuji tyto zeme pro meho krale.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Nemuzu se dockat navratu na kralovsky dvur.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Remeslnici za nic nestoji, pokud na ne nikdo nedohlizi.
+
+knight.patrol=Je reigne sur ces terres. / Vladnu teto zemi.
+knight.patrol=La force fait le droit, et je suis fort. / Moc je pravo, a ja jsem mocny.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Nikdo tady nedokaze ocenit umeni.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Mozna bude toto misto vypadat lip s timto na zdech. Mozna.
+
+villager.gorest=Un peu de repos me ferait du bien... / Mohl bych si trochu odpocinout...
+villager.gorest=La vie ici est un peu morne. / Zdejsi zivot je trochu nudny.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Nic zajimaveho se nestalo.
+villager.gorest=Je suis fatigué. / Jsem unaveny.
+villager.godrink=C'est à boire qu'il nous faut! / Poterbuju se napit!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / Cidr jeste nikdy nikoho nezabil.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Mluvim k bohu, ne k tobe, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Pojdme odnest tuhle zaltavou psenici.
+farmer.CollectCrop=On dirait que le blé est mûr. / Vypada to, ze psenice uzrala.
+farmer.PlantSeeds=Je plante, et je récolterai. / Zasel jsem, ted je cas sklidit.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Dokonce i zena bude muset uznat, ze je to hodne dreva.
+lumberman.ChopTrees=Regardez-moi couper cet arbre! / Sleduj, jak porazim ten strom!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Pekny stromek, tamhle.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Brzy z nej bude veliky a majestatny strom! A potom ho podrazim.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Vypada to, ze muj liny manzel zase jednou neco udelal.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Musim vyzvednout tucet, nebo dva materialu. Jsem silnejsi nez vypadam.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Muj chleba je nejlepsi ve vesnici.
+//villager.BeSeller=Uz jdu, uz jdu!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Priprava cidru neni ta nejhorsi prace ve vsi.
+wife.MakeCalva=Une boisson d'homme, faite par une femme. / Napoj muzu, vyrobeny zenou.
+wife.construction=Je construit, je construit, comme seule une femme le peu ! / Stavim, stavim, jak jen zena dokaze!
+wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Muzi nemaji dostatek zrucnosti k provedeni tak precizni prace.
+wife.construction=Ca va être un bâtiment superbe. / Tohle bude jedna z nejuzasnejsich staveb.
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher? / Proc me porad posilaji vyzvednout ty veci?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Prines tohle, prines tamto", porad rikaji. Jednoho dne toho budu mit dost!
+villager.GoPlay=Je vais aller jouer dehors. / Myslim, ze si pujdu hrat ven.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Cas se necim stat!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Kdybys vedel co vsechno v tom je, tak bys to nejedl.
+
+smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / Normanske nastroje jsou nejlepsi na svete.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par moi. / Nezkousej bojovat s muzem mnou ozbrojenym.
+
+
+miner.Mining=Miner est un art, vous savez? / Kutani je umeni, chapes?
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Nikdo jiny ze vsi nema tolik sily a odolnosti aby mohl delat tuhle praci. A kdo mi podekuje?
+miner.Cooking=Ca c’est de la vrai cuisson. / Tohle je seriozni vareni.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié... / Dlouho tomu, co jsem se naposledy modlil...
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Modlitba je namahavejsi vic nez si myslis.
+
+villager.calltoarms=Aux armes ! Aux armes ! / Do zbrane! Do zbrane!
+villager.calltoarms=Montjoi Saint-Denis! / Za svateho Denise!
+villager.calltoarms=Tous pour un ! / Vsichni za jednoho!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Pokud by jesitnost nebyla hrichem, rekl bych, ze me rukopisy jsou nejlepsi v zemi.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger... / Toto by nemel videt nikdo cizi...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Vikingska magie je silna magie.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Pojd a nakupuj. Ale nepovim ti, jake obetiny museli padnout na vyrobu techto amuletu.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Nechtej vedet co se stalo muzi, ktery mi udelal tuhle jizvu. Ale muzes si koupit mec, ktery jsem pouzil.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Prodavam vsechny byliny, ktere bys kdy mohl potrebovat.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Pojd a podivej na to luxusni zbozi, o kterem zdejsi lide jen sni!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / To je jako hazet perly svinim.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Vsechnu ruzovou vlnu co kdy budes potrebovat!
+
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / Dobre vyrobena lahvicka je zaklad uspesneho lektvaru.
+villager.harvestwarts=Heuresement que je porte des gants. / Diky bohu ze nosim rukavice.
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / Pouze mistr Vif-argent dokazal pochopit jak pestovat tyto zvracenosti.
+villager.brewpotions=Un jour je serais un maître alchimiste! / Prijde den kdy se stanu mistrem!

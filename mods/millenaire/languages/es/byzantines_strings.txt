@@ -1,0 +1,57 @@
+culture.byzantines=Byzantine
+
+villager.teenagerMale=Joven
+villager.teenagerFemale=Joven
+villager.boy_byzantine=n Niño
+villager.girl_byzantine=Niña
+villager.farmiller_byzantine=Molinero
+villager.farmiller_wife_byzantine=Esposa del Molinero
+villager.wife_byzantine=Esposa
+villager.miner_byzantine=Minero
+villager.artisan_byzantine=Artesano
+villager.patriarch_byzantine=Patriarca
+villager.lumberman_byzantine=Leñador
+villager.shepherd_byzantine=Pastor
+villager.shepherd_female_byzantine=Pastora
+villager.fisherman_byzantine=Pescador
+villager.baron_byzantine=Barón
+villager.richwife_byzantine=Mujer Rica
+villager.merchant_norman=Comerciante Normando
+villager.merchant_hindi=Comerciante Hindú
+villager.merchant_mayan=Comerciante Maya
+villager.merchant_japanese=Comerciante Japonés
+villager.centurio_byzantine=Centurión
+villager.soldier_byzantine=Soldado
+villager.playersoldier_byzantine=Soldado
+villager.smith_byzantine=Herrero
+villager.merchant_byzantine=Mercader
+villager.pastor_byzantine=Pastor
+villager.artwife_byzantine=Esposa del Artesano
+villager.architect_byzantine=Arquitecto
+villager.silkfarmer_byzantine=Tejedor de Seda
+villager.silkfarmerwife_byzantine=Tejedora de Seda
+villager.armysmith_byzantine=Armero
+
+villager.smuggler_silk=Mercader de Seda
+villager.merchant_art=Mercader de Arte
+villager.merchant_food=Mercader de Comida
+villager.merchant_materials=Mercader de Piedra
+
+villager.keeperOak_byzantine=Guardia
+villager.keeperBirch_byzantine=Guardia
+villager.keeperTropical_byzantine=Guardia
+villager.keeperPine_byzantine=Guardia
+villager.loneshepherd_byzantine=Pastor
+villager.loneshepherdf_byzantine=Pastora
+villager.keeper_byzantine=Guardia del Faro
+
+shop.townhall=Tienda Central
+shop.forge=Herramientas
+shop.armyforge=Herramientas, Armas y Armaduras
+shop.lonetower=Comida
+shop.tavernbyz=Vino
+shop.lonesheep=Lana
+shop.bakery=Panadería
+shop.fishery=Pez
+shop.sheepfarm=Cordero, Cuero y Feta
+shop.clothing=Ropa

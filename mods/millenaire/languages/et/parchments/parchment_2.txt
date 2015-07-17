@@ -1,0 +1,58 @@
+﻿version:1.1.4 
+Millénaire: Normannide ehitised 
+
+Küla keskväljakud 
+
+Loss. Sõjalistes külades, see väike puidust kindlus on nagu küla raekoda. Rüütel ja tema naine elavad seal. Piisav juurdepääs kivile, muutub küla sõjakindluseks. 
+
+Abbaye : Klooster. Vaimulikud külad on keskendunud õppele ja on pühendunud, seal munk kirjutab väsimatult käsikirju, neid hoitakse kenades raamaturiiulites. On seal ju kohalikud talunikud lähevad maksma oma tänu - kaupade ja tasuta töö eest Pühas kirikus. See kõik tasutakse tagasi järgmises elus. 
+
+Manoir : Mõis. Põllumajandus külade keskel, on kiltri hoone,hoolitseb et talupojad maksavad oma maksud mõisniku juurde ja temale ka. 
+
+Hall de la Guilde : Gildi maja. Testament oskustöölistele kes selle ehitasid, käesolev gild maja toimib peakorterina kohalike käsitöömeistritele kes teenivad Gildi isanda all. 
+NEW_PAGE 
+Elamispind 
+
+Armurerie : Relvistu. Kui on asustatud sepa poolt, toimib see rüüde ja mõõkade valmistajana. 
+
+Elevage Bovin : Veise farm. Kasvatatakse lehmi, et saada nahka ja piima. Normannide pump. 
+
+Elevage Porcin : Sigala. Siin sead on muutunud suurteks hunnikuteks karbonaadtideks ja suurepäraseks Elevage Porcin-deks. 
+
+Elevage Ovin : Lamba farm. Lambaid kasvatatakse seal villa saamiseks. Väiksemal tarastatud alal on kanad, kelle mune ja sulgi korjatakse. 
+
+Ferme : Farm. Teravilja farm, kus talunik toodab teravilja pagariäri jaoks. 
+
+Forge :  Sepikoda. Kui on asustatud toimib see tootmis keskusena Normannnide töövahenditele, saavad kasutada ka teised külaelanikud ja müüb ka mängijale. 
+
+Maison du garde : Vahimaja. Asustatud valvuri ta tema naise poolt. 
+
+Hutte du bûcheron: Puuraiduri hütt. Asustatud puuraiduri ja tema naise poolt. 
+
+Prestitèrer : Pihi kamber. Asustatud preestri poolt. 
+
+Carrière : Kaevandus. Asustatud kaevuri ja tema naisepoolt, ja kust ta kaevab näiliselt lõpmatut olevaid kivive ja liiva kuhjasid. 
+
+Maison du charpentier : Puusepa maja. Asustatud puusepa ja tema naisepoolt. 
+
+Auberge : Võõrastenaja. Külastavad kaupmehed, hõivavad koha, kui nad koguvad ressurse külast. Kui see on tühi, siis teismeline poiss võib saada kaupmees. 
+
+Relais : Külalistemaja. Väiksem kui võõrastemaja, see koht majutab külalis kaupmeest, aga ükski teismeline ei hõiva seda kohta. 
+
+Marché : Turg. Iga korralik küla lõppkokkuvõttes tahab kohta kus välis kaupmehed saavad tulla eksootilisi kaupu müüma! 
+NEW_PAGE 
+Asustamatta Ehitised 
+
+Archives du village : Linnaarhiiv. Näitab märki iga külaelaniku kohta, mis annab teavet, mida nad teevad ja nende perekonna ajalugu. 
+
+Boulangerie : Pagarikoda. Kasutatud küla naise poolt, et teha leiba, teraviljast mis on korjatud külaelanike poolt. Oluline hoone, leiva olemasolul suurendab laste kasvu kiirust. 
+
+Chapelle / Eglise : Kabel / Kirik. Kabel hiljem uuendatakse kirikuks, külastavad külaelanikud, kes tunnevad vajadust palvetada. 
+
+Taverne : Kõrts.Küla naine toodab siidrit, ja hiljem, kui alembic on paigaldatud siis ka calva. Külaelanik jäheb sinna ka jooma. 
+
+Tour de guet : Vahitornn. Vaatlus punkt patrulliva sõduri poolt. 
+NEW_PAGE 
+Dekoratiiv ehitised 
+
+Fontaine / Grande Fontaine / Puit. Purskkaev / Suur purskkaev /Kaev : pelgalt dekoratiivsed hooned.

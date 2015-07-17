@@ -1,0 +1,42 @@
+version:1.1.4
+Millénaire: Edificos hindúes
+
+Centros de aldea
+
+Mukhiya ka Ghar : Casa del jefe. Esta casa de ladrillos sirve de hogar para el jefe y su esposa, así como centro de la aldea. Los numerosos cofres son utilizados para recolectar las generosas "constribuciones" de los aldeanos.
+
+Qila : Fuerte. Esta pequeña torre puede ser convertida en una poderosa fortaleza por el General Rajput que vive en ella. Ayuda a controlar el área circundante y a centralizar las propiedades de los campesinos.
+NEW_PAGE
+Viviendas
+
+Kisan ka Ghar : Casa de campesino. Un edificio simple construido con ladrillos, esta modesta casa puede expandirse para acomodar un corral de pollos y una terraza para descanso y relajación.
+
+Lakarhara ka Ghar : Cabaña de leñador. Hecha a partir de madera, y luego mejorada con ladrillos cocidos, esta casa sólo se puede volver más bonita con el tiempo.
+
+Sikaar : Cantera. Un hoyo simple que ha sido cavado hasta la capa de piedra. Es aquí donde el minero extrae piedra y arenisca para la aldea.
+
+Bhati : Forja. Las herramientas usadas en la aldea son fabricadas aquí por el herrero; su yunque está tan cerca de su corazón como su esposa.
+
+Sena ka Bhati : Forja militar. La armería, construida a partir de arenisca, contiene a ambos, las espadas y armaduras y al herrero.
+
+Muurtikaar ka Ghar :  Casa de escultor. Esta pequeña casa tiene un taller acoplado en el que el escultor trasnforma roca y arenisca en estatuas de dioses hindúes.
+
+Sainik ka Ghar : Casa de soldado. Hecha de piedra sólida, esta casa de campo está habitada por un fiero guerrero Rajput y a su esposa.
+
+Pandit ka Ghar : Casa de sacerdote. Esta hermosa casa, más elaborada que la casa de los campesinos, alberga a un sacerdote y a su esposa, cada uno más inútil que el otro.
+NEW_PAGE
+Edificios sin habitantes:
+
+Inta bhatta : Kiln de ladrillos. Este edificio es esencial para las aldeas hindúes. Aquí, los ladrillos son preparados, ya sea dejando que se sequen al sol o, luego de añadir un horno, cocerlos
+
+Kunja : Arboleda. Cuidadosamente mantenida por el leñador, la arboleda sirve como la principal fuente de madera de la aldea. El rico suelo y el cuidado exhaustivo del leñador hacen que los árboles crezcan con mayor velocidad de la normal.
+
+Puraalekhagar : Archivos del templo. Aquí es donde el sacerdote y sus esposa guardan todos los secretos y chismes de los demás aldeanos.
+
+Dhaan : Arrozal. Arroz, una materia prima esencial - ¿qué cocina de alta calidad no envuelve arroz?
+
+Masaalaa udyaana : Jardín de especias. Aquí la cúrcuma crece sin problemas con el cuidado de las campesinas - sin ellas, la comida de la aldea sería muy desabrida!
+
+Gannaa baagaana : Plantación de azúcar. No puedes hacer buenas rasgullas sin azúcar, y no hay ninguna expresión de afecto mejor entre los aldeanos.
+
+Gaanv ka Mandir :  Templo de la aldea. Éste hermoso edificio es la demostración de la fe y la piedad de los aldeanos, o probablemente de la influencia que ejerce el sacerdote sobre ellos. Tres estatuas fabricadas por el escultor local adornan el fino templo.

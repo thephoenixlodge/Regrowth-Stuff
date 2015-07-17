@@ -1,0 +1,57 @@
+﻿Millénaire: Edificios normandos
+
+Centros de aldea
+
+Fuerte. En pueblos militares, este pequeño fuerte de madera reemplaza al ayuntamiento. Un caballero y su dama viven aquí. Con suficiente acceso a piedra, los aldeanos lo convertirán en una poderosa fortaleza.
+
+Abbaye : Abadía. Los pueblos eclesiásticos están centrados alrededor de este lugar de aprendizaje y devoción, donde un monje, sin descanso, produce manuscritos, guardados en bonitas estanterías. Es ahí, después de todo, donde los aldeanos pagan su deuda - en bienes y servicios - a la Santa Iglesia. Todo será devuelto en la otra vida.
+
+Manoir : Finca. En el centro de las aldeas agrícolas, esta finca hospeda a un senescal, a cargo de asegurarse que los aldeanos paguen impuestos al rey - y a él mismo.
+
+Hall de la Guilde : Casa gremial. Un testamento de las habilidades de los trabajadores que la construyeron, esta casa gremial sirve como sede para los artesanos locales bajo la mano dura del Maestro gremial.
+NEW_PAGE
+Viviendas
+
+Armurerie : Armería. Cuando está habitada por un herrero, sirve como un centro de producción de armas y armaduras.
+
+Elevage Bovin : Finca ganadera. Aquí se crian vacas, para recolectar cuero y llenar las tripas normandas.
+
+Elevage Porcin : Granja de cerdos. Aquí los cerdos son convertidos en grandes pilas de chuleta de cerdo y espléndido boudin noir.
+
+Elevage Ovin : Granja de ovejas. Las ovejas criadas aquí proveen lana. Un área cercada más pequeña acoge pollos, de los cuales se extraen huevos y plumas.
+
+Ferme : Granja. Una granja de trigo, en donde un granjero produce trigo para la panadería.
+
+Forge :  Herrería. Cuando es habitada por un herrero, sirve como centro de producción de herramientas normandas, usadas por otros aldeanos y comprables por el jugador.
+
+Maison du garde : Casa de guardia. Habitada por el guardia y su esposa.
+
+Hutte du bûcheron : Cabaña de leñador. Habitada por un leñador y su esposa.
+
+Prestitère : Presbiterio. Habitado por un sacerdorte.
+
+Carrière : Cantera. Habitada por un minero y su esposa, y en la que cava suministros de piedra y arena aparentemente infinitos.
+
+Maison du charpentier : Casa de carpintero. Habitado por un carpintero y su esposa.
+
+Auberge : Posada. Los mercaderes que estén de visita la hospedarán mientras recolectan bienes de la aldea. Si está vacía, un adolescente varón puede convertirse en mercader allí.
+
+Relais : Casa de huéspedes. Más pequeña que una posada, este lugar puede albergar un mercader de visita, pero ningún adolescente se mudará a ella.
+
+Marché : Mercado. ¡Cualquier aldea decente querrá eventualmente un lugar en donde mercaderes extranjeros puedan venir y vender sus exóticos productos!
+NEW_PAGE
+Edificios sin habitantes
+
+Archives du village : Archivos municipales. Muestra un letrero por cada habitante, que provee información sobre qué está haciendo y sobre su historial familiar.
+
+Boulangerie : Panadería. Es usada por las aldeanas para hacer pan proveniente del trigo que recolectan los granjeros. Edificio importante, pues el pan tiene la habilidad de acelerar la velocidad con la que los niños crecen.
+
+Chapelle / Eglise : Capilla / Iglesia. La capilla, luego mejorada a una iglesia, es visitada por los aldeanos que necesiten rezar.
+
+Taverne : Taberna. Las aldeanas van allí para producir sidra, y luego, cuando es instalado un alambique, calva. Los aldeanos también van allí a beber algo.
+
+Tour de guet : Torre de guardia.  Un puesto de vigilancia del guardia que utiliza para patrullar.
+NEW_PAGE
+Edificios decorativos
+
+Fontaine / Grande Fontaine. Fuente / Fuente grande : edificios meramente decorativos.

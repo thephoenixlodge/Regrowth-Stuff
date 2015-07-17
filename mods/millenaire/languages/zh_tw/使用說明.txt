@@ -1,0 +1,16 @@
+首先請事先到官方下載村莊模組(millenaire)
+確認模組可以運作之後再接著執行以下動作:
+
+到mods資料夾的millenaire資料夾裡
+用本人提供的languages資料夾將原本的languages資料夾覆蓋掉
+
+接著在minecraft繁體中文語系裡,你就可以遊玩我翻譯過的村莊模組了!
+
+
+附上村莊模組官網 : http://millenaire.org/#
+
+
+
+以上,翻譯師  轄  敬上
+
+祝您遊戲愉快!

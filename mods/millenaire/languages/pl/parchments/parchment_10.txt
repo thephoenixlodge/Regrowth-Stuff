@@ -1,0 +1,67 @@
+version:1.1.4
+Millénaire: Budynki Majow
+
+Centra wiosek
+
+Muul : Piramidy. Majowie znali wiele rodzajow piramid - od prostych schodkowych, do wielkich platform.
+
+K'uhul Jalab : Swiete boisko. Uprawiano tu niezwykle brutalny sport. Byla to dyscyplina nieco podobna do pilki noznej, rozgrywajaca sie na podobnej wielkosci boisku. Nalezalo przerzuc pilke przez obrecz wiszaca kilka metrow nad ziemia bez uzycia dloni i stop. Jedna z druzyn bywala czesto skladana w ofierze.
+
+Kan Cha'an : Obserwatorium. Obserwatoria byly niesamowitymi budowlami, w ktorych uczeni poznawali tajniki ruchu planet i gwiazd. Dzieki temu, Majowie byli w stanie wypracowac wlasny kalendarz i system miary czasu. Potrafili rowniez przewidywac zacmienia Slonca i Ksiezyca.  
+NEW_PAGE
+Domy
+
+Maya Otoch : Dom Majow. Poczatkowo to proste budynki z blota, drewna i kamienia. Wraz z rozwojem wiosek, domy te byly ulepszane i upiekszane.
+
+B'aat Winik Nah : Chata drwala. Mieszkaja w nim drwale, ktorzy zaopatruja cala wioske w drewno.
+
+Tunich In-ti'a'al : Kamieniolom. Wraz z rozwojem wiosek, zauzywaly one niesamowite ilosci kamienia. Wydobywano go z plytkich kamieniolomow nieopodal wiosek.
+
+Kob Took : Warsztat. Mieszkal i pracowal tam rzemieslnik. Oprocz pomieszczen, znajduja sie tutaj tez rozne przedmioty, z ktorych rzemieslnik wytwarzal rozne przedmioty codziennego uzytku.
+
+Ah Tz'on Si' Took : Kuznia wojenna. Wytwarzano i przechowywano tu bron i uzbrojenie, potrzebne zarowno w czasie wojny, jak i na polowaniu.
+
+Uxul Otoch :  Dom rzezbiarza. Mieszka tu wioskowy rzezbiarz. Oprocz niego, mieszkaja tu najczesciej tez materialy, w ktorych rzezbi.
+
+Maize Makan : Uprawa kukurydzy. Kukurydza, ktora zbudowala cywilizacje Majow, byla uprawiana na kazdym mozliwym skrawku ziemi. Wraz z rozwojem miast i wzrostem liczby ludnosci, potrzebowano coraz wiecej kukurydzy do wykarmienia ludzi.
+
+Ah Kax Makan : Hodowla kur. Majowie hodowali kury na mieso, ktore stanowilo farsz w ich slynnych daniach.
+
+Chanan Nah : Dom straznika. Wojownicy najczesciej byli powolywani na czas zagrozenia, a poza nim zajmowali sie tez inna praca, czesc z nich jednak poswiecala swoje zycie tylko walce. W ich domach mozna znalezc wiele trofeow swiadczacych o ich wojennych osiagnieciach.
+
+Ah Waay Su'uk : Teren szamana. Dom szamana i jego zony. Najczesciej przyozdobiony symbolami religijnymi.
+
+K'as Koloh-che'/K'as Otoch: Domy/posterunki bandytow. Mieszkaja tu banici z majanskich wiosek. Najczesciej to jedna lub dwie chaty, jednak czasami wygnani Majowie odbudowywali znalezione przez siebie ruiny. Zaleca sie unikania tych rejonow, gdyz ludzie ci nie szanuja zycia innych.
+NEW_PAGE
+
+Niezamieszkane budynki:
+
+Jalab : Boisko do gry w pilke. Majowie grali tu w gre. Najczesciej az do smierci. Wiazalo sie to tez z wierzeniami religijnymi. Prawie kazde miasto mialo boisko do gry w pilke, zwanej Pok-A-Tok.
+
+K'aax : Gaj. Stad drwale pozyskuja drewno. Czesto zdarzalo sie, ze rosnaca wioska karczowala caly las wokol siebie, i ze wzgledu na brak tego surowca, ludnosc musiala migrowac w inne miejsce.
+
+Hu'um-Noh : Biblioteka. Byly to proste budowle, w ktorych przechowywano informacje o najwazniejszych zdarzeniach i osobach z wioski.
+
+K'u-nah :  Swiatynia. Sztuka wznoszenia swiatyn byla bardzo rowinieta. Wiazaly sie nie tylko z kultem, ale rowniez stanowily dom dla kaplanow.
+
+K'eyem : Oltarz. Skladano na nim ofiary ze zwierzat i ludzi. Przy okazji waznych wydarzen splywaly one krwia z wyrywanych, bijacych jeszcze, ludzkich serc.
+
+Chak : Piekarnia. Przyrzadzano tu pokarm dla wioski. Powstawaly tutaj najslynniejsze dania Majow.
+
+K'in Pak : Kalendarz. Starozytni Majowie potrafili stworzyc niezwykle precyzyjny kalendarz. Uzywa on jednoczesnie trzech roznych systemow, Dlugiego Liczenia, Tzolkina (boski kalendarz), i Haab (ludzki kalendarz). Tylko Haab jest bezposrednio zwiazany z dlugoscia astronomicznego roku.
+
+Ch'en : Jaskinia. Bardzo tajemnicza.
+
+Pwes : Zbiornik. Podobny do studni, uzywany do gromadzenia deszczowki. Wioski Majow czesto uzywaly deszczowki do zaspokajania najbardziej podstawowych potrzeb.
+
+Laak' Otoch / Laak'Noh : Karczmy i tawerny. Puste budynki, w ktorych odpoczywaly wedrujace druzyny Pok-A-Tok.
+
+Cha'an Ka'nal : Wieza straznicza. Dzieki nim widziano teren poza dzungla. Dzieki nim mozna bylo wypatrzec zarowno dym, zwierzyne lowna, lub oddzialy wroga.
+
+Hach Noh Otoch / Hach Noh Nah / Yalam Otoch / Ni'Nah : Bardzo duzy dom / Maly dom / Domostwo. Gdy zaczynalo brakowac przestrzeni w wiosce, Majowie dzielili pokoje i domy. Podobno mozna znalezc skarby w ruinach tego typu.
+
+Sa'at Maya Maize Makan: Opuszczona uprawa kukurydzy. Majowie opuszczali swe domy z roznych powodow. Czasem nie zdazyli nawet zabrac ze soba swoich rzeczy. Jezeli natkniesz sie na porzucona uprawe, sprawdz, czy nie ma gdzies kukurydzy, ktora moglbys sobie wziac.
+
+Sa'at Maya Otoch: Opuszczony dom. Zazwyczaj to ruina, opuszczona wiele lat temu. Mozesz sie tu wprowadzic, jezeli troche go odbudujesz.
+
+Sa'at Tunich In-ti'a'al: Opuszczony kamieniolom. Prawdopodobnie od niepamietnych lat stoi pusty. Jest to o tyle dziwne, ze nadal jest w nim sporo kamienia do wydobycia. 

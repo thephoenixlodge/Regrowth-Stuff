@@ -1,0 +1,64 @@
+villager.greeting=Xaire, $name! / $name 님! 안녕하십니까?
+villager.greeting=Omorfi mera, etsi den einai? / 참 좋은 날이에요. 그렇지 않나요?
+villager.greeting=Tha brexei. Syntoma.  / 곧 비가 올것 같아요.
+villager.greeting=Kamia polh ston kosmo den sygrinete me thn Kwnstantinoupolh./ 콘스탄티노플과 비교할 수 있는 도시는 세계 어디에도 없다네.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / 우리는 그리스인이 아니라, 로마인입니다.
+villager.greeting=Eimaste oi Byzantinoi oi teleutaioi alhthinoi Romaioi. Ypoklitheite sthn doxa tou politismou mass. / 우리 비잔틴인들은 마지막 로마인들이라네. 우리의 영광스러운 문명을 보게나.
+villager.GoPlay=Mallon tha paixw exw. / 밖에 나가 놀고 싶어요.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / 저는 지쳤어요.. 자고 싶어요..
+villager.makeBread=To psomi myrizei idi wraia. / 굽고있는 빵이 이미 향이 좋네요.
+villager.gorest=Mallon oti tha pao gia ypno. / 곧 자야할것 같아요.
+villager.BecomeAdult=Telika egina enas romaios poliths! / 드디어! 나는 로마 시민이 되었다!
+villager.calltoarms=H Romaikh Autokratoria dexete epithesh! Sta opla! / 로마 제국이 공격당한다, 어서 무장해!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / 밖에 나가 놀고 싶어요.
+
+architect_byzantine.construction=Xtizw toso peritexna xtismata. Eimai enas alhthinos kallitexnhs. / 저는 제가봐도 멋진 건축물을 지어요.
+architect_byzantine.construction=O arxitektonas mas den sigrinetai me kanena allo. / 우리의 건축기술은 그 누구와도 비교할 수 없습니다.
+artisan_byzantine.greeting=H zwh mou einai poly kalyterh apo kapion allwn anthrwpwn edw. / 여기서의 나의 인생은 다른 사람들보다 좋아요!
+artisan_byzantine.makePainting=H Romaikh texnh einai h pio exeligmenh ston kosmo. / 로마 미술은 세계에서 가장 진보되었답니다.
+
+merchant_art.greeting=Kamia polh ston kosmo den sygrinetai me thn Kwnstantinoupolh. / 콘스탄티노플과 비교할 수 있는 도시는 세계 어디에도 없다네.
+merchant_art.greeting=	Emeis oi Byzantinoi eimaste oi teleutaioi alh8inoi Romaioi. / 우리 비잔틴인들은 마지막 로마인들이라네.
+
+smith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / 비잔틴 도구는 세계 최고입니다.
+armysmith_byzantine.MakeIndianTools=Ta Byzantina ergaleia einai ta kalytera ston kosmo. / 비잔틴 도구는 세계 최고입니다.
+armysmith_byzantine.MakeByzantineMace=Mhn prospatheis na katapolemhseis enan oplismeno andra. / 내가 무장시킨 사람을 공격하려 하지 말게.
+
+wife_byzantine.greeting=To kathikon mas einai na elegxoume tous andres. / 우리의 사람들을 통제하는게 필요해요
+wife_byzantine.greeting=An eisai gynaika dn mporeis na kaneis kai polla edw... / 여자로써 당신은 여기서 그러면 안됩니다..
+wife_byzantine.getGoodsHousehold=Nomizw einai wra na frontisw gia thn kathariothta tou spitiou. / 집을 돌볼 시간입니다.
+wife_byzantine.DeliverGoodsHousehold=Pragmata opws auto einai ta mona pou mporw na kanw. / 여기서 할 수 있는 일은 이게 전부에요.
+wife_byzantine.GetHouseTHResources=Epitelous o syzygos mou metefere ta agatha opws tou eipa. / 나의 남편은 드디어 자원을 가져왔습니다.
+wife_byzantine.cooking=H mageirikh einai poly diaskedastikh. / 요리는 진짜 재밌어요!
+
+miner_byzantine.Mining=Gia na kaneis aythn thn douleia h dynamh kai h antoxh einai aparaithta. Kaneis omws den to katalabainei... / 이 직업을 하려면 충분히 힘이 세야 합니다. 그런데 아무도 알아듣지를 않네요..
+miner_byzantine.Mining=Eimai perifanos pou eimai Romaios katoikos kai pou douleyw gia thn aytokratoria , an kai einai dyskolh douleia. / 로마인으로써 로마 제국을 위해 이런 힘든 일을 하는 것은 매우 자랑스럽니다.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / 제 책은 최고의 원고중 하나입니다.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera xeirografa ekei exo. / 제 책은 최고의 원고중 하나입니다.
+
+lumberman_byzantine.BringBackResourcesHome=H gynaika mou prepei na einai perhfanh me olo to xilo pou efera . / 내가 가져온 나무를 보면 아내가 기뻐할 거야.
+lumberman_byzantine.ChopTrees=Kathe ktirio edw xreiazete xilo, h apokthsh tou einai douleia mou! /여기 있는 모든 건축물은 나무를 사용합니다. 건축물에 쓰일 나무를 캐는게 제 직업입니다!
+lumberman_byzantine.GatherGoods=Polu wraio dentryllio. / Nice sapling over there.
+lumberman_byzantine.PlantSaplings=Syntoma tha ginei ena megalo, panemorfo dentro! Kai tha to kopsw.  / 이 나무가 크게 자라면 베어내는것이 제 일입니다.
+
+keeperBirch_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / 이런게 여기 게시되다니, 다들 어떻게 생각할까..
+keeperBirch_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / 여기는 너무 지루해.. 아무일도 안 일어나..
+keeperBirch_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / 여행자님 안녕하세요. 머나먼 곳에서 무슨일이 있었을까 상상이 되네요.
+
+
+keeperOak_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / 이런게 여기 게시되다니, 다들 어떻게 생각할까..
+keeperOak_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / 여기는 너무 지루해.. 아무일도 안 일어나..
+keeperOak_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / 여행자님 안녕하세요. 머나먼 곳에서 무슨일이 있었을까 상상이 되네요.
+keeperOak_byzantine.greeting=Aftoi oi anthrwpoi, autoapokalountai "Normans", moy thimyzoun thn xakousth autokratotria mas. / 자신들을 노르만인이라 부르는 이 자들은 우리의 영광스러운 제국을 다시 생각하게 될 거라네.
+
+keeperPine_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / 이런게 여기 게시되다니, 다들 어떻게 생각할까..
+keeperPine_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / 여기는 너무 지루해.. 아무일도 안 일어나..
+keeperPine_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / 여행자님 안녕하세요. 머나먼 곳에서 무슨일이 있었을까 상상이 되네요.
+keeperPine_byzantine.greeting=Afto to kryo einai tsouxtero. Den anarwtiemai pou den yparxei kaneis edw... / 이 감기는 최악이야. 이러니 주변에 아무도 없지.
+
+keeperTropical_byzantine.greeting=Pws skeftike kapios oti mporei na brei ergasia edw... / 이런게 여기 게시되다니, 다들 어떻게 생각할까..
+keeperTropical_byzantine.greeting=Einai toso bareta edw, den symvainei sxedon tipota... / 여기는 너무 지루해.. 아무일도 안 일어나..
+keeperTropical_byzantine.greeting=Kalhspera taxideuth, anarwtiemai pws irthes ews edw. / 여행자님 안녕하세요. 머나먼 곳에서 무슨일이 있었을까 상상이 되네요.
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den borw na katalavo giati aftoi 'Hindi' zoun se afth th gh. / 여기는 너무 더워. 왜 인도 사람들이 여기 사는지 모르겠어.
+keeperTropical_byzantine.greeting=Exeis dei pote aftous tous periergous tous 'Maya' ? Ta ktiria tous moiazoun san na einai etoima na katareusoun. / 이상한 마야인들에 대해 들어본적 있니? 마야인들 건물은 몇초마다 무너질거 같아!

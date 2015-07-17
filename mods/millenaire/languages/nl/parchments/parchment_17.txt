@@ -1,0 +1,55 @@
+version:4.8.0
+Millénaire: Japanse gebouwen
+
+Dorpscentra   
+
+Shuudannoujou: Grote boerderij. Centrum van landbouwdorpen. De dorpelingen brengen hier voedsel hout en steen naartoe.
+
+Bousai: Fort. Dit gebouw huist de Shuken en zijn vrouw. Wordt uitgebreid tot een machtig fort met wachttorens.
+
+Kumonjo: Imperieel kantoor. De Japanners bouwden zulke kantoren vaak als dorpscentrum. Hier woont de leider met zijn vrouw en kijkt dag en nacht over het dorp. Hier worden bouwplannen gemaakt en aanzoeken gedaan.
+
+Tsukurizakaya: Sake brouwerij. Dit complexe gebouw is toegewezen aan het produceren van de beroemd sake uit rijst. De meesterbrouwer en zijn brouw werken hier en rond de brouwerij heeft zich een handelsdorp gevestigd.
+
+NEW_PAGE
+Huizen
+
+Shoko: Archieven. Dit gebouw bevat informative over elke dorpeling.
+
+Tansetsu: Legersmederij. Een Tansetsu kan alle Japanse pantsers en wapens maken. Ze kunnen het tachi zwaard en de dodelijke yumi bow maken. Ook maken ze varianten in Japanse pantsers. Er moet een man smid zijn voor de wapens en een vrouw om ze te verkopen.
+
+Tansetsu: Smederij. Dit gebouw is nodig voor de ijzeren werktuigen. De smid maakt hier de werktuigen die nodig zijn om het werk te versnellen. Ook kan de speler ze hier kopen.
+
+Shugi Ie: Vakmanshuis. Verkoopt papier gemaakt van rijst. En ook worden hier de papieren muren en hout frames gemaakt.
+
+Gyogyo and Tsuribori: Visserij. De visser spendeert zijn tijd rond dit gebouw in een poging vis te vangen.
+
+Kodachi: Park. De houthakker hakt hier de bomen om.
+
+Shijin: Herberg. Hier komen de handelaren rusten na een reis van een dorp. Ook worden hier alle objecten opgeslagen voor export.
+
+Daidokoro: Keuken. Hier wordt al het eten, waaronder Udon, gemaakt.
+
+Kikori Koya: Houthakkershut. Hier huizen de houthakker en zijn vrouw. De houthakker brengt hier het hout en zijn vrouw brengt het naar het dorpscentrum.
+
+Bourou: Uitkijktoren. De uitkijktoren is meer een decoratief gebouw. De uitkijktoren wordt gebruikt zodat de bewakers de vijand van veraf kunnen zien komen.
+
+Suiden: Rijstveld. De dorpelingen planten rijst in dit veld. Het wordt geoogst door de vrouwen en boeren. De speler kan rijst kopen in het dorpscentrum.
+
+Buttou : Pagode. Dit is waar de dorpelingen kunnen bidden en waar de souryo leeft.
+
+Noufu Ie: Boerenhuis. Dit is waar de boer en zijn vrouw wonen.
+
+Saisekijou: Steengroeve. De mijnwerker en zijn vrouw wonen hier. Steen dat wordt gedolven wordt naar het dorpscentrum vervoerd.
+
+Heisha: Bewakershuis. Hier woont de bewaker met zijn vrouw.
+
+Noujou Nojo: Graanboerderij. Hier woont de graanboer met zijn vrouw. Hij verzamelt en oogst graan hier.
+NEW_PAGE
+Decoratieve gebouwen
+
+Ike: Vijver. Een mooi gebouw om door te wandelen.
+
+Torii: Torri Poort. Een prachtige poortachtige structuur waar dorpelingen kunnen bidden.
+
+Soushi: Shinto altaar. Dit kleine altaar wordt door de dorpelingen gebruikt voor hun gebeden.

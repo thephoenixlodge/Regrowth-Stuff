@@ -1,0 +1,37 @@
+version:4.8.0
+<darkblue>Die Maya
+
+Die Yuctan der Maya zeichnen sich durch Ihre Stein Architektur mit goldener Verzierung aus. Sie leben in landwirtschaftlichen, religiösen und militärischen Dörfern. Sie sprechen Maya, aber der Dialog wird übersetzt, wenn der Spieler die Sprache gelernt hat, indem er sich mit den Maya unterhält.
+
+Die Maya produzieren viele einzigartige Gegenstände.
+
+
+
+<darkblue>Einzigartige Objekte und Blöcke:
+
+<darkblue>Mais 
+<black>Sie bauen Mais an. Der Spieler kann den Dorfältesten bitten, ihm beizubringen, dieses Getreide zu kultivieren.
+
+<darkblue>Wah und Masa 
+<black>Sie kochen Wah und Masas aus Meis und Hühnchen - leckere, gefüllte Tortillas.
+
+<darkblue>Kakao und Cacauhaa 
+<black>Sie züchten Kakao und bereiten Cacauhaa aus ihm zu, ein belebendes Kakaogetränk.
+
+<darkblue>Obsidian Waffen und Werkzeuge 
+<black>Der Obsidian Fachmann produziert Waffen und Werkzeuge, welche sehr zerbrechlich sind, aber mühelos verzaubert werden können.
+
+<darkblue>Golddekor
+<black>Ihre Handwerker machen dekorative Blöcke (Golddekor) aus Goldbarren, die der Spieler liefert.
+
+<darkblue>Basreliefs 
+<black>Sie schnitzen Basreliefs zu Ehren Ihrer Maya Gottheiten.
+
+
+
+
+<darkblue>Besondere Rezepte:
+
+Drei Mais in einer Linie ergeben einen Wah (eine Art Tortilla).
+
+Zwei Mais in einer Linie mit einem Hühnchen in der Mitte ergeben ein Masa (Eine Tortilla mit Hühnchen).

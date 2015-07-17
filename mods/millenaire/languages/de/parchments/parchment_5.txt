@@ -1,0 +1,60 @@
+version:1.1.4
+Millénaire: Indische Bewohner
+
+<darkred>Dorfvorsteher:
+
+<darkblue>Gaanv ka Mukhiya: Dorfoberhaupt
+Dieser reiche Mann beschäftigt die Mehrheit des Dorfes und besitzt das meiste Land, somit fällt es ihm nicht schwer zum Anführe "gewählt" zu werden.
+
+<darkblue>Raja: König
+Wohnt mit seiner Frau in einem großen Mahal umgeben von seinen treuen Untertanen. Er hält sich selbst für gottgleich und muss den größten und eindrucksvollsten Palast haben, sehr zum Leidwesen derer die ihn bauen müssen.
+
+<darkblue>Rajput Senapati: General der Rajput
+Er ist der Chef des Militärs und entstammt einer vornehmen und langen Linie von Rajput Kriegern. Von seinem Sichern Fort aus, überwacht er die Verteidigung des Dorfes. Sein Fort kann in eine gewaltige Festung ausgebaut werden, wenn die Dorfbewohner genug Baumaterial ranschaffen und fleißig daran arbeiten.
+
+NEW_PAGE
+<darkred>Frauen:
+
+<darkblue>Mahilaa kisaana: Bäuerin
+Diese Frauen aus der niederen Kaste führen schwierige und undankbare Aufgaben aus. Sie bestellen die Felder, liefern Essen und Werkzeuge und interagieren mit den Spielern. Ohne sie käme das Dorf schnell zum Erliegen.
+
+<darkblue>Malkin: Reiche Frauen
+Ihre goldbesticken Saris werden nur von ihrer Abneigung gegenüber Arbeit übertroffen.
+NEW_PAGE
+<darkred>Männer:
+
+<darkblue>Kisaan: Bauer
+Diese armen Männer träumen von einer eigenen Hühnerzucht, aber fürs erste müssen sie Gebäude bauen, Ziegel produzieren und mit ihren Frauen zusammen die Felder bestellen.
+
+<darkblue>Lakarhara: Holzfäller
+Diese kräftigen Männer mit ihren beindruckenden Bärten, sind für die Haine zuständig.
+
+<darkblue>Khanik: Bergarbeiter
+Diese Männer verbringen ihre Tage im Steinbruch, wo sie ihrer zermürbenden Knochenarbeit nachgehen. Im Gegensatz zu ihren Normannischen Kollegen haben sie aber nicht die Freude eines Tavernen Besuchs am Ende eines harten Tages.
+
+<darkblue>Rajput Sainik: Rajput Soldat
+Diese Männer wurden als Soldaten aufgezogen, sie lernen seit frühster Kindheit zu kämpfen. Ihre Aufgabe ist es das Dorf zu verteidigen. Also Vorsicht, sie nehmen ihren Job sehr ernst.
+
+<darkblue>Loohaar: Schmied
+Dieser Beruf mag nicht der glanzvollste sein, aber was wären die Dorfbewohner ohne ihre Werkzeuge?
+
+<darkblue>Sena ka Loohaar: Waffenschmied
+Der Waffenschmied ist auf das Schmieden von Waffen und Rüstung spezialisiert; schwere Arbeit, aber weit aus ertragreicher als Werkzeuge zu schmieden.
+
+<darkblue>Muurtikaar: Bildhauer
+Als Künstler und Handwerker in einem, haben sie die große Ehre die Statuen herzustellend die den großen Tempel schmücken.
+
+<darkblue>Pandit: Priester
+In der Brahminkaste geboren dienen diese weisen Männer ihren Mitbürgern als Priester. Ihr endloses Wissen über Sanskrit Hymen ist genauso endlos wie ihre Abneigung gegenüber körperlicher Arbeit.
+
+<darkblue>Vyapari: Händler
+Dieser Männer bringen Waren von Ihrem Dorf in ein anders zum Tauschen. Sie müssen meist durch die raue Wüste reisen um ihr Ziel zu erreichen, nur um dort gesagt zu bekommen das sie zurück müssen um mehr Waren zu holen.
+
+NEW_PAGE
+<darkred>Kinder:
+
+<darkblue>Larki / Larka: Mädchen / Junge
+Leben mit ihren Eltern bis sie zu Jugendlichen werden.
+
+<darkblue>Kishori / Kishor : Jugendliche / Jugendlicher
+Noch jung, aber alt genug einen eigenen Haushalt zu leiten und einen Beruf auszuüben, sobald sie in ein Haus ziehen.

@@ -1,0 +1,43 @@
+//Norman buildings already have French names
+//This file's sole purpose is to "block" an eventual fallback language from showing
+
+abbey_A0=Kloster
+archives_A0=Arkiv
+armoury_A0=Arsenal
+bakery_A0=Bageri
+carpenterhouse_A0=Snickarhus
+cattlefarm_A0=Boskapsgard
+church_A0=Kapell
+church_A2=Kyrka
+farm_A0=Farm
+farm_B0=Farm
+forge_A0=Smedja
+fort_A0=Fort
+grove_A0=Skogsdunge
+grove_B0=Skogsdunge
+grove_C0=Skogsdunge
+guardhouse_A0=Vakthus
+guesthouse_A0=Gasthus
+guildhouse_A0=Skrahus
+inn_A0=Värdshus
+lumbermanhut_A0=Timmermanshus
+lumbermanhut_B0=Timmermanshus
+manor_A0=Gård
+market_A0=Marknad
+pigfarm_A0=Grisfarm
+playerestate_A0=Spelarens hus
+playerhugefield_A0=Spelarens mycket stora mark
+playerlargefield_A0=Spelarens stora mark
+playerlargehouse_A0=Spelarens stora hus
+playersmallfield_A0=Spelarens lilla mark
+playersmallhouse_A0=Spelarens lilla hus
+presbytery_A0=Prästhus
+quarry_A0=Stenbrott
+sheepchickenfarm_A0=Far- och kycklingfarm
+tavern_A0=Taverna
+townhall_A0=Stadshus
+townhallagricole_A0=Jordbruks stadshus
+watchtower_A0=Utkikstorn
+fountain_A0=Fontan
+largefountain_A0=Stor fontan
+well_A0=Brunn

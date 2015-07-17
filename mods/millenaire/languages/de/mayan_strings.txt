@@ -1,0 +1,52 @@
+culture.mayan=Maya
+
+villager.mayan_boy=Junge
+villager.mayan_girl=Mädchen
+villager.mayan_teenagerMale=Jugendlicher
+villager.mayan_teenagerFemale=Jugendliche
+villager.mayan_lumberman=Holzfäller
+villager.mayan_miner=Bergarbeiter
+villager.mayan_shaman=Schamane
+villager.mayan_peasant=Bauer
+villager.mayan_peasantwife=Bäuerin
+villager.mayan_leader=Operhaupt
+villager.mayan_richwoman=Königin
+villager.mayan_warrior=Krieger
+villager.mayan_chieftain=Häuptling
+villager.mayan_crafter=Handwerker
+villager.mayan_armysmith=Waffenschmied
+villager.mayan_sculptor=Bildhauer
+villager.mayan_shamanwife=Frau des Schamanen
+villager.mayan_king=König
+villager.mayan_merchant=Händler
+villager.mayan_chickenfarmer=Hühnchenzüchter
+villager.mayan_farmer=Mais Bauer
+villager.mayan_obsidiancrafter=Obsidianhandwerker
+villager.mayan_cocoafarmer=Kakaobauer
+
+villager.lonemayanfarmer=Einsamer Bauer
+villager.lonemayanpeasantwife=Frau des Bauers
+villager.lonemayanshaman=Schamane
+villager.lonemayanshamanwife=Frau des Schamanen
+villager.mayanbanditboy=Banditenjunge
+villager.mayanbanditwarrior=Bandit Krieger
+villager.mayanfemalebandit=Banditenmädchen
+
+villager.merchant_mayanfarmer=Handelnder Bauer
+villager.merchant_mayanhunter=Handelnder Jäger
+villager.merchant_mayanshaman=Handelnder Schamane
+
+villager.questfallenking=Gestürtzter König
+villager.questkingelitewarrior=Elite Krieger
+villager.questkinglieutnant=Leutnant
+villager.questkingscout=Späher
+villager.questkingwarrior=Krieger
+villager.questshaman=Schamane
+
+shop.mayantownhall=Dorfzentrum
+shop.mayancrafter=Werkzeuge
+shop.mayanarmyforge=Waffen & Rüstungen
+shop.mayansheepchickenfarm=Hühnchenzüchter
+shop.mayanobsidiancrafter=Obsidian Artikel
+shop.lonemayanfarm=Farm Produkte
+shop.mayancocoa=Kakao & Cacauhaa

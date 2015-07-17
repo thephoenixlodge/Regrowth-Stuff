@@ -1,0 +1,57 @@
+culture.byzantines=Byzantinischer
+
+villager.teenagerMale=Jugendlicher
+villager.teenagerFemale=Jugendliche
+villager.boy_byzantine=Junge
+villager.girl_byzantine=Mädchen
+villager.farmiller_byzantine=Müller
+villager.farmiller_wife_byzantine=Frau des Müllers
+villager.wife_byzantine=Frau
+villager.miner_byzantine=Bergarbeiter
+villager.artisan_byzantine=Handwerker
+villager.patriarch_byzantine=Patriarch
+villager.lumberman_byzantine=Holzfäller
+villager.shepherd_byzantine=Schafhüter
+villager.shepherd_female_byzantine=Schafhüterin
+villager.fisherman_byzantine=Angler
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Reiche Frau
+villager.merchant_norman=Normannischer Händler
+villager.merchant_hindi=Indischer Händler
+villager.merchant_mayan=Maya Händler
+villager.merchant_japanese=Japanischer Händler
+villager.centurio_byzantine=Centurio
+villager.soldier_byzantine=Soldat
+villager.playersoldier_byzantine=Soldatin
+villager.smith_byzantine=Schmied
+villager.merchant_byzantine=Händler
+villager.pastor_byzantine=Pfarrer
+villager.artwife_byzantine=Frau des Handwerkers
+villager.architect_byzantine=Architekt
+villager.silkfarmer_byzantine=Seidenweber
+villager.silkfarmerwife_byzantine=Seidenweberin
+villager.armysmith_byzantine=Rüstungsschmied
+
+villager.smuggler_silk=Seiden Händler
+villager.merchant_art=Kunst Händler
+villager.merchant_food=Lebensmittel Händler
+villager.merchant_materials=Stein Händler
+
+villager.keeperOak_byzantine=Wache
+villager.keeperBirch_byzantine=Wache
+villager.keeperTropical_byzantine=Wache
+villager.keeperPine_byzantine=Wache
+villager.loneshepherd_byzantine=Schafhüter
+villager.loneshepherdf_byzantine=Schafhüterin
+villager.keeper_byzantine=Lechtturm Wächter
+
+shop.townhall=Dorfzentrum
+shop.forge=Werkzeuge
+shop.armyforge=Werkzeuge, Waffen und Rüstungen
+shop.lonetower=Lebensmittel
+shop.tavernbyz=Wein
+shop.lonesheep=Wolle
+shop.bakery=Bäckerei
+shop.fishery=Angler
+shop.sheepfarm=Lammfleisch, Leder und Feta
+shop.clothing=Kleidung

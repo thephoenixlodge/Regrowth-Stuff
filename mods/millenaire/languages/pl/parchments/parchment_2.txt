@@ -1,0 +1,58 @@
+version:1.1.4
+Millénaire: Budynki Normanow
+
+Centra wiosek
+
+Fort. W osadach wojskowych, ten maly drewniany fort zastepuje ratusz. Rycerz i jego Pani zyja tam. Z wystarczajacym dostepem do kamienia wiesniacy zmienia go w potezna fortece.
+
+Abbaye : Klasztor. Koscielne wioski skupiaja sie wokol tego miejsca nauki i oddania Bogu, gdzie mnich niestrudzenie produkuje manuskrypty i gromadzi je na regalach. To tam wszyscy wiesniacy skladaja owoce swojej pracy - w dobrach i darmowej pracy dla swietego Kosciola. Nagroda za trud czekac bedzie w nastepnym swiecie.
+
+Manoir : Dwor. W centrum rolniczych wiosek stoi dworski dom namiestnika. Trzeba sie upewnic, ze wiesniacy placa swoje podatki krolowi i namiestnikowi. 
+
+Hall de la Guilde : Dom gildii. swiadectwo zdolnosci pracownikow, ktorzy go zbudowali. Ten dom sluzy jako kwatera glowna lokalnych rzemieslnikow pod kierunkiem mistrza gildii.
+NEW_PAGE
+Domy
+
+Armurerie : Zbrojownia. Gdy zamieszkany przez kowala, sluzy jako centrum produkcji zbroi i mieczy.
+
+Elevage Bovin : Farma bydla. Tu rosna krowy, zbierane sa skory i robione sa Normanskie flaczki.
+
+Elevage Porcin : Swinia farma. Tu swinie sa zamieniane w wielkie stosy wieprzowiny i znakomita pasztetowa.
+
+Elevage Ovin : Owcza farma. Owce chodowane tu dostarczaja welny. Mniejsza zagroda trzyma kurczaki, z ktorych mamy jajka i piora.
+
+Ferme : Farma. Farma zbozowa, gdzie farmer produkuje zboze dla piekarni.
+
+Forge :  Kuznia. Gdy zamieszkana przez kowala, sluzy jako centrum produkcji narzedzi Normanow, uzywane przez inne wioski i sprzedawane graczowi.
+
+Maison du garde : Straznica. Zamieszkana przez straznika i jego zone.
+
+Hutte du bûcheron : Chata drwala. Zamieszkana przez drwala i jego zone.
+
+Prestitère : Plebania. Zamieszkana przez ksiedza.
+
+Carrière : Kamieniolom. Zamieszkany przez gornika i jego zone. Gornik niestrudzenie bedzie wydobywal zapasy kamienia i piasku.
+
+Maison du charpentier : Warsztat ciesli. Zamieszkany przez ciesle i jego zone.
+
+Auberge : Zajazd. Odwiedzajacy handlarze beda tam nocowac podczas zdobywania surowcow dla wioski. Jesli jest pusty to nastoletni chlopiec moze w nim stac sie handlarzem.
+
+Relais : Dom goscinny. Mniejszy niz zajazd, to miejsce moze goscic odwiedzajacego handlarza, lecz w nim nie mozna stac sie handlarzem.
+
+Marché : Targ. Kazda przyzwoita wioska bedzie w koncu chciala miec miejsce, gdzie obcy handlarze moga przyjsc sprzedawac egzotyczne towary!
+NEW_PAGE
+Niezamieszkałe budynki
+
+Archives du village : Miejskie archiwa. Wyswietlaja znak dla kazdego mieszkanca, ktory dostarcza informacji o tym, co robia i historii ich rodziny.
+
+Boulangerie : Piekarania. Uzywana przez wiesniaczki do pieczenia chleba ze zboza zbieranego przez farmerow. Wazny budynek, gdyz dostepnosc chleba znacznie zwieksza predkosc z jaka rosna dzieci.
+
+Chapelle / Eglise : Kaplica / Kosciol. Kaplica, pozniej rozbudowana do kosciola jest odwiedzana przez wiesniakow, ktorzy czuja potrzebe modlitwy.
+
+Taverne : Karczma. Wiesniaczki chodza tam by produkowac jablecznik, a pozniej, gdy zainstalowac destylarke, takze calve. Wiesniacy chodza tam na drinka.
+
+Tour de guet : Wieza straznicza. Postarunek obserwacyjny odwiedzany przez straznika podczas patrolu.
+NEW_PAGE
+Budynki dekoracyjne
+
+Fontaine / Grande Fontaine. Fountanna / Wielka fontanna : Czysto dekoracyjny budynek.

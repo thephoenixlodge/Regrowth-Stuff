@@ -1,0 +1,59 @@
+culture.byzantines=Bizantina
+
+villager.teenagerMale=Jovem
+villager.teenagerFemale=Jovem
+villager.boy_byzantine=Rapaz
+villager.girl_byzantine=Rapariga
+villager.farmiller_byzantine=Moleiro
+villager.farmiller_wife_byzantine=Esposa do Moleiro
+villager.wife_byzantine=Aldeã
+villager.miner_byzantine=Mineiro
+villager.artisan_byzantine=Artesão
+villager.patriarch_byzantine=Patriarca
+villager.lumberman_byzantine=Lenhador
+villager.shepherd_byzantine=Pastor
+villager.shepherd_female_byzantine=Pastora
+villager.fisherman_byzantine=Pescador
+villager.baron_byzantine=Barão
+villager.richwife_byzantine=Mulher Rica
+villager.centurio_byzantine=Centurião
+villager.soldier_byzantine=Soldado
+villager.playersoldier_byzantine=Soldado
+villager.smith_byzantine=Ferreiro
+villager.merchant_byzantine=Comerciante
+villager.pastor_byzantine=Missionário
+villager.artwife_byzantine=Esposa do Artesão
+villager.architect_byzantine=Arquitecto
+villager.silkfarmer_byzantine=Sericicultor
+villager.silkfarmerwife_byzantine=Sericicultora
+villager.armysmith_byzantine=Armeiro
+
+villager.smuggler_silk=Comerciante de Seda
+villager.merchant_art=Comerciante de Arte
+villager.merchant_food=Comerciante de Alimentos
+villager.merchant_materials=Comerciante de Pedra
+
+villager.keeperOak_byzantine=Guarda
+villager.keeperBirch_byzantine=Guarda
+villager.keeperTropical_byzantine=Guarda
+villager.keeperPine_byzantine=Guarda
+villager.loneshepherd_byzantine=Pastor Isolado
+villager.loneshepherdf_byzantine=Pastora Isolada
+villager.keeper_byzantine=Guardião do Farol
+
+villager.merchant_norman=Comerciante Normando
+villager.merchant_hindi=Comerciante Hindu
+villager.merchant_mayan=Comerciante Maia
+villager.merchant_japanese=Comerciante Japonês
+
+shop.alchemyworkshop=Produtos Alquímicos
+shop.armyforge=Ferramentas, Armas e Armaduras
+shop.bakery=Pão
+shop.clothing=Roupas
+shop.fishery=Peixe
+shop.forge=Ferramentas
+shop.lonesheep=Cordeiro, Lã e Feta
+shop.lonetower=Mantimentos
+shop.sheepfarm=Cordeiro, Couro e Feta
+shop.tavernbyz=Vinho, Souvlaki
+shop.townhall=Loja Central

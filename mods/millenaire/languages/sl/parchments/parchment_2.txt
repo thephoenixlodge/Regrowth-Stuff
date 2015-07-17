@@ -1,0 +1,45 @@
+Zgradbe v Millénaire
+
+Dvorec. V vojaških vaseh se ta dvorec zamenja z mestno hišo. Tukaj živita kralj in kraljica. Z dovolj kamna jo bodo vascani spremenili v mogočen dvorec.
+
+Graščina. Je v centru agrokulturnih vaseh. V tej graščini živi seneshal, ki skrbi za to, da prebivalci plačujejo davke kralju  in njemu.
+
+Arhiv. Pokaže napis za vsakega prebivalca in pokaže kaj dela, ter zgodovino njegove družine.
+
+Orožarnica. Ko je notri kovač, je kovačnica koristna za orodja in orožja.
+
+Pekarna. V njej živi ženska, ki peče kruh iz kmetovih pridelkov. Je zelo pomembna zgradba, saj več kot je kruha bolje otroci rastejo.
+
+Govedoreja. Tukaj govedorejec goji krave, ki jih uporabljajo za pridobivanje usnja.
+
+Prašičja farma. Tukaj se pujsi spreminjajo v velike kose svinjine.
+
+Ovčja farma. Tukaj ovce izkoriščajo za pridobivanje volne. Majhno ograjeno območje zadržuje kokoške, ki jih izkoriščajo za peresa in jajca.
+
+Kapela / Cerkev. Kapela, pozneje se nadgradi v cerkev in se uporablja za molitev. Ponavadi prebivalci molijo zjutraj.
+
+Farma. Žitna farma, kjer kmet proizvaja žito za pekarno.
+
+Kovačnica. Ko se notri naseli kovač, začne ustvarjati orodja, ki jih lahko začnejo uporabljati drugi prebivalci, igralec ($name) pa jih lahko kupi.
+
+Stražarnica. Notri živita stražar in njegova žena.
+
+Gozdarjeva koča. Notri živita gozdar in njegova žena.
+
+Prezbiterij. Notri živi duhovnik.
+
+Kamnolom. Notri živita rudar in njegova žena. Tam rudar rudari.
+
+Tesarjeva hisa. Notri živita tesar in njegova žena.
+
+Krčma. Tam ženska proizvaja jabolčnik, pozneje, ko je topilo, se calvo. Tja hodijo tudi vaščani na pijačo.
+
+Gostilna. Zasedli jo bodo potujoči trgovci, ki bodo prodajali v tej vasi. Če je gostilna prazna, lahku tukaj najstnik postane gostilničal.
+
+Hiša za goste. Manjša kot gostilna, lahko gostuje potujočega trgovca le da se notri ne bo priselil noben najstnik.
+
+Trg. Vsaka vas si želi trg saj tja pridejo trgovci in prodajajo ekstoične predmete!
+
+Stražni stolp. Razgledna točka, ki jo obišče stražar, ko je na straži.
+
+Fontana / Velika fontana : Čisto dekorativna zgradba.

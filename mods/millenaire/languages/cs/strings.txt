@@ -1,0 +1,730 @@
+startup.loadproblem=Vyskytl se problem pri pokusu nacist <0>.
+startup.checkload=Zkontrolujte, zda se slozka 'cultures' nachazi ve slozce 'millenaire' v adresari Minecraftu.
+startup.millenaireloaded=<0> nacteno. Zmacknete klavesu '<1>' pro lokaci osad.
+startup.radiuswarning=VAROVANI: Nastaveni tak vysokeho radiusu osad neni potreba a muze zpusobovat lagy. Hodnoty nad 70 nejsou doporuceny. 
+
+command.nogenerate=<0> nebude dale generovat osady v tomto svete.
+command.willgenerate=<0> bude generovat osady na novych chunkach.
+command.astarpathing=Pouziva trasovani A*
+command.binarypathing=Pouziva binarni trasovani
+command.minecraftpathing=Pouziva vanilla trasovani
+command.inactive=Neaktivni
+command.active=Aktivni
+command.frozen=Zmrazena
+command.villagelist=<4>: <0> (<1>) je <2> metru <3>.
+command.villagelistkeylonebuilding=<0> (<1>) je <2> metru <3>.
+command.noknowvillage=Zadne zname osady v blizkosti 2 km. Pokracujte v hledani!
+command.newvillagefound=Nalezena osada: <0> typu <1> a kultury <2> je <3> metru <4>.
+command.newlonebuildingfound=Nova budova nalezena: <0> je <1> metru <2>.
+command.pathrebuild=Mapy a trasovani <0> byly prepocitany.
+
+//Text used in various UI parts, in no specific order:
+ui.adults=Dospeli: <0> (<1>/<2>)
+ui.allchestsunlocked=Vsechny truhly v <0> byly odemceny.
+ui.allowupgrades=Povolit vylepseni
+ui.alreadybuilt=jiz vybudovane
+ui.alreadyrequested=jiz objednano
+ui.anyenchanted=Ocarovany objekt
+ui.available=k dispozici
+ui.brickinstructions=Jeden kus hliny a jeden kus pisku jsou potreba na vyrobu cihly.
+ui.buildingscentre=Centrum
+ui.buildingsextra=Extra budovy
+ui.buildingskey=Klicove budovy
+ui.buildingsplayer=Hracovy budovy
+ui.buildingssecondary=Druhotne budovy
+ui.buildingsstarting=Pocatecni budovy
+ui.buybuilding=Kupuje <0> (<1>)
+ui.buying=Nakupuje
+ui.buyscroll=Kup vesnicky svitek.
+ui.cancelbuilding=Odstranit budovu
+ui.children=Deti: <0> (<1>/<2>)
+ui.clicktorequest=Klikni pro zadost
+ui.communicationexplanations=Pro komunikaci s vesnicany na ne klikni pravym tlacitkem mysi. Komunikacni okno se otevre pokud je nejaka akce k dispozici (obchod, diskuze s velitelem vesnice, najmuti, úkol).
+ui.construction=Stavba <0>:
+ui.constructionforbidden=stavba zakazana
+ui.control_alreadydone=Uz jsi povazovan za vudce lidu <0>.
+ui.control_get=Pozadat o uznani vudcovstvi.
+ui.control_gotten=<0>: Prohlasuji te officialnim vudcem lidu <1>! Nyni muzes vytvorit svoji vesnici.
+ui.control_noreputation=Tvoje reputace neni dostatecna aby te lide <0> uznali vudcem. Vylepsi si svou reputaci, nebo spln vyjimecne ukoly abys dosahl tohoto statutu.
+ui.control_ok=Tvoje sluzby vesnici ti zajistili, ze lide <0> jsou pripraveni te uznat vudcem! Muzu te jim oficialne ucinit a dovolit ti zalozit vlastni vesnici.
+ui.controlbuildingprojects=Spravuj stavby
+ui.controlled=kontrolovano
+ui.cost=Cena
+ui.cropinsufficientreputation=Tvoje reputace je prilis nizka na to aby te vesnicani naucili jak sazet <0>.
+ui.cropknown=Naucil ses sazet <0>.
+ui.croplearn=Nauc se (<0>)
+ui.croplearned=<0>: Odhalil si tajemstvi pestovani <1>!
+ui.cropnotenoughmoney=Potrebuje jeste <1> denieru k nauceni jak sazet <0>.
+ui.cropoktolearn=Vesnice te muze naucit jak sazet <0>.
+ui.cropplantingknowledge=Nevis jak sazet <0>. Zeptej se velitele vesnice.
+ui.cropsknown=Plodiny zname teto kulture
+ui.currentlyempty1=Aktualne
+ui.currentlyempty2=prazdne
+ui.danger=nebezpecny blok
+ui.enchantedsword=Ocarovany mec
+ui.export_total=Veskery dovoz: <0>
+ui.exports=Vyvoz
+ui.extraresneeded1=<0> dalsich surovin je
+ui.extraresneeded2=potreba
+ui.forbidupgrades=Zakazat vylepseni
+ui.generatenotenoughspace=Nedostatek mista pro mestskou halu.
+ui.generatenotenoughspacevillage=Nemuzu najim místo pro vesnici.
+ui.goalscompleted1=Vsechny budovy
+ui.goalscompleted2=kompletni
+ui.goodstraded=Obchody
+ui.helpbutton=Napoveda k Millénaire
+ui.housebought=Stavba tveho <0> zacne zanedlouho!
+ui.import_total=Veskery vyvoz: <0>
+ui.imports=Dovoz
+ui.inconstruction=Ve vystavbe
+ui.inhabitantof=Obyvatel <0>
+ui.inventory=Inventar
+ui.isell=Prodavam
+ui.lackingresources=Schazi suroviny
+ui.largelockedchest=Velka zamcena truhla
+ui.largeunlockedchest=Velka odemcena truhla
+ui.leaderin=Jsi vudcem <0> kultury. Muzes vytvaret vesnice kultur, ktere ovladas.
+ui.leaderinstruction=Aby ses stal vudcem, potrebujes nejdriv dosahnout reputace "Prirozeny vudce", v teto vesnici a pote se zeptat dosavadniho vudce, nebo dokoncit cast Ukol Stvoreni pro tuto kulturu (pokud je k dispozici).
+ui.leadershipstatus=Velitelsky status
+ui.level=uroven
+ui.locationclash=konflikt s jinou budovou
+ui.lockedchest=Zamcena truhla
+ui.lockedchestwarning=VAROVANI: Pokud znicite zamcenou truhlu, nebude vesnice fungovat spravne! Znicte ji pouze pokud chcete znicit vesnici.
+ui.merchants=Obchodnici
+ui.missingdeniers=Schazi ti <0> denieru.
+ui.missingequipment=Chybejici vybaveni
+ui.nbbuildings=<0> budov
+ui.nbinhabitants=Pocet obyvatel: <0>
+ui.noconstruction1=Stavba
+ui.noconstruction2=neprobiha
+ui.noneininventory=Nemas v inventari.
+ui.nospace=Neni prostor
+ui.notavailableyet=neni k dispozici
+ui.notleaderin=Jeste nejsi vudcem <0> kultury.
+ui.notreachable=nedostupna zona
+ui.notyetbuilt=Jeste nepostaveno
+ui.outofstock=Neni na sklade!
+ui.outsideradius=mimo rozsah vesnice
+ui.population=Populace:
+ui.populationnumber=Populace: <0>
+ui.possiblehousing=Moznosti bydleni
+ui.problemat=Problem s
+ui.project=Projekt
+ui.projectadded=Projekt byl pridan na seznam
+ui.raider=Utocnik
+ui.relationfriendly=Situace mezi <0> a <1> se vylepsuje, nyní jsou <2>.
+ui.relationhelp=Napoveda ke vztahum<ret><ret>Vztahy mezi vesnicemi urcuji zda budou vesnice spolupracovat.<ret><ret>Lokalni obchod (obchodnici nosici zbozi) zacnou chodit pokud jsou dobře vztahy mezi vesnicemi stejne kultury a nebo skvele vztahy s vesnicemi jinych kultur.<ret><ret>Ve vesnicich jinych kultur s velmi dobrymi vztahy, budou mit oba obchody hostujiciho obchodnika druhé kultury.<ret><ret>Vesnice stejne kultury se skvelymi vztahy budou prijimat dorost druhe vesnice, pokud je pro ne k dispozici pracovni místo.<ret><ret>Vztahy zacinaji na skvele urovni pro dcerinne vesnice, dobre pro vesnice stejne kultury a v ostatnich pripadech na neutralni.<ret><ret>Hrac muze kazdy den vyuzit 5 diplomatickych bodu. Efektivita vyjednavani zavisi na reputaci hrace s cilovou vesnici.
+ui.relationlist=Vztahy s ostatnimi vesnicemi
+ui.relationpoints=Dostupne diplomaticke body: <0>
+ui.relationpraise=Zlepsit
+ui.relationslander=Zhorsit
+ui.relationunfriendly=Situace mezi <0> a <1> se vyostruje, nyní jsou <2>.
+ui.reputationneeded=Potrebna reputace: <0>
+ui.reservedforvillager1=Rezervovano
+ui.reservedforvillager2=pro vesnicany
+ui.scrollbought=Prave jsi zakoupil obecni svitek!
+ui.scrollsnoreputation=Tvoje reputace neni dostatecna ke koupi svitku.
+ui.scrollsnotenoughmoney=Schazi ti <0> denieru, abys mohl koupit vesnicky svitek.
+ui.scrollsok=Muzes si koupit obecni svitek.
+ui.selectabuildingproject=Vyber si stavebni projekt
+ui.selectavillage=Vyber si typ vesnice, kterou chces stvorit
+ui.sellerboycott=<0>: Uz s tebou nebudeme nikdy obchodovat, psance!
+ui.sellercoming=<0>: Hned tam budu, $name!
+ui.sellernotcurrently possible=<0>: Nase vesnice je v troskach a ty chces obchodovat?
+ui.selling=Prodava
+ui.teens=Dorost: <0> (<1>/<2>)
+ui.tooclosetospawn=Neni povoleno vytvaret vesnice tak blizko spawnu.
+ui.tradecomplete=Doufam, ze jste si obchod uzil! Hezky den.
+ui.unknownerror=neznamy problem
+ui.unlockedchest=Odemcena truhla
+ui.upgrading=Vylepsovani (<0>)
+ui.villagechief=Hlava obce <0>
+ui.villagemap=Mapa osady
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.visitorslist1=Seznam
+ui.visitorslist2=navstev
+ui.wandblocklist=<0> pro <1>
+ui.wandblocklistcontrolled=<0> pro <1> (vyzaduje vudcovstvi pro tuto kulturu)
+ui.wandinstruction=Pouzij hulku na obsidian abys nahodne vygeneroval vesnici nebo ji pouzij na zlaty blok a vyber typ vesnice jaky chces.
+ui.wandnocontrol=Nemuzes vytvaret tento typ vesnice dokud se nestanes vudcem <0> kultury.
+ui.wandwrongblock=Tato hulka funguje pouze na Obsidianovem bloku, nebo na nasledujicich blocich:
+ui.webuy=Vykupujeme
+ui.wesell=Prodavame
+ui.woodbirch=Brezove drevo
+ui.woodforplanks=Drevo
+ui.woodjungle=Tropicke drevo
+ui.woodoak=Dubove drevo
+ui.woodpine=Smrkove drevo
+ui.worldnotgenerated=Oblast neni kompletne vygenerovana. Projdi se kolem a pak se vrat.
+ui.wrongelevation=mimo povolenou vysku
+ui.xoutofy=<0> z <1>
+ui.youaremissing=schazi ti: <0>
+ui.yourstatus=Tvuj status
+
+
+help.tab_1=Obecne informace
+help.tab_2=Obchod
+help.tab_3=Reputace & velitel vesnice
+help.tab_4=Rust vesnice
+help.tab_5=Boj a utoky
+help.tab_6=Tvorba a niceni vesnice
+help.tab_7=Ukoly
+help.tab_8=Normane
+help.tab_9=Indove
+help.tab_10=Mayove
+help.tab_11=Japonci
+help.tab_12=Rimane
+help.tab_13=FAQ
+
+
+quest.obtained=Ziskan
+quest.lackingcondition=Jeste ti chybi:
+quest.lackinghiddengoods=Nemas zbozi potrebne k teto uloze.
+quest.close=Zavrit
+quest.accept=Prijmout ukol
+quest.refuse=Odmitnout ukol
+quest.continue=Pokracovat v ukolu
+quest.conditionsnotmet=Jeste jsi nesplnil vsechny podminky.
+quest.lessthananhourleft=Zbyva mene nez hodina!
+quest.timeremaining=Zbyva casu
+quest.hours=hodin
+quest.noquestsvisible=Zadne ukoly neprobihaji
+quest.questlist=Zadane ukoly
+quest.reputationlost=reputatace ztraceno
+
+quest.creationqueststatus=Status Ukolu Stvoreni:
+quest.creationqueststatusshort=Ukol stvoreni:
+
+quest.cqchaptersadhu=Sadhu (Askeze)
+quest.cqsadhustartexplanation=Najdi vesnicana v Indske vesnici, kde je tvoje reputace alespon "Pritel vesnice", pro zahajeni ukolu.
+
+quest.cqchapteralchemist=Alchymista
+quest.cqalchemiststartexplanation=Najdi vesnicana v Normanske vesnici, kde je tvoje reputace alespon "Pritel vesnice", pro zahajeni ukolu.
+
+quest.cqallcompleted=Gratulujeme, dokoncil jsi vsechny Ukoly Stvoreni, ktere jsou momentalne k dispozici!
+quest.cqcheckforupdates=Zkontroluj www.millenaire.org kvuli aktualizacim, diky kterym ziskas dalsi ukoly.
+quest.cqchapternotstarted=Jeste si nezacal/a kapitolu "<0>".
+quest.cqchapterinprogress=Dokoncena <1> mise z <2> v Creation Questu kapitoly: <0>.
+quest.cqchaptercompleted=Kapitola "<0>": dokoncena.
+quest.cqchapternotstartedshort=Kapitola "<0>": nebyla zahajena.
+quest.cqchapterinprogressshort=Kapitola "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Kapitola "<0>": dokoncena.
+quest.cqcheckquestlistandhelp=Stiskni '<0>' pro zobrazeni Millénaire napovedy
+
+
+
+//Item names=
+
+//The following items should not be translated=
+//They are either proper names (the deniers)
+//or specific local specialities that aren't translated=
+//in other languages=
+//I'm putting them for non-Latin alphabet languages,
+//so they can be written in other alphabets=
+item.denier=
+item.denierOr=
+item.denierArgent=
+item.calva=Brandy
+item.tripes=Drstky
+item.boudin=Salam
+
+item.dirtwall=Hlinena zed
+
+item.building=Budova
+item.normanPickaxe=Normansky krumpac
+item.normanAxe=Normanska sekera
+item.normanShovel=Normanska lopata
+item.normanHoe=Normanska motyka
+item.normanBroadsword=Normanska savle
+item.normanHelmet=Normanska helma
+item.normanPlate=Normansky pancir
+item.normanLegs=Normanske kalhoty
+item.normanBoots=Normanske boty
+item.rice=Ryze
+item.turmeric=Kurkuma
+item.vegcurry=Vegetarianske kari
+item.chickenmeat=Syrove kure
+item.chickencurry=Kure na kari
+item.brickmould=Forma na cihly
+item.rasgulla=Rasgulla
+item.plaintimber=Dreveny ram
+item.crosstimber=Krizeny dreveny ram
+item.wetbrick=Vlhka cihla
+item.cookedbrick=Palena cihla
+item.mudbrick=Hlinena cihla
+item.indianstatue=Indianska socha
+item.ciderapple=Mostove jablko
+item.cider=Most
+item.villagewand=Hulka vyvolavani
+item.negationwand=Hulka zatraceni
+item.normanvillagers=Normansti osadnici
+item.normanitems=Normanske predmety
+item.normanbuildings=Normanske stavby
+item.normanfull=Kompletni Normansky svitek
+item.tapestry=Tapiserie
+item.vishnu_amulet=Amulet krkavce
+item.alchemist_amulet=Amulet alchymistu
+item.yddrasil_amulet=Amulet Yggrasil
+item.skoll_hati_amulet=Amulet Sköll a Rati
+item.villagescroll=Vesnicky svitek
+item.indianvillagers=Indsti obyvatele
+item.indianitems=Indske predmety
+item.indianbuildings=Indske budovy
+item.indianfull=Kompletni Indsky pergamen
+item.unknownpowder=Neznamy prach
+item.alchimistexplosive=
+
+item.wah=Wah
+item.masa=Testo
+item.maize=Kukurice
+item.mayangold=Zlata ozdoba
+item.mayanstatue=Mayska rezba
+item.mayanvillagers=Maysti vesnicane
+item.mayanitems=Mayske objekty
+item.mayanbuildings=Mayske budovy
+item.mayanfull=Kompletni Maysky svitek
+item.mayanmace=Obsidianova palice
+item.mayanPickaxe=Obsidianovy krumpac
+item.mayanAxe=Obsidianova sekera
+item.mayanShovel=Obsidianova lopata
+item.mayanHoe=Obsidianova motyka
+item.obsidianflake=Obsidianovy platek
+
+item.paperwall=Papirova stena
+item.udon=Nudle
+item.thatched=Dosek
+
+item.parchmentsadhu=Kniha Sadhu (o askezi)
+
+item.tachisword=Mec Taci
+item.yumibow=Luk Jumi
+
+item.japaneseWarriorBlueLegs=Modre ō-yoroi kalhoty
+item.japaneseWarriorBlueHelmet=Modra ō-yoroi helma
+item.japaneseWarriorBluePlate=Modry ō-yoroi pancir
+item.japaneseWarriorBlueBoots=Modre ō-yoroi boty
+
+item.japaneseWarriorRedLegs=Cervene ō-yoroi kalhoty
+item.japaneseWarriorRedHelmet=Cervena ō-yoroi helma
+item.japaneseWarriorRedPlate=Cerveny ō-yoroi pancir
+item.japaneseWarriorRedBoots=Cervene ō-yoroi boty
+
+item.japaneseGuardLegs=Kalhoty Keiko
+item.japaneseGuardHelmet=Helma Keiko
+item.japaneseGuardPlate=Zbroj Keiko
+item.japaneseGuardBoots=Boty Keiko
+
+item.japanesevillagers=Japonsti vesnicane
+item.japaneseitems=Japonske objekty
+item.japanesebuildings=Japonske budovy
+item.japanesefull=Kompletni Japonsky svitek
+
+item.emptysilkwormblock=
+item.fullsilkwormblock=Hedvabnicky blok
+item.byzantinebrick=Byzantska cihla
+item.byzantineslab=Byzantska deska
+item.byzantinemixedbrick=Byzantska dlazba
+item.grapes=Hrozny
+item.wine=Malvaske vino
+item.silk=Hedvabi
+item.byzantineicon=Bazantska ikona
+item.vine=Reva
+
+goal.plantvines=Sazi revu
+goal.harvestgrapes=Sklizi hrozny
+goal.gathersilk=Sbira hedvabi
+goal.makeicon=Kresli ikonu
+goal.makewine=Vyrabi vino
+goal.makebookshelves=Vyrabi knihovnu
+goal.makebyzantinetiles=Vyrabi dlazbu
+goal.makebrick=Vyrabi cihly
+goal.training=Trenuje
+goal.paintpainting=Kresli obraz
+goal.makebook=Pise knihu
+
+
+error.unknownitem=Nezname jmeno predmetu
+
+
+
+//Errors=
+ui.updateEntity=CHYBA v TileEntityBuilding.updateEntity(). Zkontrolujte 'millenaire.log'.
+
+//Panels & parchments=
+panels.notextfound=Zadny text nenalezen v <0>
+panels.invalidid=Neplatne ID osady.
+panels.toofar=Vesnice je prilis daleko k nacteni zaznamu.
+panels.recordsnotloaded=Zaznamy vesnice nemohly byt nacteny.
+panels.villagescroll=Vesnicky svitek
+panels.mother=Matka
+panels.father=Otec
+panels.spouse=Chot
+panels.dead=Mrtvy
+panels.awayraiding=Utoci
+panels.awayhired=Najmuty hracem
+panels.invaderincoming=Prichazeji
+panels.missing=CHYBI!
+panels.multiple=V soucasnosti <0> krat!
+panels.currentoccupation=Soucasne obsazeni
+panels.visitors=Navstevnici
+panels.constructions=Stavby
+panels.upgrade=vylepseni
+panels.buildingprojects=Stavebni projekty
+panels.notyetbuilt=nepostaveno
+panels.nbupgradesleft=<0> vylepseni zbyva.
+panels.finished=dokonceno
+panels.houseunoccupied=Tento dum je neobsazen. Deti, ktere vyrostou se sem eventuelne nastehuji a stanou se dospelymi.
+panels.man=Muz
+panels.woman=Zena
+panels.children=Deti
+panels.nofemaleresident=Tento dum nema zenskeho obyvatele.
+panels.bachelor=Zde zijici muz je stale svobodny. Divka, ze ktere se stane slecna, se sem muze nastehovat.
+panels.nomaleresident=Tento dum nema muzskeho obyvatele.
+panels.spinster=Zde zijici zena je stale svobodna. Chlapec, ze ktere se stane mladik, se sem muze nastehovat.
+panels.resources=Zdroje
+panels.goodstraded=Zbozi, se kterym se obchoduje v teto vesnici
+panels.goodsimported=Dovazeno z jinych vesnic
+panels.goodsexported=Vyvazeno do jinych vesnic
+panels.innvisitors=Hoste v <0>
+panels.mappurple=FIALOVA: Nedokoncena stavba.
+panels.mapblue=MODRA: Ostatni budovy.
+panels.mapgreen=ZELENA: Prostory vhodne ke stavbe.
+panels.maplightgreen=SVETLE ZELENA: dostupne stavebni zony, ktere ale nemohou obsahovat stavebni centrum.
+panels.mapred=RED: Nebezpecne oblasti. (lava, kaktus, atd...)
+panels.mapyellow=ZLUTA: Nestabilni teren.
+panels.maporange=ORANZOVA: Stavba zakazana. (moc blizko ostatnim budovam).
+panels.maplightblue=SV. MODRA: Vodni plochy.
+panels.mapbrown=HNEDA: Ostatni oblasti (mimo nadmorskou vysku, etc...)
+panels.unreachablebuilding=nedostupne!
+panels.merchantlist=Seznam kupcu
+panels.capacity=Kapacita
+panels.nbnightsin=Ve vesnici jiz <0> noci.
+panels.storedexports=<0> ulozil k vyvozu: <1>
+panels.broughtimport=<0> zakoupil pro vesnici: <1>
+panels.startedtrading=<0> (<1>) prijal obchodni karieru.
+panels.merchantmovedout=<0> (<1>) se presunul do <2> po <3> dnech ve vesnici.
+panels.merchantarrived=<0> (<1>) dorazil z <2>.
+panels.childarrived=<0> dorazil z <1> a hleda praci.
+panels.resourcesneeded=Suroviny, ktere jsou potreba na projekt
+panels.resourcesavailable=Suroviny skladem
+panels.villageculture=Vesnic <0> kultury
+panels.military=Armada
+panels.planningraid=Planujeme utok
+panels.raidinprogress=Utocime
+panels.underattack=Pod utokem
+panels.offense=Utok: <0>
+panels.defense=Obrana: <0>
+panels.offenselong=Utocna sila: <0>
+panels.defenselong=Obranna sila: <0>
+panels.raidinprogresslong=Utocime na <0>. Utok byl zahajen pred <1> hodinou.
+panels.planningraidlong=Planujeme utok na <0>. Planovani zahajeno pred <1> hodinou.
+panels.underattacklong=Pod utokem <0>, odhad sily <1> az <2>!
+panels.villagefighters=Bojovnici
+panels.attackers=Utocnici
+panels.defender=Obranci
+panels.raider=Utocnik
+panels.health=Zdravi
+panels.weapons=Zbran(e)
+panels.armour=Zbroj
+panels.militarystrength=Vojenska sila
+panels.unknownattacker=nezname misto
+panels.raidsperformed=Utoku vykonano
+panels.raidssuffered=Utoku podstoupeno
+panels.nameand=<0> a
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Odpociva
+goal.godrink=Jde se napit
+goal.gopray=Jde se modlit
+goal.GatherGoods=Sbira zbozi
+goal.BringBackResourcesHome=Odnasi zbozi
+goal.GetTool=Shani nastroje
+goal.huntMonster=Bojuje s tvorem
+goal.getGoodsHousehold=Shani veci pro domacnost
+goal.DeliverGoodsHousehold=Odnasi veci pro domacnost
+goal.GetHouseTHResources=Jde domu pro suroviny
+goal.DeliverResourcesShop=Odnasi suroviny
+goal.raidvillage=Utoci na vesnici
+goal.defendvillage=Brani vesnici
+goal.hide=Schovava se
+
+goal.CollectCrop=Sklizi urodu
+goal.PlantSeeds=Sazi semena
+goal.ChopTrees=Kaci stromy
+goal.PlantSaplings=Sazi stromky
+goal.GetResourcesForBuild=Shani suroviny na stavbu
+goal.MakeBread=Pece chleb
+goal.BeSeller=Obchoduje s hracem
+goal.MakeCider=Vyrabi most
+goal.MakeCalva=Vyrabi brandy
+goal.Construction=Stavi
+goal.GoPlay=Hraje si
+goal.BecomeAdult=Stehuje se
+goal.MakeNormanTools=Vyrabi nastroje
+goal.MakeNormanWeapons=Vyrabi zbrane
+goal.Patrol=Hlidkuje
+goal.Butcher=Porazi zvirata
+goal.MakeBoudin=Vyrabi jitrnice
+goal.MakeTripes=Vyrabi drstky
+goal.Mining=Tezi
+goal.Cooking=Vari
+goal.MakeBooks=Opisuje svitky
+goal.MakeTapestry=Vyrabi tapiserie
+goal.VisitInn=Jde do hostince
+goal.VisitBuilding=Jde do obchodu
+goal.MakeAmulet=Vyrabi amulet
+goal.KeepStall=Stoji u stanku
+goal.MakeTimberFrame=Vyrabi drevene ramy
+
+goal.DryBrick=Vysousi cihly
+goal.GatherBrick=Sbira vysusene cihly
+goal.CookBrick=Vypaluje cihly
+goal.PlantRice=Sazi ryzi
+goal.HarvestRice=Sklizi ryzi
+goal.PlantTurmeric=Sazi kurkumu
+goal.HarvestTurmeric=Sklizi kurkumu
+goal.SlaughterChicken=Zabiji kure
+goal.PlantSugarCane=Sazi cukrovou trtinu
+goal.HarvestSugarCane=Sklizi cukrovou trtinu
+goal.MakeRasgulla=Vari Rasgulle
+goal.MakeIndianTools=Vyrabi nastroje
+goal.MakeIndianWeapons=Vyrabi zbrane
+goal.scult=Opracovava kamen na sochu
+goal.performpujas=Provadi ritual Pudza
+goal.bepujaperformer=Pripraven k ritualu Pudza
+
+goal.PlantMaize=Sazi kukutici
+goal.HarvestMaize=Sklizi kukurici
+goal.makeGoldBlock=Vyrabi zlate ozdoby
+goal.sculptMayan=Vyrezava sochu
+goal.makeobsidiantools=Vyrabi obsidianove nastroje
+goal.makeobsidianflakes=Prepracovava obsidian na platky
+
+goal.fish=Rybari
+goal.makethatch=Vyrabi dosky
+goal.makepaper=Vyrabi papir
+goal.makepaperwall=Vyrabi papirovou stenu
+goal.cookfish=Pece rybu
+goal.makeudon=Vyrabi nudle
+goal.makejapaneseweapons=Vyrabi japonske zbrane
+
+goal.brewpotions=Vari lektvary
+goal.harvestwarts=Sklizi pekelne rostliny
+goal.makeglassbottles=Vyrabi flakonky
+goal.plantwarts=Sazi pekelne rostliny
+
+//other=
+other.west=Zapad (W)
+other.east=Vychod (E)
+other.north=Sever (N)
+other.north-east=Severovychod (NE)
+other.north-west=Severozapad (NW)
+other.south=Jih (S)
+other.south-east=Jihovychod (SE)
+other.south-west=Jihozapad (SW)
+
+other.tothewest=na zapad
+other.totheeast=na vychod
+other.tothenorth=na sever
+other.tothenorth-east=na severovychod
+other.tothenorth-west=na severozapad
+other.tothesouth=na jih
+other.tothesouth-east=na jihovychod
+other.tothesouth-west=na jihozapad
+
+other.west_short=Z
+other.east_short=V
+other.north_short=S
+other.south_short=J
+other.shortdistancedirection=<1>m k <0>
+
+other.metre=metru
+other.kilometre=kilometru
+other.andhalf=a pul
+
+other.directionshort=<1> <0>
+other.exploredbuilding=Odhalil si budovu: <0>.
+
+other.malevillager=Vesnican
+other.femalevillager=Vesnicanka
+
+other.buildinghealing=<0> te leci.
+
+hire.health=Zdravi
+hire.strength=Sila
+hire.cost=Cena (za den)
+hire.aggressive=Agresivni postoj
+hire.passive=Pasivni postoj
+hire.timeleft=Najaty na <0> hodin
+hire.hiredvillager=Tento vesnican byl najmut. BUde ti k sluzbat jeste <0> hodin, nebo dokud nezemre a neobevi se ve vesnici.<ret><ret>Zmackni '<1>' aby zaujal agresivni postoj, nebo levy shift-'<1>' aby zaujal pasivni postoj.
+hire.hireablevillager=Muzes najmout tohoto vesnicana. Bude te nasledovat dokud mu nevyprsi smlouva nebo neumre. Bude te ochranovat nebo preventivne utocit na agresivni kreatury a agresivni osoby v dosahu.
+hire.hireablevillagernoreputation=Tvoje reputace v teto vesnici musi byt minimalne "Oblibeny obchodnik" pro najmuti vesnicana.
+hire.extend=Prodlouzit
+hire.release=Propustit
+hire.close=Zavrit
+hire.hire=Najmout
+hire.hireover=Najmuti <0> zkoncilo. Ted se vrati do svoji vesnice.
+hire.hiredied=<0> zemrel. Znovu se objevi ve sve vesnici, ale jeho najmuti je u konce.
+hire.hiredbyotherplayer=<0> uz byl najat hracem <1>.
+hire.hiredby=Najmuty hracem <0>
+
+actions.forest_success=Dokoncil jsi <0>% pruzkumu lesa.
+actions.forest_continue=Uspesne jsi prozkoumal les.
+
+actions.desert_success=Dokoncil jsi <0>% pruzkumu pouste.
+actions.desert_continue=Uspesne jsi prozkoumal poust.
+
+actions.mountain_success=Dokoncil jsi <0>% pruzkumu hor.
+actions.mountain_continue=Uspesne jsi prozkoumal hory.
+
+actions.underwaterglass_success=Uspesne jsi vystavel hlubinne pozorovaci okno.
+actions.underwaterglass_notdeepenough=More neni v tomto miste dost hluboke.
+
+actions.underwaterdive_success=Uspesne jsi se potopil do hlubin oceanu.
+
+actions.bottomoftheworld_success=Vypada to, ze uz nemuzes kopat hloubeji. Tohle musi byt zaklady sveta!
+
+actions.topoftheworld_success=Vypada to, ze uz vys nevystoupas. Tohle je bezpochyby strop sveta.
+
+actions.borehole_nblineok=<0> bloku bedrocku je uspesne vystaveno slunci. Potrebujes jich 25 ve ctverci 5x5.
+actions.borehole_success=Uspel jsi pri vykopu vrtu!
+
+actions.boreholetnt_success=Polozil jsi dostatek TNT. Ted to muzes odpalit.
+actions.boreholetnt_nbtnt=<0> TNT bylo polozeno a zakryto obsidianem. Celkem je potreba 20.
+
+actions.boreholetntlit_success=Zazehnul jsi TNT. Prohledni vysledek a podej zpravu Alchymistovi.
+
+actions.thevoid_success=Nahledl jsi do Voidu!
+
+actions.enchantmenttable_success=Postavil si stolek ocarovani blizko Sadhu.
+
+info.culturetitle=Kultury
+info.culture=Kultura <0>
+info.culturereputation=Reputace: <0>
+info.culturelanguage=Znalost jazyka: <0>
+
+culturereputation.dreadful=Priserna
+culturereputation.bad=Spatna
+culturereputation.stellar=Hvezdna
+culturereputation.excellent=Vyborna
+culturereputation.good=Dobra
+culturereputation.decent=Slusna
+culturereputation.neutral=Neutralni
+
+culturelanguage.fluent=Plynna
+culturelanguage.moderate=Prumerna
+culturelanguage.beginner=Zacatecnicka
+culturelanguage.minimal=Minimalni
+
+
+weapon.criticalstrike=Kriticky uder! <0>x poskozeni!
+
+negationwand.villagelocked=<0> je stale zamcena. Musis zabit vsechny dospele, nez ji muzes znicit.
+negationwand.confirmmessage=Opravdu chces znicit <0>? Pokud to udelas, budovy zustanou, ale vesnicane natrvalo zmizi.
+negationwand.confirm=Potvrdit
+negationwand.cancel=Zrusit
+negationwand.destroyed=<0> byla znicena! Vsechny budovy jsou nyni prazdne a nevrati se do nich zadny vesnican.
+
+relation.excellent=Skvele
+relation.verygood=Vyborne
+relation.good=Dobre
+relation.decent=Slusne
+relation.fair=Primerene
+
+relation.openconflict=Valka
+relation.atrocious=Priserne
+relation.verybad=Hrozne
+relation.bad=Spatne
+relation.chilly=Chladne
+
+relation.neutral=Neutralni
+
+raid.planningstarted=<0> zacala planovat utok na <1>.
+raid.started=<0> zahajila utok na <1>! <2> bojovnici se pridali.
+raid.raidsuccesfull=Utok <0> na <1> byl uspesny, korist: <2>!
+raid.raidfailed=<1> uspesne odrazila utok vesnice  <0>.
+raid.nothing=Klid
+raid.historysuccess=Uspesny utok <0>. Korist: <1>
+raid.historyraided=Prepadeno vesnici <0>. Korist: <1>
+raid.historyfailure=Utok na <0> selhal.
+raid.historydefended=Utok vesnice <0> uspesne odrazen.
+
+hof.hof=Sin slavy
+hof.modcreator=Tvurce modu
+hof.creatorofmayan1=Tvurce 
+hof.creatorofmayan2=Mayske kultury
+hof.creatorofjapanese1=Tvurce 
+hof.creatorofjapanese2=Japonske kultury
+hof.creatorofbyzantine1=Tvurce 
+hof.creatorofbyzantine2=Byzantske kultury
+hof.creatorofindianskins1=Tvurce 
+hof.creatorofindianskins2=Indske kultury
+
+hof.skinmaker=Tvurce skinu
+hof.buildingmaker=Tvurce budov
+hof.wikiadmin=Spravce wiki
+hof.armouricons=Ikony zbroji
+hof.normanarmour1=Vzhled normanskych
+hof.normanarmour2=zbroji
+hof.support1=Podpora na
+hof.support2=foru
+hof.frenchversion1=Pomozte s
+hof.frenchversion2=francouzskou verzi
+hof.wikicontributions=Wiki prispevatele
+hof.improvementsjapanese1=Vylepseni
+hof.improvementsjapanese2=Japonskych vesnic
+hof.lonebuildings=Osamele budovy
+hof.obsidiantools1=Ikony
+hof.obsidiantools2=obsidianovych nastroju
+hof.forgecode1=Originalni kod pro
+hof.forgecode2=Forge Sprite API
+hof.btw=(BTW tvurce)
+hof.forgehelp1=Pomoc s
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=Sin slavy
+hof.hofidea2=napadu
+hof.donor=Darce
+
+pujas.invanme=Pudza
+pujas.panditfee=Poplatek ucenci
+pujas.offering=Nabidka
+pujas.god0=Hanumanovi pro rychlost
+pujas.god1=Shive pro silu
+pujas.god2=Laksmi pro stesti
+pujas.god3=Ganeshovi pro zrucnost
+pujas.priestcoming=<0>: Potrebujes provest Pudzu? Tvoje oddanost je obdivuhodna.
+pujas.offeringslot=Nabidni obet bohum.
+pujas.offeringslot2=Bohove neprijmou vse. Zkousej to.
+pujas.moneyslot=Daruj penize pro ucence
+pujas.toolslot=Umisti nastroj k ocarovani
+
+culture.norman=Normane
+culture.hindi=Indove
+culture.japanese=Japonci
+culture.mayan=Mayove
+
+export.errornoname=Na prvni radku musis dat jmeno planu.
+export.errornoendsigneast=Nelze najit ceduli ukonceni na vychode. Musi byt v primce od zahajovaci cedule maximalne 256 bloku daleku.
+export.errornoendsignsouth=Nelze najit ceduli ukonceni na jihu. Musi byt v primce od zahajovaci cedule maximalne 256 bloku daleku.
+export.errorlength=Detekovana delka je <0>, ale v slozce pro export jiz existuje plan s delkou <1>.
+export.errorwidth=Detekovana sirka je <0>, ale v slozce pro export jiz existuje plan s sirkou <1>.
+export.errorstartinglevel=Neplatna pocatecni uroven na 3. radce cedule.
+export.defaultstartinglevel=Nebyla urcena uroven, vybiram vychozi hodnotu -1.
+export.errorunknownblockid=Neznamy blok: <0>
+export.buildingexported=Exportovano jako: <0>
+
+import.notonserver=Neni mozne importovat budovy na serveru.
+import.errornoname=Na prvni radku musis dat jmeno planu.
+import.errornotfound=Tatu budova nebyla nalezena ve slozce millenaire-custom/exports.
+import.buildingupto=Stavba na uroven <0>
+import.errorinvalidupgradelevel=Neplatna uroven na druhe radce cedule.
+import.buildinginitialphase=Uroven nebyla urcena, stavim jen zaklad.
+import.errorupgradeleveltoohigh=Pozadovana uroven je vyssi nez nejvyssi dostupna mozna.
+import.doublevertical=Zdvojena vyska.
+import.buildinglevel=Uroven budovy: <0>
+
+effect.towncentre=Radnice
+effect.shop=Obchod: <0>
+effect.irrigation=Zavodnovani: <0>% extra uroda
+effect.pujalocation=Sudki Pudzy
+effect.healing=Leci hrace

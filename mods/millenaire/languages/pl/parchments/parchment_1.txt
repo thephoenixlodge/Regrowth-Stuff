@@ -1,0 +1,44 @@
+version:1.1.4
+Millénaire: Normanscy mieszkancy
+
+Glowy wioski
+
+Chevalier: Rycerz. Zyje w forcie skad wyrusza na patrole swoich ziem i odwiedza karczme. Strzez sie spotkania z nim w boju! Glowa osady militarnej i osad sluzebnych.
+
+Moine: Mnich. Zyje w klasztorze w ktorym zmudnie kopiuje starozytne ksiazki na nowe pergaminy. Wedlug niego to sztuka. Glowa koscielnych wlosci.
+
+Sénéchal : Krolewski namiestnik. Doglada produkcji rolniczej we wsi ze swojej willi. Glowa wsi i miasteczek rolniczych.
+
+Maître de la Guilde : Mistrz gildii. Nadzoruje produkcje rzemieslnicza z siedziby gildii. Glowa miasteczek i wiosek rzemieslniczych.
+NEW_PAGE
+Kobieta
+
+Villageoise: Wiesniaczka. Prawie kazda dorosla kobieta nia jest. Ich role obejmuja przynoszenie surowcow zebranych przez ich mezow do ratusza, budowa nowych budynkow i rozbudowywanie starych oraz handel z graczem w roznych miejscach.
+
+Dame: Dama. Zyje w forcie ze swoim mezem, gdzie z welny wyrabia gobeliny do dekoracji fortu i na sprzedaz.
+NEW_PAGE
+Mezczyzna
+
+Fermier: Farmer. Zyje na farmie gdzie uprawia i zbiera plony.
+
+Bûcheron: Drwal. Zyje w chacie drwala. Zbiera drewno i jablka z drzew oraz sadzi sadzonki by wytworzyc wiecej drzew.
+
+Garde: Straznik. Zyje w straznicy. Nie robi nic, tylko pije na umor i bardzo okazjonalnie modli sie, dopoki ktos z wioski nie zostanie zaatakowany. Niezbyt dobrze miec w nim wroga, zwlaszcza gdy jest uzbrojony w dlugi miecz Normanow.
+
+Prêtre: Ksiadz. Zyje sam na plebanii. Kiedy sie nie modli w kosciele, to spi. Plotki glosza, ze ukrywa starozytne rytualy Wikingow pod fasada oddania katolicyzmowi.
+
+Forgeron: Kowal. Zyje w kuzni lub zbrojowni. Jesli zelazo jest dostepne bedzie robil narzedzia w kuzni lub miecze w zbrojowni.
+
+Eleveur / Chodowca: Mezczyzna chodujacy zwierzeta. zyje na farmie bydla, swin lub drobiu. Zbiera rozne dobra od zwierzat chodowlanych oraz robi gorace flaczki i smaczna pasztetowa.
+
+Mineur : Gornik. Zyje i pracuje w kamieniolomie, niezmordowanie kopiac kamien i piasek. Kiedy jego kamieniolom zostanie ulepszony o piece to wytapia je na gladki kamien i szklo.
+
+Charpentier : Ciesla. Zyje w warsztacie ciesli, gdzie robi ramy drewniane uzywane przy budowie budynkow.
+
+Marchant : Handlarz. Chodzi od zajazdu do zajazdu, handlujac towarami miedzy wioskami. Jego losem jest wedrowka za dobrami dla wszystkich wiesniakow.
+
+Marchant étranger : Obcy handlarz. Kupcy z odleglych miejsc odwiedzaja targ by sprzedawac swoje egzotyczne towary, zanim odejda ze swoimi ciezko zarobionymi denarami.
+NEW_PAGE
+Dziecko
+
+Garçon / fille : Chlopczyk i dziewczynka. zyja ze swoimi rodzicami, rosna noca az sa na tyle duzi by wprowadzic sie do pustego domu i stac sie doroslymi.

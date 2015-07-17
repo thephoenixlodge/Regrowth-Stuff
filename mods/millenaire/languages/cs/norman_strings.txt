@@ -1,0 +1,55 @@
+culture.norman=Normane
+
+//Norman:
+villager.abbot=Opat
+villager.carpenter=Tesar
+villager.cattleFarmerMale=Chovatel dobytka
+villager.cattleFarmerFemale=Chovatelka dobytka
+villager.boy=Chlapec
+villager.girl=Divka
+villager.teenagerMale=Mladik
+villager.teenagerFemale=Slecna
+villager.farmer=Farmar
+villager.merchant_viking=Vikingsky obchodnik
+villager.merchant_weapon=Zbrojir
+villager.merchant_plant=Bylinkar
+villager.merchant_art=Obchodnik s umenim
+villager.merchant_wool=Prodejce vlny
+villager.merchant_food=Prodavac jidla
+villager.guard=Straz
+villager.guildmaster=Cechmistr
+villager.knight=Rytir
+villager.lady=Pani
+villager.lumberman=Drevorubec
+villager.merchant=Obchodnik
+villager.miner=Hornik
+villager.monk=Mnich
+villager.priest=Knez
+villager.seneschal=Spravce
+villager.smith=Kovar
+villager.wife=Vesnicanka
+
+villager.lonelumberman=Osamely drevorubec
+villager.lonelumbermantaiga=Horsky drevorubec
+villager.loneminer=Osamely hornik
+villager.lonemonk=Osamely mnich
+villager.loneabbot=Osamely opat
+villager.alchemist=Alchymista
+villager.alchemistassistant=Alchymistuv pomocnik
+villager.alchemistapprentice=Alchymistuv ucen
+villager.bandit=Bandita
+villager.armoredbandit=Zoldak
+villager.felonbaron=Baron
+villager.felonsoldier=Grazl
+
+
+
+shop.townhall=Obchod
+shop.forge=Nastroje
+shop.armoury=Zbrane & zbroje
+shop.bakery=Pekarna
+shop.cattlefarm=Ovci produkty
+shop.pigfarm=Praseci produkty
+shop.sheepchickenfarm=Drubez
+shop.tavern=Alcohol
+shop.lumberman=Mostova jablka

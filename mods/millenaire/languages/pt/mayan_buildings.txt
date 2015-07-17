@@ -1,0 +1,81 @@
+
+mayanplayerestate_A0=Grande Pirâmide
+mayancrafter_A0=Casa do Artesão
+mayanarmyforge_A0=Forja do Caçador
+mayansculptorhouse_A0=Casa do Escultor
+mayanlibrary_A0=Biblioteca
+mayanacropolis_A0=Campo de Bola Real
+mayanalter_A0=Altar Sacrificial
+mayanhouse_A0=Casa Maia
+mayanhouse_B0=Casa Maia
+mayanhouse_C0=Casa Maia
+mayanhouse_D0=Casa Maia
+mayanlumber_A0=Casa do Lenhador
+mayanmining_A0=Pedreira
+mayanguard_A0=Casa do Guardião
+mayangrove_A0=Bosque
+mayanpyramid_A0=Pirâmide
+mayaninn_A0=Albergaria
+mayanlargepeasanthouse_A0=Casa Grande
+mayanlargepeasanthouse_A_secondary_A0=Casa Grande
+mayanlargepeasanthouse2_A0=Casa Inferior
+mayanlargepeasanthouse2_A_secondary_A0=Casa Superior
+mayanbakery_A0=Padaria
+mayanballcourt_A0=Campo de Bola
+mayanplayerlargehouse_A0=Pirâmide Grandiosa
+mayancalendar_A0=Calendário Solar
+mayancave_A0=Gruta
+mayancistern_A0=Cisterna
+mayancornfarm_A0=Plantação de Milho
+mayancornfarm_B0=Plantação de Milho
+mayancornfarm_C0=Plantação de Milho
+mayanobservatory_A0=Observatório
+mayansheepchickenfarm_B0=Aviário
+mayanplayerhugefield_A0=Terreno Grande
+mayanplayerlargefield_A0=Terreno Médio
+mayanplayersmallfield_A0=Terreno Pequeno
+mayanplayersmallhouse_A0=Casa Antiga
+mayanshamangrounds_A0=Terrenos do Xamã
+mayansheepchickenfarm_A0=Aviário
+mayantemple_A0=Templo
+mayanwatchtower_A0=Torre de Vigia
+mayanmarket_A0=Mercado
+mayancacaofarm_A0=Plantação de Cacau
+mayancacaofarm_B0=Plantação de Cacau
+
+mayanguesthouse_A0=Estalagem
+mayanobsidiancrafter_A0=Oficina de Obsidiana
+
+mayanplayerpyramid_A0=Pirâmide
+
+lonemayancave_A0=Gruta Isolada
+lonemayanfarm_A0=Quinta Maia Isolada
+lonemayanshaman_A0=Terrenos Isolados do Xamã
+mayanbandits_A0=Posto de Bandidos
+mayanruinedpyramid_A0=Pirâmide Perdida
+mayanbandithome_A0=Residência de Bandidos
+lonemayanruin_A0=Casa Maia Abandonada
+lonemayancornfarm_A0=Quinta Maia Abandonada
+lonemayanmining_A0=Pedreira Maia Abandonada
+lonemayanpyramid_A0=Pirâmide Abandonada
+
+gifthouse_a0=Casa do Contribuidor
+
+questpyramid_A0=Pirâmide Amaldiçoada
+questpyramid_pit_A0=Pirâmide Amaldiçoada
+questpyramid_guards_A0=Pirâmide Amaldiçoada
+questpyramid_jail_A0=Pirâmide Amaldiçoada
+
+questguardtower_A0=Torre de Vigia
+questcamphouse_A0=Quartel
+questbarrack_A0=Quartel
+
+mayancamp_A0=Posto Maia
+mayancamp_outerguard_A0=Posto Maia
+mayancamp_dig_A0=Posto Maia
+mayancamp_wall_A0=Posto Maia
+mayancamp_jail_A0=Posto Maia
+mayancamp_innerguard_A0=Posto Maia
+
+questcave_door_A0=Gruta Maia
+questcave_A0=Gruta Maia

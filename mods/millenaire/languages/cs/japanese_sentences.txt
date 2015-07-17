@@ -1,0 +1,42 @@
+villager.greeting=Konnichiwa, $name-san! / Pekny den, $name-san!
+villager.greeting=Oi. / Ahoj.
+villager.greeting=Ogenki desuka, $name-san  / Jak se mas, $name-san?
+villager.greeting=Kawatta koto aru? / Nejake novinky?
+villager.greeting=Hajimemashite / Tesi me ze jsem te poznal.
+villager.greeting=Yokoso. / Vitej.
+villager.greeting=Gokigenyou. / Jak se dari?
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Potrebuji si odpocinout.
+villager.gorest=A-, mou neru jikan da / Cas jit spat.
+villager.gorest=Watashi wa totemo tukarete imasu./ Jsem tak unaveny.
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / Budu se modlit k bohyni Uga-no-Mintama pro skvelou sklizen.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami ochranuj nas od vseho zla. 
+
+villager.BringBackResourcesHome=Cho cho cho... / prace, prace, prace...
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Jdu pokacet par stromu.
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / Potrebuji nejake zasoby.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Zasadim tyto stromecky.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Bude z tebe dobra basta.
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / Musim si pro neco zkocit domu.
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / Tohle se doma bude hodit.
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / Mam nejake jidlo z trhu.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / Potrebuji vic materialu.
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / Muj otec me naucil jak stavet.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / Doufam, ze kami oceni moji budovu.
+
+villager.GoPlay=watashi wa asobitai desu. / Chci si hrat.
+villager.BecomeAdult=Seityou suru jikan. / Cas vyrust.
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / Chci byt valecnik.
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Chci se stat matkou.
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Uklidni svou mysl.
+
+villager.calltoarms=Mura wo mamore! / Brante vesnici!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / Toho budou litovat!
+villager.calltoarms=Kuki wo mote! / Do zbrani! Za Cisare!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Vyrabim nejlepsi nastroje po mnoho let.
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / Znam tajemstvi vyroby nejlepsich zbrani, ktere je predavano z mistra na ucne jiz nekolik generaci.

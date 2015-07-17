@@ -1,0 +1,9 @@
+0;Framling;Vi ar inte vana att ha framlingar i var avlagsna by.
+4*64;Kand;an sa lange har du inte gjort nagot dumt.
+16*64;Vanlig besokare;Namaste, $name! Vilka nyheter for du med dig?
+64*64;Favorit handlare;Valkommen tillbaka, $name. Vad har du med dig att handla med till oss?
+2*64*64;Van till byn;$name-ji, vi tycker alla om dig har i byn.
+8*64*64;En av oss;Jag trodde aldrig att jag skulle leva den dagen en utlanning blev accepterad i byn, men $name-ji, du ar en av oss nu!
+-64;Olagenhet;Vi tycker inte om framlingar har, sarskilt inte din sort.
+-4*64;Obehaglig framling;Den som uppfostrade dig gjorde ett daligt jobb. Vi hoppas all att du snart är borta.
+-16*64;Allman fiende;Varje morgon ber jag till gud att jag slipper se ditt ansikte igen.

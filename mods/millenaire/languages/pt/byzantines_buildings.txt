@@ -1,0 +1,63 @@
+quarrybyzantine_A0=Pedreira
+grovebyzantine_A0=Bosque
+churchbyzantine_A0=Sítio da Igreja
+churchbyzantine_A9=Igreja Ortodoxa
+churchbyzantine_A_altar_A0=Altar
+workshopbyzantine_A0=Oficina
+ancienttemplebyzantine_A0=Templo Clássico
+ancienttheatrebyzantine_A0=Teatro Clássico
+placebyzantine_A0=Prefeitura
+fortbyzantine_A0=Forte
+forgebyzantine_A0=Forja
+villa urbana_A0=Villa Urbana
+tavernbyzantine_A0=Taberna
+bakerybyzantine_A0=Padaria
+fisherbyzantine_A0=Cabana do Pescador
+lumberbyzantine_A0=Cabana do Lenhador
+watchtowerbyzantine_A0=Torre de Vigia
+chapelbyzantine_A0=Capela
+farmbyzantine_A0=Quinta
+sheepbyzantine_A0=Rancho Ovino
+playerfortbyzantine_A0=Forte
+innbyzantine_A0=Albergaria
+guesthousebyzantine_A0=Estalagem
+basilkabyzantine_A0=Mercado
+barracksbyzantine_A0=Quartel
+barracksbyzantine_A_bed_A0=Cama de Quartel
+presbyterybyzantine_A0=Presbitério
+fortbyzantine_A_forge_A0=Forja do Forte
+playerfortbyzantine_A_forge_A0=Forja do Forte
+well_A0=Poço
+
+artisanbyzantine_A0=Casa do Artesão
+testfarm_A0=Quinta
+testfarm_A_backerei_A0=Moinho
+
+oaktower_A0=Torre de Vigia
+birchtower_A0=Torre de Vigia
+pinetower_A0=Torre de Vigia
+jungletower_A0=Torre de Vigia
+
+placebyzantine_A_basilica_A0=Fórum
+vineyardbyzantine_A0=Vinhedo
+grovebirchbyzantine_A0=Bosque de Bétula
+silkfarmbyzantine_A0=Quinta Sericícola
+playerfortbyzantine_A_bed3_A0=Quarto do Forte
+fortbyzantine_A_bed3_A0=Quarto do Forte
+playerfortbyzantine_A_bed2_A0=Quarto do Forte
+fortbyzantine_A_bed1_A0=Quarto do Forte
+playerfortbyzantine_A_bed1_A0=Quarto do Forte
+fortbyzantine_A_bed2_A0=Quarto do Forte
+lighthouse_A0=Farol
+architectbyzantine_A0=Estúdio do Arquitecto
+lonecastle_A_living_A0=Quarto do Forte Isolado
+lonecastle_A0=Forte Isolado
+lonesheepfarm_A0=Rancho Ovino Isolado
+lonesheepfarm_B0=Rancho Ovino Isolado
+groveoakbyzantine_A0=Bosque de Carvalho
+
+lonecastle_A_training_A0=Área de Treinos
+lonecastle_A_praying_A0=Capela
+
+gifthouse_a0=Casa do Contribuidor
+playersmallhouse_a0=Casa Pequena

@@ -1,0 +1,56 @@
+
+villager.greeting=Ola, $name-ji! / Приветствуем тебя, $name!
+villager.greeting=U- ka'an yam k'iinal behla'e'. / Небо сегодня выглядит горячим.
+villager.greeting=Biix men u- pixan ts'aakik teech? / Как считают твои духи?
+villager.greeting=Ba'ax tumben? / Что нового?
+villager.greeting=Biix yam teech pamilya? / Как твоя семья?
+villager.greeting=Pixan tuuxtik gnat k'aaxal. / Духи посылают нам дождь.
+villager.greeting=Tu'ux yam teech lu'um? / Где твоя земля?
+mayan_shaman.greeting=Ts'aakik tal teech. / Духи защищают тебя.
+
+villager.gorest=He'lel bisik na. / Пришло время отдыха.
+villager.gorest=Ichil chuy ti wenel beora. / Теперь надо поспать.
+villager.gorest=Yaaawn. / *зевает*
+
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Духи, пошлите нам сильный урожай.
+villager.gopray=Pixan an gnat. / Духи, помогите нам.
+
+villager.BringBackResourcesHome=Ichil chuy ti yaab se'es ti kuch. / Я нарубил слишком много дров - тяжело нести.
+villager.ChopTrees=Ya'ul pak. / Время рубить дерево.
+villager.GatherGoods=Ichil chuk u- se'es sut otoch. / Несу я дерево домой.
+villager.PlantSaplings=Ichil tz'ap tulakal he'-la -che'. / Я посадил множество этих деревьев. 
+
+villager.DryBrick=To'on k'ab'eet tunich ti b'et ki- otoch. / Нам нужен камень для наших домов. 
+villager.GatherBrick=Ichil kuch ti yaab tunich. / Я несу очень много камня. 
+villager.CookBrick=A'-la yam k'a'am tunich. / Это сильный камень.
+villager.PlantMaize=K'aaxal tuuxtik gnat ichil k'a'am hoch. / Дожди пошлют нам сильный урожай.
+villager.HarvestMaize=Ki' k'aaxal ki' hoch. / Хороший дождь - хороший урожай.
+villager.PlantTurmeric=Yooch men u- han-ha. / Прянность улучает пищу.
+villager.HarvestTurmeric=A'-la yooch hoch si muk' ti han-ha. / Этот урожай прянности сделает нашу пищу приятнее.
+villager.SlaughterChicken=Ah kax si gnat b'ak'. / Курица дает на мясо.
+
+villager.GetHouseResources=Ichil chik nah yam ichil utz nah. / Чистый дом - хороший дом. 
+villager.GetGoodsHousold=Ichil k'ab'eet he'-la a-d'a'ax-tak k'am- otoch/ Нужно это отнести домой.
+villager.DeliverGoodsHousold=Ti yaab han-ha ti kuch. / Так много еды, но надо нести.
+villager.makeRasgulla=In-wah mo'nol pall yam k'oh. / Мои маленькие дети заболели.
+
+
+villager.GetResourcesForBuild=Yaab' ti- yaab' tunich. / Множество из множеств камня.
+villager.ConstructionStepByStep=Meyah meyah meyah. / Работа, работа, работа.
+villager.ConstructionStepByStep=Ichil k'ab'eet ichil k'a'am et-meyah. / Мне нужен сильный помошник. 
+
+villager.GoPlay=Ichil kolom uk chun su'uk. / Я играю на траве.
+villager.BecomeAdult=La la la la. / Ля ля ля ля.
+male.BecomeAdult=Ichil k'a't ti tz'ak-b' ha ah tz'on. / Хочу стать великим охотником.
+female.BecomeAdult=Ichil k'a't ha ichki. / Я хочу себе мужа.
+
+villager.gopray.chosen=Ichil t'an u- orasion. / Возношу молитву.
+mayan_shaman.gopray.chosen=U- orasion tal teech / Молитвы защитят тебя.
+
+villager.calltoarms=U- k'in yam in-ti'a'al! / В этот день все мое!
+villager.calltoarms=Kin-s-ab u- k'as hun. / Убей плохого человека!
+villager.calltoarms=Ti k'ab! / К оружию!
+
+villager.MakeTools=Man in-wah a'-b'a'ax. / Покупай мои вещи.
+villager.MakeWeapons=U- k'ab wa'yeh nik k'a'am. / Оружие у нас сильное.
+villager.ScultMayan=P'e k'in ichil k'am ti b'om. / Еще один день, когда мне хочется творить.

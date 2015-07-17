@@ -1,0 +1,42 @@
+villager.greeting=좋은아침 $name상! / 좋은아침 $name상!
+villager.greeting=저기요.. / 저기요..
+villager.greeting=$name,잘지내세요? / $name,잘지내세요?
+villager.greeting=뭔일 있나요? / 뭔일 있나요?
+villager.greeting=반갑습니다 / 반갑습니다
+villager.greeting=어서오세요! / 어서오세요!
+villager.greeting=안녕하세요? / 안녕하세요?
+
+villager.gorest=쉬고싶다... / 쉬고싶다..
+villager.gorest=아..잘시간이네.. / 아..잘시간이네..
+villager.gorest=힘들어어어어... / 힘들어어어어... 
+
+villager.gopray=여신이여 풍요로운 수확을 주소서.. / 여신이여 풍요로운 수확을 주소서..
+villager.gopray=신은 악마로부터 우리를 보호합니다. / 신은 악마로부터 우리를 보호합니다.
+
+villager.BringBackResourcesHome=일 일 일.... / 일 일 일....
+villager.ChopTrees=나무를 자르러 가야겠어. / 나무를 자르러 가야겠어.
+villager.GatherGoods=재료가 필요해. / 재료가 필요해.
+villager.PlantSaplings=묘목을 심어야겠어. / 묘목을 심어야겠어.
+
+villager.SlaughterChicken=5성쉐프는 아니지만 맛있을겁니다. / 5성쉐프는 아니지만 맛있을겁니다.
+
+villager.GetHouseResources=집에서 뭘좀 가져와야겠어. / 집에서 뭘좀 가져와야겠어.
+villager.GetGoodsHousold=집에 필요한게 있어. / 집에 필요한게 있어.
+villager.DeliverGoodsHousold=상점에서 먹을걸 사야겠어. / 상점에서 먹을걸 사야겠어
+
+villager.GetResourcesForBuild=재료가 필요해. / 재료가 필요해.
+villager.ConstructionStepByStep=아버지가 건설하는법을 가르쳐 주셨어. / 아버지가 건설하는법을 가르쳐 주셨어.
+villager.ConstructionStepByStep=신이 내 건물을 좋아했으면 좋겠는데.. / 신이 내 건물을 좋아했으면 좋겠는데.
+
+villager.GoPlay=놀고싶다! / 놀고싶다!
+villager.BecomeAdult=앗! 어린이가 어른으로 진화했다! / 앗! 어린이가 어른으로 진화했다!
+male.BecomeAdult=탱커가 되고싶다! 체력작은 마법사는 싫어! / 탱커가 되고싶다! 체력작은 마법사는 싫어!
+female.BecomeAdult=언젠가는 어머니가 되고싶어(그얼굴로?) / 언젠가는 어머니가 되고싶어(그얼굴로?)
+villager.gopray.chosen=침착해.... / 침착해....
+
+villager.calltoarms=마을을 지켜라! 반드시 막아야한다! / 마을을 지켜라! 반드시 막아야한다!
+villager.calltoarms=우릴 공격한걸 후회하게 해주겠어! / 우릴 공격한걸 후회하게 해주겠어!
+villager.calltoarms=무기를 잡아라 용사들이여! / 무기를 잡아라 용사들이여!
+
+villager.MakeTools=장인효과, 무기의 품질이 +15 증가합니다.(에?) / 장인효과, 무기의 품질이 +15 증가합니다.(에?)
+villager.MakeWeapons=이건 대대로 내려오는 무기제작법이지... / 이건 대대로 내려오는 무기제작법이지..

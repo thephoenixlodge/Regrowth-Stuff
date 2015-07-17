@@ -1,0 +1,44 @@
+version:4.2.1
+Millénaire: Abitanti normanni
+
+Capi dei villaggi
+
+Chevalier: Cavaliere. Vive nella fortezza, dalla quale esce solo per pattugliare le sue terre e recarsi nella taverna. Fai attenzione se lo incontri in battaglia! Capo del villaggio militare e della grande città.
+
+Moine: Monaco. Vive nell'abbazia, nella quale meticolosamente copia antichi libri su nuove pergamene. Un'arte, secondo lui. Capo del villaggio e del borgo ecclesiastico.
+
+Sénéchal : Siniscalco. Supervisiona la produzione agricola del suo villaggio dalla sua casa padronale. Capo del villaggio e del borgo agricolo.
+
+Maître de la Guilde : Maestro di corporazione. Supervisiona la produzione degli artigiani dalla sua sede corporativa. Capo del villaggio e del borgo artigiano.
+NEW_PAGE
+Donne
+
+Villageoise: Abitanti del villaggio di sesso femminile. Quasi tutte le donne adulte sono di questo tipo. I loro compiti sono di vario genere, tra cui trasportare risorse raccolte dai loro mariti al centro cittadino, costruire nuove strutture e aggiornare le vecchie, commerciare beni con il giocatore in diversi posti.
+
+Dame: Dama. Vive nella fortezza con suo marito, dove, utilizzando la lana, produce arazzi per decorare la fortezza stessa o per venderli al giocatore.
+NEW_PAGE
+Uomini
+
+Fermier: Contadino maschio. Vive in una fattoria, dove cresce e miete il grano.
+
+Bûcheron: Boscaiolo. Vive nella casa del boscaiolo. Raccoglie legna e mele per il sidro dagli alberi nel boschetto. E' il responsabile della manutenzione del boschetto ed è colui che pianta gli alberelli per produrre ancora più legna.
+
+Garde: Guardia. Vive nella casa della guardia. Non fa nulla, eccetto bere sidro e raramente pregare, a meno che un compaesano è attaccato. Non è davvero un facile nemico con cui combattere, soprattutto se è armato con il terribile spadone normanno.
+
+Prêtre: Sacerdote. Vive da solo nel presbiterio. Quando non è a pregare in chiesa, dorme.
+
+Forgeron: Fabbro. Vive in una fucina o in un'armeria. Se il ferro è disponibile, produrrà strumenti se è impiegato in una fucina, oppure armi e armature se è impiegato in un'armeria.
+
+Eleveur : Allevatore. Vive in una fattoria che alleva bestiame, maiali o polli. Raccoglie diversi beni da tali animali, producendo trippa normanna e gustoso boudin noir.
+
+Mineur : Minatore. Vive e lavora in una cava, scavando instancabilmente pietra e sabbia. Quando la sua cava viene aggiornata con fornaci, fonde pietra e sabbia per produrre pietra liscia e vetro.
+
+Charpentier : Carpentiere. Vive e lavora nella casa del carpentiere, dove produce strutture in legno da usare nella costruzione di nuovi edifici.
+
+Marchant : Mercante. Si sposta di locanda in locanda, commerciando beni da un villaggio a un altro. Il suo destino è di errare, per il bene di tutti gli abitanti del villaggio.
+
+Marchant étranger : Mercante straniero. Mercanti provenienti da terre lontane faranno visita al mercato locale per vendere i loro beni esotici, prima di lasciare il villaggio con i loro deniers giustamente guadagnati.
+NEW_PAGE
+Bambini
+
+Garçon / fille : bambino e bambina. Vivono con i loro parenti, crescendo di notte, finchè sono cresciuti abbastanza da trasferirsi in una casa vuota e diventare loro stessi adulti.

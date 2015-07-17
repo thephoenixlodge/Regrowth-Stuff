@@ -1,0 +1,56 @@
+version:1.1.4
+Millénaire: Przedmioty Normanów
+
+Denar. sredniowieczna waluta uzywana przez wiesniakow. Pojawia sie w trzech nominalach: zwykly, srebrny warty 64 zwykle i zloty warty 64 srebrne.
+
+Jablko. To niesamowite jablko jest zbierane przez drwali i uzywane do wyrobu jablecznika i calve.
+NEW_PAGE
+Food items
+
+Jablecznik. Wyrabiany przez wiesniakow z jablek. Ten odswierzajacy napoj uzdrawia dwa serca i moze byc uzyty trzy razy. 
+
+Calva. Bardziej znana jako calvados. To jakblkowe brandy z Normandii uzdrawia dwa serca i moze byc uzyte dziesiec razy. Jest robiona z jablecznika w karczmie i poza Millénaire zalecane jest spozycie w malych dawkach: waha sie w zakresie 40% do 45%.
+
+Flaczki. To slawne Normanskie danie jest tym, co powinienes zjesc po dlugim czasie pracy na dworze w zimnie lub po paskudnym Mincraftowym deszczu. Uzdrawia piec serc i moze byc uzyte trzy razy. Nie-Normanowie maja tendencje do cieszenia sie nimi bardziej zanim sie dowiedza, co to jest. Czuj sie ostrzezony.
+
+Czarna pasztetowa. Prawie tak dobra jak flaczki, czarna pasztetowa uzdrawia trzy serca i moze byc uzyta trzy razy. Jak jej kuzyn z Anglii czarny pudding, ma sklonnosc do smakowania lepiej ludziom, ktorzy nic nie wiedza jak jest robiona.
+NEW_PAGE
+Narzedzia i bronie
+
+Lopata Normanow. Wysokiej jakosci lopata Normanow jest tak wytrzymala jak zelazna, ale jest tak szybka jak zlota. Narzedzie wybierane przez prawdziwych kopaczy, dostepne w kuzni blisko Ciebie.
+
+Kilof Normanow. Ten kilof kopie tak szybko jak zloty i jest wytrzymaly jak zelazny. Perfekcyjny dla tych dlugich gorniczych wypraw! Ostroznie jednak, gdyz nie wydobedzie on obsydianu.
+
+Topor Normanow. Tak szybki jak zloty, tak wytrzymaly jak zelazny. Powoduje powazny cios, zwlaszcza w rekach wkurzonego drwala.
+
+Motyka Normanow. W gruncie rzeczy odpowiednik diamentowej, ale wyglada fajniej.
+
+Zbroja Normanow. Komplet zbroji normanow daje dodatkowo 50% wiecej ochrony niz diamentowy i wlasciwie powoduje, ze wygladasz groznie zamiast jak ubrany na kostium przebierancow.
+
+Dlugi miecz Normanow. Drogi, bardzo drogi i wart kazdego denara gdy musisz stawic czola twardemu wrogowi.
+NEW_PAGE
+Konstrukcja i dekoracja
+
+Drewniana rama. Ten material budowlany sklada sie belek ciemnego drewna otaczajacych rdzen z ziemi lub niewypalonych cegiel. Robiona przez ciesle do uzycia w budynkach wioski lub na handel.
+
+Gobeliny Normanow. Recznie robione przez dame we wlasnej osobie. Te epickie gobeliny udekoruja najbardziej okazale korytarze banku. Projekty wziete z Gobelinow Bayeux z najwiekszym, masywnym 15*3 obrazem floty Williama Zdobywcy plyacej do Anglii.
+NEW_PAGE
+Amulety
+
+Amulet Yggrasil. Wygrawerowany z Yggrasil, Drzewem swiata z Norweskiej mitologii, ktorego korzenie siegaja dna swiata i ktorego galezie siegaja czubka nieba. Ten amulet sprawi, ze zawsze bedziesz wiedzial na jak wysoko lub jak gleboko jestes.
+
+Amulet Kruka. Normanscy ksieza moga byc lojalni wobec kosciola i papieza w odleglym Rzymie, ale nie zapomnieli starozytnych tradycji Wikingow... Ten amulet dedykowany Odynowi bedzie Cie ostrzegal o nadchodzacym zagrozeniu poprzez zmiane koloru na czerwony, gdy nienaturalna istota jest blisko. Uzyteczne by ich unikac lub by ich szukac.
+
+Amulet Krasnoludow. Sprowadzony na Normanskie wybrzeza przez Wikingow i przekuty w ksztalt mlota Thora. Amulet ten poprowadzi Cie do bogactw Ziemi.
+
+Amulet Sköll i Rati. Czerpie swa moc od Sköll i Rati, wspanialych wilkow, ktore gonia Slonce i Ksiezyc. Ten amulet daje wlascicielowi moc zmieny nocy w dzien i dnia w noc. Lecz uwazaj: jego moc nie jest nieskonczona.
+NEW_PAGE
+Pergaminy
+
+Wiesniacy Normanscy. Pergamin podswietlajacy wiesniakow roznych profesji, ktorzy zabija Cie jesli ich dotkniesz.
+
+Budynki Normanow. Opis roznych budowli w ktorych wiesniacy utkneli podczas budowy.
+
+Przedmioty Normanow. Powienies juz wiedziec.
+
+Kompletny pergamin. Zawartosc poprzednich trzech pergaminow na jednym zwoju dla latwiejszego transportu.

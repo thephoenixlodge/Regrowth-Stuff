@@ -1,0 +1,78 @@
+
+mayanplayerestate_A0=거대 피라미드
+mayancrafter_A0=작업자
+mayanarmyforge_A0=사냥꾼의 대장간
+mayansculptorhouse_A0=조각가의 작업실
+mayanlibrary_A0=도서관
+mayanacropolis_A0=왕실 궁전
+mayanalter_A0=제단
+mayanhouse_A0=마야인의 집
+mayanhouse_B0=마야인의 집
+mayanhouse_C0=마야인의 집
+mayanhouse_D0=마야인의 집
+mayanlumber_A0=도끼병의 집
+mayanmining_A0=광산
+mayanguard_A0=경비병의 집
+mayangrove_A0=과수원
+mayanpyramid_A0=피라미드
+mayaninn_A0=여관
+mayanlargepeasanthouse_A0=대형 집
+mayanlargepeasanthouse_A_secondary_A0=대형 집
+mayanlargepeasanthouse2_A0=소형 집
+mayanlargepeasanthouse2_A_secondary_A0=옥상
+mayanbakery_A0=제과점
+mayanballcourt_A0=궁중
+mayanplayerlargehouse_A0=대형 피라미드
+mayancalendar_A0=태양 달력
+mayancave_A0=동굴
+mayancistern_A0=물 저장고
+mayancornfarm_A0=옥수수 밭
+mayancornfarm_B0=옥수수 밭
+mayancornfarm_C0=옥수수 밭
+mayanobservatory_A0=관측소
+mayansheepchickenfarm_B0=닭 농장
+mayanplayerhugefield_A0=대형 토지
+mayanplayerlargefield_A0=중형 토지
+mayanplayersmallfield_A0=소형 토지
+mayanplayersmallhouse_A0=낡은 집
+mayanshamangrounds_A0=주술사의 땅
+mayansheepchickenfarm_A0=닭 농장
+mayantemple_A0=사원
+mayanwatchtower_A0=감시탑
+mayanmarket_A0=시장
+mayancacaofarm_A0=코코아 농장
+mayancacaofarm_B0=코코아 농장
+
+mayanplayerpyramid_A0=플레이어의 피라미드
+
+lonemayancave_A0=마야인들의 동굴
+lonemayanfarm_A0=마야인들의 텃밭
+lonemayanshaman_A0=주술사의 땅
+mayanbandits_A0=강도의 소굴
+mayanruinedpyramid_A0=잊혀진 피라미드
+mayanbandithome_A0=강도의 집
+lonemayanruin_A0=잊혀진 마야인의 집
+lonemayancornfarm_A0=잊혀진 마야인의 옥수수 농장
+lonemayanmining_A0=잊혀진 광산
+mayanpyramid_A0=피라미드
+
+gifthouse_a0=선물 상점
+
+questpyramid_A0=저주받은 피라미드
+questpyramid_pit_A0=저주받은 피라미드
+questpyramid_guards_A0=저주받은 피라미드
+questpyramid_jail_A0=저주받은 피라미드
+
+questguardtower_A0=감시탑
+questcamphouse_A0=막사
+questbarrack_A0=막사
+
+mayancamp_A0=마야인들의 캠프
+mayancamp_outerguard_A0=마야인들의 캠프
+mayancamp_dig_A0=마야인들의 캠프
+mayancamp_wall_A0=마야인들의 캠프
+mayancamp_jail_A0=마야인들의 캠프
+mayancamp_innerguard_A0=마야인들의 캠프
+
+questcave_door_A0=마야인들의 동굴
+questcave_A0=마야인들의 동굴

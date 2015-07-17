@@ -1,0 +1,12 @@
+version:3.4
+<darkblue>Misiones
+
+Las misiones son tareas adicionales que puedes realizar para los aldeanos. Cuando la búsqueda está disponible, se mostrará por encima de la cabeza de un campesino entre paréntesis, por ejemplo: <darkblue>"[Sediento!]"<black>. Haz Click-Derecho para ver una descripción de la tarea y la capacidad para aceptar o rechazar. Las misiones serán recompensadas con dinero, reputación y objetos. Algunas misiones requieren que tengas una buena reputación con la aldea para estar disponibles.
+
+Para saber qué misiones has aceptado y que necesitas hacer, pulsa la tecla "M".
+
+<darkblue>Aventura de la Creación
+
+Esta colección especial incluye muchas misiones y tiene dos capítulos independientes, enfocados en las culturas India y Normanda. La primera misión de cada capítulo te la asignará un aldeano Indio o Normando una vez hayas alcanzado el nivel de reputación "Amigo del pueblo" (la búsqueda empieza al azar, por lo que puede tardar algún tiempo antes de que la misión esté disponible).
+
+Ambas misiones requieren que encuentres un edificio aislado especial. Debes explorar hasta que lo encuentres; ten cuidado ya que es muy raro. A diferencia de otros edificios aislados, estos edificios aparecen cuando pulses la tecla "V".

@@ -1,0 +1,46 @@
+version:4.2.1
+Millénaire: Aldeões Normandos
+
+Chefes da Aldeia
+
+Chevalier: Cavaleiro. Vive no forte, do qual se retira para patrulhar as suas terras e visitar a taberna. Tenha cuidado ao enfrentá-lo em combate! Líder das aldeias militares e das grandes vilas.
+
+Abbé: Abade. Vive na abadia, supervisionando o trabalho dos monges. Líder das aldeias e aldeolas secundárias eclesiásticas.
+
+Sénéchal: Senescal. Supervisiona a produção agrícola da sua aldeia a partir do seu solar. Líder das aldeias e aldeolas secundárias agrícolas.
+
+Maître de la Guilde: Mestre do Grémio. Supervisiona a produção dos artesãos a partir do salão do grémio. Líder das aldeias e aldeolas secundárias artesanais.
+NEW_PAGE
+Mulheres
+
+Villageoise: Aldeã. Quase todas as mulheres adultas pertencem a esta classe. As suas tarefas incluem trazer os recursos recolhidos pelos seus maridos até à Prefeitura, trabalhar na edificação de novas construções e na actualização das antigas e na venda e compra de bens ao jogador em diversos locais.
+
+Dame: Dama. Vive no forte com o seu marido, no qual cria tapeçarias de lã para decorar o mesmo e vender ao jogador.
+NEW_PAGE
+Homens
+
+Fermier: Agricultor. Vive numa quinta, na qual semeia e colhe plantações.
+
+Bûcheron: Lenhador. Vive na cabana do lenhador. Recolhe maçãs de sidra e depois serra as árvores que faz crescer nos seus bosques, plantando depois outros rebentos para produzir ainda mais árvores.
+
+Garde: Guarda. Vive na casa do guarda. Não faz mais nada senão beber sidra e rezar ocasionalmente, a não ser que um aldeão esteja em apuros. Não é fácil de derrotar, especialmente se estiver armado com uma impressionante espada Normanda.
+
+Prêtre: Padre. Vive sozinho no presbitério. Quando não esta a rezar na capela, dorme.
+
+Forgeron: Ferreiro. Vive na forja ou num armeiro. Se houver ferro disponível, cria ferramentas numa forja ou armas e armaduras num armeiro.
+
+Eleveur: Criador de Gado. Vive numa quinta bovina, suína ou ovina. Recolhe diversos bens provenientes dos seus animais para produzir fumegantes tripes Normandas ou o delicioso boudin noir.
+
+Mineur: Mineiro. Vive e trabalha numa pedreira, explorando-a incansavelmente para obter pedra e areia. Quando a sua pedreira é actualizada e recebe fornos, ele funde a pedra para criar pedra lisa e a areia para criar vidro.
+
+Charpentier: Carpinteiro. Vive e trabalha numa carpintaria, onde fabrica armações de madeira para serem utilizadas na construção.
+
+Moine: Monge. Vive na abadia, na qual ele copia arduamente livros antigos para novos pergaminhos. Uma arte, segundo ele.
+
+Marchant: Comerciante. Viaja de albergaria em albergaria, negociando bens de uma aldeia para outra. Faz parte do seu destino deambular pelo bem de todos os aldeões.
+
+Marchant Étranger: Comerciante Estrangeiro. Comerciantes de terras longínquas que visitam os mercados para vender os seus produtos exóticos, não indo embora sem antes se encherem dos deniers ganhos arduamente com o suor e lágrimas do jogador.
+NEW_PAGE
+Crianças
+
+Garçon / Fille: Rapaz / Rapariga. Vivem com os seus pais e crescem à noite, até que se tornam maturos o suficiente para se instalarem numa habitação vazia e se transformarem em adultos.

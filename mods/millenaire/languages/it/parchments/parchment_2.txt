@@ -1,0 +1,58 @@
+version:1.1.4
+Millénaire: Costruzioni normanne
+
+Centri dei villaggi
+
+Fort: Forte. Nei villaggi militari, questo piccolo forte di legno sostituisce il municipio. Un cavaliere e la sua dama vivono qui. Se vi è abbastanza pietra in città, gli abitanti del villaggio trasformeranno il forte in una possente fortezza.
+
+Abbaye : Abbazia. I villaggi ecclesiastici hanno per fulcro questo luogo di apprendimento e di devozione, dove un monaco produce instancabilmente manoscritti, conservati in scaffali ordinati. E' qui che i contadini del posto vanno a pagare le loro tasse, in beni e lavoro non retribuito per la Santa Chiesa. Verrà tutto ripagato nell'altro mondo.
+
+Manoir : Casa padronale. Al centro dei villaggi agricoli, questa casa padronale ospita un siniscalco, incaricato di fare in modo che i contadini paghino le tasse al re...e a lui.
+
+Hall de la Guilde : Casa della corporazione. Questa casa della corporazione, un vero e proprio testamento delle abilità dei lavoratori che la costruirono, serve come sede per gli artigiani locali, sotto la supervisione del severo maestro di corporazione.
+NEW_PAGE
+Alloggiamenti
+
+Armurerie : Armeria. Quando abitata da un fabbro, diventa il centro di produzione per spade e armature.
+
+Elevage Bovin : Allevamento di bovini. Le mucche vengono allevate qui, per ottenere pelle e produrre l'eccellente trippa normanna.
+
+Elevage Porcin : Allevamento di maiali. In questo posto i maiali vengono trasformati in grandi mucchi di braciole di maiale e di superbo boudin noir.
+
+Elevage Ovin : Allevamento di pecore. Le pecore che vengono allevate qui producono ottima lana. Una più piccola zona recintata ospita galline, le cui uova e piume vengono raccolte.
+
+Ferme : Fattoria. Una fattoria di grano, dove un contadino produce grano per il panificio.
+
+Forge : Fucina. Quando abitata da un fabbro, diventa il centro di produzione per gli strumenti normanni, usati dagli altri compaesani e acquistabili dal giocatore stesso.
+
+Maison du garde : Casa della guardia. Abitata da una guardia e da sua moglie.
+
+Hutte du bûcheron : Capanno del boscaiolo. Abitato da un boscaiolo e da sua moglie.
+
+Prestitère : Presbiterio. Abitato da un sacerdote.
+
+Carrière : Cava. Abitata da un minatore e da sua moglie. La cava è il luogo dove il minatore scaverà quantità apparentemente infinite di pietra e sabbia.
+
+Maison du charpentier : Casa del carpentiere. Abitata da un carpentiere e da sua moglie.
+
+Auberge : Locanda. Mercanti in visita alloggeranno qui mentre raccoglieranno beni dal villaggio. Se è vuota, un ragazzo del villaggio può diventare un mercante qui.
+
+Relais : Piccola locanda. Più piccola di una locanda, questo posto può ospitare un mercante in visita, ma nessun ragazzo del posto si trasferirà qui per diventare mercante.
+
+Marché : Mercato. Qualsiasi villaggio di dimensioni decenti alla fine vorrà un posto dove mercanti stranieri vengano a vendere merci esotiche!
+NEW_PAGE
+Costruzioni non abitate
+
+Archives du village : Archivio del municipio. Mostra un cartello per ogni abitante, che fornisce informazioni su ciò che stanno facendo e le loro storie familiari.
+
+Boulangerie : Panificio. Utilizzato dalle donne del villaggio per fare il pane dal grano raccolto dai contadini. E' un edificio importante, poichè la disponibilità di pane aumenta notevolmente la velocità con cui i bambini crescono.
+
+Chapelle / Eglise : Cappella / Chiesa. La cappella, successivamente aggiornata a chiesa, è visitata dagli abitanti del villaggio che sentono il bisogno di pregare.
+
+Taverne : Taverna. Le donne del villaggio si recano qui per produrre il sidro, e più tardi, quando un alambicco è installato, anche il calvados. Anche gli abitanti dei villaggio si recano qui per bere qualcosa, riposandosi dal lavoro.
+
+Tour de guet : Torre di guardia. Un posto di avvistamento visitato dalla guardia durante il pattugliamento.
+NEW_PAGE
+Edifici decorativi
+
+Fontaine / Grande Fontaine / Puit. Fontana / Grande fontana / Pozzo : edifici esclusivamente decorativi.

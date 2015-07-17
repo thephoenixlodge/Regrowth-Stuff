@@ -1,0 +1,68 @@
+﻿
+
+villager.greeting=Namaste, $name-ji! / ¡Saludos, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Hoy hace mucho calor.
+villager.greeting=Kya haal hai? / ¿Cómo va todo?
+villager.greeting=Kya khabar hai? / ¿Qué hay de nuevo?
+villager.greeting=Ghar par sa theek hain? / ¿Están todos bien en casa?
+villager.greeting=Yeh barish kyun nahin ho rahi? / ¿Por qué no ha llovido?
+villager.greeting=Kya tum se kale pani se pare ho? / ¿Vienes desde el otro lado del océano?
+indian_pandit.greeting=Jeetey raho. / Ten una bonita vida.
+merchant_oriental.greeting=Salam alaikum, bhai! / ¡Qué la paz te preceda, amigo!
+merchant_adivasi.greeting=Main van se a raha hoon / Acabo de venir del bosque
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Viajar es difícil para una mujer solitaria
+
+male.gorest=Ab jaakey aaram karta hoon. / Ahora, voy a descansar.
+male.gorest=Subah sey kaam kar raha hoon. / He estado trabajando toda la mañana.
+male.gorest=Main thak gaya hoon. / Estoy cansado. 
+
+female.gorest=Ab jaakey aaram karti hoon. / Iré a descansar.
+female.gorest=Subah sey kaam kar rahi hoon. / He trabajado toda la mañana.
+female.gorest=Main thak gayi hoon. / Estoy cansada.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Dios, has que la cosecha rinda frutos.
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / Dios, eres nuestra única esperanza.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Va a ser difícil llevar toda esta madera a la casa.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Parece que voy a pasar toda mi vida talando árboles.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Ahora recogeré toda la madera.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Mientras más árboles plante, más fácil será mi vida. 
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / ¿Cuántos ladrillos se necesitan para construir una casa?
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / El Sol está fuerte hoy, se han secado rápido. 
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Mira que bien se cuecen los ladrillos en el fuego.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Si llueve mucho, la cosecha será buena este año.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / A causa de buenas lluvias como esta, la cosechada será muy buena.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Al fin y al cabo, todos necesitan cúrcuma.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / De tanto recoger cúrcuma, mis manos están amarillas.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / ¡Ya he tenido suficiente curry vegetariano!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Todo termina siempre en la casa del patrón. 
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / ¡No importa que tanto le des a la familia, nunca es suficiente!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / ¿Como se supone que lleve toda esta comida yo sola?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / Los niños aman las rasgullas.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Veamos, una tonelada de ladrillos, dos de piedras...
+indian_peasant.Construction=Hindu vastu-kala desh videsh mein mashoor hai. / La arquitectura hindú es de renombre mundial.
+indian_peasant.Construction=Iskey baad, main lal kila banaoonga. / Cuando termine con esto, haré un fuerte rojo. 
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Me encanta jugar en la tierra.
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Basta de jugar, es hora de trabajar.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Quería convertirme en un gran guerrero cuando creciera...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Soñaba con casarme con un príncipe...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Es hora de visitar el templo.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Si no me encargo del tiempo, ¿quién lo hará?
+
+villager.calltoarms=Jeet hamari hoogi. / La victoria será nuestra.
+villager.calltoarms=Dushmano ki haar. / ¡Muerte al enemigo!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / ¡Levántense en armas paisanos!
+
+indian_smith.MakeTools= / Todos utilizan mis herramientas, y todos me menosprecian.
+indian_armysmith.MakeWeapons= / ¡Hacer armas es mucho más prestigioso que hacer herramientas!
+indian_sculptor.Scult= / La escultura es el arte del hoyo y del bulto.
+
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / ¡Observa las riquezas persas!
+merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / Todo es cultivado por mi familia, adentrado en la junga.
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / ¡Comida casera para viajeros hambrientos!

@@ -1,0 +1,42 @@
+villager.greeting=Konnichiwa, $name-san! / Que tengas un buen día, $name-san!
+villager.greeting=Oi. / Escucho.
+villager.greeting=Ogenki desuka, $name-san  / ¿Cómo está, $name-san?
+villager.greeting=Kawatta koto aru? / ¿Qué hay de nuevo?
+villager.greeting=Hajimemashite / Encantado de Conocerte.
+villager.greeting=Yokoso. / Bienvenido.
+villager.greeting=Gokigenyou. / ¿Cómo te va?
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Necesito un descanso.
+villager.gorest=A-, mou neru jikan da / Ah, mu magamisaeg.
+villager.gorest=Watashi wa totemo tukarete imasu./ Estoy demasiado cansado.
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / Le ruego a Dios que ésta cosecha sea buena.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami nos proteje del mal. 
+
+villager.BringBackResourcesHome=Cho cho cho... / Trabajo, trabajo y más trabajo...
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Voy a cortar a algunos árboles.
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / Necesito recursos.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Yo planté estos árboles.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Ésta será una buena comida.
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / Tengo que tomar algo de la casa.
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / Éstas son las cosas que necesito en casa.
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / Tengo los recursos para el mercado.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / Necesito más materiales.
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / Mi papá me esta enseñando a construirlo.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / Espero que quede bien éste edificio.
+
+villager.GoPlay=watashi wa asobitai desu. / Quiero jugar.
+villager.BecomeAdult=Seityou suru jikan. / Tiempo de crecer.
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / Quiero ser un guerrero! 
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Quiero ser madre algun día.
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Calma tu mente.
+
+villager.calltoarms=Mura wo mamore! / A protejer la Aldea!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / Lamentaran el día en que nos atacaron!
+villager.calltoarms=Kuki wo mote! / A las Armas!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Estoy haciendo las mejores herramientas.
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / El Secreto que me confiaron mis maestros las hace las mejores armas.

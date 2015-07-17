@@ -1,0 +1,53 @@
+playerestate_A0=Villa
+forge_A0=Fucina
+armyforge_A0=Fucina militare
+scultorhouse_A0=Casa dello scultore
+archives_A0=Archivio del tempio
+chiefhouse_A0=Casa del capo
+chiefhouse_B0=Casa del capo
+fort_A0=Fortezza
+fort_A_forge_A0=Fucina della fortezza
+fort_A_soldierhouse_A0=Caserma
+peasanthouse_A0=Casa del contadino
+peasanthouse_B0=Casa del contadino
+peasanthouse_C0=Casa del contadino
+lumbermanhouse_A0=Casa del boscaiolo
+quarry_A0=Cava
+quarry_B0=Cava 
+soldierhouse_A0=Casa dei soldati
+brickkiln_A0=Fornace per mattoni
+grove_A0=Boschetto
+paddy_A0=Risaia
+spicegarden_A0=Giardino per le spezie
+sugarplantation_A0=Piantagione di zucchero
+villagetemple_A0=Tempio
+palace_A0=Palazzo
+guesthouse_A0=Piccola locanda
+inn_A0=Locanda
+largepeasanthouse_A0=Grande casa
+largepeasanthouse_A_secondary_A0=Casa secondaria
+playerpalace_A0=Palazzo del giocatore
+playerhugefield_A0=Terreno enorme
+playerlargefield_A0=Terreno grande
+playersmallfield_A0=Terreno piccolo
+playersmallhouse_A0=Piccola casa
+bazaar_A0=Bazaar
+tank_A0=Serbatoio
+
+//extra buildings:
+well_A0=Pozzo
+
+//lone buildings:
+adivasifarm_A0=Fattoria Adivasi
+adivasifarm_B0=Fattoria Adivasi 
+deserttradeoutpost_A0=Base commerciale del deserto
+ruinedfort_A0=Forte diroccato
+sandblasted_A0=Base commerciale abbandonata
+indiandesertedfarm_A0=Fattoria indiana distrutta
+loneshrine_A0=Santuario indù isolato
+sadhutree_A0=Albero di Sadhu
+
+gifthouse_a0=Casa Bonus
+
+//missing in EN
+pandithouse_A0=Casa del sacerdote

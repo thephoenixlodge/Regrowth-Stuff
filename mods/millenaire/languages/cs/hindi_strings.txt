@@ -1,0 +1,32 @@
+culture.hindi=Indove
+
+villager.indian_boy=Chlapec
+villager.indian_girl=Divka
+villager.indian_teenagerMale=Mladik
+villager.indian_teenagerFemale=Slecna
+villager.indian_lumberman=Drevorubec
+villager.indian_miner=Hornik
+villager.indian_pandit=Knez
+villager.indian_peasant=Sedlak
+villager.indian_peasantwife=Sedlakova zena
+villager.indian_rajputgeneral=Rajputsky general
+villager.indian_richwoman=Bohata zena
+villager.indian_soldier=Rajputsky vojak
+villager.indian_villagechief=Velitel
+villager.indian_smith=Kovar
+villager.indian_armysmith=Zbrojir
+villager.indian_sculptor=Sochar
+villager.indian_panditayin=Knezova zena
+villager.indian_raja=
+villager.indian_rani=
+villager.indian_merchant=Obchodnik
+villager.indian_lonetrader=Cestak
+villager.indian_adivasipeasant=Adivasky sedlak
+villager.indian_sadhu=
+villager.merchant_oriental=Persky obchodnik
+villager.merchant_adivasi=Adivasky obchodnik
+villager.merchant_villagewoman=Vesnicky obchodnik
+
+shop.townhall=Obchod
+shop.forge=Nastroje
+shop.armyforge=Zbroje & zbrane

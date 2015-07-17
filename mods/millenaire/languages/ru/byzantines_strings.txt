@@ -1,0 +1,57 @@
+culture.byzantines=Греки (Византийцы)
+
+villager.teenagerMale=Грек
+villager.teenagerFemale=Гречанка
+villager.boy_byzantine=Мальчик
+villager.girl_byzantine=Девочка
+villager.farmiller_byzantine=Мельник
+villager.farmiller_wife_byzantine=Жена мельника
+villager.wife_byzantine=Женщина
+villager.miner_byzantine=Шахтер
+villager.artisan_byzantine=Ремесленник
+villager.patriarch_byzantine=Патриарх
+villager.lumberman_byzantine=Лесоруб
+villager.shepherd_byzantine=Пастух
+villager.shepherd_female_byzantine=Пастушка
+villager.fisherman_byzantine=Рыбак
+villager.baron_byzantine=Барон
+villager.richwife_byzantine=Богатая женщина
+villager.merchant_norman=Норманский купец
+villager.merchant_hindi=Купец Хинди
+villager.merchant_mayan=Купец Майя
+villager.merchant_japanese=Японский купец
+villager.centurio_byzantine=Сотник
+villager.soldier_byzantine=Солдат
+villager.playersoldier_byzantine=Солдат
+villager.smith_byzantine=Кузнец
+villager.merchant_byzantine=Торговец
+villager.pastor_byzantine=Пастор
+villager.artwife_byzantine=Жена ремесленника
+villager.architect_byzantine=Архитектор
+villager.silkfarmer_byzantine=Ткач из шелка
+villager.silkfarmerwife_byzantine=Ткачиха из шелка
+villager.armysmith_byzantine=Оружейник
+
+villager.smuggler_silk=Торговец шелком
+villager.merchant_art=Торговец предм. искусства 
+villager.merchant_food=Торговец едой
+villager.merchant_materials=Торговец стройматериалов
+
+villager.keeperOak_byzantine=Стражник
+villager.keeperBirch_byzantine=Стражник
+villager.keeperTropical_byzantine=Стражник
+villager.keeperPine_byzantine=Стражник
+villager.loneshepherd_byzantine=Пастух
+villager.loneshepherdf_byzantine=Пастушка
+villager.keeper_byzantine=Маяк
+
+shop.townhall=Главный рынок
+shop.forge=Инструменты
+shop.armyforge=Оружие и броня
+shop.lonetower=Еда
+shop.tavernbyz=Вина
+shop.lonesheep=Шерсть
+shop.bakery=Булочная
+shop.fishery=Рыба
+shop.sheepfarm=Мясо
+shop.clothing=Одежда

@@ -1,0 +1,100 @@
+villager.greeting=Bonjour, $name! / 你好, $name!
+villager.greeting=Belle journée, n'est pas? / 今天的天气不错, 不是吗?
+villager.greeting=Il va pleuvoir, je le sens / 要下雨了, 我可以感觉得到.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / 我不记得诺曼底是那个样子t.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / 你看起来有点瘦弱, $name. 如果你有什么麻烦我会保护你的.
+priest.greeting=Soyez béni, mon fils. /祝福你, 我的孩子.
+monk.greeting=Dieu soit avec toi, mon frère. / 神明与你同在, 好兄弟.
+boy.greeting=Quand je serai grand, je veux être comme papa. / 长大后我要像我父亲一样!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / 我只会服从威廉国王, 诺曼底公爵和神明.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name, 你知道我曾在黑斯廷斯战斗过吗?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / 以诺曼底公爵的名义占领这块奇怪而陌生的土地!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. /我的妹妹与一个公爵结婚了. 所以我住在这里.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / 你应该去看看我父亲的城堡. 那才是了不起的堡垒.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / 这片土地是维京的土地. 英格兰是维京的土地. 西西里岛是维京的土地. 我们是王者!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / 今天我是来贸易的, 明天呢...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / 你想不想知道我一个人在这些年里带着珍贵的货物是如何生存下来的?
+plant_merchant.greeting=Some people say I'm a dreamer, but I'm not the only one... / 有些人说我是一个不切实际的人, 但是我可不是唯一的一个...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / 这片土地十分富饶, 但為甚麼会这么冷?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / 你有没有到过科尔多瓦? 那才是一个文明化的城市.
+art_merchant.greeting=Les gens ici sont des barbares. / 这里的人都是野蛮人.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / 在这个世界上没有城市能与君士坦丁堡相比.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / 我们拜占庭人是最后剩下的真正罗马后裔. 照耀在我们民族的光荣下吧!
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / 加泰城西部拥有最好的荷兰纺织品.
+seneschal.greeting=Je gère ces terres pour mon roi. / 我为我的王管理这片土地.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / 我迫不及待地想回到皇家法院.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / 无人管理的团队做不出大事。
+
+knight.patrol=Je reigne sur ces terres. / 我统治着这片土地.
+knight.patrol=La force fait le droit, et je suis fort. / 我很强大.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / 这里没人会欣赏艺术.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / 把这些放在墙上或许会让这里看起来不是这么脏兮兮的. 当然只是或许.
+
+villager.gorest=Un peu de repos me ferait du bien... / 我可能需要休息一会...
+villager.gorest=La vie ici est un peu morne. / 在这里生活有点无聊.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / 这里永远不会有什么刺激的事会发生.
+villager.gorest=Je suis fatigué. / 我累了.
+villager.godrink=C'est à boire qu'il nous faut! / 我要去喝一杯!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / 一瓶苹果酒不会让任何人醉倒.
+villager.gopray=Je parle à Dieu, pas vous, $name. / 我在和神交谈, 而不是你, $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / 让我们吧这些稻米带回去.
+farmer.CollectCrop=On dirait que le blé est mûr. / 看来稻米已经熟了.
+farmer.PlantSeeds=Je plante, et je récolterai. / 先播种,然后就会收获.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / 即使是我的妻子也不得不承认这木材的数量庞大.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / 看我把那棵树砍倒!
+lumberman.GatherGoods=Bel arbrisseau là-bas. / 那里的树苗不错.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / 不久之后这就会成长为一棵巨大的树! 而我会把它砍倒.
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. /看来我那懒惰的丈夫终于干了点活.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / 我要去拿一两吨的建筑材料. 我比外表看起来更强壮.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / 我的面包是村里最好的.
+//villager.BeSeller=Coming, coming!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / 酿造苹果酒可不是这儿的最差的工作.
+wife.MakeCalva=Une boisson d'homme, faite par une femme. / 男人的酒,女人酿造.
+wife.construction=Je construit, je construit, comme seule une femme le peu ! / 建造, 建造, 就像只有女人才懂建造一样!
+wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / 男人干这些可不像女人一样干净利落.
+wife.construction=Ca va être un bâtiment superbe. / 这会是一座华美的建筑.
+wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / 为什么我总是拿东西的那个人?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  他们总说"拿这个,拿那个". 总有一天我什么都不拿了!
+
+villager.GoPlay=Je vais aller jouer dehors. / 我想我会出去玩.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / 是成为对社会有用的人的时候了!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / 如果你知道做这些东西的材料的话,你就不会再吃它了.
+
+smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / 诺曼工具是世界上最好的工具.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par moi. / 不要和拿着我制作的武器的人打架.
+
+
+miner.Mining=Miner est un art, vous savez. / 采矿是一种艺术, 你应该知道.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / 全村只有我有力气和耐性去做这工作,但人们一点感激之情也没有?
+miner.Cooking=Ca c’est de la vrai cuisson. / 现在要留意火候了.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / 很久没有祈祷过了...
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / 祈祷可比看起来难多了.
+
+villager.calltoarms=Aux armes ! Aux armes ! / 拿起武器! 拿起武器!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / 为了信仰!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / 如果虚荣不是一种罪,我会向人说我的手稿是这里最好的.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… /这可不应该被外来人看到...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Viking magic is powerful magic.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / 过来看看吧! 我不会告诉你要做出这些护身符所需的代价的！
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / 你不会想知道给我留下这个疤痕的人怎样了。但你可以买我用过的大刀。
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / 我出售所有你会用到的药草.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / 来看看人们梦寐以求的奢侈品吧!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / 这儿的人都知道珍珠比猪宝贵.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / 这儿有你需要的粉红色羊毛!
+
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / 有一个优质的瓶子才能做出一瓶成功的药水!
+villager.harvestwarts=Heuresement que je porte des gants. / 感谢神明,还好我戴了手套.
+villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / 只有Vif-argent大师知道如何让这些可恶的东西生长.
+villager.brewpotions=Un jour je serais un maître alchimiste! / 总有一天我会成为一个炼金术士大师!

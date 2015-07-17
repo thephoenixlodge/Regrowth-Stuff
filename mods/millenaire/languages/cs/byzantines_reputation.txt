@@ -1,0 +1,10 @@
+0;Cizinec;Uvítáme u nás každého obchodníka, ale důvěru si musí získat.
+4*64;Známá tvář;V poslední době si tu vidět velmi často.
+16*64;Pravidelný návštěvník;Xaire, $name! Je pěkné tě vidět. Jak se daří?
+64*64;Oblíbený obchodník;Všichni jsou rádi ze tě vidí. Máš něco na výměnu?
+2*64*64;Přítel vesnice;Věříme ti. Stal ses součástí naší vesnice $name!
+8*64*64;Jeden z nás;Pro nás si Římský občan $name. Možná ses mezi námi nenarodil, ale teď se můžeš hrdě nazývat pravým  Římanem.
+32*64*64;Přirozený vůdce;$name, získal si důvěru a respekt Římanů. Budou tě následovat kamkoliv.
+-64;Protiva;Nejsi zrovna počestný, $name. Kontroluj se!
+-4*64;Nepříjemný outsider;Sneseme obchodníky, ale ne lidi jako ty! Dávej si pozor.
+-16*64;Veřejný nepřítel;Je poněkud trapné, ze tě celá Římská říše nechala žít. Pokud máš rád svůj život, odejdi a nikdy se nevracej.

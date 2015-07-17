@@ -1,0 +1,22 @@
+{
+    "name": "stonebrickcrackedtrans",
+    "default-texture": "stonebrick_cracked_trans",
+	"texture-info": {
+        // Any sides not defined here will use the defined default texture
+        "front": "stonebrick_cracked_trans",
+        "back": "stonebrick_cracked_trans",
+        "left": "stonebrick_cracked_trans",
+        "right": "stonebrick_cracked_trans",
+        "top": "stonebrick_cracked",
+        "bottom": "stonebrick_cracked_burnt"
+    },
+    "material": "stone",
+    "hardness": 1.5,
+    "type": "block",
+	"drops-self": "false",
+	"drops": [
+		{"item": "minecraft:cracked_stonebrick", "amount": "1", "damage": "0"}
+    ],
+	"flammable": "false",
+    "requires-tool": "false"
+}

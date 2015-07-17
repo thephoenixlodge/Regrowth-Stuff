@@ -1,0 +1,4 @@
+#Define seeds that will ignore the vanilla planting rule here: <mod>:<seedname>:<seedmeta>
+#You can get these values from NEI
+#All seeds defined here will still be able to be planted outside of crops when vanilla farming is disabled
+#For example: AgriCraft:seedDandelion

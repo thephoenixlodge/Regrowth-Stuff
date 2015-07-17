@@ -1,0 +1,35 @@
+culture.hindi=Hindi
+
+villager.indian_boy=소년
+villager.indian_girl=소녀
+villager.indian_teenagerMale=십대 소년
+villager.indian_teenagerFemale=십대 소녀
+villager.indian_lumberman=나무꾼
+villager.indian_miner=광부
+villager.indian_pandit=성직자
+villager.indian_peasant=농부
+villager.indian_peasantwife=여자 농부
+villager.indian_rajputgeneral=라지푸트족  
+villager.indian_richwoman=부자
+villager.indian_soldier=라지푸트족 병사
+villager.indian_villagechief=마을 장
+villager.indian_smith=대장장이
+villager.indian_armysmith=군대 대장장이
+villager.indian_sculptor=돌 조각가
+villager.indian_panditayin=성직자의 아내
+villager.indian_raja=라자
+villager.indian_rani=라니
+villager.indian_merchant=상인
+villager.indian_lonetrader=외로운 상인
+villager.indian_adivasipeasant= 농부
+villager.indian_adivasipeasantwife=원주민 농부
+villager.indian_sadhu=사두
+villager.merchant_oriental=Persian 상인
+villager.merchant_adivasi=원주민 상인
+villager.merchant_villagewoman=마을 상인
+
+shop.townhall=중앙 상점
+shop.forge=도구
+shop.armyforge=갑옷 & 무기
+shop.adivasifarm=원주민 생산품
+shop.deserttradeoutpost=소중한 상품

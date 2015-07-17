@@ -1,0 +1,10 @@
+0;Straniero;Non siamo abituati a vedere stranieri nel nostro paese remoto.
+4*64;Viso conosciuto;Finora hai rispettato le nostre tradizioni.
+16*64;Visitatore regolare;Namaste, $name! Quale notizie porti?
+64*64;Mercante;Bentornato, $name. Quali beni hai portato per commerciare con noi?
+2*64*64;Amico del villaggio;$name-ji, tutti ti considerano un vero amico del nostro villaggio.
+8*64*64;Uno di noi;Non avrei mai pensato di vivere talmente tanto da vedere uno straniero accettato nel villaggio, ma $name-ji, sei davvero uno di noi ora!
+32*64*64;Leader naturale;$name-ji, ti sei guadagnato la fiducia e il rispetto del mio popolo. Loro ti seguiranno ovunque.
+-64;Scocciatore;Non ci piacciono gli stranieri qui, specialmente del tuo genere.
+-4*64;Straniero sgradito;Chiunque ti abbia cresciuto ha fatto davvero un pessimo lavoro. Speriamo davvero di non vederti mai più.
+-16*64;Nemico pubblico;Ogni mattina prego la Dea affinchè mi conceda di non rivedere mai più il tuo volto.

@@ -1,0 +1,36 @@
+version:4.2.1
+Millénaire Inwoners
+
+Chevalier: Ridder. Woont in het fort, van waaruit hij naar zijn land gaat om te patrouilleren en de taveerne te bezoeken. Kijk uit, met hem wil je niet vechten! Hoofd van de military en gros bourg dorpen.
+
+Dame: Vrouw. Woont bij haar echtgenoot, waar ze wandtapijten van wol maakt om het fort te decoreren en te verkopen aan de speler.
+
+Moine: Monnik. Woont in de abdij, waar hij nauwgezet oude boeken op perkamenten kopieert. Een kunst, volgens hem. Hoofd van de ecclesiastic hamlets en dorpen.
+
+Sénéchal : Senesjal. Houdt toezicht op de landbouwproductie van zijn dorp vanuit zijn herenhuis. Hoofd van de agricultural hamlets en dorpen.
+
+Maître de la Guilde : Gildemeester. Houdt toezich op de productie van de ambachtslieden vanuit zijn gildehuis. Hoofd van de artisanal hamlets en dorpen.
+
+Villageoise: Vrouwelijke dorpeling. Bijna alle volwassen vrouwen zijn van dit type. Hun taken zijn middelen geproduceerd door hun echtgenoot naar het gemeentehuis te brengen, het bouwen van nieuwe gebouwen en oude verbeteren, en het kopen en verkopen van goederen aan de speler.
+
+Fermier: Mannelijke boer. Woont op de boerderij, waar hij gewassen plant en oogst.
+
+Bûcheron: Houthakker. Woont in het houthakkershut. Verzamelt hout en ciderappels van de bomen uit het park en plant jonge boompjes voor meer bomen.
+
+Garde: Bewaker. Woont in het wachters huis. Doet niks behalve cider drinken en bidden, behalve als een mededorpeling word aangevallen. Een slechte vijand om te hebben, zeker als hij een vreselijk normandisch slagzwaard draagt.
+
+Prêtre: Priester. Woont alleen in de pastorie. Als hij niet aan het bidden is in de kerk slaapt hij. Er zijn geruchten dat hij oude vikingrituelen verbergt achter een masker van katholieke toewijding.
+
+Forgeron: Smid. Woont in een smederij of een arsenaal. Als er ijzer is zal hij gereeschap maken in de smederij of pantsers en zwaarden in het arsenaal.
+
+Eleveur / Eleveuse : Mannelijke en Vrouwelijke veeboer. Woont op een veeboederij, een biggenboederij, of een kippenboederij. verzamelt verschillende goederen van boederijdieren en maakt stomige normandische pens en lekkere bloedworst.
+
+Mineur : Mijnwerker. Woont en werkt in een groeve, waar hij onvermoeibaar zand en steen mijnt. Wanneer zijn steengroeve wordt verbeterd met ovens, smelt hij ze in vlaksteen en glas.
+
+Charpentier : Timmerman. Woont en werkt in een timmermans huis, waar hij houten frames maakt voor gebruik bij het bouwen.
+
+Marchant : Handelaar. Gaat van herberg naar herberg, en handelt goederen tusen dorpen. Het is zijn lot om te zwerven voor het goede van dorpelingen.
+
+Marchant étranger : Buitenlandse handelaar. Handelaren van ver weg zullen markten bezoeken om hun exotische goederen te verkopen, voordat ze er vandoor gaan met je hard verdiende geld.
+
+Garçon / fille : Jongen en meisje. Wonen bij hun ouders en groeien s'nachts, totdat ze groot genoeg zijn om te verhuizen en volwassen te worden.

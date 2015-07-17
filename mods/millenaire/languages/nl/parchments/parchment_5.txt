@@ -1,0 +1,38 @@
+version:1.1.4
+Millénaire: Indian Villagers
+
+Village Leaders:                                                                              
+
+Gaanv ka Mukhiya: Dorpshoofd. Deze rijke man is de baas en heeft het meeste land van het dorp, en zo heeft hij het probleem van "Kiezen" voor de leider.
+
+Rajput Senapati: Rajput General. Hij is van een voorname familie, hij bekijkt de verdediging van het dorp vanuit zijn fort. Als hij zijn burgers genoeg kan laten werken dan wordt zijn fort erg groot en sterk.
+NEW_PAGE
+Women:
+
+Mahilaa kisaana: Dorpeling. Deze lagere klasse vrouw doet moeilijke en dankeloze taken bijvoorbeeld op het veld, eten en werktuigen brengen, en praten met de speler. Zonder hen, zou het dorp helemaal vastlopen.
+
+Malkin: Rijke vrouw. Hun gouden geborduurde Sari's worden alleen geëvenaard door hun terughoudenheid om enig werk te doen.
+NEW_PAGE
+Men:
+
+Kisaana: Dorpeling. Deze arme mensen laten hun kippen groeien om ze eens op te eten, maar zijn nu gedwongen om te bouwen, het produceren van stenen en de akkers te bewerken met hun vrouwen.
+
+Lakarhara: Houthakker. Deze toegewijde mannen, met hun imposante baarden, hakken bomen in de parken.
+
+Khanik: Mijnwerker. Deze mannen besteden hun hele dag in de mijn, terwijl zij rug brekend werk uitvoeren. Integenstelling tot hun Normandische broeders, hebben zij niet het comfort om een taveerne te bezoeken aan het einde van de dag.
+
+Rajput Sainik: Rajput soldaat. Deze mannen zijn opgegroeid als militairen en zijn getraind sinds hun kindertijd. De rol van hen is het verdedigen van het dorp - wees voorzichtig, omdat ze het serieus doen.
+
+Loohaar: Smid. Hun beroep is misschien niet de meest presigieuze, maar wat kunnen de dorpelingen doen zonder werktuigen?
+
+Sena ka Loohaar: Leger Smid. Deze militaire smids zijn gespecialiseerd in het maken van wapens en bescherming; moeilijk werk, maar meer de moeite waard dan het maken van landwerktuigen.
+
+Muurtikaar: Beeldhouwer. Als beide artiest en vakman, zij hebben de eer van het beeldhouwen van beelden die aanbeden worden in tempels.
+
+Pandit: Priester. Geboren in de Brahmin families, deze wijze mannen dienen als priesters in hun dorp. Hun eindeloze wijsheid van Sanskrit hymns wordt geevenaard door hun eindeloze weigering om werkelijk werk te doen.
+NEW_PAGE
+Children:
+
+Larki / Larka: Meisje / Jongen. Leven met hun ouders tot ze oud genoeg zijn om een Jongere te worden.
+
+Kishori / Kishor: Jongere (F/M). Nog steeds jong, maar oud genoeg om zelf te gaan werken en een eigen huishouden en huis te hebben.

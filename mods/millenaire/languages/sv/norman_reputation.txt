@@ -1,0 +1,9 @@
+0;Framling;Vi ar forsiktiga med framlingar har, nykommling. Men var snall mot oss sa kommer folk vara gastvanliga.
+4*64;Kand;Vi har sett dig har forut, och inga kycklingar har forsvunnit. Fortsatt sa har sa kommer vi bli vänner.
+16*64;Vanlig besokare;Valkommen, $name! Det ar kul att du ar har igen.
+64*64;Favorit handlare;Ah, $name! Alla byborna langtade efter att du skulle komma tillbaka.
+2*64*64;Van till byn;Vi Normaner ar inte kanda for att latt lita pa folk, men min goda van $name, du har verkligen visat att vi kan lita pa dig!
+8*64*64;En av oss;Det ar alltid kul att se dig $name. Du ma komma fran fjarran land, men du ar verkligen en av oss nu.
+-64;Olagenhet;Vi haller koll pa dig, $name. Var pa din vakt.
+-4*64;Obehaglig främling;Du har verkligen varit en olagen het har. Var glad att vi inte har sparkat ut dig an.
+-16*64;Allman fiende;Din narvaro har ar nastan inte uthardlig langre. Ett felsteg och du är kord.

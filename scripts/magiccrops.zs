@@ -140,6 +140,16 @@ val bone = <minecraft:bone>;
 val snowball = <minecraft:snowball>;
 val cactusGreen = <minecraft:dye:2>;
 val feather = <minecraft:feather>;
+val magicFood = <magicalcrops:magicalcrops_MagicalFood>;
+val strawberry = <magicalcrops:magicalcrops_CropProduce:6>;
+val sweetcorn = <magicalcrops:magicalcrops_CropProduce:7>;
+val blackberry = <magicalcrops:magicalcrops_CropProduce>;
+val blueberry = <magicalcrops:magicalcrops_CropProduce:1>;
+val tomato = <magicalcrops:magicalcrops_CropProduce:8>;
+val chilli = <magicalcrops:magicalcrops_CropProduce:2>;
+val cucumber = <magicalcrops:magicalcrops_CropProduce:3>;
+val grape = <magicalcrops:magicalcrops_CropProduce:4>;
+val raspberry = <magicalcrops:magicalcrops_CropProduce:5>;
 //Runes
 val waterRune = <Botania:rune>;
 val fireRune = <Botania:rune:1>;
@@ -167,13 +177,14 @@ val reekOfMisfortune = <witchery:ingredient:35>;
 ManaInfusion.addInfusion(essenceSeeds, seeds, 2500);
 
 //add osmium essence -> ore crafting recipe
+recipes.remove(oreOsmium);
 recipes.addShaped(oreOsmium * 2, [[osmiumEssence, osmiumEssence, osmiumEssence], [osmiumEssence, null, osmiumEssence], [osmiumEssence, osmiumEssence, osmiumEssence]]);
 
 //change infusion stone recipes
 recipes.remove(infusionStoneWeak);
 recipes.addShaped(infusionStoneWeak, [[essenceDust, essenceDust, essenceDust], [essenceDust, manaPearl, essenceDust], [essenceDust, essenceDust, essenceDust]]);
 recipes.remove(infusionStoneRegular);
-RuneAltar.addRecipe(infusionStoneRegular, [essenceWeak, essenceWeak, essenceWeak, essenceWeak, ironEssence, dyeEssence, coalEssence, enderEssence, copperEssence, tinEssence], 15000);
+RuneAltar.addRecipe(infusionStoneRegular, [essenceWeak, essenceWeak, essenceWeak, essenceWeak, ironEssence, dyeEssence, coalEssence, copperEssence, tinEssence], 15000);
 recipes.remove(infusionStoneStrong);
 RuneAltar.addRecipe(infusionStoneStrong, [essenceRegular, essenceRegular, essenceRegular, essenceRegular, blazeEssence, obsidianEssence, airEssence, fireEssence, waterEssence, earthEssence, goldEssence, skeletonEssence, aluminumEssence, expEssence], 30000);
 recipes.remove(infusionStoneExtreme);
@@ -260,6 +271,11 @@ recipes.remove(snowball);
 
 //remove dye essence -> cactus green recipe
 recipes.removeShaped(cactusGreen, [[null, null, null], [null, null, null], [dyeEssence, dyeEssence, dyeEssence]]);
+recipes.addShapeless(cactusGreen, [<ExtrabiomesXL:waterplant1>]);
 
 //remove air essence -> feather recipe
 recipes.remove(feather);
+
+//change magical food recipe ]:>
+recipes.remove(magicFood);
+recipes.addShapeless(magicFood, [strawberry, sweetcorn, blackberry, blueberry, tomato, chilli, cucumber, grape, raspberry]);

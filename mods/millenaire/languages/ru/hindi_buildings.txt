@@ -1,0 +1,51 @@
+playerestate_A0=Особняк странника
+forge_A0=Кузня
+armyforge_A0=Армейская кузня
+scultorhouse_A0=Дом резчика по камню
+archives_A0=Архивы храма
+chiefhouse_A0=Дом вождя
+chiefhouse_B0=Дом вождя
+fort_A0=Форт
+fort_A_forge_A0=Оружейная
+fort_A_soldierhouse_A0=Казарма
+pandithouse_A0=Дом священника
+peasanthouse_A0=Дом крестьянина
+peasanthouse_B0=Дом крестьянина
+peasanthouse_C0=Дом крестьянина
+lumbermanhouse_A0=Дом дровосека
+quarry_A0=Каменоломня
+quarry_B0=Каменоломня
+soldierhouse_A0=Дом солдата
+brickkiln_A0=Кирпичные печи
+grove_A0=Роща
+paddy_A0=Рисовое поле
+spicegarden_A0=Сад прянностей
+sugarplantation_A0=Плантация тростника
+villagetemple_A0=Храм поселения
+palace_A0=Дворец
+guesthouse_A0=Постоялый двор
+inn_A0=Гостиница
+largepeasanthouse_A0=Большой дом
+largepeasanthouse_A_secondary_A0=Расширение дома
+playerpalace_A0=Дворец странника
+playerhugefield_A0=Огромное поле
+playerlargefield_A0=Большое поле
+playersmallfield_A0=Малое поле
+playersmallhouse_A0=Малый дом
+bazaar_A0=Базар
+tank_A0=Колодец
+
+//extra buildings:
+well_A0=Колодец
+
+//lone buildings:
+adivasifarm_A0=Ферма аборигенов
+adivasifarm_B0=Ферма аборигенов
+deserttradeoutpost_A0=Пустынный торговый пост
+ruinedfort_A0=Разрушенный форт
+sandblasted_A0=Заброшенный торговый пост
+indiandesertedfarm_A0=Разоренная индийская ферма
+loneshrine_A0=Одинокая индийская святыня
+sadhutree_A0=Древо мудреца
+
+gifthouse_a0=Дом подарок

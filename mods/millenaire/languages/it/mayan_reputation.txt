@@ -1,0 +1,10 @@
+0;Straniero;Non abbiamo mai visto gente con la tua carnagione, dobbiamo stare in guardia.
+4*64;Faccia conosciuta;Stai attento, I nostri guerrieri ti tengono d'occhio.
+16*64;Visitatore regolare;$name! Ci sono novità?
+64*64;Mercante favorito;Bentornato, $name. Come sempre le tue mercanzie sono le benvenute.
+2*64*64;Amico del villagio;$name, Ci hai veramento aiutato a raggiungere tempi migliori.
+8*64*64;Uno di noi;$name i nostri sciamani ti hanno unto come uno di noi.
+32*64*64;Leader naturale;Ti sei guadagnato la fiducia e il rispetto di tutti i Maya. Ti seguiranno ovunque tu vada. 
+-64;Fastidio;Vattene. La tua razza non distruggerà la nostra cultura.
+-4*64;Estraneo non benvenuto;Hai portato corruzione e disordine nel nostro villaggio.
+-16*64;Nemico pubblico;Hai distrutto il nostro modo di vivere, questo non verrà tollerato.

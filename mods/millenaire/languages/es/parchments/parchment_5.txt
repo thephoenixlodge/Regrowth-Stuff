@@ -1,0 +1,38 @@
+version:1.1.4
+Millénaire: Aldeanos hindúes
+
+Jefes de aldea:
+
+Gaanv ka Mukhiya: Jefe de la aldea. Este suntuoso hombre es propietario de la mayoría de la aldea y da empleo a todos sus habitantes, así que no le resulta difícil ser "elegido" como líder.
+
+Rajput Senapati: General Rajput. Proveniente de un muy distinguido linaje familiar Rajput, supervisa la defensa de la aldea desde la comodidad de su fuerte. Si consigue que los aldeanos trabajen lo suficiente, su fuerte se convertirá en una poderosa fortaleza.
+NEW_PAGE
+Mujeres:
+
+Mahilaa kisaana: Campesina. Estas mujeres de la clase baja realizan tareas difíciles e ingratas tales como atender los campos, repartir comida y herramientas e interactuar con el jugador. Sin ellas, las aldeas estarían paralizadas.
+
+Malkin: Mujer adinerada. Su sari bordado en oro sólo se compara con su renuencia a hacer cualquier tipo de trabajo.
+NEW_PAGE
+Hombres:
+
+Kisaana: Campesino. Estos pobres hombres aspiran a poder criar sus propios pollos algún día, pero por ahora son forzados a construir edificios, producir ladrillos y atender los campos con sus esposas.
+
+Lakarhara: Leñador. Estos dedicados hombres y sus barbas imponentes atienden las arboledas.
+
+Khanik: Minero. Pasan el día en la cantera, realizando tareas agotadoras. A diferencia de sus contrapartes normandas, no tienen la comodidad de visitar una taberna al final del día.
+
+Rajput Sainik: Soldado Rajput. Fueron criados para servir al ejército y han sido entrenados para pelear desde la infancia. Su papel es defender la aldea - y ten cuidado, porque se lo toman en serio.
+
+Loohaar: Herrero. Puede que su profesión no sea la mas prestigiosa, ¿pero qué haría la aldea sin sus herramientas?
+
+Sena ka Loohaar: Herrero de armas. Estos herreros militares están especializados en la herrería de armas; tarea difícil, pero de mayor recompensa que la agricultura.
+
+Muurtikaar: Escultor. Ambos, artistas y artesanos, tienen el honor de crear las esculturas que adornan el templo.
+
+Pandit: Sacerdote. Nacidos de familias brahmanes, estos sabios sirven de sacerdotes a la aldea. Su infinito conocimiento de himnos sánscritos sólo es comparable a su reticencia de hacer trabajo verdadero.
+NEW_PAGE
+Niños:
+
+Larki / Larka: Niña / Niño. Viven con sus padres el tiempo suficiente hasta ser considerados jóvenes.
+
+Kishori / Kishor: Joven (F/M). Aún jóvenes, pero lo suficientemente viejos como para tener trabajo y casa.

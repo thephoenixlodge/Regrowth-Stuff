@@ -1,0 +1,57 @@
+culture.byzantines=비잔틴
+
+villager.teenagerMale=십대 소년
+villager.teenagerFemale=십대 소녀
+villager.boy_byzantine=소년
+villager.girl_byzantine=소녀
+villager.farmiller_byzantine=제분업자
+villager.farmiller_wife_byzantine=제분업자의 아내
+villager.wife_byzantine=아내
+villager.miner_byzantine=광부
+villager.artisan_byzantine=장인
+villager.patriarch_byzantine=대주교
+villager.lumberman_byzantine=나무꾼
+villager.shepherd_byzantine=양치기
+villager.shepherd_female_byzantine=양치는 여자
+villager.fisherman_byzantine=낚시꾼
+villager.baron_byzantine=남작
+villager.richwife_byzantine=부유한 여성
+villager.merchant_norman=노르만 상인
+villager.merchant_hindi=인도 상인
+villager.merchant_mayan=마야 상인
+villager.merchant_japanese=일본 상인
+villager.centurio_byzantine=센트리오
+villager.soldier_byzantine=군인
+villager.playersoldier_byzantine=군인
+villager.smith_byzantine=대장장이
+villager.merchant_byzantine=상인
+villager.pastor_byzantine=목사
+villager.artwife_byzantine=장인의 아내
+villager.architect_byzantine=건축가
+villager.silkfarmer_byzantine=실크 직공
+villager.silkfarmerwife_byzantine=실크 직공
+villager.armysmith_byzantine=갑옷 제작자
+
+villager.smuggler_silk=실크 상인
+villager.merchant_art=미술품 상인
+villager.merchant_food=식료품 상인
+villager.merchant_materials=석재 상인
+
+villager.keeperOak_byzantine=보안관
+villager.keeperBirch_byzantine=보안관
+villager.keeperTropical_byzantine=보안관
+villager.keeperPine_byzantine=보안관
+villager.loneshepherd_byzantine=양치기
+villager.loneshepherdf_byzantine=양치는 여자
+villager.keeper_byzantine=등대지기
+
+shop.townhall=중앙 상점
+shop.forge=도구
+shop.armyforge=도구, 무기, 갑옷
+shop.lonetower=식료품
+shop.tavernbyz=와인
+shop.lonesheep=양털
+shop.bakery=제과점
+shop.fishery=물고기
+shop.sheepfarm=양고기와 가죽
+shop.clothing=의복

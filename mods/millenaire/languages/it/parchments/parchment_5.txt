@@ -1,0 +1,38 @@
+version:1.1.4
+Millénaire: Abitanti dei villaggi indiani
+
+Capi dei villaggi:
+
+Gaanv ka Mukhiya: Capo del villaggio. Questo ricco uomo dà lavoro alla maggior parte del villaggio e possiede la maggior parte delle terre dove risiede: per tali motivi affronta ben poche difficoltà nell'essere scelto come "leader".
+
+Rajput Senapati: Generale Rajput. Proveniente da una facoltosa famiglia Rajput, supervisiona la difesa del suo villaggio chiuso nel suo sicuro forte. Se riesce ad ottenere abbastanza lavoro dagli abitanti del villaggio, il suo forte diventerà una possente fortezza.
+NEW_PAGE
+Donne:
+
+Mahilaa kisaana: Contadina. Queste donne delle classi inferiori eseguono compiti difficili e ingrati, come prendersi cura dei campi, consegnare cibo e strumenti, e interagire con il giocatore. Senza di loro, il villaggio si fermerebbe.
+
+Malkin: Donne ricche. I loro sari ricamati in oro sono pari solo alla loro riluttanza a fare qualsiasi lavoro.
+NEW_PAGE
+Uomini:
+
+Kisaana: Contadino. Questi poveri uomini aspirano ad allevare le loro galline, un giorno, ma per ora sono costretti a costruire edifici, produrre mattoni per il villaggio, e badare ai campi con le loro mogli.
+
+Lakarhara: Boscaiolo. Questi uomini specializzati, con la loro barba imponente, si prendono cura dei boschetti del villaggio.
+
+Khanik: Minatori. Questi uomini trascorrono la loro giornata nella cava, eseguendo un lavoro estenuante. A differenza dei loro fratelli normanni, non hanno nemmeno il conforto di una visita alla taverna, alla fine della giornata.
+
+Rajput Sainik: Soldato Rajput. Questi uomini sono stati cresciuti come veri uomini d'armi e sono stati addestrati a combattere fin dall'infanzia. Il loro ruolo è quello di difendere il villaggio - e stai attento, perché prendono tale compito sul serio.
+
+Loohaar: Fabbro. La loro professione potrebbe non essere la più prestigiosa, ma cosa farebbero gli abitanti del villaggio senza i loro strumenti?
+
+Sena ka Loohaar: Fabbro d'armi. Questi fabbri d'armi sono specializzati nella forgia di armi e armature; lavoro difficile, ma più gratificante che fare attrezzi agricoli.
+
+Muurtikaar: Scultore. Essendo sia artisti che artigiani, hanno il grande onore di fabbricare le statue che adornano il tempio.
+
+Pandit: Sacerdoti. Nati nelle famiglie dei bramini, questi saggi uomini sono i sacerdoti dei loro villaggi. La loro conoscenza infinita di inni in sanscrito si sposa con il loro rifiuto categorico a fare il lavoro vero e proprio.
+NEW_PAGE
+Bambini:
+
+Larki / Larka: Bambina / Bambino. Vivono con i loro parenti finché non sono abbastanza grandi per poter essere considerati ragazzi.
+
+Kishori / Kishor: Ragazzo (F/M). Ancora giovani, ma grandi abbastanza per avere un proprio lavoro e una propria casa, una volta che si siano trasferiti in una nuova casa.

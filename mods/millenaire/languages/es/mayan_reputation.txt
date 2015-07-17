@@ -1,0 +1,10 @@
+0;Extranjero;No hemos visto a nadie con ese color de piel, estaremos atentos.
+4*64;Cara Conocida; Date por avisado, nuestros guerreros mantendrán sus ojos en ti.
+16*64;Visitante Regular;$name! Trajo algo para intercambiar?
+64*64;Comerciante Favorito;Hola $name! Como siempre, sus articulos son bienvenidos. 
+2*64*64;El Amigo del Pueblo;$name, eres el hombre blanco que más no ha ayudado.
+8*64*64;Uno de Nosotros;$name, nuestros chamanes te han proclamdo como uno de nosotros.
+32*64*64;Lider Natural;Usted tiene la confianza y la fidelidad de mi pueblo, lo seguiran a cualquier parte. 
+-64;Azote;Deje nuestra tierra. No dejaremos que ridiculize nuestra cultura.
+-4*64;Forastero Desagradable;Usted ha traido el hedor y el desorden a nuestra aldea.
+-16*64;Enemigo Público;Usted a violado nuestras costumbres. No podemos permitirnos su presencia.

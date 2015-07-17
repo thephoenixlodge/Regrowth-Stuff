@@ -1,0 +1,42 @@
+version:1.1.4
+Millénaire: Aldeões Hindus
+
+Chefes da Aldeia
+
+Gaanv ka Mukhiya: Chefe da Aldeia. Este poderoso homem emprega a maioria da aldeia e é dono da maioria da terra, e como tal poucos obstáculos surgem que possam impedir o seu "reconhecimento" como líder.
+
+Raja: Rei. Vive num palácio extenso com a sua esposa, protegido pelos seus leais súbditos. Ele considera-se um deus e necessita de ter o maior e mais faustoso palácio possível, para o desânimo dos aldeões que ficarem encarregados de o construir.
+
+Rajput Senapati: General Rajput. Vindo de uma linhagem Rajput de renome, ele supervisiona a defesa da sua aldeia na segurança do seu forte. Se for capaz de explorar os seus aldeões o suficiente, conseguirá que o seu forte se transforme numa magnânime fortaleza.
+NEW_PAGE
+Mulheres
+
+Mahilaa Kisaana: Camponesa. Estas mulheres de classe baixa estão incumbidas das tarefas mais difíceis e menos reconhecidas como cuidar da terra, entregar alimentos e ferramentas e interagir com o jogador. Sem elas, a aldeia estagnaria por completo.
+
+Malkin: Mulheres Ricas. Os seus sáris revestidos em ouro só são equiparáveis à sua obstinação em não fazer qualquer tipo de trabalho.
+NEW_PAGE
+Homens
+
+Kisaan: Camponês. Estes pobres homens aspiram a criar as suas próprias galinhas um dia, mas por agora são forçados a edificar construções, a produzir tijolos para a aldeia e a lavrar a terra com as suas esposas.
+
+Lakarhara: Lenhador. Estes homens dedicados de barba imponente cuidam dos bosques da aldeia.
+
+Khanik: Mineiro. Estes homens passam o dia na Pedreira a executar tarefas de fazer doer os ossos. Ao contrário dos seus equivalentes Normandos, não têm o conforto de uma visita à taberna no final do dia.
+
+Rajput Sainik: Soldado Rajput. Estes homens foram criados na vida militar e treinados para combater desde a infância. O seu papel é defender a aldeia - e tenha cuidado, pois eles levam-no muito a sério.
+
+Loohaar: Ferreiro. A sua profissão pode não ser a mais prestigiosa, mas o que fariam os aldeões sem as suas ferramentas?
+
+Sena ka Loohaar: Ferreiro Militar. Estes ferreiros militares especializaram-se em forjar espadas e armaduras; é um trabalho árduo, mas muito mais compensatório do que fabricar ferramentas para a agricultura.
+
+Muurtikaar: Escultor. Tendo tanto de artistas como de artesãos, os escultores têm a enorme honra de criar as estátuas que decoram o templo da sua aldeia.
+
+Pandit: Sacerdote. Provenientes de famílias Brâmanes, estes sábios homens servem de guias espirituais nas suas aldeias. A sua sabedoria infindável dos cânticos em Sânscrito é equiparável à sua relutância em fazer qualquer tipo de trabalho.
+
+Vyapari: Comerciante. Estes homens transitam bens entre a sua aldeia e outras próximas para negociar. Geralmente necessitam de atravessar desertos escaldantes para lá chegar, para depois regressar pelo mesmo caminho com outros bens como pagamento.
+NEW_PAGE
+Children:
+
+Larki / Larka: Rapariga / Rapaz. Vivem com os seus progenitores até terem idade suficiente para serem considerados jovens.
+
+Kishori / Kishor: Jovem. Ainda novos, mas já maduros o suficiente para terem profissão e habitação próprias assim que se instalarem no seu novo lar.

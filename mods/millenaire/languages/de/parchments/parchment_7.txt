@@ -1,0 +1,59 @@
+version:1.1.4
+Millénaire: Indische Objekte
+
+<darkblue>Denier
+Aus noch historisch unerklärten Gründen, benutzen die Inder, genauso wie die Normannen Deniers als Zahlungsmittel. Es gibt sie in 3 Arten: Denier (Kupferdenier), Denier Argent (Silberdenier) welche 64 Kupferdeniers wert sind und Denier Or (Golddenier) welche 64 Deniers Argent wert sind.
+
+NEW_PAGE
+<darkred>Essen
+
+<darkblue>Reis
+Ein Grundnahrungsmittel der Dorfbewohner. Reis kann man im Dorfzentrum kaufen. Ansicht hat Reis keinen Geschmack und kann vom Spieler so nicht gegessen werden. Dorfkinder wachsen schneller wenn Reis im Haus ist.
+
+<darkblue>Gelbwurz
+Dieses Pulver Gewürz wird durch Mahlen der Wurzel des Gelbwurz gewonnen. Es ist eine notwendige Zutat in Curry. Wie bei Reis, beschleunigt seine Präsenz das Wachstum von Kindern. 
+
+<darkblue>Vegetarisches Curry
+Hergestellt aus einer Portion Reis und einer Portion Gelbwurz, stellt dieses einfache Curry 2 Herzen wieder her.
+
+<darkblue>Hühnerfleisch
+Bauern die einen Hühnerstall haben liefern diese Grundlage für Murgh Curry. es wirkt sich ebenfalls auf das Wachstum Indischer Kinder aus. Der Spieler kann es roh essen, es stellt aber nur ein halbes Herz wieder her.
+
+<darkblue>Murgh curry
+Murgh curry wird aus Reis, Gelbwurz und Hühnchen gemacht. Diese Köstlichkeit füllt 4 Herzen wieder auf.
+
+<darkblue>Rasgulla
+Dieser Nachtisch wird aus gebackenem Käse und Zuckersirup, welcher von Zuckerrohr stammt, von den Dorffrauen hergestellt. Um ein Herz zu heilen, muss man acht Rasgulla essen. Wenn es von Paaren im Dorf verzehrt wird, erhöht es die Chancen auf Nachwuchs. Bevor jetzt Fragen kommen, dazu gibt es keine weiteren Einzelheiten.
+
+NEW_PAGE
+<darkred>Konstruktion und Dekoration
+
+<darkblue>Nasse Lehmziegel
+Das erste Stadium von Lehmziegeln welche aus Erde und Sand gemacht werden. Nasse Lehmziegel trocken in der Sonne zu Lehmziegeln aus.
+
+<darkblue>Lehmziegel
+Diese einfachen Lehmziegel sind der Grundbaustein aller Indischen Dörfer
+
+<darkblue>Gebrannte Lehmziegel
+Nach dem brenne im Ofen, werden aus Lehmziegeln gebrannte Lehmziegel, welche stärker und schöner anzusehen sind.
+
+<darkblue>Ziegelform
+Mit diesem Werkzeug, welches man in indischen Dörfern kauft, kann man nasse Lehmziegel herstellen. Benutze dazu die Form auf ebener Fläche während du Sand und Dreck im Inventar hast.
+
+<darkblue>Hindu Statue
+Diese Statuen von Hindu Gottheiten werden vom Bildhauer hergestellt, um den Dorf Tempel zu schmücken oder sie an Kunst begeisterte Spieler zu verkaufen.
+
+NEW_PAGE
+<darkred>Pergamente
+
+<darkblue>Indischer Dorfbewohner
+Eine Schriftrolle mit Informationen über die Indischen Dorfbewohner, sowohl jenen die arbeiten al auch jene die andern lieber dabei zusehen.
+
+<darkblue>Indische Gebäude
+Eine Liste aller indischen Gebäude. Von der einfachen Holzfällerhütte bis hin zur eindrucksvollen Festung des Rajput Generals.
+
+<darkblue>Indische Objekte
+Muss man dir das sagen?
+
+<darkblue>Die Inder
+Der Inhalt der drei vorangegangenen, in einem kompakten Design für einfachen Transport.

@@ -1,0 +1,73 @@
+culture.norman=Normanda
+
+//Norman:
+villager.abbot=Abade
+villager.carpenter=Carpinteiro
+villager.cattleFarmerMale=Vaqueiro
+villager.cattleFarmerFemale=Vaqueira
+villager.pigherd=Guardador de Porcos
+villager.pigherdF=Guardadora de Porcos
+villager.shepherd=Pastor
+villager.shepherdF=Pastora
+villager.boy=Rapaz
+villager.girl=Rapariga
+villager.teenagerMale=Jovem
+villager.teenagerFemale=Jovem
+villager.farmer=Agricultor
+villager.merchant_viking=Comerciante Viking
+villager.merchant_weapons=Comerciante de Armamentos
+villager.merchant_plant=Comerciante de Plantas
+villager.merchant_art=Comerciante de Arte
+villager.merchant_wool=Comerciante Têxtil
+villager.merchant_food=Comerciante de Alimentos
+villager.guard=Guarda
+villager.guildmaster=Mestre do Grémio
+villager.knight=Cavaleiro
+villager.lady=Dama
+villager.lumberman=Lenhador
+villager.merchant=Comerciante
+villager.miner=Mineiro
+villager.monk=Monge
+villager.priest=Padre
+villager.seneschal=Senescal
+villager.smith=Ferreiro
+villager.wife=Aldeã
+
+villager.innkeeperfemale=Estalajadeira
+villager.innkeepermale=Estalajadeiro
+villager.lonemiller=Moleiro
+villager.merchant_weapon=Comerciante de Armamentos
+villager.robberbaron=Líder Bandido
+villager.robberleader=Líder Bandido
+
+villager.lonelumberman=Lenhador
+villager.lonelumbermantaiga=Lenhador
+villager.loneminer=Mineiro
+villager.lonemonk=Monge
+villager.loneabbot=Abade
+villager.alchemist=Alquimista
+villager.alchemistassistant=Assistente do Alquimista
+villager.alchemistapprentice=Aprendiz do Alquimista
+villager.bandit=Bandido
+villager.armoredbandit=Bandido
+villager.felonbaron=Bandido
+villager.felonsoldier=Bandido
+
+
+
+shop.alchemyworkshop=Produtos Alquímicos
+shop.armoury=Armas e Armaduras
+shop.bakery=Pão
+shop.cattlefarm=Produtos Bovinos
+shop.forge=Ferramentas
+shop.loneabbey=Produtos da Abadia
+shop.loneinn=Mantimentos e Bebidas
+shop.lonelumberman=Madeira e Maçãs
+shop.lonelumbermantaiga=Madeira
+shop.lonemill=Pão
+shop.lonemine=Pedra
+shop.lumberman=Maçãs de Sidra
+shop.pigfarm=Produtos Suínos
+shop.sheepchickenfarm=Couro e Produtos de Aves
+shop.tavern=Álcool
+shop.townhall=Loja Central

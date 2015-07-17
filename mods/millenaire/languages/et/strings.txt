@@ -1,0 +1,1144 @@
+﻿
+startup.loadproblem= Tekkis viga, kui proovite laadida <0>.
+startup.checkload= Kontrollige, et kultuuride kataloog on Millenaire kataloogis minecraft kataloogis.
+startup.millenaireloaded=<0> on laetud. Vajuta '<1>' et leida külasid.
+startup.radiuswarning= HOIATUS: Seadistamine küla raadiust nii suureks, ei peaks osutuma vajalikuks ning võib põhjustada mängu tükitamist. Väärtused üle 70 ei soovitata.
+startup.bonus= Bonus sisu lubatud.
+
+command.nogenerate=<0> ei tekita enam külasid külade aladele selles maailmas.
+command.willgenerate=<0>  tekitab nüüd külasid külade aladele selles maailmas.
+command.astarpathing=Kasutades A* rada
+command.binarypathing= kasutades kahekomponentsete rada
+command.minecraftpathing=Kasutades Minecraft rada
+command.inactive=Tegevusetu
+command.active=Tegev
+command.frozen=Külmunud
+command.villagelist=<4>: <0> (<1>) on <2> meetrit <3>.
+command.villagelistkeylonebuilding=<0> on <1> meetrit <2>.
+command.noknowvillage=Ei ole ühtegit teada olevat küla lähemal kui 2km. Otsi veel!
+command.newvillagefound=Uus küla asub : <0> tüüpi <1> kultuurist <2> on <3> meetrit <4>.
+command.newlonebuildingfound=Uus hoone asub: <0> on <1> meetrit <2>.
+command.pathrebuild=Kaart ja tee  <0> on taastatud.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Lukustatud kirst
+ui.largelockedchest=Suur lukustatud kirst
+ui.unlockedchest=Lukustamatta kirst
+ui.largeunlockedchest=Suur lukustamatta kirst
+ui.allchestsunlocked=Kõik kirstud <0> on nüüd avatud.
+ui.outofstock=Otsas!
+ui.reputationneeded=Mainet vaja: <0>
+ui.missingdeniers=Sul on puudu veel <0> dinaari.
+ui.missingequipment=Kadunud varustus
+ui.noneininventory=Sul pole ühtegit inventaris .
+ui.selling=Müüakse
+ui.buying=Ostetakse
+ui.buybuilding=Osta <0> (<1>)
+ui.buybonusbuilding= Soovin boonust: <0>
+ui.sellercoming=<0>: Ma kohe tulen, $name!
+ui.tradecomplete=<0>: Ma loodan, et sulle meeldis meiega kaubelda! Head päeva.
+ui.sellerboycott=<0>: Me ei kauple suga kunagi. Lindprii!
+ui.sellernotcurrently possible=<0>: Kuidas sa saad mõelda kauplemisele, kui meie küla on laastatud?
+ui.wesell=Müüakse
+ui.webuy=Ostetakse
+ui.isell=Müün
+ui.inventory= Inventar
+ui.villagechief=Küla juht  <0>
+ui.yourstatus=Sinu maine
+ui.possiblehousing=Võimalikud eluasemed
+ui.alreadybuilt=on juba ehitatud
+ui.alreadyrequested= juba taotletud
+ui.notavailableyet= pole veel saadaval
+ui.available=saadaval
+ui.bonusavailable=saadaval (kink)
+ui.youaremissing=sinul on puudu veel: <0>
+ui.scrollsnoreputation= Sinu maine ei ole piisav, et osta küla kaarti.
+ui.scrollsnotenoughmoney=Sinul on puudu veel <0> dinaari küla kaardi soetamiseks.
+ui.scrollsok= Sa saad osta küla kaarti.
+ui.buyscroll=Osta küla kaart.
+ui.cost=maksab
+ui.clicktorequest=Klõpsa, et taodelda
+ui.scrollbought=<0>: Oled piisavalt usaldatud, et osta küla pärgamente!
+ui.housebought=<0>: Sinu ehitise ehitus <1> algab varsti!
+ui.inhabitantof=elanik <0>
+ui.inconstruction=Ehituses
+ui.nospace=Pole ruumi
+ui.reservedforvillager1= Reserveeritud
+ui.reservedforvillager2=külaelaniku jaoks
+ui.currentlyempty1=Ajutiselt Tühi
+ui.currentlyempty2=
+ui.visitorslist1=Külalised
+ui.visitorslist2=Nimekiri
+ui.goodstraded=Kaupa vahetatud
+ui.imports=Sisse toodud kaubad
+ui.exports=Välja viidud kaubad
+ui.import_total=Sisse toodud: <0>
+ui.export_total=Välja viidud: <0>
+ui.merchants=Kaupmehed:
+ui.goalscompleted1= Kõik eesmärgid täidetud
+ui.goalscompleted2= 
+ui.project= Projekt
+ui.noconstruction1=Ehitust ei toimu
+ui.noconstruction2=
+ui.upgrading=Uuendus (<0>)
+ui.construction=Ehitis <0>:
+ui.population= Elanikud:
+ui.populationnumber=Elanikud: <0>
+ui.adults= Täiskasvanud: <0> (<1>/<2>)
+ui.teens=Noored: <0> (<1>/<2>)
+ui.children=Lapsed: <0> (<1>/<2>)
+ui.villagemap=Küla kaart
+ui.nbbuildings=<0> hoonet
+ui.wandwrongblock= See sau töötab ainult obsidiani plokil tekitades juhusliku küla või järgmistel plokkidel:
+ui.wandblocklist=<0> eest <1>
+ui.wandblocklistcontrolled=<0> eest <1> (nõuab juhtpositsiooni selles kultuuris)
+ui.brickinstructions=Sul on vaja ühte mulla- ja ühte liiva plokki tellise loomiseks.
+ui.buildingscentre=Keskpunkt
+ui.buildingsstarting=Alg hooned
+ui.buildingsplayer= Mängija hooned
+ui.buildingskey= Peamised hooned
+ui.buildingssecondary= Kõrval hooned
+ui.buildingsextra= Täiendavad hooned
+ui.worldnotgenerated= Ümbrus ei ole täielikult tekkinud. Kõnni ringi ja tule tagasi.
+ui.tooclosetospawn= Ei ole lubatud luua küla nii lähedale algus punktile.
+ui.generatenotenoughspace= Ei leia ruumi küla kesk hoone jaoks.
+ui.generatenotenoughspacevillage= ei leia ruumi küla jaoks.
+ui.lackingresources=Puuduvad materjalid
+ui.lockedchestwarning=HOIATUS: Hävitades lukustatud kastid takistab see külade nõuetekohast toimimist. Tee seda ainult siis kui soovid küla hävitada.
+ui.xoutofy=<0> on <1>
+ui.extraresneeded1=<0> teised materjalid
+ui.extraresneeded2=nõutav
+ui.woodforplanks=Puitu (Suvalist)
+ui.woodoak=Tammepuud
+ui.woodpine=Kuusepuud
+ui.woodbirch=Kasepuud
+ui.woodjungle=Džunglupuud
+ui.anyenchanted=Loitsutud objektid
+ui.enchantedsword=Loitsutud mõõk
+ui.selectabuildingproject=Vali ehitus projekt
+ui.projectadded=Projekt on lisatud nimekirja
+ui.problemat=Probleem <0>: <1>
+ui.constructionforbidden= ehitus keelatud
+ui.locationclash=vastu teist ehitist
+ui.outsideradius=väljaspool külapiire 
+ui.wrongelevation= väljaspool lubatud ala
+ui.danger= ohtlik plokk
+ui.notreachable= kättesaamatu ala
+ui.unknownerror= tundmatu probleem
+ui.controlbuildingprojects= Halda ehitusprojekte
+ui.forbidupgrades= Peata uuendused
+ui.allowupgrades= Luba uuendused
+ui.cancelbuilding= Eemalda hoone
+ui.level=tase
+ui.notyetbuilt= Ei ole veel ehitatud
+ui.nbinhabitants= Elanike arv: <0>
+ui.wandnocontrol= Te ei saa luua seda küla tüüpi kui te ei ole tunnustatud juhiks <0> kultuuris.
+ui.control_ok= Teie teened külale on nii suursugused, et <0> inimesed on valmis tunnustama sind juhina! Saan teha selle ametlikus ning võimaldada sul asutada oma küla.
+ui.control_noreputation= Teie maine ei ole veel piisav, et olla tunnustatud liider <0> inimeste poolt. Parandada oma mainet meiega või täida ülesandeid, et jõuda selle tunnustusele.
+ui.control_alreadydone= Oled juba tunnustatud liider <0> inimeste poolt.
+ui.control_get= Küsi tunnustus juhina.
+ui.control_gotten=<0>: Ma tunnustan ametlikult sind vääriliseks juhtima meie <1> inimesi! Saate nüüd asutada oma küla.
+ui.selectavillage= Vali küla tüüp mida soovite luua
+ui.leadershipstatus= Liidri staatus
+ui.leaderin=Sa oled liider <0> kultuurile. Saate luua selle kultuuri küla mida saate ise kontrollida.
+ui.notleaderin=Sa ei ole veel liider <0> kultuuris.
+ui.leaderinstruction=Et saada rahvuste liidriks, pead jõudma "Naturaalse liidri" astmele külas ja küsima küla juhilt tunnustust, või täitma Loomis küsimuse peatüki sellele kultuurile (kui võimalik).
+ui.wandinstruction= Kasutage saua obsidian plokil et luua juhuslik küla või kuld plokil et valida küla, mida soovid
+ui.controlled= kontrollitud
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist= Suhted teiste küladega
+ui.relationpraise=Kiida
+ui.relationslander=Laida
+ui.relationpoints=Diplomaatja punkte järel: <0>
+ui.villagerelationsnobutton= Sul peab olema punkte ja positiivset mainet, et mõjutada küla.
+ui.relationhelp=Suhte abi<ret><ret> Suhted küladega määrab, kas need külad teevad koostööd või mitte.<ret><ret> Kohalik kaubandus (kaupmehed vahetavad ressursse) toimib külade vahel kellel on head suhted samast kultuurist või väga heade suhetega eri kultuuridest.<ret><ret> Külad eri kultuuridest väga heade suhetega, kus mõlemal on turuplats võõrustab kaupmehi muudest kultuuridest.<ret><ret> Külad samast kultuurist suurepäraste suhetega aktsepteerivad teineteise noori kui neil on uue töökoha leidmiseks vabu kohti.<ret><ret>Suhted külade vahel algavad suurepäraselt hamlets of a parent küladega, heade suhetega sama kultuuriga, ja neutraalsetena teistega.<ret><ret> Iga päev saab mängija viis diplomaatilist punkti, mida saad kasutada mõjutamaks külade suhted. Tõhusust kiitusele või laimamisele sõltub mängja mainele külas.
+ui.relationfriendly= Hiljutised sündmused külade vahel <0> ja <1> on parandanud. Nende suhted on nüüd <2>.
+ui.relationunfriendly= Hiljutised sündmused külade vahel <0> ja <1> on halvenenud. Nende suhted on nüüd <2>.
+ui.cropplantingknowledge= Sa ei tea, kuidas istutada <0>. Sa pead küsima küla liidrilt.
+ui.cropsknown= Põllukultuurid teadaolevad selle kultuurile
+ui.cropknown= Oled õppinud, kuidas istutada <0>.
+ui.cropinsufficientreputation= Sinu maine on liiga väike,  et küla õpetaks kuidas istutada <0>.
+ui.cropnotenoughmoney=Sa vajad <1> rohkem, et saaksid lubada õppimist kuidas istutada <0>.
+ui.cropoktolearn= Küla saab sind õpetada kuidas istutada <0>.
+ui.croplearn=Õpi (<0>)
+ui.croplearned=<0>: Sul on räägitud saladus kuidas kasvatada <1>!
+ui.raider=Ründaja
+
+ui.communicationexplanations=Et rääkida külaelanikega, klõpsa paremat hiirenuppu. Kui tegevus on võimalik külaelanikuga (kas vahetamine, rääkida küla juhiga, rääkida temaga ajutiselt, alustada küsimust) avaneb aken.
+ui.helpbutton=Millénaire Abi
+ui.chunkbutton=Tükkidena kaart
+ui.configbutton=Seaded
+ui.serverimportforbidden= Ainult administraatorid saavad lisada hooneid serverisse.
+
+ui.controldiplomacy=Diplomaatja
+ui.raidinprogress= Rüüstamine pooleli!
+ui.otherraidinprogress= Muu rüüsteretk pooleli.
+ui.otherraidplanned= Muu rüüsteretk planeeritud.
+ui.raidcancel=Loobu rüüsteretkest.
+ui.raidplanned=Rüüsteretk planeeritud.
+ui.relgood= Suurepärane
+ui.relneutral=Erapooletu
+ui.relbad=Tülis
+ui.raid=Plaani rüüsteretke
+
+
+help.tab_1= Üldist külades
+help.tab_2= Kauplemine
+help.tab_3= Maine ja külavanem
+help.tab_4= Küla kasv
+help.tab_5= Võitlus ja rüüsteretked
+help.tab_6=Küla loomine ja hävitamine
+help.tab_7=Küsimused
+help.tab_8=Normannid
+help.tab_9=Hindud
+help.tab_10=Maiad
+help.tab_11=Jaapanlased
+help.tab_12=Bütsantsid
+help.tab_13=Muud küsimused
+
+
+quest.obtained=Saadud
+quest.lackingcondition=Sul on puudu:
+quest.lackinghiddengoods= Sul ei ole vajalikke asju selle ülesande jaoks.
+quest.close=Sule
+quest.accept=Nõustu küsimusega
+quest.refuse=Keeldu küsimusest
+quest.continue= Jätka küsimusega
+quest.conditionsnotmet= Sa ei ole veel täitnud kõiki tingimusi.
+quest.lessthananhourleft= Vähem kui tund jäänud!
+quest.timeremaining= järelejäänud aega
+quest.hours=Tund(i)
+quest.noquestsvisible=Mitte ühtegit listi küsimusi pooleni 
+quest.questlist=Küsimusi pooleni
+quest.reputationlost=mainet kaotanud
+
+quest.creationqueststatus= Loomine küsimuse staatus
+quest.creationqueststatusshort=Loomise küsimus:
+
+quest.cqchaptersadhu=Sadhu
+quest.cqsadhustartexplanation=Leia külaelanik kes juhataks sind Hindude juurde kus sul on  "Küla sõbra" maine esimeseks missjooniks.
+
+quest.cqchapteralchemist=Alkeemik
+quest.cqalchemiststartexplanation=Leia külaelanik kes juhataks sind Normannide külla kus on sul vähemalt "Küla sõbra" maine.
+
+quest.cqchapterfallenking=Langenud Kuningas
+quest.cqfallenkingstartexplanation=Leia šhamaan kes juhataks sind Maiade külla kus sul on vähemalt "Küla sõbra" maine.
+
+
+quest.cqallcompleted=Õnnitlused, oled ärateinud kõik Loome küsimused mis on hetkel saadavad!
+quest.cqcheckforupdates=Tšekka www.millenaire.org uuendusteks.
+quest.cqchapternotstarted=Sa pole veel alustanud peatükki "<0>".
+quest.cqchapterinprogress=Oled sooritanud <1> missjooni <2> missjoonist Loomis küsimuste peatükist "<0>".
+quest.cqchaptercompleted=Oled lõpetanud selle peatüki "<0>".
+quest.cqchapternotstartedshort=Peatükk "<0>": pole alustatud.
+quest.cqchapterinprogressshort=Peatükk "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Peatükk "<0>": lõpetatud.
+quest.cqcheckquestlistandhelp=Vajuta '<0>' et saada rohkem infot või pääseda Millénaire abise.
+
+
+
+//Item names
+
+//The following items should not be translated
+//They are either proper names (the deniers)
+//or specific local specialities that aren't translated
+//in other languages
+//I'm putting them for non-Latin alphabet languages,
+//so they can be written in other alphabets
+item.denier=Dinaar(i)
+item.denierOr=Kuld Dinaar(i)
+item.denierArgent=Hõbe Dinaar(i)
+item.calva=Calva
+item.tripes=Tripes
+item.boudin=Boudin Noir
+
+item.dirtwall=Muda Plokk
+
+item.building=Lukus Kirst
+item.normanPickaxe=Normannide Kirka
+item.normanAxe=Normannide Kirves
+item.normanShovel= Normannide Labidas
+item.normanHoe= Normannide Kõblas
+item.normanBroadsword= Normannide Mõõk
+item.normanHelmet= Normannide Kiiver
+item.normanPlate= Normannide Kehakaitse
+item.normanLegs= Normannide Jalad
+item.normanBoots= Normannide Saapad
+item.rice=Riis(i)
+item.turmeric=Turmeric(i)
+item.vegcurry=Vegetarian Curry
+item.chickenmeat=Toores Kana
+item.chickencurry=Murgh Karri
+item.brickmould=Telliste Vorm
+item.rasgulla=Rasgulla
+item.plaintimber= Puit Raam
+item.crosstimber= Rist Puit Raam
+item.wetbrick=Märg Tellis
+item.cookedbrick=Põletatud Kivi Tellis
+item.mudbrick=Muda Tellis
+item.indianstatue= Hindu Kuju
+item.ciderapple=Siidri Õun
+item.cider=Siider
+item.villagewand=Loomis Sau
+item.negationwand=Hävingu Sau
+item.normanvillagers=Normannide külaelanikud
+item.normanitems=Normannide objektid
+item.normanbuildings=Normannide ehitised
+item.normanfull=Valmis Normandja pärgament
+item.tapestry=Normannide Seinavaip
+item.vishnu_amulet=Vishnu amulett
+item.alchemist_amulet=Alkeemiku amulett
+item.yddrasil_amulet=Yddrasili amulett
+item.skoll_hati_amulet=Koidu ja Eha amulett 
+item.villagescroll=Küla Pärgament
+item.indianvillagers=Hindude Külaelanikud
+item.indianitems=Hindude Objektid
+item.indianbuildings=Hindude Ehitised
+item.indianfull=Valmis Hindude Pärgament
+item.unknownpowder= Tundmatu Pulber
+item.alchimistexplosive=Alkeemiku Pomm
+
+item.wah=Wah
+item.masa=Masa
+item.maize=Mais
+item.mayangold=Kuld Ornament
+item.mayanstatue=Maiade Skulpruur
+item.mayanvillagers=Maiade Külaelanikud
+item.mayanitems=Maiade Objektid
+item.mayanbuildings=Maiade Ehitised
+item.mayanfull=Valmis Maiade Pärgament
+item.mayanmace=Obsidiani Nui
+item.mayanPickaxe=Obsidiani Kirka
+item.mayanAxe=Obsidiani Kirves
+item.mayanShovel=Obsidiani Labidas
+item.mayanHoe=Obsidiani Kõblas
+item.obsidianflake=Obsidian Toorik
+item.cacauhaa=Cacauhaa
+
+item.paperwall=Paber Sein
+item.udon=Udon
+item.thatched=Õle Plokk
+
+item.parchmentsadhu=Sadhu raamat
+
+item.tachisword=Samurai mõõk
+item.yumibow=Yumi Vibu
+item.sake=Sake
+item.ikayaki=Ikayaki
+
+item.japaneseWarriorBlueLegs=Sinised ō-yoroi Püksid
+item.japaneseWarriorBlueHelmet= Sinised ō-yoroi Kiiver
+item.japaneseWarriorBluePlate= Sinised ō-yoroi Kehakaitse
+item.japaneseWarriorBlueBoots= Sinised ō-yoroi Saapad
+
+item.japaneseWarriorRedLegs=Punased ō-yoroi Püksid
+item.japaneseWarriorRedHelmet= Punased ō-yoroi Kiiver
+item.japaneseWarriorRedPlate= Punased ō-yoroi Kehakaitse
+item.japaneseWarriorRedBoots= Punased ō-yoroi Saapad
+
+item.japaneseGuardLegs=Keiko Püksid
+item.japaneseGuardHelmet=Keiko Kiiver
+item.japaneseGuardPlate=Keiko Kehakaitse
+item.japaneseGuardBoots=Keiko Saapad
+
+item.japanesevillagers= Jaapanlaste Külaelanikud
+item.japaneseitems= Jaapanlaste Objektid
+item.japanesebuildings= Jaapanlaste Ehitised
+item.japanesefull=Valmis Jaapanlaste Pärgament
+
+item.emptysilkwormblock=Tühi Siidiussikasvatuse Plokk
+item.fullsilkwormblock=Siidiussikasvatuse Plokk
+item.byzantinebrick= Bütsantsi Plokk
+item.byzantineslab=Bütsansi Plaat
+item.byzantinemixedbrick= Bütsansi Kivi plokk
+item.grapes=Greibid
+item.vine=Viinamarjad
+item.wine=Malvasia vein
+item.silk=Siid
+item.byzantineiconsmall= Väike Bütsantsi ikoon
+item.byzantineiconmedium= Keskmise Bütsantsi ikoon
+item.byzantineiconlarge= Suured Bütsantsi ikoonid
+item.byzantineboots= Bütsantsi Saapad
+item.byzantinelegs= Bütsantsi Jalad
+item.byzantinePlate= Bütsantsi Kehakaitse
+item.byzantineHelmet= Bütsantsi Kiiver
+item.byzantinemace= Bütsantsi Nui
+item.lambraw=Toores Lamba Liha
+item.lambcooked= Grillitud Lambakarree
+item.feta= Fetajuust
+item.wineBasic=Vein
+item.clothes_byz_wool= Villased Bütsantsi Rõivad
+item.clothes_byz_silk= Siidist Bütsantsi Rõivad
+
+item.souvlaki=Souvlaki
+item.purse= Rahakott
+
+item.pathdirt=Muda tee
+item.pathgravel=Kruusa tee
+item.pathslabs=Plaaditud tee
+item.pathsandstone=Liivakivist tee
+item.pathochretiles=Ochre tahvlitest tee
+item.pathgravelslabs=Plaaditud kruusa tee
+
+error.unknownitem= Tundmatu Asja Nimetus
+
+
+
+//Errors
+ui.updateEntity= Viga TileEntityBuilding.updateEntity (). Kontrollige millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Teksti ei leitud selles raamatus: <0>
+panels.invalidid= Vigane küla ID.
+panels.toofar= Küla on liiga kaugel, et laadida oma andmed.
+panels.recordsnotloaded= Küla andmed ei saa laadida.
+panels.villagescroll=Küla Pärgament
+panels.mother=Ema
+panels.father=Isa
+panels.spouse=Abikaasa
+panels.dead= Ajutiselt Surnud
+panels.awayraiding=Eemal Rüüstamas
+panels.awayhired=Palgatud Mängija poolt
+panels.invaderincoming=Sissetulek
+panels.missing= KADUNUD!
+panels.multiple= ESITADA <0> AJAD!
+panels.currentoccupation= Praegune töökoht
+panels.visitors=Külalised
+panels.constructions= Ehitised
+panels.upgrade=uuendusi
+panels.buildingprojects=Ehitusprojekt
+panels.notyetbuilt=pole veel ehitatud
+panels.nbupgradesleft=<0> uuendus(t) veel jäänud.
+panels.finished=Lõpetatud
+panels.houseunoccupied= See maja on tühi. Lapsed kes saavad teismeliseks liiguvad siia ja saavad täiskasvanuks.
+panels.man=Mees
+panels.woman=Naine
+panels.children=Laps
+panels.nofemaleresident= Sellese majja ei tule kunagi naine elama.
+panels.bachelor=Mees kes elab siin on poissmees . Tüdruk kes kasvab teismeliseks liigub siia elama.
+panels.nomaleresident=Sellese majja ei tule kunagi elama mees.
+panels.spinster= Naine, kes siin elab on veel vallaline. Pois kes saab teismeliseks liigub siia elama.
+panels.resources=Ressursid
+panels.goodstraded=Kaupa vahetatud selles külas
+panels.goodsimported=Sisse toodud teistest küladest
+panels.goodsexported=Välja viidud teistesse küladdesse
+panels.innvisitors=Külalisi selles <0>
+panels.mappurple=Roosa: ehitis ehitusjärgus.
+panels.mapblue=Sinine: teised ehitised.
+panels.mapgreen=Roheline: sobivad alad hoonete ehituseks.
+panels.maplightgreen=Hele Roheline: sobiv hoone piirkond, aga ei sisalda hoone keskkohta.
+panels.mapred=Punane: ohtlikud ala(d) (laava, kaktused, jpms).
+panels.mapyellow=Kollane: ehitamine keelatud (jää, kunstlikud plokid).
+panels.maporange= Oranž: ehitamine keelatud (liiga lähedal ehitisele), kättesaamatud kohad (näiteks jõgi või kannjon vahel)
+panels.maplightblue=Hele sinine: vesi.
+panels.mapbrown=Pruun: teised valdkonnad (näiteks: antud küla mõõtmetest väljas liiga kõrge madal vm).
+panels.unreachablebuilding=kättesaamatu!
+panels.merchantlist=Kaupmeeste nimekiri
+panels.capacity=Mahtuvus
+panels.nbnightsin=Külas olnud <0> öö(d).
+panels.storedexports=<0> ladustanud sissetoodud asjadest: <1>
+panels.broughtimport=<0> ostnud külasse: <1>
+panels.startedtrading=<0> (<1>) on omaks võtnud kaupmehe karjääri.
+panels.merchantmovedout=<0> (<1>) liikunud <2> peale <3> päeva külas.
+panels.merchantarrived=<0> (<1>) saabunud <2>.
+panels.childarrived=<0> saabuud <1> ja otsib tööd.
+panels.resourcesneeded= Vajalikke ressursse projekti jaoks
+panels.resourcesavailable= Ressursid laos
+panels.villageculture=Külad <0> kultuuri
+panels.military=Sõjaline tugevus
+panels.planningraid=Plaanib rüüsteretke
+panels.raidinprogress=Rüüstamine teoksil
+panels.underattack=Rünnatakse!
+panels.offense=Ründe jõud: <0>
+panels.defense=Kaitse jõud: <0>
+panels.offenselong=Ründe jõud: <0>
+panels.defenselong=Kaitse jõud: <0>
+panels.raidinprogresslong=Hetkel rüüstab <0>. Rünne algab <1> tunni pärast.
+panels.planningraidlong=Plaanib rüüstada  <0>. Plaanimine algab <1tunni pärast.
+panels.underattacklong=Rünnaku all <0> vaenlase tugevus <1> pärit <2>!
+panels.villagefighters=Küla võitlejad
+panels.attackers=Ründajad
+panels.defender=Kaitsja
+panels.raider=Rüüstaja
+panels.health=Elu
+panels.weapons=Relvastust
+panels.armour=Rüüsid
+panels.militarystrength=Sõjaline jõud
+panels.unknownattacker=tundmatu koht
+panels.raidsperformed=Rüüsteretki teostatud
+panels.raidssuffered=Rüüstatud
+panels.nameand=<0> ja
+panels.buildingproject= Praegune projekt:
+panels.currentconstruction= Praegune ehitis:
+panels.villagesummary= Oluline teave
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Puhkan
+goal.godrink=Juua tooma
+goal.gopray=Mängima
+goal.GatherGoods=Kogun asju
+goal.BringBackResourcesHome=Toon assju tagasi
+goal.GetTool=Võtan tööriista
+goal.huntMonster=Võitlen kolliga
+goal.getGoodsHousehold=Võtan kodust assju
+goal.DeliverGoodsHousehold=Viin assju koju
+goal.GetHouseTHResources=Võtan assju kodunt
+goal.DeliverResourcesShop=Toon assju
+goal.raidvillage=Sõidan külase
+goal.defendvillage=Kaitsenküla
+goal.hide=Otsin varju
+
+goal.CollectCrop=Kogun põllusaadusi
+goal.PlantSeeds=Külvan seemneid
+goal.ChopTrees=Raiun puitu
+goal.PlantSaplings=Istitan istikuid
+goal.GetResourcesForBuild=Võtan materjalid ehitusejaoks
+goal.MakeBread=Teen leiba
+goal.BeSeller=Müün mängijale
+goal.MakeCider=Teen siidrit
+goal.MakeCalva=Teen calvat
+goal.Construction=Ehitan
+goal.GoPlay=Mängin
+goal.BecomeAdult=Kolin sisse
+goal.MakeNormanTools=Teen tööriistu
+goal.MakeNormanWeapons=Teen relvi
+goal.Patrol=Patrullin
+goal.Butcher=Tapan
+goal.MakeBoudin=Teen boudini
+goal.MakeTripes=Teen tripest
+goal.Mining=Kaevan
+goal.Cooking=Kokkan
+goal.MakeBooks=Valmistan pärgamente
+goal.MakeTapestry=Valmistan seinavaipu
+goal.VisitInn=Lähen baari
+goal.VisitBuilding=Lähen poodi
+goal.MakeAmulet=Valmistan amuletti
+goal.KeepStall=Hoian müügikohta
+goal.MakeTimberFrame=Teen Puit raame
+
+goal.DryBrick=Panen telliseid kuivama
+goal.GatherBrick=Kogun kuivanud telliseid
+goal.CookBrick=Põletan kivi telliseid
+goal.PlantRice=Külvan riisi
+goal.HarvestRice=Korjan riisi
+goal.PlantTurmeric=Külvan turmerict
+goal.HarvestTurmeric=Korjan turmerict
+goal.SlaughterChicken=Tapan kana
+goal.PlantSugarCane=Istutan suhkruroogu
+goal.HarvestSugarCane=korjan suhkruroogu
+goal.MakeRasgulla=Valmistan rasgullat
+goal.Makesteelaxe=Sepistan raud kirvest
+goal.Makesteelpickaxe= Sepistan raud kirkat
+goal.Makesteelshovel= Sepistan raud labidat
+goal.Makesteelhoe= Sepistan raud kõpla
+goal.Makesteelsword= Sepistan raud mõõka
+
+goal.makesteelchest= Sepistan raud rüüd
+goal.makesteelhelmet= Sepistan raud kiivrit
+goal.makesteellegs= Sepistan raud jalgu
+goal.makesteelboots= Sepistan raud saapaid
+
+goal.makeindianstatue=Nikerdan kuju
+goal.performpujas=Ettevalmistan pujat
+goal.bepujaperformer=kättesaadaval pujas
+goal.performsacrifices=Ohverdan
+goal.besacrificeperformer=Ohverdamiseks valmis
+
+goal.PlantMaize=Istutan maisi
+goal.HarvestMaize=Koristan maisi
+goal.makemayanGoldBlock=Nikerdan kuld ornamenti
+goal.makemayanstatue=Nikerdan kuju
+goal.Makestoneaxe=Valmistan kivi kirvest
+goal.Makestonepickaxe= Valmistan kivi kirkat
+goal.Makestoneshovel= Valmistan kivi labidat
+goal.Makestonehoe= Valmistan kivi kõpla
+goal.Makestonesword= Valmistan kivi mõõka
+goal.makeleatherboots=Valmistan nahast saapaid
+goal.makeleatherchest= Valmistan nahast kehakaitset
+goal.makeleatherhelmet= Valmistan nahast kiivrit
+goal.makeleatherlegs= Valmistan nahast jalgu
+goal.makemayanaxe=Valmistan obsidianist kirvest
+goal.makemayanpickaxe= Valmistan obsidianist kirkat
+goal.makemayanshovel= Valmistan obsidianist labidat
+goal.makemayanhoe= Valmistan obsidianist kõblast
+goal.makemayanmace= Valmistan obsidianist nuia
+goal.makeobsidianflake=Purustan obsidiani toorikuteks
+goal.harvestcocoa=Korjan cocoat
+goal.plantcocoa=Istutan cocoat
+goal.makecacauhaa=Valmistan cacauhaat
+
+goal.fish=Püüan kala
+goal.makethatch=Teen õle plokke
+goal.makepaper=Valmistan pabarit
+goal.makepaperrice= Valmistan pabarit
+goal.makepaperwoodpulp= Valmistan pabarit
+goal.makepaperwall= Valmistan paberist seinu
+goal.cookfish=Küpsetan kala
+goal.cooksteak=Küpsetan liha
+goal.cooklamb=Küpsetan lambaliha
+goal.cookpork=Küpsetan porkchopse
+goal.cookchicken=Küpsetan kana
+goal.makeudon=Valmistan udonit
+goal.maketachi=Valmistan samurai mõõka
+goal.makejapaneseweapons=Valmistan Japanlaste armente
+goal.makesake=Kääritan saket
+goal.slaughtersquid=Püüan kalmaari
+
+goal.brewpotions=Villin võlujooke
+goal.harvestwarts=Koristan tüükaid
+goal.makeglassbottles=Valmistan klaaspudeleid
+goal.plantwarts=Istutan tüükaid
+
+goal.plantvines=Istutan viinamarja istikuid
+goal.harvestvines=Korjan viinamarju
+goal.gathersilk=Gathering silk
+goal.makeicon=Värvin ikoone
+goal.makewine=Villin veini
+goal.makebookshelves=Valmistan raamaturiiuleid
+goal.makebyzantinetiles=Valmistan plaate
+goal.makebrick=Valmistan kive
+goal.training=Treenin
+goal.paintpainting=Värvin raame
+goal.makebook=Kirjutan raamatut
+goal.makebyzantinemace=Valmistan Bütsantsi nuia
+goal.makebyzantinechest= Valmistan Bütsantsi kehakaitset
+goal.makebyzantinelegs= Valmistan Bütsantsi jalgu
+goal.makebyzantinehelmet= Valmistan Bütsantsi kiivrit
+goal.makebyzantineboots= Valmistan Bütsantsi saapaid
+
+goal.makebow=Valmistan vibu
+goal.makerottenflesh=valmistan riknenud liha
+goal.makearrow=Valmistan nooli
+
+goal.sleep=Magan
+goal.sleep_travelling=Lähen magama
+
+
+goal.makeclothes_byz_wool=Kudun riideid
+goal.makemasa=Teen masat
+goal.slaughterpig=Tapan siga
+goal.makesouvlaki=Valmistan souvlakit
+goal.makewah=Valmistan wah
+goal.makecurry=Teen a vegetarian karrit
+goal.makeclothes_byz_silk=Valmistan siidi riiet
+goal.slaughtersheep=Tapan lammsat
+goal.slaughtercow=Tapan lehma
+goal.breed=Aretanloomi
+goal.shearsheep=Pügan lammsat
+goal.makemurgh=Valmistan kana karrit
+goal.getitemtokeep=Võtan asju
+
+goal.buildpath=Ehitan teed
+goal.clearoldpath=lammutan vana teed
+
+goal.gosocialise=Lähen vestlema
+goal.chat=Vestlen
+
+goal.makedirtwall=Valmistan muda plokke
+goal.makepath=Valmistan tee plaate
+
+//other
+other.west=Läänes (W)
+other.east=Idas (E)
+other.north=Põhjas (N)
+other.north-east=Kirdes (NE)
+other.north-west=Loodes (NW)
+other.south=Lõunas (S)
+other.south-east=Kagus (SE)
+other.south-west=Edelas (SW)
+
+other.tothewest=Läänes (W)
+other.totheeast=Idas (E)
+other.tothenorth=Põhjas (N)
+other.tothenorth-east=Kirdes (NE)
+other.tothenorth-west=Loodes (NW)
+other.tothesouth=Lõunas (S)
+other.tothesouth-east=Kagus (SE)
+other.tothesouth-west=Edelas (SW)
+
+other.west_short=W
+other.east_short=E
+other.north_short=N
+other.south_short=S
+other.shortdistancedirection=<0>m <1>
+
+other.metre=meetrit
+other.kilometre=kilomeetrit
+other.andhalf=ja pool
+
+other.directionshort=<1> <0>
+other.exploredbuilding=Oled avastanud ehitise: <0>.
+
+other.malevillager=Millénaire mees külaelanik
+other.femalevillager=Millénaire nais külaelanik
+
+other.buildinghealing=<0> ravib sind.
+
+
+other.localmerchantinteract=See kaupmees on kohalik. Ta veab kaupa külast külla. Sa ei saa temaga suhelda.
+
+other.chattosomeone=<0> räägib <1> -ga
+
+hire.health=Elu
+hire.strength=Jõud
+hire.cost=Maksab (iga päev)
+hire.aggressive=Agressiivne seisund
+hire.passive=Passiivne seisund
+hire.timeleft=Palgatud <0> tunniks
+hire.hiredvillager=Külaelanik on palgatud. Ta püsib sinu alluvuses <0> või rohkem tunde või kui ta sureb ja tekkib uuesti külas.<ret><ret>Vajuta '<1>' et panna teda agresiivssese olekusse või vasak shift-'<1>' et panna teda passiivsesse olekusse.
+hire.hireablevillager=Saad palgata seda külaelanikku. Ta järgneb sulle nii kaua kui ta palkanine aegub või ta sureb. Ta ründab olevusi kes sind ründavad või eel-kõike ründab naabruses olevaid kolle ja vaenulikke külaelanikke kui ta on agresiivses olekus.
+hire.hireablevillagernoreputation=Sul peab olema vähemalt "Lemmik kaupleja" maine selles külas, et palgata see külaelanik.
+hire.extend=Pikenda
+hire.release=Lase vabaks
+hire.close=Sule
+hire.hire=Palka
+hire.hireover=Palkamine <0> on lõppenud. Ta pöördub tagasi külase.
+hire.hiredied=<0> suri. Ta tekkib uuesti külla, ning tema palkamine on tühistatud.
+hire.hiredbyotherplayer=<0> on juba palgatud <1> poolt.
+hire.hiredby=Palgatud <0>
+
+actions.forest_success=Oled edukalt läbi uurinud metsa.
+actions.forest_continue= Oled avastanud <0>% metsast.
+
+actions.desert_success=Oled edukalt läbi uurinud kõrbe.
+actions.desert_continue=Oled avastanud  <0>% kõrbest.
+
+actions.mountain_success= Oled edukalt läbi uurinud mäed.
+actions.mountain_continue= Oled avastanud  <0>% mägedest.
+
+actions.underwaterglass_success= Sa oled edukalt ehitatud süvamere vaateakna.
+actions.underwaterglass_notdeepenough= Meri ei ole piisavalt sügav selles punktis.
+
+actions.underwaterdive_success= Sa oled edukalt sukeldunud sügavale ookeani.
+
+actions.bottomoftheworld_success= Tundub, et saad kaevata kaugemale maaalla. See peab olema maailma juur!
+
+actions.topoftheworld_success= Tundub,et sa ei saa tõusta edasisi. Kindlasti on see tpp.
+
+actions.borehole_nblineok=<0> aluspõhja plokid edukalt avatud taeva laotusele. Sa vajad 25 -te 5x5 ruutu.
+actions.borehole_success= Sul on õnnestunud kaevata puurauk!
+
+actions.boreholetnt_success=Piisavalt Dünamiiti on paigaldatud. Võid õhkulasta.
+actions.boreholetnt_nbtnt=<0> Dünamiidi plokid on asetatud ja kaetud obsidianiga. Sa vajad 20 tk.
+
+actions.boreholetntlit_success=Sa süütasid dünamiidi. Jälgi tulemust ja teata sellest Alkeemikut.
+
+actions.thevoid_success=Oled piilinud Voidi!
+
+actions.enchantmenttable_success=Oled ehitanud loitsumis laua  Sadhu lähedale.
+
+actions.mayan_siege_start=Püramiidi rünnatakse! <0> ghastsi, <1> blazest and <2> skeletti ründavad. HÄVITA nad.
+actions.mayan_siege_success= Sa oled alistanud väed kes ründasid püramiidi!
+actions.mayan_siege_update=<0> ghast(i), <1> blaze(t) and <2> skelett(i) on veel jäänud.
+
+info.culturetitle=Kultuurid
+info.culture=<0> Kultuur
+info.culturereputation=Maine: <0>
+info.culturelanguage=Keele tase: <0>
+
+culturereputation.scourgeofgod=Nuhtluse jumal
+culturereputation.dreadful=Kohutav
+culturereputation.bad=Halb
+culturereputation.stellar=Stelaarne
+culturereputation.excellent=Suurepärane
+culturereputation.good=Hea
+culturereputation.decent=Rahuldav
+culturereputation.neutral=Erapooletu
+
+culturelanguage.fluent=Ladus
+culturelanguage.moderate=Arusaadav
+culturelanguage.beginner=Algaja
+culturelanguage.minimal=Minimaalne
+
+
+weapon.criticalstrike=Kriitiline löök! <0>x vigastus!
+
+negationwand.villagelocked= <0> on ikka veel lukus. Sa pead kõik täiskasvanud mehed tapma, enne kui sa saad seda hävitada.
+negationwand.confirmmessage=Oled kindel et soovid hävitada <0>? Kui soovid siis hooned jäävad aga külaelanikud kaovad jäädavalt.
+negationwand.confirm=Kinnita
+negationwand.cancel=Tühista
+negationwand.destroyed=<0> on hävitatud! Need hooned on nüüd tühjad tondilossid ja ja ükski talunik ei tule tagasi.
+
+relation.excellent=Suure pärased
+relation.verygood=Väga Head
+relation.good=Head
+relation.decent=Rahuldavad
+relation.fair=Talutavad
+
+relation.openconflict=Täielikus Konfliktis
+relation.atrocious=Konfliktsed
+relation.verybad=Väga Halvad
+relation.bad=Halvad
+relation.chilly=Jahedad
+
+relation.neutral=Erapooletud
+
+raid.planningstarted=<0> on hakanud plaanima  rüüsteretke <1>.
+raid.started=<0> on alustanud rüüstamist <1> -le! <2> rüüstaja(t) on liitunud rüüsteretkega.
+raid.raidsuccesfull=<0> on rüüstanud <1> -si, varastades <2> asija!
+raid.raidfailed=<1> on edukalt tagasilöönud rüüstajad <0> -st.
+raid.nothing=Mitte-midagi
+raid.historysuccess=Edukalt rüüstanud <0>. Pea-raha: <1>
+raid.historyraided=Rüüstatud <0> poolt. Pea-raha: <1>
+raid.historyfailure=Rüüsteretk <0> kukkus läbi.
+raid.historydefended=Edukalt tagasi löödud rüüsteretk <0> poolt.
+
+hof.hof=Kuulsuste Hall
+hof.modcreator=Moodi Looja
+hof.creatorofmayan1=Looja
+hof.creatorofmayan2=Maiade kultuur
+hof.creatorofjapanese1=Looja
+hof.creatorofjapanese2=Jaapanlaste kultuur
+hof.creatorofbyzantine1=Looja
+hof.creatorofbyzantine2=Bütsantsi kultuur
+hof.creatorofindianskins1=Looja
+hof.creatorofindianskins2=Hindide välimus
+
+hof.skinmaker=Välimuse andja
+hof.buildingmaker=Ehitiste looja
+hof.wikiadmin=Wiki administraator
+hof.armouricons=Armori ikoonid
+hof.normanarmour1=Normannide rüüd
+hof.normanarmour2=graafika
+hof.support1=Abi
+hof.support2=foorum
+hof.frenchversion1=Abi
+hof.frenchversion2=Prantsuse versioon
+hof.wikicontributions=Wiki panus
+hof.improvementsjapanese1=Muudatused
+hof.improvementsjapanese2=Jaapanlaste külad
+hof.lonebuildings=Üksikud ehitised
+hof.obsidiantools1=Obsidiani tööriistad
+hof.obsidiantools2=ikoonid
+hof.forgecode1=Originaal kood
+hof.forgecode2=Forge Sprite API
+hof.btw=(BTW creator)
+hof.forgehelp1=Abi sai
+hof.forgehelp2=Forge Sprite API
+hof.hofidea1=Kuulsuste Hall
+hof.hofidea2=idee
+hof.donor=Doonor
+hof.variousimprovements1=Various
+hof.variousimprovements2=Parandused
+
+pujas.invanme=Pujas
+pujas.panditfee=Pandiitide vaba
+pujas.offering=Pakkuma
+pujas.god0=Hanumanile - kiiruse
+pujas.god1=Shivanile - jõu
+pujas.god2=Lakshmile - õnne
+pujas.god3=Ganeshle - oskuse
+pujas.priestcoming=<0>: Sa vajad puja esitamist? Teie pühendumus on imetlusväärne!
+pujas.offeringslot=Pane ohverdus Jumalatele.
+pujas.offeringslot2= Nad ei võta vastu kõike. Katseta.
+pujas.moneyslot=Pane raha pandiidile.
+pujas.toolslot=Pane tööriist olla loitsutud.
+
+sacrifices.priestcoming=<0>: You need to have a sacrifice performed? It is wise to appease the Gods.
+sacrifices.panditfee=For the shaman
+sacrifices.offering=Sacrifice
+
+mayan.god0=To Ah Puch - for survival
+mayan.god1=To K'inich Ajaw - for flammes
+mayan.god2=To Cabrakan - for impacts
+mayan.god3=To Ah Tabai - for arrows
+mayan.god4=To Cum Hau - for vengence
+
+mayan.god5=To Uqux Cho - for the caiman's breath
+mayan.god6=To Uqux Palo - for work under the waves
+
+mayan.god7=To Alom - for lightness
+
+mayan.god8=To Buluc Chabtan - for violence
+mayan.god9=To Ah Puch - for fighting the deads
+mayan.god10=To Cum Hau - for fighting creatures
+
+mayan.god11=To Huracan - for the strong breath
+mayan.god12=To K'inich Ajaw - for the flamme
+mayan.god13=To Ek Chuah - for fortune
+
+mayan.god14=To Buluc Chabtan - for violence
+mayan.god15=To Huracan - for the strong breath
+mayan.god16=To K'inich Ajaw - for the flamme
+mayan.god17=To Ek Chuah - for fortune
+
+mayan.god18=To Witz - for toughness
+
+culture.norman=Normannid
+culture.hindi=Hindid
+culture.japanese=Jaapanlased
+culture.mayan=Maiad
+culture.byzantines=Bützantsid
+
+export.errornoname=You must give the building plan's name on the first line.
+export.errornoendsigneast=Could not find the closure sign to the east. It must be in a straight line from the starting one within 256 blocks.
+export.errornoendsignsouth=Could not find the closure sign to the south. It must be in a straight line from the starting one within 256 blocks.
+export.errorlength=The detected length is <0> but there is an existing building plan in the export folder of length <1>.
+export.errorwidth=The detected width is <0> but there is an existing building plan in the export folder of width <1>.
+export.errorstartinglevel=Invalid starting level on line three of the sign.
+export.defaultstartinglevel=No starting level specified, defaulting to -1.
+export.errorunknownblockid=Unknown block type: <0>
+export.buildingexported=Exported building as <0>.
+
+import.notonserver=Importing buildings is not possible on a server.
+import.errornoname=You must give the building plan's name on the first line.
+import.errornotfound=The building requested is not present in millenaire-custom/exports.
+import.buildingupto=Building up to level <0>
+import.errorinvalidupgradelevel=Invalid upgrade level on line two of the sign.
+import.buildinginitialphase=No upgrade level specified, building only the initial stage.
+import.errorupgradeleveltoohigh=Requested upgrade level is higher than available.
+import.doublevertical=Doubled vertical height
+import.buildinglevel=Building level: <0>
+
+effect.towncentre=Küla keskus
+effect.shop=Pood: <0>
+effect.irrigation=Irrigation: <0>% rohkem vilju
+effect.pujalocation=Pujas held
+effect.sacrificeslocation=Sacrifices held
+effect.healing=Parandab mängijat
+
+chunk.chunkmap=Map of chunks
+chunk.caption=Caption
+chunk.captiongeneral=Each chunk is displayed as a 2x2 pixels square
+chunk.captiongreen=Green dots indicate a loaded chunk.
+chunk.captionblue=Blue dots indicate a chunk part of a village's area.
+chunk.captionpurple=Purple dots indicate a chunk part of a lone building's area.
+chunk.captionwhite=White dots indicate a chunk which is being kept loaded by a mod (Millénaire or another Forge mod)
+chunk.playerposition=Coordinates of the player: <0>
+chunk.settings=Village loading radius: <0> metres. Maximum number of chunks preserving allowed by Forge: <1>.
+chunk.explanations=Millénaire villages are only active if all their chunks are loaded. The inhabitants of other villages are frozen. Millénaire attempts to force Minecraft to keep the chunks of villages within 200 metres of a player loaded (that value can be changed). The Forge mechanism used for this is limited by default to 200 chunks. You can configure this value in minecraft/config/forgeChunkLoading.cfg. Warning: increasing the number of chunks kept loaded will decrease performance.
+chunk.chunkcoords=Chunk: <0>
+chunk.village=<0>
+chunk.chunkforced=Force-loaded
+
+achievementpage.name=Millénaire
+achievement.firstcontact.name=First contact
+achievement.firstcontact.desc=Meet a villager
+achievement.cresus.name=Croesus
+achievement.cresus.desc=Earn a denier or
+achievement.summoningwand.name=Summoning
+achievement.summoningwand.desc=Buy a Wand of Summoning and generate a village with it
+achievement.villageleader.name=Village leader
+achievement.villageleader.desc=Become leader in a culture and create a controlled village
+achievement.thequest.name=The Quest
+achievement.thequest.desc=Complete a quest given by a villager
+achievement.maitreapenser.name=Maître à penser
+achievement.maitreapenser.desc=Meet the Sadhu or the Alchemist
+achievement.forbiddenknwoledge.name=Forbidden knowledge
+achievement.forbiddenknwoledge.desc=Complete the two chapters of the Creation Quest
+achievement.puja.name=A little help from the Gods
+achievement.puja.desc=Pay a pandit to perform a puja
+achievement.explorer.name=Explorer
+achievement.explorer.desc=Explore a lone building
+achievement.marcopolo.name=Marco Polo
+achievement.marcopolo.desc=Visit villages of three cultures in the same world
+achievement.magellan.name=Fernand de Magellan
+achievement.magellan.desc=Visit villages of all cultures in the same world
+achievement.selfdefense.name=Self-defense
+achievement.selfdefense.desc=Kill a bandit
+achievement.pantheon.name=The Panthéon
+achievement.pantheon.desc=Visit the mysterious Panthéon
+
+achievement.darkside.name=The dark side
+achievement.darkside.desc=Kill a villager
+achievement.scipio.name=Carthago delenda est
+achievement.scipio.desc=Destroy a village with the Negation Wand
+achievement.attila.name=Attila
+achievement.attila.desc=Gain the "Scourge of God" reputation in three cultures
+
+achievement.cheers.name=Three cheers for Minecraft!
+achievement.cheers.desc=Drink a Millénaire alcohol
+achievement.hired.name=Hired hand
+achievement.hired.desc=Hire a villager
+achievement.masterfarmer.name=Expert farmer
+achievement.masterfarmer.desc=Plant a Millénaire crop
+
+
+config.pagetitle=Millénaire Settings
+config.page.uisettings=UI Settings
+config.page.worldgeneration=World Generation
+config.page.worldgeneration.desc=Those settings apply to world generation in local worlds only (not servers you might connect to).
+config.page.villagebehaviour=Village Behaviour
+config.page.villagebehaviour.desc=Those settings apply to villages in local worlds only (not servers you might connect to).
+config.page.devtools=Dev Tools
+
+config.village_list_key.label=Village List Key
+config.village_list_key.desc=Key to display the list of surrounding villages. Default: <0>.
+
+config.quest_list_key.label=Info Panel Key
+config.quest_list_key.desc=Key to display the Millénaire info pannel. Default: <0>.
+
+config.escort_key.label=Agressive Escorts Key
+config.escort_key.desc=Key to toggle hired villagers between agressive and defensive stances. Default: <0>.
+
+
+config.fallback_language.label=Fallback Language
+config.fallback_language.desc=Secondary game language, used when the main one is not available.
+
+config.dynamic_textures.label=Dynamic Textures
+config.dynamic_textures.desc=Automatically switch to the 64x texture pack if the Minecraft texture pack is 64x or above.
+
+config.language_learning.label=Language Learning
+config.language_learning.desc=Whether languages need to be "learned" (translations will only appear after the player interacts enough with a culture).
+
+config.load_all_languages.label=Load All Languages
+config.load_all_languages.desc=Whether to load all available languages, in order to provide translations to clients if needed.
+
+config.display_start.label=Display Starting Text
+config.display_start.desc=Display the Millénaire version and Creation Quest status at startup.
+
+config.display_names.label=Display Villager Names
+config.display_names.desc=Display names, occupations and current task above villagers' heads.
+
+config.villagers_names_distance.label=Name Display Distance
+config.villagers_names_distance.desc=Distance from which names are visible. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=Sentences In Chat (MP)
+config.villagers_sentence_in_chat_distance_client.desc=How far villagers must be to display their sentences in the chat box in multi player. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=Sentences In Chat (SP)
+config.villagers_sentence_in_chat_distance_sp.desc=How far villagers must be to display their sentences in the chat box in single player. Default: <0>.
+
+config.generate_villages.label=Generate villages
+config.generate_villages.desc=Whether to generate Millénaire villages in new chunks.
+
+config.generate_lone_buildings.label=Generate lone buildings
+config.generate_lone_buildings.desc=Whether to generate Millénaire lone buildings in new chunks.
+
+config.keep_active_radius.label=Chunk Loaded Radius
+config.keep_active_radius.desc=Radius around the player in which Millénaire will attempt to keep villages' chunks loaded. Default: <0>.
+
+config.min_village_distance.label=Min Village Distance
+config.min_village_distance.desc=Minimum distance between two generated villages. Default: <0>.
+
+config.min_village_lonebuilding_distance.label=Min Village-Lone Building Distance
+config.min_village_lonebuilding_distance.desc=Minimum distance between generated villages and lone buildings. Default: <0>.
+
+config.min_lonebuilding_distance.label=Min Lone Building Distance
+config.min_lonebuilding_distance.desc=Minimum distance between lone buildings. Default: <0>.
+
+config.spawn_protection_radius.label=Spawn Protection Radius
+config.spawn_protection_radius.desc=Area around the Spawn Point where Millénaire will not generate buildings. Default: <0>.
+
+config.village_radius.label=Radius of Villages
+config.village_radius.desc=Radius of normal villages (not hamlets). Default: <0>.
+
+config.min_distance_between_buildings.label=Min Distance Between Buildings
+config.min_distance_between_buildings.desc=Minimal distance between two buildings in a village. Default: <0>.
+
+config.village_paths.label=Build Village Paths
+config.village_paths.desc=Generate paths in new villages and have the villagers upgrade them.
+
+config.max_children_number.label=Max Children Number
+config.max_children_number.desc=Maximum number of children a village can have. Default: <0>.
+
+config.background_radius.label=Village Relation Radius
+config.background_radius.desc=Radius within which villages will have relations with each others (diplomacy, trade, raids). Default: <0>. 
+
+config.bandit_raid_radius.label=Bandit Raid Radius
+config.bandit_raid_radius.desc=Radius within which bandits will raid villages. Default: <0>.
+
+config.raiding_rate.label=Raiding % Chance
+config.raiding_rate.desc=Chance on 100 that a village/bandit building will attempt a raid each night. Default: <0>.
+
+
+
+config.generate_colour_chart.label=Generate colour chart
+config.generate_colour_chart.desc=Generate the chart of colours usable in building plans.
+
+config.generate_building_res.label=Generate resource list
+config.generate_building_res.desc=Generate the list of resources required for every building.
+
+config.generate_translation_gap.label=Generate translation gap
+config.generate_translation_gap.desc=Generate for each loaded languages a report with the list of lacking text.
+
+config.generate_goods_list.label=Generate goods list
+config.generate_goods_list.desc=Generate the list of items know to Millénaire.
+
+config.valuetrue=Oui
+config.valuefalse=Non
+
+config.page.bonus=Contributor Bonus
+config.page.bonus.desc=Bonus for people who worked on Millénaire (translations, building plans, dialogues, textures, contributions to the wiki ect.) or donated: a free small house available from the Village Chief.
+
+config.bonus_code.label=Bonus Code
+config.bonus_code.desc=Code to enable the bonus. Fetched from internet automatically if a connection is possible.
+
+config.validbonuscode=Valid code! Bonus activated.
+config.invalidbonuscode=Invalid code. Please check.
+
+
+tradehelp.title=<0> - Trading
+tradehelp.goodssold=Goods Sold
+tradehelp.goodsbought=Goods Bought
+tradehelp.buyingprice=Purchase:
+tradehelp.sellingprice=Sale:
+tradehelp.helptitle=Generalities on Trading
+tradehelp.helptext=In each store you can buy goods that the village has in stock. Apart from a few "free" blocks (such as paths) or special items (the wands), the proposed goods were produced by the village and the village"loses" the items if you buy them, unlike when trading with Minecraft villages.<ret><ret>Villagers produce most of the goods they need, but selling some to them often helps accelerate the development of the village.
+
+tradehelp.freeblock=These types of blocks are made for "free" by the village and are therefore available in unlimited quantities.
+tradehelp.wood=The villagers produce wood in groves. They use it to build.
+tradehelp.stone=The villagers produce stone and glass in quarries. If the village does not have one, it is entirely dependent on you for their needs.
+tradehelp.whitewool=White wool is used in some buildings. The villagers dye it automatically if necessary.
+tradehelp.clay=The villagers produce bricks with clay from quarries.
+tradehelp.genericfood=Access to different types of food helps children grow faster.
+tradehelp.genericfoodraw=The villagers cook meat before eating it.
+tradehelp.genericfoodsweet=Alcohol and sweets help increase the villagers' chances of conceiving children.
+tradehelp.seeds=The villagers use seeds to plant wheat and feed chickens.
+tradehelp.carrot=Villagers use carrots to feed their pigs.
+tradehelp.feathers=Feathers are used to make arrows.
+tradehelp.generictools=Tools of different levels make villagers more effective.
+tradehelp.genericweapon=Weapons and armor of different levels make villagers more powerful.
+tradehelp.purse=Bourses à deniers can store deniers and keep track of your funds. They are always available.
+tradehelp.wand=The wand of summoning allows you to create villages. They are always available.
+tradehelp.parchments=Parchments provide information about Millénaire. They are always available.
+
+tradehelp.normanwhitewool=White wool is used in some buildings and is needed to make tapestries in Norman forts.
+tradehelp.normantapestrywool=Gray, light gray, black, and brown wools are required by the lady to make tapestries.
+tradehelp.normanleather=Norman monks use leather to make books.
+tradehelp.normantools=Norman smiths use iron to make Norman weapons and tools of exceptional quality.
+tradehelp.normanbooks=Norman monks produce bookshelves with paper and books. They are used in some buildings.
+tradehelp.normanalchemy=The alchemist produces basic potions.
+tradehelp.normancider=Normans produce cider and calva in taverns from cider apples harvested by loggers. These drinks heal and regenerate the player and help the villagers to have children. Calva also provides a temporary "Strength" bonus.
+tradehelp.normantripesboudin=Normans produce tripes and boudins from cows and pigs. These foods nourish the player and help children grow. Tripes also provide a temporary "Regeneration" bonus.
+tradehelp.normantapestry=Ladies produce these decorative tapestries from white, gray, light gray, brown, and black wool.
+tradehelp.normantimberframes=Norman carpenters produce these timber frames from wood.
+tradehelp.normanwheat=Norman villagers make bread and feed their livestock with wheat.
+
+tradehelp.byzantinetools=Byzantine smiths use iron and leather to produce iron tools and Byzantine armours.
+tradehelp.byzantinefeta=The Byzantines produce feta cheeses from sheep milk. These cheeses heal and regenerate the player and help the villagers to have children.
+tradehelp.byzantinebooks=The Byzantines produce books from wood and leather.
+tradehelp.byzantinewine=The Byzantines produce wine from grapes in taverns. The wine heals the player and helps the villagers have children. It also provides a temporary "Resistance" bonus.
+tradehelp.byzantinesilk=The Byzantine produce silk and use it to make paintings, icons, and luxurious clothes for the rich Byzantines.
+tradehelp.byzantineclothes=The Byzantines produce clothing from wool and silk. They improve the appearance of the villagers who wear them.
+tradehelp.byzantinetiles=The Byzantines produce tiles from stone and clay.
+tradehelp.byzantinefood=The Byzantines cook the lamb chops and mix them with their feta cheeses to make delicious souvlakis. These foods nourish the player and help children grow. Souvlakis also give back health.
+tradehelp.byzantineweapons=Byzantine blacksmiths produce solid, formidable armor from iron and leather.
+tradehelp.byzantinewheat=The Byzantine villagers make bread and feed their livestock with wheat.
+
+tradehelp.hinditools=Indian smiths use iron to produce tools and armor.
+tradehelp.hindigenericfood=Access to different types of food helps children grow faster. Warning: Indians do not eat beef or pork.
+tradehelp.hindigenericfoodsweet=Desserts increase help villagers conceive children. Warning: Indian villagers do not drink alcohol.
+tradehelp.hindirasgulla=The Indians produce delicious rasgullas from sugar. They heal and regenerate the player and help villagers have children. They also provides a temporary "Speed" bonus.
+tradehelp.hindicurry=The Indians cook vegetarian curries with rice and turmeric as well as chicken curries by adding a chicken. These foods nourish the player and help children grow. Chicken curries also provides a temporary "Fire resistance" bonus.
+tradehelp.hindibricks=The Indians leave wet mud bricks in the sun to cook to make dry bricks. You can make them yourself by buying a mould.
+tradehelp.hindistatue=Indian sculptors produce these bas-relief of Hindu gods for adorning Indian temples.
+
+tradehelp.japanesegold=The Japanese use gold to decorate some buildings.
+tradehelp.japaneseudon=The Japanese cook udons from wheat and chicken. They nourish the player and help children grow.
+tradehelp.japanesetools=Japanese smiths use iron and leather to produce iron tools and Japanese armor.
+tradehelp.japaneseweapons=Japanese blacksmiths produce beautiful armor and formidable swords from iron, leather, and wool.
+tradehelp.japanesepaper=Japanese artisans produce paper from rice and use it to make translucent walls.
+tradehelp.japaneseframes=Japanese craftsmen produce timber frames from wood to build elegant buildings.
+tradehelp.japaneserice=The Japanese use rice to grow and nourish their children, to produce paper, and to ferment sake.
+tradehelp.japanesewheat=The Japanese cook wheat to make udons.
+tradehelp.japanesethatch=Japanese produce blocks from wheat.
+tradehelp.japanesesake=Japanese sake brewers use rice to brew sake. Sake heals and regenerates the player and helps the villagers have children. It also provides a temporary "Jump Boost" bonus.
+tradehelp.japaneseikayaki=The Japanse raise squids and grill them to make ikayakis. They nourish the player and help children grow. They also provide a temporary "Water Breathing" bonus.
+
+tradehelp.mayangold=Mayan artisans need gold to produce decorative blocks. They require players to provide the gold for them.
+tradehelp.mayanfood=The Mayan people grow corn and make masa (maize tortillas) and wah (by adding chicken) from it. They nourish the player and help children grow. Wah also provide a temporary "Haste" bonus.
+tradehelp.mayanobsidian=Mayan artisans produce tools with obsidian sold by the player. These tools are not very effective, but can be enchanted easily.
+tradehelp.mayanstonetools=Mayan artisans produce tools and swords from stone as basic tools in the absence of obsidian.
+tradehelp.mayanweapons=Mayan artisans make stone swords and leather armour. Obsidian craftsmen can make them more powerful and very enchantable obsidian maces.
+tradehelp.mayancocoa=Mayan cocoa farmers harvest cocoa pods and use them to prepare cacauhaa, a chocolate drink. Cacauhaa heals and regenerate the player and helps increase the number of villagers who will have children. It also provides a temporary "Night Vision" bonus.

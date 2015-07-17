@@ -1,0 +1,56 @@
+version:1.1.4
+Millénaire: Objectos Normandos
+
+Denier: Moeda medieval utilizada pelos aldeões. Está dividida em três valores: deniers (bronze), deniers argent (prata), que valem 64 deniers, e deniers or (ouro), que valem 64 deniers argent, ou 4096 deniers.
+
+Maçã Sidra: Esta maçã não-comestível é recolhida pelos lenhadores e utilizada para produzir sidra e calva. Pode ser adquirida pelo jogador, mas o seu único propósito é ser vendida de novo às aldeias.
+NEW_PAGE
+Alimentos
+
+Sidra: Produzida pelos aldeões a partir de maçãs de sidra, esta refrescante bebida recupera dois corações e pode ser utilizada três vezes.
+
+Calva: Também conhecida por Calvados, este brandy de maçã da Normandia recupera dois corações e pode ser utilizado dez vezes. É fabricado a partir da sidra numa taberna, e o seu consumo fora do Millénaire é recomendado em pequenas doses: o seu teor alcoólico varia entre 40 e 45 graus.
+
+Tripes: Este famoso prato Normando é o ideal para consumir depois de um longo dia a trabalhar lá fora ao frio, ou depois de uma valente queda no Minecraft. Recupera cinco corações e pode ser utilizado três vezes. Quem não é da Normandia costuma desfrutar mais deste prato quando não sabe do que é feito. Fica avisado.
+
+Boudin Noir: Quase tão bom como as tripes, o boudin noir recupera três corações e pode ser utilizado três vezes. Tal como a sua prima, a morcela Inglesa, costuma ser melhor desfrutado por quem não sabe como é fabricado.
+NEW_PAGE
+Ferramentas e Armas
+
+Pá Normanda: Esta pá Normanda de alta qualidade tem tanta durabilidade quanto uma pá de ferro, mas é tão rápida quanto uma de ouro. É a verdadeira ferramenta de preferência para escavadores sérios, disponível numa forja próxima de si.
+
+Picareta Normanda: Esta picareta escava tão depressa como uma picareta dourada e tem a mesma durabilidade que uma de ferro. É perfeita para aquelas longas expedições subterrâneas! Ainda assim, tenha cuidado, pois esta picareta não escava obsidiana.
+
+Machado Normando: Tão rápido como um machado dourado e com a mesma durabilidade de um de ferro, este machado é realmente poderoso. Especialmente nas mãos de um lenhador furioso.
+
+Enxada Normanda: Basicamente equivalente a uma enxada de diamante, mas com um aspecto mais elegante.
+
+Armadura Normanda: O conjunto completo da armadura Normanda fornece 50% mais protecção do que um conjunto de ferro, com a mesma durabilidade de diamante, e faz com que pareça realmente perigoso em vez de pronto para uma festa de Carnaval.
+
+Espada Normanda: Cara, muito cara, e compensa até ao último denier quando utilizada contra um inimigo resistente.
+NEW_PAGE
+Construção e Decoração
+
+Armação Simples / Armação Cruzada: Este material de construção consiste em vigas de madeira escura em redor de um núcleo de terra ou tijolo. Fabricada pelo carpinteiro para ser utilizada nas várias construções da aldeia ou para vender ao jogador.
+
+Tapeçaria Normanda: Fabricada à mão pela dama do forte, estas tapeçarias épicas são utilizadas para decorar os corredores mais faustosos da aldeia. Os modelos são retirados da Tapeçaria de Bayeux, cujo maior exemplo é uma representação de 15 por 3 da frota de Guilherme, o Conquistador, a navegar em direcção à Inglaterra.
+NEW_PAGE
+Amuletos
+
+Amuleto de Yggdrasil: Gravado com o desenho de Yggdrasil, a Árvore do Mundo da mitologia Nórdica, cujas raízes penetram o fundo do mundo e cujos ramos tocam a ponta do céu, este amuleto permite ao seu utilizador certificar-se sempre da altitude em que se encontra.
+
+Amuleto dos Anões: Trazido até à costa Normanda pelos Vikings e fabricado na forma do Martelo de Thor, este Amuleto dos Anões guiará o seu utilizador até às riquezas da terra.
+
+Amuleto de Sköll e Hati: Extraindo o seu poder de Sköll e Hati, os grandiosos lobos que perseguem o Sol e a Lua, este amuleto permite ao seu utilizador transformar o dia em noite e a noite em dia. Mas cuidado: o seu poder não é infinito.
+
+Amuleto do Corvo: Os sacerdotes Normandos poderão ser leais à Igreja e ao Papa na Roma longínqua, mas ainda não se esqueceram das antigas tradições Viking. Este amuleto dedicado a Odin avisa o seu utilizador de perigos imediatos colorando-se de vermelho-sangue se uma criatura hostil se aproximar. Tanto serve para as evitar como para as procurar.
+NEW_PAGE
+Pergaminhos
+
+Aldeões Normandos: Um pergaminho com informações sobre os diversos tipos de aldeões que o matarão se se atrever a tocar nem que seja num deles.
+
+Construções Normandas: Uma descrição das diversas construções onde os aldeões ficarão presos a tentar edificar.
+
+Objectos Normandas: Deveria saber o que é por esta altura.
+
+Pergaminho Normanda Completo: O conteúdo dos três pergaminhos anteriores, num único pergaminho para transporte fácil.

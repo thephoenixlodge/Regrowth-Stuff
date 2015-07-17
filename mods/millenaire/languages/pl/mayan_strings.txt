@@ -1,0 +1,35 @@
+culture.mayan=Majow
+
+villager.mayan_boy=Chlopiec
+villager.mayan_girl=Dziewczyna
+villager.mayan_teenagerMale=Nastolatek
+villager.mayan_teenagerFemale=Nastolatka
+villager.mayan_lumberman=Drwal
+villager.mayan_miner=Gornik
+villager.mayan_shaman=Szaman
+villager.mayan_peasant=Wiesniak
+villager.mayan_peasantwife=Wiesniaczka
+villager.mayan_leader=Przywodca
+villager.mayan_richwoman=Krolowa
+villager.mayan_warrior=Wojownik
+villager.mayan_chieftain=Wodz
+villager.mayan_crafter=Rzemieslnik
+villager.mayan_armysmith=Kowal wojskowy
+villager.mayan_sculptor=Rzezbiarz
+villager.mayan_shamanwife=Zona szamana
+villager.mayan_king=Krol
+villager.mayan_merchant=Kupiec
+villager.mayan_chickenfarmer=Hodowca kur
+villager.mayan_farmer=Hodowca kukurydzy
+
+villager.lonemayanfarmer=Samotny rolnik
+villager.lonemayanpeasantwife=Zona rolnika
+villager.lonemayanshaman=Szaman
+villager.lonemayanshamanwife=Zona szamana
+villager.mayanbanditboy=Chlopiec bandyta
+villager.mayanbanditwarrior=Bandyta wojownik
+villager.mayanfemalebandit=Bandytka
+
+villager.merchant_mayanfarmer=Handlarz rolnik
+villager.merchant_mayanhunter=Handlarz mysliwy
+villager.merchant_mayanshaman=Handlarz szaman

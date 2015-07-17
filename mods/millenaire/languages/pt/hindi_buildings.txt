@@ -1,0 +1,52 @@
+playerestate_A0=Vila
+forge_A0=Forja
+armyforge_A0=Forja Militar
+scultorhouse_A0=Casa do Escultor
+archives_A0=Arquivo do Templo
+chiefhouse_A0=Residência do Chefe
+chiefhouse_B0=Residência do Chefe
+fort_A0=Forte
+fort_A_forge_A0=Forja do Forte
+fort_A_soldierhouse_A0=Caserna
+peasanthouse_A0=Casa de Camponeses
+peasanthouse_B0=Casa de Camponeses
+peasanthouse_C0=Casa de Camponeses
+lumbermanhouse_A0=Casa do Lenhador
+quarry_A0=Pedreira
+quarry_B0=Pedreira
+soldierhouse_A0=Casa do Soldado
+brickkiln_A0=Forno de Tijolos
+grove_A0=Bosque
+paddy_A0=Arrozal
+spicegarden_A0=Jardim de Especiarias
+sugarplantation_A0=Plantação de Cana
+villagetemple_A0=Templo
+palace_A0=Palácio
+guesthouse_A0=Estalagem
+inn_A0=Albergaria
+largepeasanthouse_A0=Casarão
+largepeasanthouse_A_secondary_A0=Anexo do Casarão
+playerpalace_A0=Palácio do Jogador
+playerhugefield_A0=Terreno Muito Grande
+playerlargefield_A0=Terreno Grande
+playersmallfield_A0=Terreno Pequeno
+playersmallhouse_A0=Casa Pequena
+bazaar_A0=Bazar
+tank_A0=Poço em Degraus
+
+pandithouse_A0=Casa do Sacerdote
+
+//construções adicionais:
+well_A0=Poço
+
+//construções isoladas:
+adivasifarm_A0=Quinta Adivasi
+adivasifarm_B0=Quinta Adivasi
+deserttradeoutpost_A0=Posto de Comércio do Deserto
+ruinedfort_A0=Forte Hindu Arruinado
+sandblasted_A0=Posto de Comércio Abandonado
+indiandesertedfarm_A0=Quinta Hindu Arruinada
+loneshrine_A0=Santuário Hindu
+sadhutree_A0=Árvore do Sadhu
+
+gifthouse_a0=Casa do Contribuidor

@@ -1,0 +1,46 @@
+version:1.1.4
+Millénaire Items
+
+Denier. Middeleeuws betaalmiddel in gebruik bij de dorpelingen. Komt voor in 3 waarden: normaal (brons), argent (zilver) is 64 normale munten waard, en or (goud) is 64 argent waard.
+
+Pomme à cidre : Ciderappel. Deze oneetbare appel is geplukt door de houthakker en wordt gebruikt voor het maken van cider en brandewijn.
+
+Cidre :  Cider. Gemaakt door de dorpeling van ciderappels, dit dorstlessende drankje heelt 2 hartjes en kan 2 maal gebruikt worden.
+
+Calva. Beter bekend als Calvados, deze appelbrandewijn uit Normandië, heelt 2 hartjes en kan 10 maal worden gebruikt. Het is gemaakt van cider uit de taverne, en buiten Millénaire is het aan te bevelen in kleine hoeveelheiden: hat varieert van 40 tot 45%.
+
+Pens. Dit beroemde Normandische gerecht is een hebbeding na een lange tijd werken buiten in de kou, of na een nare Minecraftval. Het heelt 2 hartjes en kan 3 maal worden gebruikt. Niet-Normandiërs hebben meer de neiging om ervan te genieten voordat wordt verteld wat het is. Je bent gewaarschuwd.
+
+Bloedworst. Bijna zo goed als pens, bloedworst heelt 2 hartjes en kan 3 maal gebruikt worden. Net als zijn neef de Engelse bloedworst, heeft het de neiging om meer van genoten te worden door mensen die niet weten hoe het gemaakt is.
+
+Normandische schep. Deze hoogwaardige Normandische schop is net zo duurzaam als een ijzeren, maar is zo snel als een gouden schop. Het middel bij uitstek voor serieuze gravers, verkrijgbaar bij een smederij in de buurt.
+
+Normandisch pikhouweel. Dit pikhouweel mijnt net zo snel als een gouden en is net zo duurzaam als een ijzeren pikhouweel. Perfect voor die lange mijnbouwexpedities! Pas wel op, obsidiaan mijnen doet hij niet.
+
+Normandische bijl. Zo snel als de gouden en zo duurzaam als een ijzeren bijl, geeft het een serieuze stoot. Vooral in de handen van een boze houthakker.
+
+Normandische schoffel. In principe gelijk aan een diamanten, maar het ziet er cooler uit.
+
+Normandisch pantser. De Normandische pantserset geeft je een extra 50% meer bescherming dan een diamanten en eigenlijk maakt het je gevaarlijk lijken inplaats van gekleed voor een verkleedpartijtje.
+
+Normandisch slagzwaard. Duur, erg duur en is elke denier waard wanneer je geconfronteerd wordt met een taaie vijand.
+
+Houten frame. Dit bouwmateriaal bestaat uit balken van donker hout rondom een kern van aarde of ongekookte bakstenen. Gemaakt door de timmerman voor gebruik in gebouwen van het dorp of voor het ruilen met de speler.
+
+Tapisserie normande : Normandisch wandtapijt. Met de hand gemaakt door de fortdame zullen deze epische wandtapijten de meeste luxueuze band-hallen sieren. Ontwerpen zijn afkomstig uit het tapijt van Bayeuxn met de grootste, een massieve 15x3, afbeelding van Willem de Veroveraars vloot op weg naar Engeland.
+
+Amulette d'Yggrasil : Amulet van Yggrasil. Gegraveerd met Yggrasil, de Wereldboom van de Noorse mythologie waarvan de wortels de bodem van de wereld zijn en waarvan de takken het uiteinde van de hemelen raken, zal dit amulet je verzekeren dat je altijd weet hoe hoog of diep je bent.
+
+Amulette du Corbeau : Amulet van de Raaf. Normandische priesters zouden loyaal zijn aan de kerk en de paus in verre Rome, maar ze hebben de oude Vikingen traditie niet vergeten... Dit amulet, gewijd aan Odin, zal u waarschuwen van inkomend gevaar door bloedrood te worden als een onnatuurlijk wezen in de buurt is. Nuttig om ze te vermijden of om ze op te zoeken.
+
+Amulette des Nains : Amulet van de Dwergen. Gebracht aan de Normandische kust door de Vikingen en vervaardigd in de vorm van de hamer van Thor, het Amulet van de Dwergen zal u het pad tonen naar de rijkdommen van de aarde.
+
+Amulette de Sköll et Rati : Amulet van Sköll en Rati. Zijn machttrekken van Sköll en Rati, de grote wolven die de zon en de maan achterna lopen, dit amulet maakt zijn drager het mogelijk om dag in nacht te veranderen of omgekeerd. Maar wees gewaarschuwd, de kracht is niet oneindig.
+
+Villageois normands : Normandische Dorpelingen. Een perkament waarin staat hoeveel verschillende soorten dorpelingen je zullen afmaken als je één van hen aanraakt.
+
+Bâtiments normands : Normandische gebouwen. Een beschrijving van de verschillende gebouwen die je de dorpelingen kan zien maken.
+
+Objets normands : Normandische voorwerpen. Je zou het nu toch al moeten weten.
+
+Parchemin complet : Compleet perkament. De inhoud van de vorige 3 in een eenvoudige rol om het gemakkelijker te kunnen dragen.

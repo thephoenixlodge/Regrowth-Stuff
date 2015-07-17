@@ -1,0 +1,42 @@
+version:1.1.4
+Millénaire: Indian buildings
+            
+Village Centres
+
+Mukhiya ka Ghar : De dorpshoofwoning. Dit stenen huis is voor het dorpshoofd en zijn vrouw, en ook om het middelpunt van het dorp te zijn. De vele kisten zijn om de "constributies" te verzamelen van de dorpelingen.
+
+Qila : Fort. Dit kleine torentje kan veranderen in een krachtig en sterk fort van de Rajput generaal die daar met zijn vrouw leeft. Het helpt bij het beheersen van de omgeving en het centraliseren van de boeren hen goed.
+NEW_PAGE
+Homes
+
+Kisan ka Ghar : Dorpeling huis. Een simpel huis gemaakt van zon gedroogde stenen, Deze bescheiden woning kan worden uitgebreidt met een kippenhok en een terras voor rust en ontspanning.
+
+Lakarhara ka Ghar : Houthakkershuis. Gebouwd van het hout van de houthakker, en verbeterd met gekookde stenen, groeit dit huis alleen met de pracht van de tijd.
+
+Sikaar : Mijn. Een simpel gat in de grond naar de rotsen. Het is hier waar de mijnwerker de stenen en zandstenen mijnt die nodig zijn voor het dorp.
+
+Bhati : Smid. De van dag tot dag gebruikte werktuigen worden hier gemaakt door de smid; zijn hart is even dichtbij naar z'n hart voor zijn vrouw.
+
+Sena ka Bhati : Militaire smederij. Het arsenaal, gemaakt van zandsteen, schede van messen en messen, bescherming, en alles wat de smid maakt.
+
+Muurtikaar ka Ghar :  Beeldhouwershuis. Dit kleine huisje vastgemaakt aan de werkplaats in  wat de beeldhouwer steen en zandsteen transformeerd in beelden van de goden van de Hindu's.
+
+Sainik ka Ghar : Soldatenhuis. Gemaakt van solide steen, is dit huis voor de Rajput krijger en zijn vrouw.
+
+Pandit ka Ghar : Priestershuis. Dit prachtige huis, veel mooier dan die van de dorpelingen, woont de priester en zijn vrouw, allebei even lui en niets doend.
+NEW_PAGE
+Onbewoonde Gebouwen:
+
+Inta bhatta : Steenoven. Dit gebouw is belangrijk voor een Indisch dorp. Hier worden stenen klaargemaakt en gedroogd in de zon, of na het bouwen van een over hen bakken.
+
+Kunja : Park. Voorzichtig onderhouden door de houthakkers, zorgen zij voor het hout van het dorp. De rijke grond en de werken van de houthakkers helpen de bomen sneller te groeien dan normaal.
+
+Puraalekhagar : Tempel archieven. Het is hier waar de priester en zijn vrouw alle voorspellingen doen en geheime informatie krijgen over alle dorpelingen.
+
+Dhaan : Rijstplantage. Rijst, een essentieel middel - welke goede keuken heeft geen rijst?
+
+Masaalaa udyaana : Kruidentuin. Turmeric groeit makkelijk door de oplettendheid van de vrouwen - en het is maar goed ook, want het eten van het dorp is anders extreem flauw!
+
+Gannaa baagaana : Suikerplantage. Je kan geen goede rasgullas maken zonder suiker, en er is geen betere genegenheid van de dorpelingen.
+
+Gaanv ka Mandir :  Dorpstempel. Dit prachtige gebouw is een bewijs van het geloof en de vroomheid van de dorpelingen, of de mogelijkheid dat de invloed van de priester zo groot is dat hij het regelt. Drie beelden gemaakt door de beeldhouwer maken de tempel helemaal af.

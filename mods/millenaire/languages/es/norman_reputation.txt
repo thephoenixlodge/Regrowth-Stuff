@@ -1,0 +1,10 @@
+0;Extranjero; Somos concientes de usted, recien llegado. Esperamos que sea honesto con nosotros y no sea hostil con la gente.
+4*64;Conocido; Te hemos visto antes por aqui y ninguno de los pollos ha desaparecido. Por el momento nos llevamos bien.
+16*64;Visitante Regular; Bienvenido $name! Nos alegra verte por aqui.
+64*64;Comerciante Favorito;Ah, $name! Todo el pueblo te estaba esperando para comerciar.
+2*64*64;Amigo del Pueblo; Nuestro pueblo no suele confiar en los forasteros con facilidad. Pero $name, mi buen amigo, tu has demostrado ser de confianza.
+8*64*64;Uno de Nosotros; Siempre es un placer verte $name. Vienes de un pais lejano, pero eres uno de nosotros
+32*64*64;Lider Natural;$name, Usted tiene la confianza y la fidelidad de este pueblo, lo seguiran a cualquier parte.
+-64;Azote; Le estamos observando $name. Esté alerta.
+-4*64;Forastero Desagradable; Has demostrado ser una verdadera molestia por aqui. Tienes suerte de que no te hallamos echado.
+-16*64;Enemigo Público; Su presencia aqui es casi insoportable. Un movimiento en falso y es hombre muerto.

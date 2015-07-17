@@ -1,0 +1,59 @@
+Explicação dos diálogos:
+
+"key" necessita de ser única nesta cultura
+"weight" indica a chance de este diálogo ser seleccionado (se válido)
+"v1" indica uma restrição no primeiro aldeão, "v2" no segundo. As restrições podem ser:
+adult: necessita de ser um adulto
+child: necessita de ser uma criança
+male: necessita de ser de sexo masculino
+female: necessita de ser de sexo feminino
+hasspouse: necessita de estar casado
+nospouse: necessita de estar solteiro
+vtype: necessita de ser deste tipo de aldeão. É possível colocar diversas opções, separadas por hífenes. Ex: vtype:guard-lumberman
+novtype: não pode ser deste tipo. Ex: novtype:monk-priest-abbot
+
+"rel" indica uma relação necessária entre os dois aldeões. Os valors podem ser:
+"spouse": os dois aldeões estão casados
+"parent": v1 é progenitor de v2
+"child": v1 é filho de v2
+"sibling": v1 e v2 são irmãos
+
+"notrel" aceita todos os valores que rel aceita, mas a relação é proibida
+
+"building" significa que uma construção necessita de existir na aldeia
+"notbuilding" significa que uma construção não pode existir na aldeia
+
+"villager" significa que um tipo de aldeão necessita de existir na aldeia
+"notvillager" significa que um tipo de aldeão não pode existir na aldeia
+
+"tag" representa uma condição especial que necessita de ser verdadeira. Essas condições, de momento, podem ser:
+"raining": está a chover (ou a nevar) no mundo (independentemente de a chuva ou neve estar a cair sobre os aldeões, como nos desertos)
+"notraining": o oposto da anterior
+
+Estes critérios acumulam-se: todos têm de ser válidos para que um diálogo seja válido.
+
+Exemplos:
+
+Diálogo entre um homem e uma mulher, ambos solteiros, que não são irmãos, e em que o homem não é nem um padre nem um monge
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:novtype:monk-priest-abbot,weigth:20
+
+Diálogo entre um cavaleiro e um lenhador numa aldeia sem taberna:
+
+newchat;key:letsbuildatavern,v1:vtype:lumberman,v2:knight,notbuilding:tavern,weigth:20
+
+Diálogo numa aldeia com um aprendiz do alquimista, entre dois adultos que não são nem aprendizes do alquimista, nem mestres do Grémio:
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+
+
+Os diálogos são colocados depois das condições, com três valores:
+- A pessoa que o diz (v1 ou v2)
+- O momento em que a frase é dita após o começo do diálogo em si (em "ticks" - um segundo são 20 ticks)
+- A frase em si com uma "/" a separar a frase no idioma nativo do aldeão (visualizado a azul no jogo) e no idioma do jogador (a vermelho).
+- A frase pode incluir o nome do jogador ("$name"), o primeiro nome do outro interlocutor ("$targetfirstname") e o seu apelido ("$targetlastname").
+
+
+Por exemplo, uma frase num diálogo Hindu proferida no tick 30 pelo segundo interlocutor:
+
+v2;30;Sab kuch thik hai, $targetfirstname! / Está tudo bem, $targetfirstname!

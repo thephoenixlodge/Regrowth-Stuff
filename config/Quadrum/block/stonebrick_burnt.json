@@ -1,0 +1,13 @@
+{
+    "name": "stonebrickburnt",
+    "default-texture": "stonebrick_burnt",
+    "material": "stone",
+    "hardness": 1.5,
+    "type": "block",
+	"drops-self": "false",
+	"drops": [
+		{"item": "minecraft:stonebrick", "amount": "1", "damage": "0"}
+    ],
+	"flammable": "false",
+    "requires-tool": "false"
+}

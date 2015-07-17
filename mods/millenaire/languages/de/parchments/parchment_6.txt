@@ -1,0 +1,64 @@
+version:1.1.4
+Millénaire: Indische Gebäude
+
+<darkred>Dorfzentrum:
+
+<darkblue>Mukhiya ka Ghar : Haus den Anführers
+Dieses Lehmziegelhaus ist das Zuhause des Dorfanführers und seine Frau, sowie das Dorf Zentrum. In die zahlreichen Kisten werden die "Zuwendungen" der Dorfbewohner gesammelt.
+
+<darkblue>Qila : Fort
+Dieser kleine Ziegelturm kann zu einer eindrucksvollen Festung ausgebaut werden. Der General der Rajput und seine Frau leben hier. Es dient zur Überwachung der Umgebung und zur zentralen Lagerung des Eigentums der Bauern.
+
+<darkblue>Mahal : Mahal Palast
+Hier residiert der große Raja König, hier her bringen die Bauern auch ihre Tribut Zahlungen. Das Mahal ist wahrlich ein Meisterwerk der Architektur.
+
+NEW_PAGE
+<darkred>Bewohnte Gebäude:
+
+<darkblue>Kisan ka Ghar : Bauernhaus
+Dieses einfache Gebäude aus Sonnengetrockneten Ziegeln kann um einen Hühnerstall und eine Terrasse zum Entspannen erweitert werden.
+
+<darkblue>Lakarhara ka Ghar : Holzfällerhüttte
+Gebaut aus Holz vom Holzfäller selbst, wird das Haus, nach Aufwertung mit gebrannten Ziegeln. immer schöner mit der Zeit
+
+<darkblue>Sikaar : Steinbruch
+Ein einfaches Loch in tiefen Stein geschlagen dient dem Bergarbeiter zum Abbau von Steinen und Sandstein, die das Dorf benötigt
+
+<darkblue>Bhati : Schmiede
+Die täglichen Werkzeuge der Dorfbewohner werden hier gemacht. Der Amboss ist dem Schmied fast genauso ans Herz gewachsen wie seine Frau.
+
+<darkblue>Sena ka Bhati : Waffenschmiede
+Die aus robustem Sandstein gebaute Schmiede beherbergt Schwerte, Rüstungen und den Schmied der sie macht.
+
+<darkblue>Muurtikaar ka Ghar : Bildhauerwerkstatt
+Dieses kleine Haus mit angrenzender Werkstatt dient dem Bildhauer als Wohnung und Arbeitsplatz. Hier stellt er aus Stein und Sandstein wunderschöne Statuen der Hindi Götter her.
+
+<darkblue>Sainik ka Ghar : Soldaten Haus
+Gefertigt aus massivem Stein, beherbergt dieses Haus eine heftige Rajput Krieger und seine Frau.
+
+<darkblue>Pandit ka Ghar : Priester Haus
+Dieses schöne Haus ist hochwertiger als die der Bauern. Hier leben der Priester und seine Frau, beide so faul wie der andere.
+
+NEW_PAGE
+<darkred>Unbewohnte Gebäude:
+
+<darkblue>Inta bhatta : Ziegelei
+Dieses Gebäude ist unerlässlich für jedes indische Dorf. Hier werden Lehmziegel gefertigt, die in der Sonne trocknen und, sofern ein Ofen angebaut wurde, anschließend gebrannt werden.
+
+<darkblue>Kunja : Hain
+Sorgfältig von den Holzfällern gepflegt, dienen Haine dem Dorf als primäre Quelle für Holz. Der fruchtbare Boden und die sorgfältige Pflege der Holzfäller lässt die Bäume schneller wachsen.
+
+<darkblue>Puraalekhagar : Tempelarchiv
+Die Geschichte und Aktivitäten aller Dorfbewohner werden hier aufgeschrieben. Es ist bestimmt nützlich.
+
+<darkblue>Dhaan : Reisfeld
+Reis ist ein Grundnahrungsmittel - welche gute Küche kommt schon ohne aus?
+
+<darkblue>Masaalaa udyaana : Kräutergarten
+Hier wächst der Gelbwurz unter Aufsicht der Dorffrauen - und das ist wichtig, den das Indische essen wäre ohne auch recht fade.
+
+<darkblue>Gannaa baagaana : Zuckerrohplantage
+Hier wächst Zuckerrohr. Ohne Zucker kannst du kein gutes Rasgulla machen, und es gibt unter Dorfbewohnern keine bessere Art seine Zuneigung auszudrücken
+
+<darkblue>Gaanv ka Mandir : Dorftempel
+Dieses schöne Gebäude ist ein Beweis für den Glauben und die Frömmigkeit der Dorfbewohner, oder möglicherweise auf den Einfluss den der Priester auf sie hat. Drei Statuen des Bildhauers schmücken einen fertigen Tempel.

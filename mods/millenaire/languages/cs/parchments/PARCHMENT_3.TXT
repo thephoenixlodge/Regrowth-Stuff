@@ -1,0 +1,56 @@
+version:1.1.4
+Millénaire: Popis Severskych predmetu
+
+Denier. Stredoveka mena pouzivana vesnicany. Vyskytuje se ve trech typech: stribrne (argent) ve vysi 64 medenych (denier) a zlate (or) ve vysi 64 stribrnych.
+
+Jablka na cidr. Drevorubci sbiraji tato jablka, ktera se nechavaji kvasit a nakonec se z nich vyrabi cidr. Hrac je nemuze koupit, protoze jedine vyuziti je prodej jine vesnici.
+NEW_PAGE
+Spotrebni predmety:
+
+Cidre :  Cidr. Cidr je napoj pripraveny kvasenim prirodni jablecne stavy. Tento osvezujici napoj vyleci 2 srdicka a je mozne se z nej napit az trikrat.
+
+Calva. Spise zname jako Calvados, tento jablecny liker z Normandie leci 2 srdicka a lze se ho napit az desetkrat. Je vyraben v krcmach z cidru. Mimo Millénaire je doporucena konzumace jen v malych davkach, obsah alkoholu je 40-45%.
+
+Tripes: Drstky. Toto slavne severske jidlo pomaha po velmi dlouhe dobe stravene venku, nebo po osklivych Minecraftich padech. Leci 5 srdicek a muze byt pouzit trikrat. Ne-severane si tuto pochoutku velmi uzivaji, dokud jim nekdo nerekne, ze ceho to je.
+
+Boudin noir : Klobasky. Temer stejne dobre jako drstky jsou klobasy, vyleci 3 srdicka a muzou byt pouzity trikrat. Stejne jako jeho bratrance, Anglicke jelito, si klobasy uzivaji lide, kteri nevedi, z ceho se ony klobasky vyrabi.
+NEW_PAGE
+Zbrane a nastroje:
+
+Severska lopata. Velmi kvalitni lopata je odolna jako zelezna lopata, ale rychlejsi nez zlata. Tento nastroj je skvelou volbou pro zapalene kopace, pokd je v blizkosti k dispozici kovarna.
+
+Seversky krumpac. Tento krumpac je rychlejsi nez zlaty a vydrzi stejne co zelezny. Perfektni na dlouhe hlubinne expedice! Vsak pozor, neprokope se skrz obsidian.
+
+Severska sekera. Rychlejsi nez zlata a stejne odolna jako zelezna, patri do serioznich rukou. Obzvlast do rukou rozzureneho drevorubce.
+
+Severska lopata. V podstate ekvivalentni k diamantove, nevydrzi sice tak dlouho, zato vypada lip.
+
+Severska zbroj. Set severske zbroje dava nositeli o 50% lepsi ochranu nez diamantova zbroj a take drsnejsi vzhled nez kostym na maskarni.
+
+Severska savle. Drahy, velmi drahy predmet, ale stoji za vsechny prachy, pokud se pred vami objevi obzvlaste tuhy nepritel.
+NEW_PAGE
+Konstrukce a dekorace:
+
+Dreveny ram. Tento stavebni material se sklada ve svazku temneho dreva z okoli jadra zeme, nebo z nepalenych cihel. Je vyraben tesarem pro vyuziti ve stavebnictvi, nebo k prodeji hraci.
+
+Severske tapiserie. Rucne vyrabene pani pevnosti osobne, tyto epicke gobeliny zdobi vsechny honosne bankovni haly. Vzory jsou prevzaty z tapiserie Bayeux, s nevetsi 15*3 vyobrazujici Williamovu dobyvatelskou flotilu plavici se do Anglie.
+NEW_PAGE
+Amulety:
+
+Amulet Yggrasil. S rytinou Yggrasilu, stromu sveta severske mytologie, jehoz koreny sahaji az na dno sveta a vetve se dotykaji nebe. Tento amulet ti vzdy ukaze jak hluboko nebo vysoko jsi.
+
+Amulet krkavce. Seversti knezi mohou byt loajalni cirkvy a papezi v dalekem Rime, ale nezapomeli na stare Vikingske tradice... Tento amulet venovany Odinovi te vzdy upozorni na prichozi nebezpeci tim, ze se zabarvi do krvave rude barvy, pokud bude pobliz nejake neprirozene stvoreni. Uzitecne k vyhnuti se nebo naopak k nalezeni stvur.
+
+Amulet trpasliku. Dovezen k severskym brehum Vikingy, vyroben ve tvaru Thorova kladiva, te bude Amulet trpasliku vzdy navadet k zemskemu bohatsvi.
+
+Amulet Sköll a Rati. Cerpajici svou silu ze Sköll a Rati, slavnych vlku, kteri pronasledují Slunce a Mesic, tento amulet umozňuje jeho nositeli obratit den v noc a noc v den. Ale pozor: jeho moc není nevycerpatelna.
+NEW_PAGE
+Pergameny:
+
+Seversti osadnici. Pergamen popisujici ruzne druhy vesnicanu, se kterymi se muzes setkat a kteri na tebe mohou zautocit pokd nektereho z nich zranis.
+
+Severske budovy. Popis jednotlivych budov, ktere muzes ve vesnici spatrit, a na kterych osadnici usilovne pracuji.
+
+Severske predmety. Ted uz by jsi mel vedet sechno.
+
+Kompletni Seversky pergamen. Obsahujici predchozi tri, v jednom svitku, pro snadnejsi prepravu.

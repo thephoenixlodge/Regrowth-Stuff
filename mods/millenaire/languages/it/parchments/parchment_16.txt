@@ -1,0 +1,54 @@
+version:3.1.7
+Mill√©naire: Abitanti Giapponesi
+
+Autorità nel villaggio
+
+Shuken しゅくん: Signore. Quest'uomo vive in un forte cinto di mura da cui governa la sua gente. Esce solo per fare ricognizioni ed uccidere mostri. Difenderà il suo villaggio anche con la propria vita ed ucciderà chiunque lo metterà in pericolo.
+
+Kokushi こくし: Sovrintendente. Il Kokushi gestirà un villaggio dall'ufficio imperiale. Fa in modo che gli abitanti lavorino sodo e li incoraggia a pregare. Richiede anche elevate tasse agli abitanti, ma loro sono veramente religiosi ed in pace con se stessi, per cui non ci sono proteste.
+
+Chōkan ちょうかん: Capo. Quest'uomo in realtà è un contadino, ma ai Giapponesi serve una gran quantità di cibo, quindi qualcuno deve dirigere il villaggio agricolo. È uno degli anziani scelti per guidare il villaggio. Darà consigli agli abitanti sulle tecniche di coltivazione e li difenderà dai banditi.
+NEW_PAGE
+Donne
+
+Jojoufu じょじょうふ: Donna coraggiosa. Questa è la moglie di una guardia o di un soldato. Si occupa di normali compiti come coltivare i campi o costruire tetti di paglia. Ma quando il marito si reca a combattere, assume l'incarico di difendere il villaggio fino all'ultimo respiro. Stai attento a come la guardi poiché basta un movimento sbagliato degli occhi per essere in pericolo.
+
+Reifujin れいふじん: Dama. Questa donna è la moglie di un uomo ricco, di solito il capo del villaggio. Cerca di curare la propria bellezza e non fa molto altro... proprio nulla.
+
+Tsuma つま: Moglie. Queste donne si occupano di ciò che gli uomini non vogliono fare come lavorare nei campi, costruire tetti di paglia e cucinare. Si tratta di un lavoro noioso e massacrante, ma loro non possono protestare senza subire certe ripercussioni. Tuttavia senza queste donne il villaggio morirebbe di fame.
+NEW_PAGE
+Uomini
+
+Kikori きこり: Taglialegna. Quest'uomo conosce i suoi alberi e sa quali tagliare per costruire. Fa crescere ogni alberello finché non diventa abbastanza alto da essere abbattuto per accumulare legna. Prende anche parte alle incursioni negli altri villaggi.
+
+Saikushi さいくし: Artigiano. Quest'uomo crea la carta dal riso e la usa anche per tappezzare le pareti. Inoltre intaglia anche travi di legno per l'intelaiatura degli edifici. Senza di lui il villaggio apparirebbe terribilmente monotono e non ci sarebbe nulla per distrarre la gente che attacca il villaggio quando lo attraversa.
+
+Hyakushou ひゃくしょう: Coltivatore di frumento. Quest'uomo pianta il grano nella sua fattoria per far poi scorta di cibo. Possiede un proprio appezzamento di terra e ci lavora con cura.
+
+Kaji かじ: Armaiolo. Il Kaji è proprio un soldato. Abile nell'arte della fabbricazione di armi e armature, ha ricevuto l'incarico di fabbro per produrre armi che non si rompano all'impatto e armature in grado di fermare le armi più affilate.
+
+Kajiya かじや: Fabbro. Il Kajiya è un abitante del villaggio che sa cosa fare con la fornace e come fabbricare gli attrezzi necessari nei lavori quotidiani del villaggio. Quest'uomo può diventare davvero benestante se i suoi attrezzi sono di qualità e sono parecchio richiesti.
+
+Bushi ぶし: Guerriero. La classe dei Bushi è quella militare, comprende tutti i guerrieri addestrati nell'esercito del periodo Heian. Vanno in guerra contro gli altri villaggi e usano come armi un arco Yumi o una spada Tachi. Non mostrano alcuna pietà ed accettano qualunque sfida. 
+
+Keibou けいぼう: Guardia. I Keibou proteggono il villaggio dagli invasori. Possono anche andare in guerra contro gli altri villaggi se necessario ed usano come armi un arco Yumi o una spada Tachi. Non è il caso di provocarle.
+
+Chounin ちょうにん: Mercante. I Chounin commerciano in beni (materiali di costruzione, cibo etc) con gli altri villaggi ed ottengono in cambio altre merci necessarie al proprio villaggio. Dopo una lunga giornata di viaggio al Chounin piace rilassarsi in una locanda ospitale.
+
+Ryoushi りょうし: Pescatore. I Ryoushi sono i pescatori del villaggio e vanno a pescare nel lago vicino. A volte non hanno fortuna e non riescono a raggiungere la loro quota giornaliera.
+
+Koufu こうふ: Minatore. I Koufu lavorano sodo nell'estrarre pietre e sabbia. Ricavano anche il vetro dalla sabbia e le pietre liscie dai ciottoli con la loro fornace.
+
+Souryo そうりょ: Monaco. Il Souryo è un uomo veramente rispettabile e conosce a fondo la via del Buddismo. Gli abitanti del villaggio si recano da lui per ricevere consigli su come essere in pace con se stessi.
+
+Noufu のうふ: Contadino. I contadini costruiscono gli edifici nel villaggio e lavorano nelle risaie. Macellano anche i polli per ricavarne cibo. Non c'è alcun riposo per loro.
+NEW_PAGE
+Giovani
+
+Danshi だんし: Ragazzo. È abbastanza grande per trasferirsi in un nuovo edificio e iniziare un proprio mestiere. Tutti i Danshi sognano di diventare guerrieri ma, nella maggior parte dei casi, i loro sogni non si avverano.
+
+Jou じょう: Ragazza. È abbastanza grande da lasciare la casa d'origine, sposarsi e vivere in quella del marito, dove metterà in pratica le abilità apprese dalla propria madre.
+
+Otokonoko おとこのこ: Bambino. Gioca nel villaggio e lentamente cresce.
+
+Onnanoko おんなのこ: Bambina. Gioca nel villaggio e lentamente cresce.

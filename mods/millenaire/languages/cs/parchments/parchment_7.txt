@@ -1,0 +1,40 @@
+version:1.1.4
+Millénaire: Popis Indianskych predmetu
+
+Denier. Z historicky nevysvetlitelnych duvodu vyuzivaji Indiani deniery jako svou menu, stejne jako Severske obce. Existuji tri typy denieru: bronzovy, stribrny a zlaty v pomeru 1:64.
+NEW_PAGE
+Jidlo:
+
+Ryze. Krmivo pro vesnicany. Ryze muze byt zakoupena hracem ale neni jim pozivatelna, protoze sama o sobe nema zadnou chut. Deti ve vesnici rostou rychleji pokud maji doma k dispozici ryzi.
+
+Kurkuma. Toto koreni v prasku se vyrabi drcenim korene kurkumy. Je nezbytnou ingredienci pri vyrobe kari. Stejne jako u ryze urychluje jeji pritomnost rust deti.
+
+Vegetarianske kari. Pripraveno kombinaci porce ryze a davkou kurkumy vyleci toto jednoduche kari 2 srdicka.
+
+Kureci maso. Ziskavane domorodci, kteri vlastni drubezi peri. Kureci maso se vyuziva k priprave delikatniho kure na kari. Indianske deti, ktere maji kureci maso rostou o hodne rychleji. Muze byt snedene syrove, ale doplni pouze půl srdicka.
+
+Kure na kari. Pripravovano kombinaci ryze, kurkumy a kureciho masa. Tato delikatesa vyleci 4 srdicka.
+
+Rasgulle. Tento dezert je pripravovan ze syru a sladkeho sirupu z cukru domorodymi zenami. Muze byt zakoupen hracem, doplni 1 srdicko a stackuje se po osmi. Pokud je pojidaji pary, zvysuje se jim sance na otehotneni. Ne, nemuzete znad dalsi detaily.
+NEW_PAGE
+Konstrukce a dekorace:
+
+Vlhka cihla. Prvni stadium vyroby cihly. Jeste vlhke cihly se nechavaji susit na slunci.
+
+Hlinena cihla. Ziskana vysusenim vlhke cihly na slunci, je zakladnim materialem pri stavbe Indianskych budov.
+
+Palena cihla. Po vypaleni v peci se z hlinene cihly stane palena, je pevnejsi a vice atraktivnejsi diky belostnemu vzhledu.
+
+Forma na cihly. Tento nastroj muze byt zakoupen ve vesnici a umoznuje tvorbu vlhkych cihel. Pouzijte ji na plochy povrch s piskem a hlinou v inventari.
+
+Indianska socha. Tyto sochy Hindskych bohu jsou vyrabeny socharem a doplnuji vyzdobu chramu, take mohou byt prodany hraci.
+NEW_PAGE
+Svitky:
+
+Popis Indianskych osadniku. Svitek popisujici ruzne typy osadniku indianske kultury, ty kteri pracuji i ty, kteri sleduji jak jini pracuji.
+
+Popis Indianskych budov. Seznam vsech budov postavenych Indiany, od Drevorubcovy boudy po mohutnou pevnost generala Rajput.
+
+Popis Indianskych predmetu. Vse obsahuje tento svitek.
+
+Kompletni Indiansky pergamen. Obsahuje predchozi tri svitky v kompaktni roli pro snadne prenaseni.

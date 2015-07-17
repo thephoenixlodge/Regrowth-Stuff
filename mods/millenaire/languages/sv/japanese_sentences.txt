@@ -1,0 +1,42 @@
+villager.greeting=Konnichiwa, $name-san! / God dag, $name-san!
+villager.greeting=Oi. / Hej.
+villager.greeting=Ogenki desuka, $name-san  / How are you, $name-san?
+villager.greeting=Kawatta koto aru? / Något nytt?
+villager.greeting=Hajimemashite / Ett nöje att träffa dej. 
+villager.greeting=Yokoso. / Välkommen.
+villager.greeting=Gokigenyou. / How do you do?
+
+villager.gorest=Watashi niwa kyu-kei ga hituyou desu. / Jag behöver vila.
+villager.gorest=A-, mou neru jikan da / Åh, dags att sova.
+villager.gorest=Watashi wa totemo tukarete imasu./ Jag är för trött.
+
+villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori masu. / Jag vill be till guden Uga-no-Mintama för en bra skörd.
+villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami Skydda oss från ondska. 
+
+villager.BringBackResourcesHome=Cho cho cho... / Arbete, arbete, arbete...
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Jag ska hugga ner några träd.
+villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / Jag behöver några förnödenheter.
+villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Jag ska plantera några plantor.
+
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Du kommer att bli bra mat åt någon.
+
+villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / Jag måste hämta något hemma.
+villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / Dessa sakerna behöver jag hemma.
+villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / Jag fick mat från marknaden.
+
+villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / Jag behöver mer matrial. 
+villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / Min far lärde mej att bygga. 
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / Jag hoppas kami gillar min byggnad.
+
+villager.GoPlay=watashi wa asobitai desu. / Jag vill leka. 
+villager.BecomeAdult=Seityou suru jikan. / Dags att växa upp 
+male.BecomeAdult=Watashi wa sensi ni naritai desu. / Jag vill vara en krigare.
+female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Jag vill vara mamma en dag.
+villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Lugna ditt sinne.
+
+villager.calltoarms=Mura wo mamore! / Försvara byn!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / De kommer att få ångra dagen då de anföll oss!
+villager.calltoarms=Kuki wo mote! / Ta era vapen!
+
+villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Jag skapar de bästa verktygen. 
+villager.MakeWeapons=Saikoukyu no buki no himitu wa sisyou kara watashi ni uketugareta. / Hemligheten för det bästa vapnet har gått från min mästare till mej.

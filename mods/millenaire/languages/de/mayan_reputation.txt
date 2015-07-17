@@ -1,0 +1,10 @@
+0;Fremder;Wir haben noch nie jemanden von Deiner Hautfarbe gesehen, wir müssen vorsichtig sein.
+4*64;Bekanntes Gesicht;Sei gewarnt, unsere Krieger haben ein Auge auf Dich.
+16*64;Regelmäßiger Besucher;$name! Hat die Zeit Veränderungen gebracht?
+64*64;Bevorzugter Händler;Hallo, $name. Wie immer sind Deine Waren willkommen.
+2*64*64;Freund des Dorfes;$name, Du hast uns wirklich geholfen, ein besseres Zeitalter zu erreichen.
+8*64*64;Einer von uns;$name unsere Schamanen haben Dich als einen der unseren gesalbt.
+32*64*64;Geborener Anführer;Du hast Dir den Respekt und das Vertrauen aller Maya verdient. Sie werden Dir überall hin folgen.
+-64;Ärgernis;Verlass unser Land. Deine Art wird unsere Kultur nicht entweihen.
+-4*64;Unangenehmer Außenseiter;Du hast Gestank und Chaos in unser Dorf gebracht.
+-16*64;Staatsfeind;Du hast unsere Leben ruiniert, das wird nicht toleriert.

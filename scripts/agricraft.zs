@@ -5,6 +5,7 @@ import mods.agricraft.growing.FertileSoils;
 import mods.agricraft.growing.BaseBlock;
 import minetweaker.item.IItemStack;
 import mods.agricraft.CropProduct;
+import mods.agricraft.growing.Brightness;
 
 ////Variable declarations
 //Vanilla
@@ -18,6 +19,7 @@ val seedMelon = <minecraft:melon_seeds>;
 val seedShroomRed = <AgriCraft:seedShroomRed>;
 val seedShroomBrown = <AgriCraft:seedShroomBrown>;
 val seedNetherWart = <minecraft:nether_wart>;
+val seedVishroom = <AgriCraft:seedVishroom>;
 //Flowers
 val seedPoppy = <AgriCraft:seedPoppy>;
 val seedDandelion = <AgriCraft:seedDandelion>;
@@ -28,6 +30,9 @@ val seedTulipOrange = <AgriCraft:seedTulipOrange>;
 val seedTulipWhite = <AgriCraft:seedTulipWhite>;
 val seedTulipPink = <AgriCraft:seedTulipPink>;
 val seedDaisy = <AgriCraft:seedDaisy>;
+val seedCinderPearl = <AgriCraft:seedCinderpearl>;
+val seedShimmerLeaf = <AgriCraft:seedShimmerleaf>;
+val seedTaintTendril = <AgriCraft:seedTaintedRoot>;
 //Botania
 val seedBotaniaRed = <AgriCraft:seedBotaniaRed>;
 val seedBotaniaYellow = <AgriCraft:seedBotaniaYellow>;
@@ -70,7 +75,9 @@ val flowerSeeds = [
 		seedTulipWhite,
 		seedTulipRed,
 		seedTulipPink,
-		seedTulipOrange
+		seedTulipOrange,
+		seedShimmerLeaf,
+		seedCinderPearl
 	] as IItemStack[];
 //Natura
 val seedBarley = <Natura:barley.seed:0>;
@@ -82,6 +89,7 @@ val seedArtichoke = <witchery:seedsartichoke>;
 val seedSnowbell = <witchery:seedssnowbell>;
 val seedWolfsbane = <witchery:seedswolfsbane>;
 val seedWormwood = <witchery:seedswormwood>;
+val seedGarlic = <witchery:garlic>;
 //Standard crops
 val seedCorn = <magicalcrops:magicalcrops_SeedsSweetcorn>;
 val seedCucumber = <magicalcrops:magicalcrops_SeedsCucumber>;
@@ -95,6 +103,8 @@ val seedGrape = <magicalcrops:magicalcrops_SeedsGrape>;
 //Custom crops
 val seedNature = <AgriCraft:seedNature>;
 val seedRutile = <AgriCraft:seedRutile>;
+val seedAmber = <AgriCraft:seedAmber>;
+val seedCinnabar = <AgriCraft:seedCinnabar>;
 //magic crops
 val coalSeeds = <magicalcrops:magicalcrops_MagicSeedsCoal>;
 val dyeSeeds = <magicalcrops:magicalcrops_MagicSeedsDye>;
@@ -135,7 +145,9 @@ val strengthSeeds = <magicalcrops:magicalcrops_PotionSeedsStrength>;
 val regenSeeds = <magicalcrops:magicalcrops_PotionSeedsRegen>;
 val nightVisSeeds = <magicalcrops:magicalcrops_PotionSeedsNight>;
 val speedSeeds = <magicalcrops:magicalcrops_PotionSeedsSpeed>;
+val seedEssence = <magicalcrops:magicalcrops_MagicSeedsEssence>;
 val magicSeeds = [
+		seedEssence,
 		coalSeeds, 
 		dyeSeeds, 
 		redstoneSeeds,
@@ -176,14 +188,16 @@ val magicSeeds = [
 		nightVisSeeds,
 		speedSeeds,
 		seedRutile,
-		seedNature
+		seedNature,
+		seedAmber,
+		seedCinnabar
 	] as IItemStack[];
 //Soil
 val tilledGardenSoil = <GardenCore:garden_farmland>;
 val water = <minecraft:water>;
 val gardenSoil = <GardenCore:garden_soil>;
+val taintSoil = <Natura:soil.tainted>;
 //Other
-val seedEssence = <magicalcrops:magicalcrops_MagicSeedsEssence>;
 val wispyCotton = <witchery:somniancotton>;
 val poisonPotato = <minecraft:poisonous_potato>;
 
@@ -195,7 +209,7 @@ for i, seed in magicSeeds {
 for i, flower in flowerSeeds {
 	Soil.set(flower, gardenSoil);
 }
-//Soil.set(seedArtichoke, water); - Disabled until cropsticks can be placed on fluids
+Soil.set(seedTaintTendril, taintSoil);
 
 ////meddle with seeds
 //carrot
@@ -211,7 +225,7 @@ SeedMutation.add(seedCotton, seedBarley, seedDandelion);
 SeedMutation.add(seedMandrake, seedBelladonna, seedPotato);
 //water artichoke
 SeedMutation.add(seedArtichoke, seedMandrake, seedBelladonna);
-BaseBlock.set(seedArtichoke, water, 2, true); //temporary until can use water as the soil
+BaseBlock.set(seedArtichoke, water, 2, true);
 //snowbell
 SeedMutation.add(seedSnowbell, seedArtichoke, seedMandrake);
 //wolfsbane
@@ -219,6 +233,8 @@ SeedMutation.add(seedWolfsbane, seedSnowbell, seedMandrake);
 //wormwood
 SeedMutation.add(seedWormwood, seedSnowbell, seedWheat);
 BaseBlock.set(seedWormwood, wispyCotton, 2, false);
+//garlic
+SeedMutation.add(seedGarlic, seedSnowbell, seedArtichoke);
 //sweetcorn
 SeedMutation.add(seedCorn, seedSugarCane, seedBarley);
 //cucumber
@@ -239,3 +255,12 @@ SeedMutation.add(seedTomato, seedBlueberry, seedChilli);
 SeedMutation.add(seedGrape, seedBlueberry, seedPumpkin);
 //nature
 SeedMutation.add(seedNature, seedEssence, seedSugarCane);
+//nether wart
+Brightness.set(seedNetherWart, 0, 15);
+//Taint seeds
+SeedMutation.add(seedTaintTendril, seedCinderPearl, seedShimmerLeaf);
+BaseBlock.clear(seedTaintTendril);
+//Vishroom seeds
+SeedMutation.add(seedVishroom, seedShroomRed, seedShroomBrown);
+//Shimmerleaf seeds
+BaseBlock.clear(seedShimmerLeaf);

@@ -1,0 +1,680 @@
+﻿
+startup.loadproblem=Ocurrió un error al cargar <0>.
+startup.checkload=Verifica que la carpeta cultures esté en la carpeta millenaire en la carpeta minecraft.
+startup.millenaireloaded=<0> está cargado. Explora y presiona '<1>' para encontrar las aldeas.
+startup.radiuswarning=ATENCIÓN: Un radio tan alto no debería ser necesario y podría causar mayor lag. Valores sobre 70 no son recomendados.
+
+command.nogenerate=<0> no generará nuevas aldeas en este mundo.
+command.willgenerate=<0> generará nuevas aldeas en este mundo.
+command.astarpathing=Pathing A* activado
+command.binarypathing=Pathing binario activado
+command.minecraftpathing=Pathing de Minecraft activado
+command.inactive=Inactiva
+command.active=Activa
+command.frozen=Congelada
+command.villagelist=<4>: <0> (<1>) está <2> metros al <3>.
+command.villagelistkeylonebuilding=<0> está <1> metros al <2>.
+command.noknowvillage=Ninguna aldea en un radio de dos kilómetros. ¡Sigue buscando!
+command.newvillagefound=Nueva aldea encontrada: <0> de tipo <1> y de cultura <2> está <3> metros al <4>.
+command.newlonebuildingfound=Nuevo edificio ubicado: <0> está <1> metros al <2>.
+command.pathrebuild=El mapa y el pathing de <0> han sido reconstruídos.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Cofre cerrado
+ui.largelockedchest=Cofre grande cerrado
+ui.unlockedchest=Cofre abierto
+ui.largeunlockedchest=Cofre grande abierto
+ui.allchestsunlocked=Todos los cofres de <0> se han abierto.
+ui.outofstock=¡Sin inventario!
+ui.reputationneeded=reputación necesaria: <0>
+ui.missingdeniers=Te falta <0> deniers.
+ui.missingequipment=Sin equipo
+ui.noneininventory=No tienes en tu inventario
+ui.selling=Venta
+ui.buying=Compra
+ui.buybuilding=Comprar <0> (<1>)
+ui.sellercoming=<0>: ¡Espera un momento, enseguida voy!
+ui.tradecomplete=<0>: Esperamos que la transacción haya sido de tu agrado. ¡Que tengas un buen día!
+ui.sellerboycott=<0>: ¡No comerciaremos más contigo, bandido!
+ui.sellernotcurrently possible=<0>: ¿Cómo puedes pensar en comerciar cuando nuestra aldea está devastada?
+ui.wesell=Vendemos
+ui.webuy=Compramos
+ui.isell=Yo vendo
+ui.inventory=Inventario
+ui.villagechief=Líder de la aldea de <0>
+ui.yourstatus=Tu status
+ui.possiblehousing=Construcciones disponibles
+ui.alreadybuilt=ya construído
+ui.alreadyrequested=ya solicitado
+ui.notavailableyet=no disponible aún
+ui.available=disponible
+ui.youaremissing=te hace falta: <0>
+ui.scrollsnoreputation=Tu reputación no es suficiente para comprar pergaminos de la aldea.
+ui.scrollsnotenoughmoney=Te hace falta <0> denier(s) para un pergamino de la aldea.
+ui.scrollsok=Puedes comprar los pergaminos de la aldea.
+ui.buyscroll=Comprar pergaminos de la aldea.
+ui.cost=Costo
+ui.clicktorequest=Haz clic para solicitar
+ui.scrollbought=<0>: ¡Te hemos confiado los pergaminos de la aldea!
+ui.housebought=<0>: La construcción de tu <0> va a comenzar!
+ui.inhabitantof=Habitante de <0>
+ui.inconstruction=En Construcción
+ui.nospace=Sin espacio
+ui.reservedforvillager1=Reservado
+ui.reservedforvillager2=para aldeanos
+ui.currentlyempty1=Desocupado
+ui.currentlyempty2=por el momento
+ui.visitorslist1=Lista de
+ui.visitorslist2=visitantes
+ui.goodstraded=Mercancías comerciadas
+ui.imports=Importación
+ui.exports=Exportación
+ui.import_total=Importación total: <0>
+ui.export_total=Exportación total: <0>
+ui.merchants=Mercaderes
+ui.goalscompleted1=Todas las
+ui.goalscompleted2=construcciones finalizadas
+ui.project=Proyecto
+ui.noconstruction1=Ninguna construcción
+ui.noconstruction2=en curso
+ui.upgrading=Mejorando (<0>)
+ui.construction=Construcción <0>%
+ui.population=Población
+ui.populationnumber=Población: <0>
+ui.adults=Adultos: <0> (<1>/<2>)
+ui.teens=Jóvenes: <0> (<1>/<2>)
+ui.children=Niños: <0> (<1>/<2>)
+ui.villagemap=Mapa de la aldea
+ui.nbbuildings=<0> edificios
+ui.wandwrongblock=Esta varita sólo sirve en un bloque de obsidiana para una aldea aleatoria o en los siguientes:
+ui.wandblocklist=<0> para una <1>
+ui.wandblocklistcontrolled=<0> para una <1> (requiere liderato de esta cultura)
+ui.brickinstructions=Un bloque de tierra y uno de arena son necesarios para hacer un ladrillo
+ui.buildingscentre=Centro
+ui.buildingsstarting=Edificios iniciales
+ui.buildingsplayer=Edificios del jugador
+ui.buildingskey=Edificios clave
+ui.buildingssecondary=Edificios secundarios
+ui.buildingsextra=Edificios extra
+ui.worldnotgenerated=El terreno alrededor no se ha generado completamente. Da una vuelta y regresa.
+ui.tooclosetospawn=No se pemite crear una aldea tan cerca del punto de aparición.
+ui.generatenotenoughspace=No se pudo encontrar lugar para el edificio principal.
+ui.generatenotenoughspacevillage=No hay suficiente espacio para construir la aldea.
+ui.lackingresources=Recursos insuficientes
+ui.lockedchestwarning=ATENCIÓN: destruir cofres cerrados prevendrá que las aldeas funcionen correctamente. Sólo hazlo si quieres destruir la aldea.
+ui.xoutofy=<0> de <1>
+ui.extraresneeded1=<0> otros recursos
+ui.extraresneeded2=requerido
+ui.woodforplanks=Madera (cualquiera)
+ui.woodoak=Madera de roble
+ui.woodpine=Madera de pino
+ui.woodbirch=Madera de abedul
+ui.woodjungle=Madera tropical
+ui.anyenchanted=Objetos encantados
+ui.enchantedsword=Espada encantada
+ui.selectabuildingproject=Selecciona un proyecto de construcción
+ui.projectadded=El proyecto ha sido agregado a la lista
+ui.problemat=Problema en <0>: <1>
+ui.constructionforbidden=construcción prohibida
+ui.locationclash=colisiona con otros edificios
+ui.outsideradius=fuera del radio de la aldea
+ui.wrongelevation=fuera de la altura permitida
+ui.danger=bloque peligroso
+ui.notreachable=área inalcanzable
+ui.unknownerror=problema desconocido
+ui.controlbuildingprojects=Gestionar proyectos de construcción
+ui.forbidupgrades=Detener mejoras
+ui.allowupgrades=Premitir mejoras
+ui.cancelbuilding=Remover edificio
+ui.level=nivel
+ui.notyetbuilt=No construido aún
+ui.nbinhabitants=Número de habitantes: <0>
+ui.wandnocontrol=No puedes crear este tipo de aldea pues no eres reconocido como líder de la cultura <0>.
+ui.control_ok=¡Tus servicios a la aldea son tales que el pueblo <0> están listos para reconocerte como líder! Puedo hacerlo oficial y permitirte fundar una nueva aldea.
+ui.control_noreputation=Tu reputación no es suficiente para que el pueblo <0> te reconozca como su líder. Mejora tu reputación con nosotros o realiza tareas excepcionales para alcanzar este status.
+ui.control_alreadydone=Ya eres reconocido como líder del pueblo <0> .
+ui.control_get=Preguntar por reconocimiento como líder.
+ui.control_gotten=<0>¡Yo oficialmente te reconozco como digno de ser reconocido como líder de la cultura <1>! Puedes comenzar tu propia aldea ahora.
+ui.selectavillage=Selecciona el tipo de alda que quieres crear
+ui.leadershipstatus=Status de liderato
+ui.leaderin=Eres líder en la cultura <0>. Puedes crear una aldea de esta cultura que puedes controlar.
+ui.notleaderin=No eres líder en la cultura <0>.
+ui.leaderinstruction=Para convertirse en líder de una cultura, necesitas alcanzar el nivel "Líder Natural" en una aldea y preguntar al jefe o completar la "Aventura de la Creación" para esa cultura (si disponible).
+ui.wandinstruction=Utiliza la varita en un bloque de obsidiana para crear una aldea aleatoria o en un bloque de oro para seleccionar el tipo de aldea que quieras crear
+ui.controlled=constrolado
+ui.villagerelations=<0> (<1>, <2>): <3>
+ui.relationlist=Relaciones con las otras aldeas
+ui.relationpraise=Hablar bien
+ui.relationslander=Calumniar
+ui.relationpoints=Puntos diplomáticos disponibles: <0>
+ui.relationhelp=Explicación de las relaciones<ret><ret>Las relaciones entre las aldeas determinan si cooperarán o no.<ret><ret>El comercio local (los mercaderes que transportan recursos) se llevará a cabo entre aldeas de la misma cultura con buenas relaciones o entre aldeas de diferentes culturas con relaciones excelentes.<ret><ret>Las aldeas de culturas diferentes donde las relaciones son muy buenas y haya mercados, aceptarán mercaderes de la otra cultura.<ret><ret>Las aldeas de la misma cultura en las que haya relaciones excelentes aceptarán los adolescentes de la otra si hay puestos disponibles.<ret><ret>Las relaciones entre las aldeas comienzan en "excelentes" para los caseríos de una aldea, "buenas" para las aldeas de la misma cultura, y neutrales de lo contrario.<ret><ret>Cada día, el jugador recibirá cinco puntos diplomáticos que puede utilizar para influenciar las relaciones de una aldea. La eficacia de los cumplidos o de las calumnias dependerán de la reputación en la aldea.
+ui.relationfriendly=Los eventos recientes han mejorado las relaciones entre las aldeas de <0> y de <1>. Ahora es <2>.
+ui.relationunfriendly=Los enfrentamientos recientes  entre las aldea de <0> y de <1> han empeorado las relaciones. Ahora son <2>.
+ui.cropplantingknowledge=No sabes cultivar <0>. Debes pregúntarle al jefe de la aldea.
+ui.cropsknown=Plantas conocidas de esta cultura
+ui.cropknown=Has aprendido a cultivar <0>.
+ui.cropinsufficientreputation=Tu reputación es insuficiente para que la aldea te enseñe a cultivar <0>.
+ui.cropnotenoughmoney=Necesitas <1> para poder pagar el aprendizaje de <0>.
+ui.cropoktolearn=La aldea puede enseñarte a plantar <0>.
+ui.croplearn=Aprender (<0>)
+ui.croplearned=<0>¡Los secretos de la cultivación de <1> te han sido revelados!
+ui.raider=Asaltar
+
+
+quest.obtained=Obtenido
+quest.lackingcondition=te hace falta:
+quest.lackinghiddengoods=No tienes los materiales necesarios para la tarea.
+quest.close=Cerrado
+quest.accept=Aceptar aventura
+quest.refuse=Rechazar aventura
+quest.continue=Proceder con la aventura
+quest.conditionsnotmet=No has cumplido con todas las condiciones.
+quest.lessthananhourleft=¡Falta menos de una hora!
+quest.timeremaining=Tiempo restante
+quest.hours=hora(s)
+quest.noquestsvisible=Ninguna aventura listable en progreso
+quest.questlist=Aventuras en progreso
+quest.reputationlost=reputación perdida
+
+quest.creationqueststatus=Status de la Aventura de la Creación 
+quest.creationqueststatusshort=Aventura de la Creación:
+
+quest.cqchaptersadhu=El Sadhu
+quest.cqsadhustartexplanation=Encuentra un aldeano que pueda ayudarte en una aldea hindú en la que tengas la reputación "Amigo de la aldea" para la primera misión.
+
+quest.cqchapteralchemist=El Alquimista
+quest.cqalchemiststartexplanation=Encuentra un aldeano que pueda guiarte en una aldea normanda donde tengas la reputación "Amigo de la aldea".
+
+quest.cqallcompleted=¡Felicitaciones, has compleado todas las misiones de la Aventura de la Creación disponibles!
+quest.cqcheckforupdates=Revisa www.millenaire.org para actualizaciones con más misiones.
+quest.cqchapternotstarted=No has comenzado el capítulo "<0>".
+quest.cqchapterinprogress=Has completado <1> misión(es) de <2> misiones en el Capítulo "<0>" de la Aventura de la Creación.
+quest.cqchaptercompleted=Has completado el capítulo "<0>".
+quest.cqchapternotstartedshort=Capítulo "<0>": no comenzado.
+quest.cqchapterinprogressshort=Capítulo "<0>": <1>/<2>.
+quest.cqchaptercompletedshort=Capítulo "<0>": completado.
+quest.cqcheckquestlist=Presiona '<0>' para más información.
+
+
+
+//Item names
+
+//The following items should not be translated
+//They are either proper names (the deniers)
+//or specific local specialities that aren't translated
+//in other languages
+//I'm putting them for non-Latin alphabet languages,
+//so they can be written in other alphabets
+item.denier=Denier
+item.denierOr=Denier Or
+item.denierArgent=Denier Argent
+item.calva=Calva
+item.tripes=Tripes
+item.boudin=Boudin Noir
+
+item.dirtwall=Pared de tierra
+
+item.building=Edificios
+item.normanPickaxe=Pico normando
+item.normanAxe=Hacha normanda
+item.normanShovel=Pala normanda
+item.normanHoe=Azada normanda
+item.normanBroadsword=Espada normanda
+item.normanHelmet=Casco normando
+item.normanPlate=Pechera normanda
+item.normanLegs=Mallas normandas
+item.normanBoots=Botas normandas
+item.rice=Arroz
+item.turmeric=Cúrcuma
+item.vegcurry=Curry vegetariano
+item.chickenmeat=Carne de pollo
+item.chickencurry=Curry murgh
+item.brickmould=Molde de ladrillos
+item.rasgulla=Rasgulla
+item.plaintimber=Marco de madera
+item.crosstimber=Marco de madera cruzado
+item.wetbrick=Ladrillo húmedo
+item.cookedbrick=Ladrillo cocido
+item.mudbrick=Ladrillo de lodo
+item.indianstatue=Estatua hindú
+item.ciderapple=Manzana de sidra
+item.cider=Sidra
+item.villagewand=Varita de invocación
+item.negationwand=Varita de negación
+item.normanvillagers=Aldeanos normandos
+item.normanitems=Objetos normandos
+item.normanbuildings=Edificios normandos
+item.normanfull=Pergamino completo normando
+item.tapestry=Tapiz normando
+item.vishnu_amulet=Amuleto de Visnú
+item.alchemist_amulet=Amuleto del Alquimista
+item.yddrasil_amulet=Amuleto de Yggdrasil
+item.skoll_hati_amulet=Amuleto de Sköll y Rati
+item.villagescroll=Pergaminos de la aldea
+item.indianvillagers=Aldeanos hindúes
+item.indianitems=Objetos hindúes
+item.indianbuildings=Edificios hindúes
+item.indianfull=Pergamino completo hindú
+item.unknownpowder=Pólvora misteriosa
+item.alchimistexplosive=Explosivo del Alquimista
+
+item.wah=Wah
+item.masa=Masa
+item.maize=Maíz
+item.mayangold=Ornamento de oro
+item.mayanstatue=Grabado maya
+item.mayanvillagers=Aldeanos maya
+item.mayanitems=Objetos maya
+item.mayanbuildings=Edificios maya
+item.mayanfull=Pergamino completo maya
+item.mayanmace=Mazo de obsidiana
+item.mayanPickaxe=Pico de obsidiana
+item.mayanAxe=Hacha de obsidina
+item.mayanShovel=Pala de obsidiana
+item.mayanHoe=Azada de obsidiana
+item.obsidianflake=Lasca de obsidiana
+
+item.paperwall=Pared de papel
+item.udon=Udon
+item.thatched=Tejado de paja
+
+item.parchmentsadhu=Libro del Sadhu
+
+item.tachisword=Tachi
+item.yumibow=Arco yumi
+
+item.japaneseWarriorBlueLegs=Mallas ō-yoroi
+item.japaneseWarriorBlueHelmet=Casco ō-yoroi
+item.japaneseWarriorBluePlate=Pechera ō-yoroi
+item.japaneseWarriorBlueBoots=Botas ō-yoroi
+
+item.japaneseWarriorRedLegs=Mallas ō-yoroi rojas
+item.japaneseWarriorRedHelmet=Casco ō-yoroi rojo
+item.japaneseWarriorRedPlate=Pechera ō-yoroi roja
+item.japaneseWarriorRedBoots=Botas ō-yoroi rojas
+
+item.japaneseGuardLegs=Mallas keiko
+item.japaneseGuardHelmet=Casco keiko
+item.japaneseGuardPlate=Pechera keiko
+item.japaneseGuardBoots=Botas keiko
+
+item.japanesevillagers=Aldeanos japoneses
+item.japaneseitems=Objetos japoneses
+item.japanesebuildings=Edificios japoneses
+item.japanesefull=Pergamino japonés completo
+
+error.unknownitem=Nombre de ítem desconocido
+
+
+
+//Errors
+ui.updateEntity=Error en TileEntityBuilding.updateEntity(). Revisa millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Ningún texto encontrado en este libro: <0> 
+panels.invalidid=ID de la aldea inválida.
+panels.toofar=La aldea está muy lejos para cargar.
+panels.recordsnotloaded=La aldea no se pudo cargar.
+panels.villagescroll=Pergamino de la aldea
+panels.mother=Madre
+panels.father=Padre
+panels.spouse=Cónyugue
+panels.dead=Temporalmente muerto
+panels.awayraiding=Afuera asaltando
+panels.awayhired=Contratado por un jugador
+panels.invaderincoming=Llegando
+panels.missing=¡FALTANTE!
+panels.multiple=¡ENCONTRADO <0> VECES!
+panels.currentoccupation=Actividad actual
+panels.visitors=Visitantes
+panels.constructions=Construcciones
+panels.upgrade=Mejora
+panels.buildingprojects=Proyectos de construcción
+panels.notyetbuilt=No construido
+panels.nbupgradesleft=<0> mejoras restantes.
+panels.finished=terminado
+panels.houseunoccupied=Esta casa está vacía. Los adolescentes vendrán aquí y se convertirán en adultos.
+panels.man=Hombre
+panels.woman=Mujer
+panels.children=Niños
+panels.nofemaleresident=Esta mansión nuca albergará a una residente femenina.
+panels.bachelor=El hombre que vive aquí está soltero. Una mujer se instalará aquí un día.
+panels.nomaleresident=Esta mansión nuca albergará a un residente masculino.
+panels.spinster=La mujer que vive aquí está soltera. Un hombre se instalará aquí un día.
+panels.resources=Recursos
+panels.goodstraded=Mercancía comerciada en esta aldea.
+panels.goodsimported=Importado de otras aldeas.
+panels.goodsexported=Exportado a otras aldeas.
+panels.innvisitors=Visitantes de posada <0>
+panels.mappurple=Violeta: Construcción en curso
+panels.mapblue=Azul: Otros edificios
+panels.mapgreen=Verde: Terreno construible
+panels.mapred=Rojo: Terrero peligroso (lava, cactus, etc)
+panels.maplightgreen=Verde claro: áreas adecuadas para construir, pero no pueden contener el centro de un edificio.
+panels.mapyellow=Amarillo: Construcción no permitida (hielo, bloques artificiales).
+panels.maporange=Naranja: Construcción no permitida por cercanía a otros edificios.
+panels.maplightblue=Azul claro: Agua.
+panels.mapbrown=Café: Otros terrenos (muy alto o muy bajo, etc).
+panels.unreachablebuilding=¡inalcanzable!
+panels.merchantlist=Lista de mercaderes
+panels.capacity=Capacidad
+panels.nbnightsin=En la aldea desde hace <0> noches(s).
+panels.storedexports=<0> almacenó lo siguiente para exportar: <1>
+panels.broughtimport=<0> trajo lo siguiente para la aldea: <1>
+panels.startedtrading=<0> (<1>) ha adoptado la carrera de mercader.
+panels.merchantmovedout=<0> (<1>) se mudó a <2> luego de <3> días en la aldea.
+panels.merchantarrived=<0> (<1>) llegó desde <2>.
+panels.childarrived=<0> llegó desde <1> buscando trabajo.
+panels.resourcesneeded=Recursos necesitados para el proyecto
+panels.resourcesavailable=Recursos en el inventario
+panels.villageculture=Aldeas de la cultura <0>
+panels.military=Fuerzas Armadas
+panels.planningraid=Planificando asalto
+panels.raidinprogress=Asalto en progreso
+panels.underattack=¡Bajo ataque!
+panels.offense=Ofensa: <0>
+panels.defense=Defensa: <0>
+panels.offenselong=Fuerza ofensiva: <0>
+panels.defenselong=Fuerza defensiva: <0>
+panels.raidinprogresslong=Actualmente asaltando <0>. El asalto comenzó <1> hora(s) atrás.
+panels.planningraidlong=Planificando asalto en <0>. La planificación comenzó <1> hora(s) atrás.
+panels.underattacklong=Siendo atacado por <0> de fuerza <1> de <2>!
+panels.villagefighters=Aldeanos Guerreros
+panels.attackers=Atacante
+panels.defender=Defensor
+panels.raider=Asaltador
+panels.health=Salud
+panels.weapons=Arma(s)
+panels.armour=Armadura
+panels.militarystrength=Fuerza militar
+panels.unknownattacker=un lugar desconocido
+panels.raidsperformed=Asaltos cometidos
+panels.raidssuffered=Asaltos sufridos
+panels.nameand=<0> y
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Descansando
+goal.godrink=Yendo a beber
+goal.gopray=Yendo a rezar
+goal.GatherGoods=Recogiendo mercancía
+goal.BringBackResourcesHome=Traer recursos
+goal.GetTool=Buscando herramnientas
+goal.huntMonster=Combatiendo con criatura
+goal.GetGoodsHousehold=Consiguiendo mercancía para casa
+goal.DeliverGoodsHousehold=Entregando recursos a casa
+goal.GetHouseTHResources=Buscando recursos de casa
+goal.DeliverResourcesShop=Entregando recursos
+goal.raidvillage=Asaltando aldea
+goal.defendvillage=Defendiendo aldea
+goal.hide=Refugiándose
+
+goal.CollectCrop=Cosechando
+goal.PlantSeeds=Plantando semillas
+goal.ChopTrees=talando árbol
+goal.PlantSaplings=Plantando árboles
+goal.GetResourcesForBuild=Buscando recursos para una construcción
+goal.MakeBread=Haciendo pan
+goal.BeSeller=Vendiendo al jugador
+goal.MakeCider=Haciendo sidra
+goal.MakeCalva=Haciendo calva
+goal.Construction=Construyendo
+goal.GoPlay=Jugando
+goal.BecomeAdult=Creciendo
+goal.MakeNormanTools=Haciendo herramientas
+goal.MakeNormanWeapons=Haciendo armas
+goal.Patrol=Patruyando
+goal.Butcher=Matando animal
+goal.MakeBoudin=Haciendo boudin noir
+goal.MakeTripes=Haciendo tripes
+goal.Mining=Minando
+goal.Cooking=Cociendo recursos
+goal.MakeBooks=Fabricando pergaminos
+goal.MakeTapestry=Fabricando tapices
+goal.VisitInn=Visitando posada
+goal.VisitBuilding=Visitando tienda
+goal.MakeAmulet=Fabricando amuleto
+goal.KeepStall=Vigilando
+goal.MakeTimberFrame=Haciendo marcos de madera
+
+goal.DryBrick=Secando ladrillos
+goal.GatherBrick=Recolectando ladrillos secos
+goal.CookBrick=Cuit des briques
+goal.PlantRice=Plantando arroz
+goal.HarvestRice=Cosechando arroz
+goal.PlantTurmeric=Plantando cúrcuma
+goal.HarvestTurmeric=Cosechando cúrcuma
+goal.SlaughterChicken=Matando pollo
+goal.PlantSugarCane=Plantando caña de azúcar
+goal.HarvestSugarCane=Cosechando caña de azúcar
+goal.MakeRasgulla=Preparando rasgullas
+goal.makeindiantools=Haciendo herramientas hindúes
+goal.makeindianweapons=Haciendo armas hindúes
+goal.scult=Esculpiendo
+goal.performpujas=Realizando una puyá
+goal.bepujaperformer=Disponible para puyás
+
+goal.PlantMaize=Plantando maíz
+goal.HarvestMaize=Cosechando maíz
+goal.makeGoldBlock=Haciendo ornamentos de oro
+goal.sculptMayan=Esculpiendo estatua
+goal.makeobsidiantools=Esculpiendo herramientas de obsidiana
+goal.makeobsidianflakes=Cortando obsidiana en hojuelas
+
+goal.fish=Pescando
+goal.makethatch=Haciendo tejado de paja
+goal.makepaper=Haciendo papel
+goal.makepaperwall=Haciendo pared de papel
+goal.cookfish=Cocinando pescado
+goal.makeudon=Haciendo udon
+goal.makejapaneseweapons=Haciendo armas japonesas
+
+goal.brewpotions=Mezclando pociones
+goal.harvestwarts=Cosechando verrugas
+goal.makeglassbottles=Haciendo botellas de vidrio
+goal.plantwarts=Plantando verrugas
+
+//other
+other.west=Oeste
+other.east=Este
+other.north=Norte
+other.north-east=Nordeste
+other.north-west=Noroeste
+other.south=Sur
+other.south-east=Sudeste
+other.south-west=Sudoeste
+
+other.tothewest=al oeste
+other.totheeast=al este
+other.tothenorth=al norte
+other.tothenorth-east=al nordeste
+other.tothenorth-west=al noroeste
+other.tothesouth=al sur
+other.tothesouth-east=al sudeste
+other.tothesouth-west=al sudoeste
+
+other.west_short=O
+other.east_short=E
+other.north_short=N
+other.south_short=S
+other.shortdistancedirection=<0>m <1>
+
+other.metre=metros
+other.kilometre=kilómetros
+other.andhalf=y medio(s)
+
+other.directionshort=<1> al <0>
+other.exploredbuilding=Has explorado un edificio: <0>.
+
+other.malevillager=aldeano de Millénaire
+other.femalevillager=aldeana de Millénaire
+
+hire.health=Vida
+hire.strength=Fuerza
+hire.cost=Costo (por día)
+hire.aggressive=Posición agresiva
+hire.passive=Posición pasiva
+hire.timeleft=Contratado por <0> hora(s)
+hire.hiredvillager=Este aldeano ha sido contratado. Permanecerá a tus servicios por <0> horas más o hasta que muera y aparezca en su aldea.<ret><ret>Presiona '<1>' para ponerlo en posición agresiva o shift izquierdo-'<1>' para ponerlo en posición pasiva.
+hire.hireablevillager=Puedes contratar este aldeanos. Te seguirá hasta que el contrato expire o muera. Atacará criaturas que te ataquen a ti o preventivamente atacará mobs y aldeanos hostiles de estar en posición agresiva.
+hire.hireablevillagernoreputation=Debes ser al menos "comerciante favorito" en esta aldea para contratar este aldeano.
+hire.extend=Extender
+hire.release=Liberar
+hire.close=Cerrar
+hire.hire=Contratar
+hire.hireover=El contrato de este <0> ha terminado. Regresará a su aldea.
+hire.hiredied=<0> ha muerto. Reaparecerá en su aldea, su contrato ha terminado.
+hire.hiredbyotherplayer=<0> ya ha sido contratado por <1>.
+hire.hiredby=Contratado por <0>
+
+actions.forest_success=Has explorado el bosque exitosamente.
+actions.forest_continue=Has completado <0>% de exploración del bosque.
+
+actions.desert_success=Has explorado el desierto exitosamente.
+actions.desert_continue=Has completado <0>% de exploración del desierto.
+
+actions.mountain_success=Has explorado las montañas exitosamente.
+actions.mountain_continue=Has completado <0>% de exploración de las montañas.
+
+actions.underwaterglass_success=Has construido exitosamente una ventana de observación en altamar.
+actions.underwaterglass_notdeepenough=El mar no es los suficientemente profundo.
+
+actions.underwaterdive_success=Te has sumergido exitosamente en las profundidades del océano.
+
+actions.bottomoftheworld_success=Parece que no puedes cavar más profundo. ¡Este debe ser el fondo el mundo!
+
+actions.topoftheworld_success=parece que no puedes subir más. Seguramente este es el tope del cielo.
+
+actions.borehole_nblineok=<0> bloques de lecho rocoso han sido exitosamente expuestos al cielo. Necesitas 25 dispuestos en cuadro de 5x5.
+actions.borehole_success=¡Has tenido éxito en cavar el gran pozo!
+
+actions.boreholetnt_success=Suficiente TNT ha sido colocado. Puedes detonarlo.
+actions.boreholetnt_nbtnt=<0> bloques de TNT han sido colocados y cubiertos en obsidiana. Necesitas 20 en total.
+
+actions.boreholetntlit_success=Has encendido el TNT. Observa el resultado y repórtalo al Alquimista.
+
+actions.thevoid_success=¡Has caído al Vacío!
+
+actions.enchantmenttable_success=Has construido una mesa de hechizos cerca del árbol del Sadhu.
+
+info.culturetitle=Culturas
+info.culture=Cultura <0>
+info.culturereputation=Reputación: <0>
+info.culturelanguage=Nivel de idioma: <0>
+
+culturereputation.dreadful=Terrible
+culturereputation.bad=Mala
+culturereputation.stellar=Estelar
+culturereputation.excellent=Excelente
+culturereputation.good=Buena
+culturereputation.decent=Decente
+culturereputation.neutral=Neutral
+
+culturelanguage.fluent=Fluido
+culturelanguage.moderate=Moderado
+culturelanguage.beginner=Principiante
+culturelanguage.minimal=Mínimo
+
+
+weapon.criticalstrike=¡Ataque crítico! ¡Daño <0>x!
+
+negationwand.villagelocked=El/la <0> sigue cerrado/a. Necesitas matar todos sus aldeanos adultos para poder destruirlo/a.
+negationwand.confirmmessage=¿Estás seguro de que quieres destruir este/a <0>? Si lo haces, todos los efificios permanecerán, pero los aldeanos desaparecerán.
+negationwand.confirm=Confirmar
+negationwand.cancel=Cancelar
+negationwand.destroyed=¡El/la <0> ha sido destruido/a! Sus edificios son ahora cascarones vacíos y nadie jamás regresará a ellos.
+
+relation.excellent=Excelente
+relation.verygood=Muy buena
+relation.good=Buena
+relation.decent=Decente
+relation.fair=Justa
+
+relation.openconflict=Conflicto en curso
+relation.atrocious=Atroz
+relation.verybad=Muy mala
+relation.bad=Mala
+relation.chilly=Fría
+
+relation.neutral=Neutral
+
+raid.planningstarted=<0> esta planificando un asalto a <1>.
+raid.started=¡<0> ha comenzado el asalto a <1>! <2> guerrero(s) se han unido.
+raid.raidsuccesfull=¡<0> ha asaltado exitosamente <1>, robando <2> bienes!
+raid.raidfailed=<1> detuvo exitosamente el ataque de <0>.
+raid.nothing=Nada
+raid.historysuccess=Asaltó exitosamente <0>. Botín: <1>
+raid.historyraided=Asaltada por <0>. Botín: <1>
+raid.historyfailure=El asalto en <0> falló.
+raid.historydefended=Exitosamente detuvo un ataque de <0>.
+
+hof.hof=Salón de la Fama
+hof.modcreator=Creador del Mod
+hof.creatorofmayan1=Creador de la
+hof.creatorofmayan2=cultura maya
+hof.creatorofjapanese1=Creador de la
+hof.creatorofjapanese2=cultura japonesa
+hof.creatorofindianskins1=Creador de los
+hof.creatorofindianskins2=skins hindúes
+
+hof.skinmaker=Creador de skins
+hof.buildingmaker=Creador de edificios
+hof.wikiadmin=Administrador de la Wiki
+hof.armouricons=Íconos de armadura
+hof.normanarmour1=Armadura normanda
+hof.normanarmour2=gráficos
+hof.support1=Ayuda en
+hof.support2=el foro
+hof.frenchversion1=Ayuda con la
+hof.frenchversion2=versión en francés
+hof.wikicontributions=Contribuciones a la Wiki
+hof.improvementsjapanese1=Mejoras a
+hof.improvementsjapanese2=las aldeas japonesas
+hof.lonebuildings=Edificios solitarios
+hof.obsidiantools1=Herramientas de obsidiana
+hof.obsidiantools2=íconos
+hof.forgecode1=Códificación original de
+hof.forgecode2=la IPA de Forge Sprites
+hof.btw=(Creador de BTW)
+hof.forgehelp1=Ayuda con
+hof.forgehelp2=la IPA de Forge Sprites
+hof.hofidea1=Salón de la fama
+hof.hofidea2=idea
+hof.donor=Donante
+
+pujas.invanme=Puyás
+pujas.panditfee=Tarifa del Pandit
+pujas.offering=Ofrenda
+pujas.god0=A Jánuman - por velocidad
+pujas.god1=To Shivá - por fuerza
+pujas.god2=A Laksmí - por suerte
+pujas.god3=A Ganesha - por destreza
+pujas.priestcoming=<0>: ¿Quieres que se realice una puyá? ¡Tu devoción es admirable!
+pujas.offeringslot=Coloca una ofrenda para los dioses.
+pujas.offeringslot2=No aceptarán cualquier cosa. Experimenta.
+pujas.moneyslot=Coloca dinero para el pandit.
+pujas.toolslot=Coloca la herramienta que quieras enchantar.
+
+culture.norman=Normanda
+culture.hindi=Hindú
+culture.japanese=Japonesa
+culture.mayan=Maya
+
+export.errornoname=Debes darle un nombre al plano del edificio en la primera línea.
+export.errornoendsigneast=No se pudo encontrar la placa de señalización al este. Debe estar en una línea recta de la primera señalización dentro de 256 bloques.
+export.errornoendsignsouth=No se pudo encontrar la placa de señalización hacia el sur. Debe estar en una línea recta de la primera señalización dentro de 256 bloques.
+export.errorlength=La longitud detectada es de <0>, pero hay un plano de construcción existente en la carpeta de exportación con una longitud de <1>.
+export.errorwidth=La anchura detectada es de <0>, pero hay un plano de construcción existente en la carpeta de exportación con una anchura de <1>.
+export.errorstartinglevel=Nivel no válido en la linea tres de la placa.
+export.defaultstartinglevel=Nivel inicial no especificado, será usado -1 por defecto.
+export.errorunknownblockid=Tipo de bloque desconocido: <0>
+export.buildingexported=Edificio esportado como <0>.
+
+import.notonserver=La importación de edificios no es posible en un servidor.
+import.errornoname=Debes darle un nombre al plano del edificio en la primera línea.
+import.errornotfound=El edificio solicitado no está presente en  millenaire-custom/exports.
+import.buildingupto=Construcción hasta el nivel <0>
+import.errorinvalidupgradelevel=Nivel de mejora inválido en la línea dos de la señalización.
+import.buildinginitialphase=Ningún nivel de mejora especificado, construyendo el primer nivel solamente.
+import.errorupgradeleveltoohigh=El nivel de mejora solicitado es superior al disponible.
+import.doublevertical=Altura vertical doblada
+import.buildinglevel=Nivel de consrucción: <0>

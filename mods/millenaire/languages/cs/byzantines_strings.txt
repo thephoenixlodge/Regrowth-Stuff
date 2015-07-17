@@ -1,0 +1,34 @@
+culture.byzantines=Rimane
+
+//Norman:
+villager.teenagerMale=Mladik
+villager.teenagerFemale=Slecna
+villager.boy_byzantine=Chlapec
+villager.girl_byzantine=Divka
+villager.farmiller_byzantine=Mlynar
+villager.farmiller_wife_byzantine=Mlynarova zena
+villager.wife_byzantine=Zena
+villager.miner_byzantine=Hornik
+villager.artisan_byzantine=Remeslnik
+villager.patriarch_byzantine=Patriarcha
+villager.lumberman_byzantine=Drevorubec
+villager.shepherd_byzantine=Pastyr
+villager.shepherd_female_byzantine=Pastyrka
+villager.fisherman_byzantine=Rybar
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Obcanka
+villager.merchant_norman=Normansky obchodnik
+villager.merchant_hindi=Indsky obchodnik
+villager.merchant_mayan=Maysky obchodnik
+villager.merchant_japanese=Japonsky obchodnik
+villager.centurio_byzantine=Centurion
+villager.soldier_byzantine=Vojak
+villager.playersoldier_byzantine=Vojak
+villager.smith_byzantine=Kovar
+villager.merchant_byzantine=Obchodnik
+villager.pastor_byzantine=Pastor
+
+villager.keeperOak_byzantine=Strazny
+villager.keeperBirch_byzantine=Strazny
+villager.keeperTropical_byzantine=Strazny
+villager.keeperPine_byzantine=Strazny

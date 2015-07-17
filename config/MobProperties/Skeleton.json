@@ -1,6 +1,22 @@
 {
   "_name": "Skeleton",
-  "drops": [],
+  "drops": [{
+	"function" : "if_rare_super",
+	"functions" : [{
+		"function" : "choose",
+		"count" : "1",
+		"functions" : [{
+			"function" : "add",
+			"count" : "0.5",
+			"id" : "Quadrum:secret1"
+			},
+			{
+			"function" : "add",
+			"count" : "0.2",
+			"id" : "Quadrum:secret2"
+			}]
+		}]
+	}],
   "pre_stats": [],
   "stats": []
 }

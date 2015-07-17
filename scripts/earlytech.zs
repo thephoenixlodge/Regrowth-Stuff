@@ -1,4 +1,5 @@
 ////Imports
+import mods.railcraft.BlastFurnace;
 
 ////Values
 //Materials
@@ -41,6 +42,7 @@ val oreRutile = <Mariculture:rocks:3>;
 val limestone = <Mariculture:limestone>;
 val oreCopper = <Forestry:resources:1>;
 val oreTin = <Forestry:resources:2>;
+val oreNetherRutile = <NetherOres:tile.netherores.ore.1:9>;
 
 //Machines
 val crucibleFurnace = <Mariculture:machines_multi>;
@@ -51,14 +53,14 @@ val piston = <minecraft:piston>;
 val airPump = <Mariculture:machines_single_rendered>;
 
 //Engines
-val engineCombustion = <BuildCraft|Energy:engineBlock:2>;
+val engineCombustion = <BuildCraft|Core:engineBlock:2>;
 val enginePeat = <Forestry:engine:1>;
 val engineBiogas = <Forestry:engine:2>;
 val engineClockwork = <Forestry:engine:4>;
 val engineSteam2 = <Railcraft:machine.beta:8>;
 val engineSteam3 = <Railcraft:machine.beta:9>;
-val engineWood = <BuildCraft|Energy:engineBlock>;
-val engineStirling = <BuildCraft|Energy:engineBlock:1>;
+val engineWood = <BuildCraft|Core:engineBlock>;
+val engineStirling = <BuildCraft|Core:engineBlock:1>;
 
 //Gears & Plates
 val gearIron = <ore:gearIron>;
@@ -117,3 +119,7 @@ recipes.addShaped(engineSteam3, [[plateSteel, plateSteel, plateSteel], [null, re
 
 //Change name or redstone engine to wooden engine
 engineWood.displayName = "Wooden Engine";
+
+//Change process of turning nether rutile to rutile to require blast furnace
+furnace.remove(oreRutile);
+BlastFurnace.addRecipe(oreNetherRutile, false, false, 300, oreRutile * 2);

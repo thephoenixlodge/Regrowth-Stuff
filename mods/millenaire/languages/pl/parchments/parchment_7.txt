@@ -1,0 +1,40 @@
+version:1.1.4
+Millénaire: Przedmioty hindusow
+
+Denar. Z nieznanych powodow, Hindusi, tak jak Normanowie, uzywaja denara jako srodka platniczego. Istnieja trzy typy denara: brazowy, srebrny warty 64 brazowe, i zloty warty 64 srebrne.
+NEW_PAGE
+Pozywienie
+
+Ryz. Podstawowy pokarm, ryz mozna spotkac prawie wszedzie. Sam ryz nie ma smaku, i nie moze zostac zjedzony przez gracza. Dzieci dorastaja szybciej, jezeli maja w domach ryz.
+
+Kurkuma. To najlepsza z przypraw. Niezbedny skladnik curry. Tak samo jak w przypadku ryzu, posiadanie kurkumy przyspiesza dorastanie dzieci. 
+
+Curry wegetarianskie. Polaczenie ryzu i kurkumy, to proste danie odnawia dwa serca.
+
+Mieso z kurczaka. Produkowane przez rolnikow posiadajacych zagrode dla kur, mieso z kurczaka uzywane jest do przygotowywania pysznych dan. Hidnuskie dzieci, ktore maja do niego dostep dorastaja duzo szybciej. Jedzone na surowo odnawia tylko pol serca.
+
+Curry drobiowe. Przygotowywane z polaczenia kurkumy, ryzu i miesa z kurczaka. Ten przysmak odnawia cztery serca.
+
+Rasgulla. Ten deser zrobiony z zapiekanego sera i slodkiego syropu wytwarzaja kobiety. Odnawia jedno serce; mozna nosic do 8 rasgulli na raz. Jezeli zjadana jest przez mieszkancow, zwieksza ich szanse na posiadanie potomstwa.
+NEW_PAGE
+Budowanie i dekoracja
+
+Mokra cegla. Pierwszy etap wytwarzania cegiel. Przynoszona jest do wysuszenia w piecu.
+
+Blotne cegly. Otrzymane przez wysuszenie mokrych cegiel na sloncu. Blotne cegly to podstawowy material budowlany w wiosce. 
+
+Wypalana cegla. Po wysuszaniu w piecu, cegla ta jest bardziej wytrzymala i trwala niz inne.
+
+Forma do cegiel. Mozesz kupic to narzedzie w wiosce, i dzieki niemu tworzyc mokre cegly. Uzyj go na plaskim terenie, majac w ekwipunku zarowno bloto jak i piasek.
+
+Hinduski posag. Posagi hinduskich bostw sa tworzone przez rzezbiarza i dostarczane do swiatyni. Moga byc sprzedane graczowi.
+NEW_PAGE
+Zwoje
+
+Hinduskie wioski. Opisuje wszystkie typy hinduskich wiosek i ich mieszkancow.
+
+Hinduskie budynki. Lista wszystkich budynkow, ktore stawiaja Hindusi.
+
+Przedmioty hindusow. Naprawde sie nie domyslasz, co to jest?
+
+Pelny hinduski zwoj. Zawiera w sobie tresc wszystkich trzech zwojow.

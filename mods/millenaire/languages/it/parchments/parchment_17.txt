@@ -1,0 +1,50 @@
+version:3.1.7
+Mill√©naire: Edifici Giapponesi
+
+Centro del villaggio
+
+Shuudannoujou: Fattoria principale. Il centro di un villaggio agricolo dove vivono il contadino e sua moglie, e dove gli abitanti del villaggio portano il raccolto, la legna, e le pietre.
+
+Bousai: Forte. Questo edificio ospita lo Shuken e sua moglie. Può essere potenziato e diventare un'imponente fortezza, cinta di mura e con torri di guardia.
+
+Kumonjo: Ufficio imperiale. I Giapponesi costruiscono gli enormi uffici Imperiali al centro del villaggio. Il sovrintendente e sua moglie risiedono qui, vigilando sul villaggio giorno e notte. Tutti i progetti di costruzione del villaggio sono creati qui, come anche i piani aggiuntivi e le proposte.
+NEW_PAGE
+Alloggi
+
+Shoko: Archivi. Questo edificio contiene tutte le informazioni sugli abitanti del villaggio.
+
+Tansetsu: Fucina dell'esercito. Un Tansetsu può fabbricare tutte le armi dei soldati Giapponesi, in particolare la spada Tachi e il letale arco Yumi, come anche una grande varietà di armature. Per produrre tutto ciò è necessario un armaiolo ed una moglie che si occupi degli affari.
+
+Tansetsu: Fucina. È qui che gli attrezzi di ferro sono fabbricati e poi venduti. Il fabbro crea infatti gli strumenti per rendere gli altri lavori più veloci. Anche il giocatore può comprare gli attrezzi qui.
+
+Shugi Ie: Bottega artigianale. L'artigiano produce e vende la carta fatta col riso, come anche carta da parati, per tappezzare le pareti, e travi di legno per l'intelaiatura degli edifici.
+
+Gyogyo e Tsuribori: Pescheria. Il Ryoushi, o pescatore, trascorre il suo tempo in questo edificio, cercando di catturare pesci per il villaggio.
+
+Kodachi: Bosco. Il taglialegna Giapponese taglia ed abbatte qui gli alberi quando sono pronti.
+
+Shijin: Locanda. Qui i mercanti vengono a riposarsi dopo aver viaggiato da un villaggio all'altro trasportando merci da vendere.
+
+Daidokoro: Cucina. Qui dentro viene cotto il cibo e viene preparato l'Udon. Sono in vendita anche pollo e pesce.
+
+Kikori Koya: Capanna del taglialegna. Questa è l'abitazione del taglialegna e di sua moglie. Dopo aver tagliato i tronchi, il taglialegna porta la legna qui e la moglie la consegna al centro del villaggio.
+
+Bourou: Torre di vedetta. La torre di vedetta è un edificio più decorato di altri ed è costruito, nella maggior parte dei casi, ai margini del villaggio. Infatti in questo modo le guardie possono avvistare da lontano i nemici che si avvicinano.
+
+Suiden: Risaia. Gli abitanti del villaggio, in particolare contadini e donne, coltivano il riso nei campi. Le donne portano il riso al centro del villaggio, dove il giocatore può comprarlo.
+
+Buttou: Pagoda. In questo edificio vive il monaco Souryo e gli abitanti del villaggio si recano per pregare.
+
+Noufu Ie: Capanna contadina. Qui vive il contadino insieme a sua moglie.
+
+Saisekijou: Cava. Qui vivono il minatore e sua moglie. La pietra viene estratta in questo luogo e poi consegnata al centro del villaggio.
+
+Heisha: Caserma. In questo edificio vivono i guerrieri o le guardie con le loro mogli.
+
+Noujou Nojo: Fattoria. Qui vivono il contadino e sua moglie, che raccolgono il frumento cresciuto nel campo.
+NEW_PAGE
+Luoghi decorativi
+
+Ike: Laghetto. Un luogo in cui è piacevole passeggiare.
+
+Torii: Torii. Il bellissimo portale dove gli abitanti del villaggio si recano per pregare.

@@ -1,6 +1,5 @@
 ////Imports
 import mods.botania.ElvenTrade;
-import mods.appeng.Inscriber;
 
 ////Value declarations
 //materials
@@ -51,7 +50,11 @@ val chipsetDiamond = <BuildCraft|Silicon:redstoneChipset:3>;
 val chipsetQuartz = <BuildCraft|Silicon:redstoneChipset:5>;
 //Other
 val chisel = <chisel:chisel>;
-
+var oreChipGold = <ore:chipsetGold>;
+var oreChipDiamond = <ore:chipsetDiamond>;
+var oreChipQuartz = <ore:chipsetQuartz>;
+var oreTubeDiamond = <ore:tubeDiamond>;
+var oreTubeGold = <ore:tubeGold>;
 
 //Change crafting unit recipe
 recipes.remove(craftingUnit);
@@ -72,18 +75,4 @@ recipes.addShapeless(pressEngineering, [chisel.reuse(), pressCalculation]);
 recipes.addShapeless(pressLogic, [chisel.reuse(), pressEngineering]);
 
 ////Change processor recipes
-//engineering
-Inscriber.removeRecipe(printedEngineering);
-Inscriber.addRecipe([tubeDiamond], pressEngineering, null, printedEngineering, false);
-Inscriber.removeRecipe(processorEngineering);
-Inscriber.addRecipe([chipsetDiamond], printedEngineering, printedSilicon, processorEngineering, true);
-//calculation
-Inscriber.removeRecipe(printedCalculation);
-Inscriber.addRecipe([tubeCertus], pressCalculation, null, printedCalculation, false);
-Inscriber.removeRecipe(processorCalculation);
-Inscriber.addRecipe([chipsetQuartz], printedCalculation, printedSilicon, processorCalculation, true);
-//logic
-Inscriber.removeRecipe(printedLogic);
-Inscriber.addRecipe([tubeGold], pressLogic, null, printedLogic, false);
-Inscriber.removeRecipe(processorLogic);
-Inscriber.addRecipe([chipsetGold], printedLogic, printedSilicon, processorLogic, true);
+//This got moved to the AE .recipe files

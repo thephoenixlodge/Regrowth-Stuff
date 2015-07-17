@@ -1,0 +1,61 @@
+version:4.8.0
+Millénaire: Aldeões Japoneses
+
+Chefes da Aldeia
+
+Shuken (しゅくん): Samurai. Este homem vive numa fortaleza muralhada a partir da qual ele comanda o seu povo. Sai regularmente da mesma para patrulhar a aldeia e matar monstros. Ele defenderá a sua aldeia até à morte e matará qualquer um que a coloque em risco.
+
+Kokushi (こくし): Imperador. Ele governa a sua aldeia de dentro do palácio imperial. Ele obriga os seus aldeões a trabalhar arduamente e encoraja-os a orar, cobrando também elevados impostos. Ainda assim, por ser um homem bastante religioso e em paz consigo mesmo, os aldeões não se queixam dele.
+
+Chōkan (ちょうかん): Chefe Agricultor. Este homem é, na verdade, um camponês, mas os Japoneses necessitam de muitos alimentos, pelo que alguém tem de liderar uma aldeia agrícola. Ele é um dos anciões escolhidos para liderar a aldeia. Ele aconselha os aldeões sobre as técnicas de agricultura e ajuda a defender a sua aldeia dos monstros.
+
+Touji: Chefe Cervejeiro. Este artesão qualificado produz o saqué, e o seu renome garante a prosperidade da sua aldeia comerciante.
+
+NEW_PAGE
+Mulheres
+
+Jojoufu (じょじょうふ): Mulher Corajosa. Esta é a esposa de um guarda ou de um guerreiro. Ela executa tarefas comuns como tomar conta dos campos ou produzir colmo. Mas quando os homens saem para defender a aldeia, também ela se junta a eles, protegendo-a até ao seu último suspiro. Tenha cautela com ela, pois um desviar de olhos é o suficiente para ela acabar consigo.
+
+Reifujin (れいふじん): Dama. Esta mulher é a esposa de um homem abastado, geralmente o líder da aldeia. Ela passa o dia a cuidar do seu aspecto e pouco mais faz.
+
+Kuramoto: Cervejeira. Esta especialista na produção de saqué trabalha em conjunto com o seu esposo na fábrica de saqué.
+
+Tsuma (つま): Esposa. Estas mulheres executam todas as tarefas de que os homens não gostam, tais como tratar dos campos, produzir colmo ou cozinhar. São trabalhos árduos e aborrecidos, mas elas não se podem queixar sem que haja consequências. Ainda assim, sem estas mulheres, os aldeões morreriam à fome.
+
+NEW_PAGE
+Homens
+
+Kikori (きこり): Lenhador. Este homem conhece bem as árvores e sabe precisamente quais cortar para a construção. Ele faz crescer as árvores desde que são rebentos até serem grandes o suficiente para se serrar e produzir madeira. Ele também é apto para participar em invasões a outras aldeias.
+
+Saikushi (さいくし): Artesão. Este homem produz papel a partir do arroz e painéis de papel de arroz posteriormente. Ele é também capaz de produzir armações de madeira para a aldeia. Sem ele, a aldeia terá um aspecto bastante aborrecido e não haverá nada para distrair os inimigos durante uma invasão à medida que eles avançam pela cidade.
+
+Hyakushou (ひゃくしょう): Agricultor. Este homem planta o trigo na sua plantação e armazena-o para produzir alimentos. Ele é dono da sua própria terra e cuida bem dela.
+
+Kaji (かじ): Ferreiro-mestre. O ferreiro-mestre é um soldado também, experiente na arte de forjar armas e armaduras. Foi-lhe conferida a posição de ferreiro para que possa produzir armas que não se quebrem facilmente e armadura que possa resistir às mais afiadas lâminas.
+
+Kajiya (かじや): Ferreiro. O ferreiro é um aldeão que sabe trabalhar bem com um forno e sabe como produzir as ferramentas necessárias para as tarefas do dia-a-dia na aldeia. Este homem pode se tornar bastante rico se as suas ferramentas forem de boa qualidade e tiverem uma procura elevada.
+
+Bushi (ぶし): Guerreiro. A classe dos Guerreiros é uma de soldados educados num exército do período Heian. Eles combatem contra outras aldeias e utilizam um arco Yumi ou uma espada Tachi como armas. Não demonstram qualquer tipo de misericórdia e aceitam qualquer desafio.
+
+Keibou (けいぼう): Guarda. Os guardas protegem a aldeia de invasores. Poderão também deslocar-se em guerra com outras aldeias se for necessário, utilizando os seus arcos Yumi ou espadas Tachi. Não seria uma boa ideia tentar combater contra um destes homens.
+
+Chounin (ちょうにん): Comerciante. O comerciante negocia bens (materiais de construção, alimentos, etc.) com outras aldeias e obtém outros bens em elevada procura em retorno. Depois de um longo dia a viajar, o comerciante gosta de relaxar numa albergaria hospitaleira.
+
+Ryoushi (りょうし): Pescador. Os pescadores deslocam-se aos lagos próximos das suas habitações para pescar. Por vezes têm pouca sorte e não conseguem preencher a sua quota diária de peixe para a aldeia.
+
+Koufu (こうふ): Mineiro. O mineiro escava e obtém a pedra e a areia, quase que como um escravo. Ele é também capaz de produzir vidro a partir da areia e pedra lisa a partir da pedra utilizando a sua fornalha.
+
+Souryo (そうりょ): Monge. O monge é um homem de respeito e conhece bem e aprofundadamente o Budismo. Os aldeões visitam-no para obter conselhos ou para encontrarem a paz consigo próprios.
+
+Noufu (のうふ): Camponês. Os camponeses constroem novos edifícios na aldeia e trabalham os arrozais. Matam também as galinhas para obter alimento. Não há descanso para um camponês.
+
+NEW_PAGE
+Crianças
+
+Danshi (だんし): Jovem Rapaz. Ele é adulto o suficiente para se deslocar para uma residência própria e ter a sua própria profissão. Estes jovens sonham em tornar-se grandes guerreiros, mas raramente esse sonho se torna realidade.
+
+Jou (じょう): Jovem Rapariga. Ela é adulta o suficiente para se casar com um homem e arranjar a sua própria habitação, onde terá de fazer uso de tudo o que aprendeu com a sua mãe enquanto jovem.
+
+Otokonoko (おとこのこ): Rapaz. Brinca pela aldeia e, lentamente, torna-se um adulto.
+
+Onnanoko (おんなのこ): Rapariga. Brinca pela aldeia e, lentamente, torna-se um adulto.

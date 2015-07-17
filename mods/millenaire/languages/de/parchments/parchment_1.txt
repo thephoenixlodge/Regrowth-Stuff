@@ -1,0 +1,64 @@
+version:4.2.1
+Millénaire: Normannische Bewohner
+
+<darkred>Dorfvorsteher
+
+<darkblue>Chevalier: Krieger
+Lebt in einem Fort, von welchem aus er in seinem Land patrouilliert und die Taverne besucht. Hüten Sie sich davor ihm in einem Kampf zu begegnen! Anführer von Millitärdörfern und Großstädten.
+
+<darkblue>Abbé: Abt
+Lebt in der Abtei und überwacht die Arbeit der Mönche. Anführer von kirchlichen Ortschaften und Dörfern.
+
+<darkblue>Sénéchal : Seneschall
+Überwacht, von seinem Herrenhaus aus, die Landwirtschaftliche Produktion seines Dorfes. Anführer von landwirtschaftlichen Ortschaften und Dörfern.
+
+<darkblue>Maître de la Guilde : Gilden Meister
+Überwacht die Produktion von Handwerkern aus dem Hause der Gilde. Anführer von Handwerks Ortsteilen und Dörfern.
+NEW_PAGE
+<darkred>Frauen
+
+<darkblue>Villageoise: Dorfbewohnerin
+Beinahe alle erwachsen Frauen gehören dieser Gruppe an. Ihre Aufgabe beinhaltet, von ihrem Mann gesammelte Rohstoffe zum Gemeindehaus zubringen, Bau von neuen Gebäuden, die Verbesserung bestehender sowie der Handel mit Spieler an verschiedenen Standorten.
+
+<darkblue>Dame: Dame
+Lebt mit ihrem Mann im Fort, wo sie Wandteppiche aus Wolle produziert, um das Fort zu schmücken und an den Spieler verkauft.
+NEW_PAGE
+<darkred>Männer
+
+<darkblue>Fermier: Bauer
+Lebt auf einem Bauernhof, wo er Weizen anbaut und erntet.
+
+<darkblue>Bûcheron: Holzfäller
+Lebet in einer Holzfällerhütte. Er sammelt Holz und Cidre-Äpfel von Bäumen in Hainen und pflanzt dort Setzlinge um neue Bäume zu züchten.
+
+<darkblue>Garde: Wächter
+Lebt im Wachhaus. Tut nichts außer Cidre trinken und ganz gelegentlichem beten. Außer ein Dorfbewohner wird angegriffen. Ihn sollte man nicht als Feind haben, besonders wenn er mit einem normannischen Breitschwert ausgerüstet ist.
+
+<darkblue>Prêtre: Priester
+Lebt allein in einem Pfarrhaus. Wenn er nicht in der Kirche betet schläft er. Es gibt Gerüchte das er hinter der Maske katholischer Frömmigkeit, alte Wikinger Rituale verbirgt.
+
+<darkblue>Forgeron: Schmied
+Lebt in einer Schmiede oder im Rüsthaus. Wenn Eisen verfügbar ist, stellt er in der Schmiede Werkzeuge her oder Rüstungen und Schwerter im Rüsthaus.
+
+<darkblue>Eleveur : Viehzüchter
+Lebt auf einer Kuh-, Schweine-, oder Hühnerhof. Sammelt verschiedene Waren vom Tier Hof und macht Normannische Tripes (Kutteln) und leckere Boudin noir (Blutwurst).
+
+<darkblue>Mineur : Bergarbeiter
+Lebt und arbeitet in einem Steinbruch und sammelt ununterbrochen Stein und Sand. Sollte sein Steinbruch aufgebessert sein, kann er aus Sand Glas und aus Pflastersteinen Steine herstellen.
+
+<darkblue>Charpentier : Schreiner
+Lebt und arbeitet in einer Schreinerei, wo er Fachwerke für Gebäude herstellt.
+
+<darkblue>Moine : Mönche
+lebt in der Abtei, wo er sorgfältig alte Bücher auf neue Pergamente kopiert. Eine Kunst, seiner Meinung nach.
+
+<darkblue>Marchant : Händler
+Geht von Gasthaus zu Gasthaus, verkauft Waren von einem Dorf zum andern. Es ist sein Job zu wandern, zum Wohle aller Dorfbewohner.
+
+<darkblue>Marchant étranger : Auswärtige Händler
+Kaufleute aus weit entfernten Orten besuchen Märkte, um ihre exotischen Waren zu verkaufen, bevor Sie mit Ihren hart verdienten Denier wieder verschwinden.
+
+<darkred>Kinder
+
+<darkblue>Garçon / fille : Junge und Mädchen
+Leben mit ihren Eltern, wachsen in den Nächten, bis sie groß genug sind in ein freies Haus zu ziehen und Erwachsen werden.

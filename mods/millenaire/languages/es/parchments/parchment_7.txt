@@ -1,0 +1,40 @@
+version:1.1.4
+Millénaire: Objetos hindúes
+
+Denier. Por razones que los historiadores no pueden exlicar, las aldeas hindúes utilizan el denier como moneda, al igual que las villas normandas. Existen tres tipos de denier: bronce, plata, que equivale a 64 de bronce, y oro, que equivale 64 de plata.
+NEW_PAGE
+Alimentos
+
+Arroz. Una comida indispensable para la aldea, puede ser comprado en la aldea. Por sí solo, no tiene sabor, y no puede ser comido por el jugador. Los niños de la aldea crecen más rápido si hay arroz en casa.
+
+Cúrcuma. Esta especia en polvo puede ser extraida moliendo la raíz de la planta. Es un ingrediente esencial en el curry. Como el arroz, su presencia hace que los niños crezcan más rápido. 
+
+Curry vegetariano. Preparado combinando arroz con cúrcuma, este simple curry regenera dos corazones.
+
+Carne de pollo. Obtenido por los campesinos que poseen un corral, la carne de pollo es utilizada para preparar delicioso curry murgh. Los niños que comen carne de pollo crecen más rápido. Puede comerse cruda, pero sólo regenerará medio corazón.
+
+Curry murgh. El curry murgh se prepara combinando arroz, cúrcuma y carne de pollo. Esta delicatez regenera unos substanciales cuatro corazones.
+
+Rasgulla. Este postre hecho de queso frito y dulce jarabe dulce por las campesinas utilisando caña de azúcar. Comprado por el jugador, regenerará un corazón, se pueden apilar hasta ocho. Cuando es comido por las parejas de la aldea, aumenta la probabilidad de que conciban un hijo. No, no puedes tener más detalles.
+NEW_PAGE
+Construcción y decoración
+
+Ladrillo húmedo. La primera etapa en la manofaturación de los ladrillos, los ladrillos húmedos son llevados al kiln para secarse en el Sol.
+
+Ladrillo de lodo. Obtenidos al secar ladrillos húmedos al Sol, los ladrillos de lodo son el componente esencial de las aldeas hindúes. 
+
+Ladrillo cocido. Luego de cocerse en el horno, los ladrillos de lodo se convierten en ladrillos cocidos, más fuertes y bonitos, con su apariencia lavada.
+
+Molde de ladrillos. Esta herramienta, que puede ser comprada en la aldea, permite la creación de ladrillos húmedos. Utilizalo en un superficie plana, teniendo arena y tierra en el inventario.
+
+Estatua hindú. Estas estatuas de dioses hindúes son creadas por el escultor para adornar el templo, y son vendidas al jugador que tenga gustos refinados.
+NEW_PAGE
+Pergaminos
+
+Aldeanos hindúes. Un pergamino que describe los diferentes tipos de aldeanos hindúes, ambos, aquellos que trabajan y aquellos que observan a otros trabajar.
+
+Edificios hindúes. Una lista de todos los edificios construidos por los aldeanos, desde la cabaña del leñador, hasta la imponente fortaleza del general Rajput.
+
+Objetos hindúes. ¿Es necesario que te digan qué es?
+
+Pergaminos hindú completo. El contenido de los tres pergaminos anteriores, en un rollo compacto de fácil transportación.

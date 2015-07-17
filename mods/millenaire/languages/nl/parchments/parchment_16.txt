@@ -1,0 +1,60 @@
+version:4.8.0
+Millénaire: Japanse inwoners
+
+Dorpshoofden   
+
+Shuken しゅくん: Heer. Deze man leeft in zijn fort. Hij komt naar buiten om te patrouilleren en monsters aan te vallen. Ook bevecht hij iedereen die het dorp in gevaar brengt.
+
+Kokushi こくし: Leider. Deze man beheert zijn dorp vanuit het imperiële kantoor. Hij zorgt ervoor dat de dorpelingen hard werken en dat ze bidden. Ook vraagt hij hoge belastingen. Maar de inwoners zijn zeer religieus en vredelievend dus zullen ze niet klagen.
+
+Chōkan ちょうかん: Chef. Deze man is een echte boer want de Japanners hebben erg veel voedsel nodig dus iemand moet een landbouwdorp leiden. Hij is door de oudsten gekozen als leider. Hij geeft de dorpelingen instructies over landbouwtechnieken en verdedigd het tegen monsters.
+
+Touji: Meesterbrouwer. Deze gequalificeerde werkman produceert sake in de brouwerij, waarvan de bekendheid veel uitmaakt voor de welvaart van het dorp.
+
+NEW_PAGE
+Vrouwen
+
+Jojoufu じょじょうふ: Dappere vrouw. De vrouw van een soldaat of bewaker. Ze zal normale taken uitvoeren, maar tijdens een overval krijgt ze de taak het dorp te verdedigen tot haar laatste adem. Wees opgepast als je haar aankijkt want een verkeerde blik en je bent er geweest.
+
+Reifujin れいふじん: Dame. Deze vrouw is de vrouw van een rijke man die meestal ook de dorpsleider is. Ze zorgt ervoor dat ze er altijd mooi uitziet. Niet veel meer...
+
+Tsuma つま: Vrouw. Deze vrouwen doen de taken die de mannen niet willen doen. Zoals de velden bijhouden en koken. Het is slopend werk maar ze kunnen niet klagen zonder consequenties. Zonder deze vrouwen zou het dorp verhongeren.
+
+Kuramoto: Vrouwelijke brouwer. Deze specialist in sake productie werkt met haar man in de brouwerij.
+
+NEW_PAGE
+Mannen
+
+Kikori きこり: Houthakker. Deze man kent zijn bomen. Hij weet precies welke hij om moet hakken. Hij groeit de boom van kiemplant tot deze voldoet om omgehakt te worden. Ook neemt hij deel aan overvallen op andere dorpen.
+
+Saikushi さいくし: Vakman. Deze man maakt papier van rijst en daarvan weer papieren muren. Ook maakt hij houten frames voor het dorp. Zonder hem zou het dorp saai zijn en is er niks afleidends voor overvallers.
+
+Hyakushou ひゃくしょう: Graanboer. Deze man zaait graan om op te slaan als voedsel. Hij heeft zijn eigen stuk land en beheert dat goed.
+
+Kaji かじ: Legersmid. De kaji is een soldaat. Hij heeft de kennis om wapens en pantser te smeden. En is daarom aangesteld als smid. Het is zijn taak wapens te maken die niet kapot gaan en pantser dat de scherpste wapens kan weerstaan.
+
+Kajiya かじや: Smid. De Kajiya is een man die weet hoe de over werkt en hoe hij goede alledaagse werktuigen kan maken. Hij kan heel rijk worden als de kwaliteit en de vraag goed is.
+
+Bushi ぶし: Soldaat. De bushi klasse is uitstekend getraind in het leger. Ze gaan get gevecht in met een yumi boog of tachi zwaard. Ze kennen geen genade en accepteren elke uitdaging.
+
+Keibou けいぼう: Bewaker. De bewaker bewaakt het dorp tegen indringers. Hij gebruikt een yumi boog of tachi zwaard als wapen. Ook kan hij op pad worden gestuurd naar een ander dorp zo nodig. Ik zou er niet meer kloten als ik jou was.
+
+Chounin ちょうにん: Handelaar. De handelaar handelt met andere dorpen om zo gevraagde materialen mee terug te nemen. Na een lange dag reizen vindt hij het lekker om in een gastvrije herberg te zitten.
+
+Ryoushi りょうし: Visser. De visser zal meestal gaan vissen in het meer buiten zijn huis. Meestal vangt hij niks en haalt de dagelijkse doelen niet.
+
+Koufu こうふ: Mijnwerker. Deze man slentert rond en delft keisteen en zand. Deze smelt hij ook in de oven tot glad steen of glas.
+
+Souryo そうりょ: Monnik. Deze man is zeer gerespecteert en kent alles van het boeddhisme. Mensen zoeken hem op voor advies over hun innerlijke vrede.
+
+Noufu のうふ: Boer. Boeren bouwen gebouwen en houden de rijstvelden bij. Ook slachten ze kippen voor het vlees. Boeren kennen geen rust.
+NEW_PAGE
+Kinderen
+
+Danshi だんし: Tiener jongen. Oud genoeg om een eigen huis te nemen en een vak te leren. De meeste jongers dromen om soldaat te worden maar vaak komt die niet uit.
+
+Jou じょう: Tiener meisje. Oud genoeg om in te trekken bij een man. Nu kan ze dan echt de dingen die haar moeder heeft geleerd toepassen in de echte wereld.
+
+Otokonoko おとこのこ: Jongen. Speelt rond het dorp en wordt langzaam ouder.
+
+Onnanoko おんなのこ: Meisje. Speelt rond het dorp en wordt langzaam ouder.

@@ -1,0 +1,10 @@
+0;Extranjero;No confiamos en los extranjeros, antes debemos conocerte mejor.
+4*64;Conocido;Ya eres más conocido, pero eso no significa que confiemos en ti.
+16*64;Visitante Regular;¿Cómo te ha ido en tus viajes $name?
+64*64;Comerciante Favorito;Ah, $name, tu llegada a nuestro pueblo nos llena de felicidad .
+2*64*64;Amigo del Pueblo;¡Hola Amigo! ¿Qué podemos hacer por ti hoy?
+8*64*64;Uno de Nosotros;Hola, $name, hemos estado esperando tu regreso con gran entusiasmo.
+32*64*64;Lider Natural;$name, usted tiene la confianza y la lealtad de mi pueblo, ellos lo seguirán a cualquier parte. 
+-64;Azote;Agh, eres tu! ¿Qué quieres?
+-4*64;Forastero Desagradable;¡Deja nuestra aldea inmediatamente, villano!
+-16*64;Enemigo Público; ¿Cómo se atreve a mostrar su cara por aqui?

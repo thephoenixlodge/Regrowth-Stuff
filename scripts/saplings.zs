@@ -1,5 +1,6 @@
 ////Imports
 import mods.botania.ManaInfusion;
+import minetweaker.item.IItemStack;
 
 ////Variable declarations
 //EBXL
@@ -34,6 +35,7 @@ val silverbell = <Natura:Rare Sapling:1>;
 val amaranth = <Natura:Rare Sapling:2>;
 val tigerwood = <Natura:Rare Sapling:3>;
 val willow = <Natura:Rare Sapling:4>;
+val nSaplings = [natRedwood, eucalyptus, hopseed, natSakura, ghostwood, bloodwood, darkwood, fusewood, maple, silverbell, amaranth, tigerwood, willow] as IItemStack[];
 
 //Flowers
 val dandelion = <minecraft:yellow_flower>;
@@ -87,8 +89,8 @@ ManaInfusion.addAlchemy(tigerwood, amaranth, 5000);
 ManaInfusion.addAlchemy(willow, tigerwood, 5000);
 
 //Alchemy for potatoes
-ManaInfusion.addAlchemy(potato, poisonPotato, 5000);
-ManaInfusion.addAlchemy(poisonPotato, potato, 5000);
+//ManaInfusion.addAlchemy(potato, poisonPotato, 5000);
+//ManaInfusion.addAlchemy(poisonPotato, potato, 5000);
 
 //Alchemy for vanilla flowers
 ManaInfusion.addAlchemy(dandelion, daisy, 5000);
@@ -101,3 +103,8 @@ ManaInfusion.addAlchemy(orangeTulip, redTulip, 5000);
 ManaInfusion.addAlchemy(whiteTulip, orangeTulip, 5000);
 ManaInfusion.addAlchemy(pinkTulip, whiteTulip, 5000);
 ManaInfusion.addAlchemy(daisy, pinkTulip, 5000);
+
+//Get rid of stupid saplingTree oredict
+for natSap in nSaplings {
+	<ore:saplingTree>.remove(natSap);
+}

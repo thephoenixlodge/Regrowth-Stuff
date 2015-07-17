@@ -1,0 +1,27 @@
+culture.japanese=Japonska
+
+villager.japanese_boy=Chlopirv
+villager.japanese_girl=Dziewczynka
+villager.japanese_teenagermale=Nastolatek
+villager.japanese_teenagerfemale=Nastolatka
+villager.japanese_lumberman=Drwal
+villager.japanese_miner=Gornik
+villager.japanese_monk=Mnich
+villager.japanese_peasant=Wiesniak
+villager.japanese_peasantwife=Wiesniaczka
+villager.japanese_samuraigeneral=General samurajow
+villager.japanese_richwoman=Dama
+villager.japanese_samurai=Samuraj
+villager.japanese_emperor=Cesarz
+villager.japanese_crafter=Rzemieslnik
+villager.japanese_armysmith=Mistrz kowalstwa
+villager.japanese_sculptor=Artysta
+villager.japanese_kuge=Arystokrata
+villager.japanese_merchant=Kupiec
+villager.japanese_chickenfarmer=Hodowca drobiu
+villager.japanese_smith=Kowal
+villager.japanese_fisherman=Rybak
+villager.japanese_farmer=Farma zboza
+villager.japanese_farmerchief=Glowny rolnik
+villager.japanese_farmwife=Zona rolnika
+villager.japanese_womanservant=Sluga

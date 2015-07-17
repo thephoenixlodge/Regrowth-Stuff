@@ -1,0 +1,74 @@
+version:4.8.0
+Millénaire: Maya Bewohner
+
+<darkred>Dorfvorsteher:
+
+<darkblue>Ajaw oder Chanan : Maya Könige
+Maya Könige wurden als Gottesgleich angesehen. Sie waren das Zentrum der Macht in der Maya Zivilisation. Jeder Maya Stadt-Statt wurde von einer Königs Dynastie beherrscht, welche gemeinsam das Reich vorantrieben. Jeder einzelne Maya König lies verschieden Denkmäler bauen um seine Macht zu demonstrieren, einige stehen noch heute, während andere nur noch Ruinen sind. Es wurde von Maya Königen erwartet dass sie ihren Machtanspruch legitimieren. Ein weg dies zu tun war es einen Tempel oder eine Pyramide zubauen.
+
+NEW_PAGE
+<darkred>Frauen:
+
+<darkblue>Ix : Maya Königinnen
+Maya Königinnen waren oft als Mais-Göttinnen gekleidet. Obwohl die Mayas eine patriarchalische Gesellschaft war, war der achte Herrscher der Palenque eine Frau. Ihr Name was Yohl ik'nal und sie regiert 20 Jahre lang. Sie war wohl die Tochter oder Schwester des vorherigen Herrschers Kan B'ahlam I.
+
+<darkblue>Atan : Bäuerin
+Maya Frauen waren aus vielen Gründen wichtig. Sie wurden nicht als passive Untergebene angesehen, im Gegenteil, sie spielten eine wichtige Rolle in der Gesellschaft. Ein der grundlegenden Aufgaben der Frauen war das Weben und das Ernten. Maya Schönheitsideale waren unter anderem das verzieren der Vorderzähne mit aufwendigen Mustern, sowie nach der Hochzeit das verzieren des Körpers von der Hüfte aufwärts mit Narben und Tätowierungen, als auch das Schielen, welches Eltern bei ihren Babys herbeiführten in dem sie ihnen Perlen vor die Nase hängten.
+
+<darkblue>Aj : Frau des Schamanen
+Die Ehefrauen des Dorf-Schamanen halfen ihren Männern bei der Durchführung der Schamanen Tätigkeiten. Während der Schamane sich mit den spirituellen dingen beschäftigte, war es ihre Aufgabe sich um das weltliche zu kümmern.
+NEW_PAGE
+<darkred>Männer:
+
+<darkblue>Winik : Bauern
+Es war die Aufgabe der Männer Wild zu jagen und zu töten. Es war außerdem ihre Aufgabe sich um die Landwirtschaftliche Essens Produktion zu kümmern. Ein anderer Aspekt des Leben der Männer war es die Kinder diese Fähigkeiten beizubringen.
+
+<darkblue>Te'xu' : Holzfäller
+Sie sammelten Holz aus den Maya Regenwäldern um die ersten frühen Hütten zubauen. Holz wurde später für viele Bereiche verwendet, so dass die Arbeitsbelastung dieser Männer stark wuchs um die Nachfrage der großen Strukturen zu erfüllen. 
+
+<darkblue>Pan : Bergarbeiter
+Diese Männer hatten den härtesten Job von alle, wegen der riesigen Menge an Stein die für die großen Maya Gebäude gebraucht wurde. Die Bergleute mussten gigantische Mengen an Stein abbauen und zu den Baustellen liefern, welche manchmal sehr weit weg waren von den Steinbrüchen.
+
+<darkblue>Kanan : Krieger
+Es gab einen Kern von Kriegern der ganzjährig als Wachen diente und Opfertiere erhielt, aber die meisten großen Maya Städte und religiösen Zentren hatten Milizen. Diese Männer wurden bezahlt um für die Dauer einer Schlacht zu kämpfen, danach kehrten sie zu ihren zivilen arbeiten zurück. Sie können auf diese Krieger zählen wenn es darum geht das Dorf vor Feinden zu beschützen.
+
+<darkblue>We'matz : Landwirt
+Sie waren die Maisbauern der Mayas. Diese Landwirte waren zuständig den vom Dorf benötigten Mais anzubauen und zu ernten. Sie lebten eher in den größeren der Mais Höfe als in den kleinen Maisfeldern.
+
+<darkblue>Ajpay : Händler
+Manchmal reisten die Mayas zu nahegelegen freundlichen Dörfern um Handel zu betreiben. Dabei kommt es auf die Fähigkeit des Händlers an welche Art Waren getauscht werden und er erschloss Routen. Käufe wurden mit Kakao als Währung getätigt.
+
+<darkblue>Tz'on : Handwerker
+Diese Mayas waren ausgebildet in der Herstellung von Alltagsgegenständen. Sie stellen alles her, von Steinwerkzeug zum Graben und abbauen bis hinzu Waffen wie Speeren und Dolchen. Sie waren auch hochqualifiziert im Weben und nutzen diese Kunst um ihre Umgebung zu dekorieren.
+
+<darkblue>Ah tz'on : Waffenschmied
+Dies sind die Schmiede welche die Maya Waffen hergestellt haben, inklusive Wurfspeere bekannt als Atlatls, Blasrohre, Obsidian gespickte Keulen, Äxte, Speere, und Messer mit Feuerstein oder Obsidian Klingen. Bögen und Pfeile wurden auch aber nicht oft benutzt. Es gab einige Helme und dekorierte Schilde aus gewebten Matten oder Holz und Tierhaut zum Schutz. Sie trugen normalerweise gepolsterte Baumwollrüstung, einen Mantel mit religiösen Insignien und einen aufwendigen Kopfschmuck aus Stoff und Holz. Der Ah tz'on wird alle Waffen herstellen die dein wachsendes Dorf brauchen wird.
+
+<darkblue>Uxul : Bildhauer
+Diese Mayas hatten eine einzigartige Fähigkeit sehr hochdetaillierte Reliefs und Ornamenten herzustellen, welche die großen Mayabauten zieren. Bildhauer stellen einen aufwendigen golden Zierblocker her, der benutzt wird um das fortschreitende Maya Dorf zu schmücken. Sie stellen außerdem kunstvolle Reliefs her, welche die Maya Geschichte erzählen und in den wichtigeren Gebäuden zu finden sind.
+
+<darkblue>Aj K'in: Schamane
+Die traditionellen Mayas hatten ihre eigen religiösen Beamten, welche oft hierarisch organisiert waren. Ihre Aufgabe war es im Namen der Abstammung, lokaler Gruppen oder der gesamten Gemeinde zu beten und zu opfern. Die Mayas konsultierten die Schamanen um Rat.
+
+<darkblue>Ka'kau' We'matz : Kakaoanbauer
+Diese spezialisierten Landwirte kultivieren Kakaoschoten in ihren Plantagen. Sie nutzen die Bohnen um daraus Cacauhaa herzustellen, ein Schokoladen Getränk.
+NEW_PAGE
+<darkred>Kinder:
+
+<darkblue>Mijin : Kinder
+Die Rolle der Kinder in der Maya Gesellschaft war in erster Linie den Erwachsenen zu helfen. Mit dem Alter von 5 oder 6 wurde erwartet das sie ihrer Familie helfen. Sie wurden wie erwachsene behandelt und erhielten mehr Verantwortung umso älter sie wurden.
+
+<darkblue>Bakul : Jugendliche
+Den Jungen wurde beigebracht wie man jagt, während die Mädchen lernten wie man einen Haushalt führt und den Hausschrein pflegt. Auch lernten sie die Haltung und Pflege der Tiere, der Haustiere und der Nutztiere.
+
+NEW_PAGE
+<darkred>Banditen:
+
+<darkblue>K'as Kanan : Banditen Krieger
+Diese Schurken-Mayas haben sich vom Stamm getrennt um allein zu leben. Oft wurden sie aus der Gemeinschaft verbannt weil sie unaussprechliche Dinge getan haben. Diese Mayas sind nicht deine Freunde, halt dich fern.
+
+<darkblue>K'as Aj : Banditen Frauen
+Die sind weibliche Mayas die nicht mir den Dörfern harmonisieren. Sie sind meist sehr leicht zu verärgern. Sie führen nicht die üblichen Aufgaben einer Maya Frau aus, eher suchen sich Streit und Gewalt. Es ist keine Freundlichkeit von diesen Frauen zu erwarten, am besten man kommt ihnen nicht zu nahe.
+
+<darkblue>K'as Mijin : Banditen Kinder
+Die kleinen Gören verbreiten Chaos wo immer sie sind. Diese armen Kinder haben ihre Eltern sehr früh verloren. Ohne elterliche Führung wurden sie zu kleinen Satansbraten. Sie hören auf niemanden und werden schnell wütend. Es ist nicht möglich mit ihnen zu Argumentieren wenn sie aufgebracht sind. Die Götter mögen uns davor beschützen das sie einer Waffe habhaft werden.

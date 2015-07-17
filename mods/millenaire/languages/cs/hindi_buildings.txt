@@ -1,0 +1,48 @@
+playerestate_A0=Sidlo
+forge_A0=Kovarna
+armyforge_A0=Zbrojirna
+scultorhouse_A0=Socharska dilna
+archives_A0=Chramovy archiv
+chiefhouse_A0=Nacelnikuv dum
+chiefhouse_B0=Nacelnikuv dum
+fort_A0=Pevnost
+fort_A_forge_A0=Kovarna pevnosti
+fort_A_soldierhouse_A0=Kasarna
+peasanthouse_A0=Domoroda chyse
+peasanthouse_B0=Domoroda chata
+peasanthouse_C0=Domorody dum
+lumbermanhouse_A0=Drevorubecka bouda
+quarry_A0=Lom 
+quarry_B0=Dul 
+soldierhouse_A0=Straznice
+brickkiln_A0=Cihelna
+grove_A0=Lesik
+paddy_A0=Ryzove pole
+spicegarden_A0=Policko s korenim
+sugarplantation_A0=Plantaz s cukrovou trtinou
+villagetemple_A0=Chram
+palace_A0=Palac
+guesthouse_A0=Penzion
+inn_A0=Hospoda
+largepeasanthouse_A0=Velky dum
+largepeasanthouse_A_secondary_A0=Pristavek velkeho domu
+playerpalace_A0=Hracsky palac
+playerhugefield_A0=Obrovske pole
+playerlargefield_A0=Velke pole
+playersmallfield_A0=Male pole
+playersmallhouse_A0=Domek
+bazaar_A0=Trziste
+tank_A0=Nadrz
+
+//extra buildings:
+well_A0=Studna
+
+//lone buildings:
+adivasifarm_A0=Farma Adivasiu
+adivasifarm_B0=Farma Adivasiu
+deserttradeoutpost_A0=Poustni obchodni post
+ruinedfort_A0=Ruiny pevnosti
+sandblasted_A0=Opusteny obchodni post
+indiandesertedfarm_A0=Znicena Indska farma
+loneshrine_A0=Osamela Indska svatyne
+sadhutree_A0=Strom Sadha

@@ -1,0 +1,22 @@
+{
+    "name": "stonebricktrans",
+    "default-texture": "stonebrick_trans",
+	"texture-info": {
+        // Any sides not defined here will use the defined default texture
+        "front": "stonebrick_trans",
+        "back": "stonebrick_trans",
+        "left": "stonebrick_trans",
+        "right": "stonebrick_trans",
+        "top": "stonebrick",
+        "bottom": "stonebrick_burnt"
+    },
+    "material": "stone",
+    "hardness": 1.5,
+    "type": "block",
+	"drops-self": "false",
+	"drops": [
+		{"item": "minecraft:stonebrick", "amount": "1", "damage": "0"}
+    ],
+	"flammable": "false",
+    "requires-tool": "false"
+}

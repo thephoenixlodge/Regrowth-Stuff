@@ -1,0 +1,40 @@
+version:1.1.4
+Millénaire: Oggetti indiani
+
+Denier. Per motivi inspiegabili da parte degli storici, i villaggi indiani usano il denier come moneta, esattamente come i villaggi normanni. Esistono tre tagli differenti di denier: bronzo, argento che vale 64 denier di bronzo, oro che vale 64 denier d'argento.
+NEW_PAGE
+Alimenti
+
+Riso. Il riso è un alimento di base per gli abitanti del villaggio e può essere acquistato dal giocatore stesso. Di per sé, non ha sapore, e non può essere mangiato dal giocatore. I bambini del villaggio crescono più in fretta se hanno riso in casa.
+
+Curcuma. Questa spezia in polvere è ottenuta dalla macinazione della radice della pianta di curcuma. Si tratta di un ingrediente necessario per il curry. Come per il riso, la sua presenza accelera la crescita dei bambini. 
+
+Curry vegetariano. Preparato combinando una porzione di riso con una porzione di curcuma, questo semplice curry ripristina due cuori.
+
+Pollo crudo. Ottenuto dagli agricoltori che possiedono un recinto per il pollame, la carne di pollo cruda è usata per preparare dello squisito curry. I bambini indiani che ne possiedono in casa crescono più rapidamente. Può essere consumato crudo, ma ripristina solo mezzo cuore.
+
+Curry. Il curry è preparato dalla combinazione di riso, curcuma, e pollo. Questa prelibatezza è in grado di ripristinare ben quattro cuori.
+
+Rasgulla. Questo dolce a base di formaggio fritto e sciroppo dolce viene preparato dalle donne del villaggio utilizzando canna da zucchero. Acquistabile dal giocatore, è in grado di ripristinare un cuore, e può essere immagazzinato fino a uno stack di otto. Può essere mangiato dalle coppie del villaggio, aumentando le probabilità di concepire un figlio. No, non è possibile avere altri dettagli.
+NEW_PAGE
+Costruzione e decorazione
+
+Mattone umido. La prima fase nella produzione di mattoni: i mattoni bagnati sono portati al forno dei mattoni per essere asciugati al sole.
+
+Mattoni di fango. Ottenuti dall'essiccazione al sole dei mattoni umidi, i mattoni di fango sono il materiale di base per i villaggi indiani.
+
+Mattoni cotti. Dopo essere stati cotti in un forno, i mattoni di fango diventano mattoni cotti, più forti e più belli da vedere, con il loro aspetto imbiancato.
+
+Stampo per mattoni. Questo strumento, che può essere comprato dal villaggio, permette la creazione dei mattoni umidi. Usalo su una superficie piana con un blocco di terra e di sabbia nell'inventario.
+
+Statua Hindu. Queste statue di divinità indù sono create dallo scultore per abbellire il tempio del villaggio, e sono vendute a giocatori con raffinato gusto artistico.
+NEW_PAGE
+Pergamene
+
+Abitanti dei villaggi indiani. Una pergamena che descrive le diverse tipologie di abitanti del villaggio indiano, sia quelli che lavorano sia quelli che guardano gli altri lavorare.
+
+Edifici indiani. Un elenco di tutti gli edifici costruibili dagli abitanti dei villaggi indiani, dalla capanna del boscaiolo alla poderosa fortezza del generale Rajput.
+
+Oggetti indiani. Dovresti sapere tutto ormai riguardo gli oggetti indiani.
+
+Pergamena completa sul mondo indiano. Il contenuto delle tre precedenti pergamene in una unica pergamena compatta, per un facile trasporto.

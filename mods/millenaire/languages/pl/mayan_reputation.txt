@@ -1,0 +1,10 @@
+0;Obcy;Nie widzielismy nigdy takiego koloru skory, musimy uwazac.
+4*64;Znajoma twarz;Nasi wojownicy bacznie cie obserwuja.
+16*64;Regularny gosc;$name! Wszystko w porzadku?
+64*64;Ulubiony kupiec;Witaj, $name. Milo widziec... twoje towary.
+2*64*64;Przyjaciel wioski;$name, zaiste pomogles nam w rozwoju naszej kultury.
+8*64*64;Jeden z nas;$name, nasi szamai uznali cie za jednego z nas.
+32*64*64;Naturalny przywodca;Wszyscy Majowie szanuja cie. Pojda za toba wszedzie. 
+-64;Nieznosny;Opusc te ziemie. Nie pozwolimy, by tacy jak ty niszczyli nasza kulture.
+-4*64;Nieprzyjazny obcy;Przynosisz ze soba tylko smrod i chaos.
+-16*64;Wrog publiczny;Zniszczyles nasza kulture. Nie wyjdziesz stad zywy.

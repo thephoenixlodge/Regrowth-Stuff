@@ -1,0 +1,9 @@
+0;Obcy;Strzezemy sie tu obcych, nowoprzybyly. Lecz odnos sie uczciwie do nas, a odnajdziesz tu ludzi goscinnych.
+4*64;Znajoma twarz;Widzielismy Cie tu wczesniej i zadne kurczaki wtedy nie zginely. Oby tak dalej to sie dogadamy.
+16*64;Regularny gosc;Witaj, $name! Dobrze Cie widziec ponownie.
+64*64;Ulubiony handlarz;Aaa, $name! Cala wioska czekala na twoj powrot.
+2*64*64;Przyjaciel wioski;My Normanowie nie jestesmy znani z latwowiernosci, lecz moj dobry przyjacielu $name, Ty naprawde pokazales, ze mozemy Ci ufac!
+8*64*64;Jeden z nas;To jest zawsze przyjemnosc widziec Cie $name. Moze pochodzisz z odleglych krain, lecz teraz jestes prawdziwie jednym z nas.
+-64;Nieznosny;Obserwujemy cie, $name. Strzez sie.
+-4*64;Nielubiany obcy;Okazales sie prawdziwym wrzodem na tylku. Ciesz sie, ze jeszcze cie nie wygnalismy.
+-16*64;Wrog publiczny;Twoja obecnosc tutaj jest ledwo tolerowana. Jeden falszywy ruch i doigrasz.

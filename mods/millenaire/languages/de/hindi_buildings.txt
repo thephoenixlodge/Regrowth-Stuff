@@ -1,0 +1,52 @@
+//English names are generally already present in the building files themselves
+//So this is almost empty
+//Check the French hindi_buiildings file for an example of the format to use
+
+playerestate_A0=Villa
+forge_A0=Schmiede
+armyforge_A0=Armeeschmiede
+scultorhouse_A0=Bildhauerwerkstatt
+archives_A0=Tempelarchiv
+chiefhouse_A0=Anführerhaus
+chiefhouse_B0=Anführerhaus
+fort_A0=Festung
+fort_A_forge_A0=Festungsschmiede
+fort_A_soldierhouse_A0=Barracke
+peasanthouse_A0=Bauernhaus
+peasanthouse_B0=Bauernhaus
+peasanthouse_C0=Bauernhaus
+lumbermanhouse_A0=Holzfällerhütte
+pandithouse_A0=Priesterhaus
+quarry_A0=Steinbruch
+quarry_B0=Steinbruch
+soldierhouse_A0=Soldatenhaus
+brickkiln_A0=Ziegeltrocknerei
+grove_A0=Hain
+paddy_A0=Reisfeld
+spicegarden_A0=Kräutergarten
+sugarplantation_A0=Zuckerrohrplantage
+palace_A0=Palast
+guesthouse_A0=Gasthaus
+inn_A0=Herberge
+largepeasanthouse_A0=Grosses Haus
+largepeasanthouse_A_secondary_A0=Zweites Haus
+playerpalace_A0=Palast
+playerhugefield_A0=Riesiges Grundstück
+playerlargefield_A0=Grosses Grundstück
+playersmallfield_A0=Kleines Grundstück
+playersmallhouse_A0=Kleines Haus
+villagetemple_A0=Dorftempel
+sadhutree_A0=Baum des Sadhu
+bazaar_A0=Basar
+
+//extra buildings:
+well_A0=Brunnen
+
+//lone buildings:
+adivasifarm_A0=Adivasihof
+adivasifarm_B0=Adivasihof
+deserttradeoutpost_A0=Wüstenhandelsposten
+ruinedfort_A0=Zerstörte Festung
+sandblasted_A0=Verschütter Handelsposten
+indiandesertedfarm_A0=Vertrockneter Bauernhof
+loneshrine_A0=Einsamer Hindischrein

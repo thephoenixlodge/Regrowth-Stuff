@@ -1,0 +1,38 @@
+version:1.1.4
+Millénaire: Popis Indianskych osadniku
+
+Vudci osad:
+
+Gaanv ka Mukhiya: Nacelnik osady. Tento bohaty muz zamestnava vetsinu obce a vlastni vetsinu pozemku, proto celi jen nepatrnym problemum pri zvoleni do funkce vudce.
+
+Rajput Senapati: General Rajput. Pochazi z vyznamne linie rodiny Rajput, dohlizi na obranu jeho vesnice a na bezpecnost jeho pevnosti. Pokud se mu dostane dostatek podpory od vesnicanu, stane se z jeho pevnustky mocna pevnost.
+NEW_PAGE
+Zeny:
+
+Mahilaa kisaana: Domorodkyne. Tyto zeny z nizsich trid vykonavaji tezke a nevdecne prace jako poskytovani jidla, obstaravani nastroju, dohlizeni na pole a interakci s hracem. Bez nich by byla obec zcela ochromena.
+
+Malkin: Bohatsi zena. Jejich zlatem vysivane sari se vyrovna jen jejich neochota delat jakoukoliv praci.
+NEW_PAGE
+Muzi:
+
+Kisaana: Domorodec. Tito lide vzdy akorat usilovali o zvyseni poctu svych slepic a nyni jsou nuceni stavet budovy, vyrabet cihly a starat se se svymi zenami o pole.
+
+Lakarhara: Drevorubec. Tito specializovani muzi, s impozantnimi vousy, obhospodaruji lesy kolem obce.
+
+Khanik: Hornik. Tito muzi travi cely den v lomu a usilovne pracuji. Na rozdil od svych Severskych bratri si nemohou doprat navstevu krcmy na konci dne.
+
+Rajput Sainik: Valecnik Rajput. TIto muzi byli vycgovani jako valecnici a jsou trenovani uz od detstvi. Jejich roli je obrana vesnice - a budte opatrni, tuhle praci berou velmi vazne!
+
+Loohaar: Kovar. Jeho profese neni nejprestiznejsi, ale co by delali vesnicane bez jejich nastroju?
+
+Sena ka Loohaar: Valecny kovar. Tito valecni kovari jsou specializovani v kovani zbroji a zbrani; slozita prace, ale daleko lepsi nez vyroba farmarskeho nacini.
+
+Muurtikaar: Sochar. Je obojim, umelcem i remeslnikem a tesi se obrovske ucte, nebot jeho rucne delane sochy zdobi zdejsi chram.
+
+Pandit: Knezi. Zrozeni do rodin Brahmin tito moudri muzi slouzi jako knezi ve vesnici. Jejich nekonecne znalosti hymn Sanskrtu se vyrovnaji nekonecnemu odmitani opravdove prace.
+NEW_PAGE
+Deti:
+
+Larki / Larka: Divka / Chlapec. Ziji se svymi rodici dokud nejsou tak stari aby mohli byt povazovani za dorost.
+
+Kishori / Kishor: Dorost (Z/M). Stale mladi, ale dost stari na to, aby meli vlastni profesi a domacnost, pote, co se prestehuji do sveho vlastniho domu.

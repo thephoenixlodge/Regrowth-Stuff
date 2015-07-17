@@ -1,0 +1,50 @@
+playerestate_A0=저택
+forge_A0=대장간
+armyforge_A0=군사 대장간
+scultorhouse_A0=돌 조각가의 집
+archives_A0=아카이브 사원
+chiefhouse_A0=셰프의 집
+chiefhouse_B0=셰프의 집
+fort_A0=요새
+fort_A_forge_A0=요새 대장간
+fort_A_soldierhouse_A0=바라크
+peasanthouse_A0=농민의 집
+peasanthouse_B0=농민의 집
+peasanthouse_C0=농민의 집
+lumbermanhouse_A0=나무꾼의 집
+quarry_A0=채석장
+quarry_B0=채석장
+soldierhouse_A0=전사의 집
+brickkiln_A0=벽돌 가마
+grove_A0=작은 숲
+paddy_A0=쌀
+spicegarden_A0=향신료 농장
+sugarplantation_A0=사탕수수 농장
+villagetemple_A0=마을 사원
+palace_A0=궁전
+guesthouse_A0=손님의 집
+inn_A0=선술집
+largepeasanthouse_A0=큰 집
+largepeasanthouse_A_secondary_A0=별장
+playerpalace_A0=여행자의 궁전
+playerhugefield_A0=아주 큰 평원
+playerlargefield_A0=큰 평원
+playersmallfield_A0=작은 평원
+playersmallhouse_A0=작은 집
+bazaar_A0=바자르
+tank_A0=우물
+
+//extra buildings:
+well_A0=우물
+
+//lone buildings:
+adivasifarm_A0=원주민의 농장
+adivasifarm_B0=원주민의 농장
+deserttradeoutpost_A0=사막 교환소
+ruinedfort_A0=파괴된 요새
+sandblasted_A0=사막화된 교환소
+indiandesertedfarm_A0=파괴된 인도사람의 농장
+loneshrine_A0=힌두사원
+sadhutree_A0=강물의 나무
+
+gifthouse_a0=기념품 판매소

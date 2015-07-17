@@ -1,0 +1,79 @@
+version:1.1.4
+Millénaire: Normannische Objekte
+
+<darkblue>Denier
+Mittelalterliche Währung die von den Dorfbewohnern benutzt wird. Es gibt sie in 3 Arten: Denier (Kupferdenier), Denier Argent (Silberdenier) welche 64 Kupferdeniers wert ist und Denier Or (Golddenier) welche 64 Deniers Argent wert sind.
+
+<darkblue>Cidre-Apfel
+Dieser ungenießbare Apfel wird von Holzfällern gesammelt und benutzt um daraus Cidre und Calvados zu machen. Er kann vom Spieler gekauft werden, aber nur um ihn andern Dörfern zu verkaufen. 
+NEW_PAGE
+<darkred>Essen & Trinken
+
+<darkblue>Cidre
+Wird von Dorfbewohner aus Cidre-Äpfeln gemacht. Dieses erfrischende Getränk heilt 2 Herzen und man kann 3mal davon trinken.
+
+<darkblue>Calvados
+Dieser Apfelbrandy der Normannen heilt 2 Herzen und man kann 10mal davon trinken. Er wird in der Taverne aus Cidre hergestellt. Außerhalb von Millénaire sollte er nur in kleinen Dosen konsumiert werden, denn er hat einen Alkoholgehalt von 40-45%.
+
+<darkblue>Tripes
+Diese berühmte Normannische Speise ist genau das richtige nach einem langen Tag draußen in der Kälte oder einem blöden Minecraft Sturz. Es heilt 5 Herzen und hat 3 Portionen. Nicht Normannen genießen es bis man ihnen sagt aus was es gemacht wird. Du wurdest gewarnt! In Deutschland kennt man es als Kutteln
+
+<darkblue>Boudin noir
+Fast so gut wie Tripes. Boudin noir heilt 3 Herzen und man kann 3-mal abbeißen. Auch hier wird es mehr gemocht wenn man nicht weiß aus was es gemacht ist. Der deutsche Name Blutwurst, verrät es aber.
+NEW_PAGE
+<darkred>Werkzeuge und Waffen
+
+<darkblue>Normannische Schaufel
+Diese Hochwertige Normannische Schaufel ist so haltbar wir herkömmliche Einschaufeln aber so schnell wie Gold Schaufeln. Das Werkzeug erster Wahl für echte Gräber. Erhältlich bei einer Schmied in deiner Nähe, aber nicht bei OBI.
+
+<darkblue>Normannische Spitzhacke
+Diese Spitzhacke arbeite so schnell wie goldene und ist haltbar wie eine aus Eisen. Perfekt für lange Minenexpeditionen. Aber Achtung, sie baut kein Obsidian ab.
+
+<darkblue>Normannische Axt
+Solide wie Eisen, effektiv wie Gold, liegt sie hervorragend in der Hand eines rasenden Holzfällers.
+
+<darkblue>Normannische Hacke
+Vergleichbar mit der aus Diamant, nur viel cooler.
+
+<darkblue>Normannische Rüstung
+Diese Rüstung ist 50% besser im Schutz als eine aus Diamant. Außerdem sehen sie damit nicht aus wie ein Clown.
+
+<darkblue>Normannisches Breitschwert
+Teuer, sehr teuer, aber du weißt das es jeden Denier wert ist, wenn du damit erst mal deine ersten Schlachten geschlagen hast.
+NEW_PAGE
+<darkred>Konstruktion & Dekoration
+
+<darkblue>Fachwerk
+Dieses Baumaterial besteht aus Holzbalken die einen Kern aus Erde oder Lehmziegel umschließen. Es wird von der Schreiner für die Bedürfnisse des Dorfes hergestellt oder an den Spieler verkauft.
+
+<darkblue>Normannischer Wandteppich
+Handgemacht von der edlen Dame des Forts, dekoriert dieser epische Wandteppich die prächtigsten Bankettsäle. Das Design wurde angelehnt an Wandteppiche aus Bayeux, zeigt er mit einer 15*3 großen Abbildung die Flotte von Wilhelm, dem Eroberer, die nach England segelt.
+NEW_PAGE
+<darkred>Amulette
+
+<darkblue>Amulett von Yggdrasil
+Versehen mit Radierungen von Yggdrasil, dem Weltenbaum der nordischen Mythologie dessen Wurzeln bis zum Grund der Erde und dessen Äste bis zum Himmel reichen, wirst Du mit diesem Amulett immer wissen wie hoch oder tief du bist.
+
+<darkblue>Amulett der Zwerge
+Durch dir Wikinger an die Küsten der Normandie gebracht und geschmiedet in Form von Thor‘s Hammer, wir dir das Amulett der Zwerge den Weg zu den Schätzen der Erde zeigen.
+
+<darkblue>Amulett von Sköll und Rati
+Mit der Macht von Sköll und Rati, den beiden mächtigen Wölfen die Sonne und Mond jagen, kann der Träger dieses Amuletts den Tag zur Nacht und die Nacht zum Tag machen. Aber sei gewarnt, seine Kraft ist nicht unendlich.
+
+<darkblue>Amulett der Raben
+Normannische Priester mögen zwar loyal gegenüber der Kirche und dem Papst im weit entfernten Rom sein, doch haben sie die alten Tradition ihre Wikinger Vorfahren nicht vergessen... Dieses Amulett, das Odin geweiht ist, warnt dich vor nahender Gefahr, es wird Blut rot wen ein Monster in der Nähe ist. Nützlich wenn man Ihnen aus dem Weg gehen - oder sie jagen will.
+
+NEW_PAGE
+<darkred>Pergamente
+
+<darkblue>Normannische Dorfbewohner
+Eine Schriftrolle mit Beschreibungen der verschieden Dorfbewohnern.
+
+<darkblue>Normannische Gebäude
+Eine Schriftrolle mit Beschreibungen der verschieden Gebäude der Normannen.
+
+<darkblue>Normannische Objekte
+Das was du gerade in der Hand hältst.
+
+<darkblue>Die Normannen
+Der Inhalt der drei vorangegangenen, in einem kompakten Design für einfachen Transport.

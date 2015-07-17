@@ -1,0 +1,44 @@
+version:1.1.4
+Millénaire: Construções Hindus
+
+Centros da Aldeia
+
+Mukhiya ka Ghar: Residência do Chefe. Esta habitação de tijolo serve de residência para o chefe e a sua esposa, bem como de centro da aldeia. Os diversos cofres aqui colocados são utilizados para deixar as várias e generosas "contribuições" dos aldeões.
+
+Qila: Forte. Esta pequena torre de tijolo pode ser transformada numa poderosa fortaleza por um general Rajput que aqui viva. Auxilia o controlo da área circundante e a centralização da propriedade dos camponeses.
+
+Mahal: Palácio. Este é o local onde o grandioso rei reside e onde os seus súbditos se deslocam para prestar o seu tributo a ele. O palácio é verdadeiramente uma fantástica obra arquitectónica.
+NEW_PAGE
+Habitações
+
+Kisan ka Ghar: Casa de Camponeses. Uma habitação simples feita de tijolos secos ao sol, esta modesta casa pode ser aumentada para sustentar um curral de galinhas e um terraço como zona de descanso e relaxamento.
+
+Lakarhara ka Ghar: Casa do Lenhador. Construída com madeira do lenhador e actualizada com tijolos cozidos, esta habitação torna-se cada vez mais elegante com o tempo.
+
+Sikaar: Pedreira. Um simples buraco excavado até à pedra mais dura. É daqui que o mineiro extrai a pedra e o arenito de que a aldeia tanto necessita.
+
+Bhati: Forja. As ferramentas do dia-a-dia utilizadas pelos aldeões são fabricadas aqui pelo ferreiro; a sua bigorna está tão próxima do seu coração como a sua esposa.
+
+Sena ka Bhati: Forja Militar. Esta forja, construída com arenito, armazena lâminas, armaduras e o ferreiro que as forjou.
+
+Muurtikaar ka Ghar: Casa do Escultor. Esta pequena habitação tem uma oficina anexada na qual o escultor transforma a pedra e o arenito em estátuas para os deuses Hindus.
+
+Sainik ka Ghar: Casa do Soldado. Feita a partir de pedra sólida, esta casa rústica hospeda um feroz guerreiro Rajput e a sua esposa.
+
+Pandit ka Ghar: Casa do Sacerdote. Esta bela habitação, muito mais elaborada do que as dos camponeses, serve de residência para o sacerdote e a sua esposa, cada qual mais ocioso que o outro.
+NEW_PAGE
+Construções Inabitadas
+
+Inta Bhatta: Forno de Tijolos. Esta construção é essencial para qualquer aldeia Hindu. Aqui, os tijolos são preparados, primeiro deixando-os a secar ao sol e depois, após receber um forno, cozinhando-os no fogo.
+
+Kunja: Bosque. Estes arvoredos cuidadosamente mantidos pelo lenhador servem de fonte principal de madeira para a aldeia. O solo rico em nutrientes e os cuidados habilidosos dos lenhadores ajudam a fazer com que estas árvores cresçam muito mais depressa.
+
+Puraalekhagar: Arquivo do Templo. É aqui que o sacerdote e a sua esposa guardam todas as fofoquices e informações secretas sobre os outros aldeões.
+
+Dhaan: Arrozal. Arroz, um produto essencial - existirá alguma gastronomia de valor que não o utilize?
+
+Masaalaa Udyaana: Jardim de Especiarias. Aqui, o açafrão-da-Índia cresce facilmente com os cuidados das camponesas - e ainda bem que assim o é, caso contrário a comida da aldeia seria bastante insípida sem a ajuda desta especiaria!
+
+Gannaa Baagaana: Plantação de Cana. É impossível fazer boas rasgullās sem utilizar açúcar, e não há melhor expressão de afecto entre os aldeões do que uma boa rasgullās. Aqui produz-se a cana do açúcar necessária para esta deliciosa sobremesa Hindu.
+
+Gaanv ka Mandir: Templo. Este majestoso edifício é um testemunho da fé e da religião dos aldeões, ou talvez até da influência que o sacerdote tem sobre eles. O templo terminado é ornamentado por três estátuas esculpidas pelo escultor da aldeia.

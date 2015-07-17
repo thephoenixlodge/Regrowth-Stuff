@@ -1,0 +1,10 @@
+0;Vreemdeling;Wij zijn wantrouwig tegenover vreemden hier in de buurt, nieuwkomer. Maar onderhandel eerlijk met ons en je zult gastvrij behandeld worden.
+4*64;Bekend gezicht;Wij hebben jou eerder gezien, en er zijn geen kippen kwijtgeraakt. Ga zo door en dan kunnen we goed met elkaar overweg.
+16*64;Vaste bezoeker;Welkom, $name! Het is leuk je weer te zien.
+64*64;Favoriete handelaar;Ah, $name! Het dorp was aan het wachten op uw terugkomst.
+2*64*64;Vriend van het dorp;Wij Normandiërs staan niet bekend om het makkelijk vertrouwen van mensen, maar mijn goede vriend $name, U heeft laten zien dat wij u kunnen vertrouwen!
+8*64*64;Een van ons;Het is altijd een eer u te zien $name. U komt misschien uit een ver land, maar U bent nu echt een van ons.
+32*64*64;Natuurlijke leider;$name, je hebt het vertrouwen en respect van de Normandiërs gewonnen. Ze zullen je overal volgen.
+-64;Overlast;We houden een oogje op je, $name. Wees op je hoede.
+-4*64;Onaangename buitenstaander;Jij hebt heel wat overlast veroorzaakt hier. Wees blij dat wij jou er nog niet uitgetrapt hebben.
+-16*64;Volksvijand;Jou aanwezigheid is amper getolereerd. Een verkeerde stap en je bent er geweest.

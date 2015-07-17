@@ -1,0 +1,10 @@
+Vertalingsinstructies
+
+Ik zoek altijd naar meer vertalingen van Millénaire, als je wilt meedoen zijn hier de basisinstructies:
+- Eerst: vertel me dat je aan het vertalen bent op het forum thread of via PM omdat anderen aan hetzelfde bezig zouden kunnen zijn.
+- Kopieer een bestaande folder vertalingen en hernoem hem naar jouw taal
+- Open de files met een goede texteditor moet de juiste encoding support en dus absoluut GEEN kladblok van Windows. Goede editors zijn bijv. TextWrangler voor Mac en PSPad, NotePad++ en UltraEdit voor Windows
+- Vertaal alle tekst in de file naar jouw taal, behalve de eerste helft van elke zin die in de standaardtaal van het volk moeten blijve (voor de Noormannen Frans en voor de Indiers etc.)
+- zorg ervoor dat je alles opslaat in UTF-8 codering
+- je kunt een rapport genereren over hoe compleet jouw taal is door "generate_translation_gap" op true te zetten in de config file en het spel te spelen, dit kan handig zijn om te zoeken naar nieuwe strings in nieuwe updates.
+- stuur het naar mij, en bedankt.

@@ -2,65 +2,79 @@
     "crackedSand": {
         "template": "uniform",
         "block": "ExtrabiomesXL:terrain_blocks2",
-		"material": "minecraft:grass",
+		"material": ["minecraft:grass", "minecraft:dirt"],
+		"chunkChance": 1,
         "clusterSize": 1,
-        "numClusters": 50000,
-        "minHeight": 60,
-        "maxHeight": 90,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1,
-			-37,
-			-38
-        ]
-    },
-	"dreamgrass": {
-        "template": "uniform",
-        "material": "ExtrabiomesXL:terrain_blocks2",
-		"block": "minecraft:grass",
-        "clusterSize": 16,
-        "numClusters": 200,
-        "minHeight": 60,
-        "maxHeight": 75,
+        "numClusters": 70000,
+		"minHeight": 58,
+		"maxHeight": 90,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            -37,
-			-38
+            0
         ]
     },
-	"crackedSand1": {
+	"crackedSandHigh": {
         "template": "uniform",
         "block": "ExtrabiomesXL:terrain_blocks2",
-		"material": "minecraft:dirt",
+		"material": ["minecraft:grass", "minecraft:dirt"],
+		"chunkChance": 1,
         "clusterSize": 1,
-        "numClusters": 35000,
-        "minHeight": 58,
-        "maxHeight": 90,
+        "numClusters": 85000,
+		"minHeight": 70,
+		"maxHeight": 140,
         "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{
+				"type": "name",
+				"entry": [
+					"Mountainous Wasteland",
+					"Hilly Wasteland",
+					"Ocean"
+				]
+			}
+		],
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1,
-			-37,
-			-38
+            0
         ]
     },
-	"redSand": {
+	"redSandUnderwater": {
         "template": "uniform",
         "block": {"name": "minecraft:sand", "metadata": 1},
 		"material": "minecraft:sand",
         "clusterSize": 1,
         "numClusters": 85000,
-        "minHeight": 30,
+        "minHeight": 41,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{
+				"type": "name",
+				"entry": [
+					"Ocean",
+					"Beach",
+					"Mountainous Wasteland"
+				]
+			}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"redSandSurface": {
+        "template": "uniform",
+        "block": {"name": "minecraft:sand", "metadata": 1},
+		"material": "minecraft:sand",
+        "clusterSize": 10,
+        "numClusters": 4000,
+        "minHeight": 60,
         "maxHeight": 70,
         "retrogen": "true",
         "biomeRestriction": "none",
@@ -75,7 +89,7 @@
         "template": "uniform",
         "block": {"name": "minecraft:sand", "metadata": 1},
 		"material": "minecraft:stone",
-        "clusterSize": 48,
+        "clusterSize": 16,
         "numClusters": 10,
         "minHeight": 0,
         "maxHeight": 70,
@@ -88,21 +102,42 @@
             1
         ]
     },
-	"deadGrass": {
-        "template": "uniform",
-        "block": { "name" : "ExtrabiomesXL:grass", "metadata" : 1},
-		"material": { "name" : "minecraft:tallgrass", "metadata" : 1},
-        "clusterSize": 0,
-        "numClusters": 100000,
-        "minHeight": 60,
-        "maxHeight": 80,
+	"deadgrass": {
+		"template": {
+			"type": "decoration", 
+			"generator": "decoration",
+			"genSurface": "ExtrabiomesXL:terrain_blocks2",
+			"genSky": "true",
+			"checkStay": "false",
+			"stackHeight": 1,
+			"xVariance": 8,
+			"zVariance": 8,
+			"yVariance": 4
+		},
+		"block": [
+			{"name": "ExtrabiomesXL:grass", "metadata": 4, "weight": 10},
+			{"name": "ExtrabiomesXL:grass", "metadata": 3, "weight": 10},
+			{"name": "ExtrabiomesXL:grass", "metadata": 2, "weight": 10}
+		],
+		"clusterSize": 12,
+		"numClusters": 30,
         "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
+        "biomeRestriction": "whitelist",
+        "biomes": [
+			{
+				"type": "name",
+				"entry": [
+					"Ocean",
+					"Beach",
+					"Mountainous Wasteland",
+					"Hilly Wasteland"
+				]
+			}
+		],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
             1
         ]
-    }
+	}
 }

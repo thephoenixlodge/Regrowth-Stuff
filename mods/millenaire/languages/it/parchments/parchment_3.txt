@@ -1,0 +1,55 @@
+version:1.1.4
+Millénaire: Oggetti normanni
+
+Denier. Moneta medioevale utilizzata dagli abitanti del villaggio. Disponibile in tre differenti tagli: normale, argent (d'argento) che vale 64 monete normali, e or (oro) del valore di 64 monete d'argento.
+
+Mela per il sidro. Questa mela non commestibile è raccolta dal boscaiolo e viene usata per fare il sidro e il calvados. Può essere acquistata dal giocatore, ma l'unico utilizzo è quello di venderla ad altri villaggi.
+NEW_PAGE
+Oggetti alimentari
+
+Sidro. Prodotto dagli abitanti del villaggio dalle mele per il sidro, questa bevanda rinfrescante guarisce due cuori e può essere utilizzata tre volte.
+
+Calvados. Questa acquavite di mele della Normandia guarisce due cuori e può essere utilizzata dieci volte. Viene prodotto dal sidro nella taverna, e al di fuori di Millénaire si consiglia di assumerlo in piccole dosi: è molto alcolico, circa 40-45 gradi.
+
+Trippa. Questo famoso piatto normanno è la cosa giusta da avere dopo tanto tempo passato a lavorare fuori al freddo, o dopo un brutto errore in Minecraft. Guarisce cinque cuori e può essere utilizzata tre volte. I non normanni tendono ad amare tale piatto molto di più prima che gli si racconti di cosa è fatto. Sei avvisato.
+
+Boudin noir. Buono quasi quanto la trippa, il boudin noir guarisce tre cuori e può essere usato tre volte. Come il suo cugino, il pudding nero inglese, tende ad essere goduto di più da persone che non sanno di cosa è fatto.
+NEW_PAGE
+Strumenti e armi
+
+Pala normanna. Questa pala normanna di alta qualità ha la stessa resistenza della pala di ferro, ma è veloce quanto quella d'oro. Lo strumento preferito per gli scavatori professionali è disponibile nella prima fucina vicino a te.
+
+Piccone normanno. Questo piccone scava veloce quanto quello d'oro, ma è resistente quanto quello di ferro. Perfetto per quelle lunghe spedizioni minerarie! Attenzione però, non riesce a scalfire l'ossidiana.
+
+Ascia normanna. Veloce quanto quella d'oro, resistente quanto quella di ferro, è anche formidabile nell'attacco. Specialmente nelle mani di un boscaiolo arrabbiato.
+
+Zappa normanna. Di fatto equivalente a quella di diamante, ma più bella da vedere.
+
+Armatura normanna. L'armatura normanna fornisce un 50% di protezione aggiuntiva rispetto a quella di diamante, e rende inoltre il tuo aspetto minaccioso invece di sembrare vestito per una festa in maschera.
+
+Spadone normanno. Costoso, molto costoso, ma vale ogni singolo denier speso quando si affronta un nemico tosto.
+NEW_PAGE
+Costruzione e decorazione
+Strutture in legno. Questo materiale da costruzione è costituito da travi di legno scuro che circondano un nucleo di terra o mattoni crudi. Realizzato dal carpentiere per costruire gli edifici del villaggio o per il commercio con il giocatore.
+
+Arazzi normanni. Fatti a mano dalla dama del forte in persona, questi epici arazzi decoreranno le sale banchetto più sontuose. I disegni sono tratti dagli arazzi di Bayeux: il più grande è un'immensa raffigurazione delle dimensioni di 15*3, avente per oggetto la flotta di Guglielmo il Conquistatore che salpa per l'Inghilterra.
+NEW_PAGE
+Amuleti
+
+Amuleto di Yggrasil. Inciso con Yggrasil, l'Albero del Mondo nella mitologia dei paesi nordici, le cui radici raggiungono le profondità della terra e i cui rami toccano la punta del cielo, questo amuleto farà in modo di dirti sempre quanto in alto o quanto in profondità ti trovi.
+
+Amuleto del Corvo. I sacerdoti normanni potranno anche essere fedeli alla Chiesa e al Papa della lontana Roma, ma non hanno dimenticato le antiche tradizioni vichinghe...Questo amuleto dedicato a Odino ti avviserà del pericolo in arrivo diventando di colore rosso sangue se una immonda creatura è nelle prossimità. Utile per evitarle - o per cacciarle.
+
+Amuleto dei Nani. Portato sulle sponde normanne dai vichinghi e realizzato a forma di martello di Thor, l'Amuleto dei Nani vi guiderà verso le indescrivibili ricchezze della Terra.
+
+Amuleto di Sköll e Rati. Traendo il suo potere da Sköll e Rati, i grandi lupi che inseguono il Sole e la Luna, questo amuleto permette a chi lo indossa di trasformare il giorno in notte e la notte in giorno. Ma sei avvertito: il suo potere non è infinito.
+NEW_PAGE
+Pergamene
+
+Abitanti dei villaggi normanni. Una pergamena che delinea i vari tipi di abitanti che ti uccideranno se ne tocchi anche solo uno.
+
+Costruzioni normanne. Una descrizione delle differenti costruzioni che puoi vedere eseguite dagli abitanti dei villaggi.
+
+Oggetti normanni. Dovresti sapere di cosa tratta, ormai.
+
+Pergamena completa sul mondo normanno. Il contenuto delle altre tre pergamene in una sola pergamena per un facile trasporto.

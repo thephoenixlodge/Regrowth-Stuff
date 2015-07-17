@@ -1,0 +1,38 @@
+version:1.1.4
+Millénaire: Hinduscy mieszkancy
+
+Przywodcy wioski
+
+Gaanv ka Mukhiya: Szef wioski. Ten bogaty czlowiek zatrudnia wiekszosc wioski i posiada wiekszosc ziem. Przy okazji stawia czola niewielkim trudnosciom, by byc "wybranym" na przywodce.
+
+Rajput Senapati: Rajpucki general. Z wyroznionej linii rodzinnej Rajputow, nadzoruje obrone swojej wioski z bezpiecznego fortu. Jesli uda mu sie uzyskac wystarczajaco duzo z pracy wiesniakow jego fort stanie sie potezna forteca.
+NEW_PAGE
+Kobieta
+
+Mahilaa kisaana: Chlopka. Te kobiety niskiej klasy wykonuje trudne i niewdzieczne zadania jak dogladanie pola, dostarczanie jedzenia i narzedzi oraz interakcje z graczem. Bez nich wioska by sie zatrzymala.
+
+Malkin: Bogata Pani. Ich zloto haftowane saris (suknie) mozna rownac jedynie z ich niechecia do jakiejkolwiek pracy.
+NEW_PAGE
+Mezczyzna
+
+Kisaana: Chlop. Ci biedni mezczyzni aspiruja by ktoregos dnia chowac swoje wlasne kurczaki, ale teraz sa zmuszani by budowac budynki, produkowac cegly dla wioski i dogladac pol razem ze swoimi zonami.
+
+Lakarhara: Drwal. Ci oddani mezczyzni, z ich okazalymi brodami, dogladaja rozwoju wioski.
+
+Khanik: Gornik. Ci mezczyzni spedzaja swoj dzien w kamieniolomie, wykonujac karkolomna prace. W przeciwienstwie do ich Normanskich braci nie maja nawet komfortu wizyty w karczmie na koniec dnia.
+
+Rajput Sainik: Rajpucki zolnierz. Ci mezczyzni zostali wychowani na wojskowych i byli szkoleni do walki od dziecka. Ich rola jest obrona wioski - i lepiej uwazaj, podchodza do tego powaznie.
+
+Loohaar: Kowal. Ich profesja moze nie jest najbardziej prestizowa, lecz co by zrobili wiesniacy bez swoich narzedzi?
+
+Sena ka Loohaar: Wosjkowy kowal. Ci wojskowi kowale sa wyspecjalizowani w wykuwaniu broni i zbroi; trudna praca, ale bardziej oplacalna niz robienie sprzetu farmerskiego.
+
+Muurtikaar: Rzezbiarz. Zarowno artysta i rzemieslnik, maja wielki honor tworzenia posagow, ktore przystroja swiatynie.
+
+Pandit: Ksieza. Urodzony w rodzinach Brahmin, ci medrcy sluza jako ksieza w swych wioskach. Ich nieskonczona wiedza o Sanskryckich hymnach rowna sie z ich nieskonczona odmowa faktycznej pracy.
+NEW_PAGE
+Dziecko
+
+Larki / Larka: Dziewczyna / Chlopiec. zyja ze swoimi rodzicami az beda wystarczajaco dojrzali by byc uznanymi za mlodziez.
+
+Kishori / Kishor: Mlodziez (F/M). Ciagle mlodzi, ale dojrzali na tyle by miec swoj zawod i gospodarstwo domowe jak tylko wprowadza sie do wlasnego domu.

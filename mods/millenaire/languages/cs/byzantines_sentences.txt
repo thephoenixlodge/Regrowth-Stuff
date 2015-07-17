@@ -1,0 +1,57 @@
+villager.greeting=Xaire, $name! / Ahoj, $name!
+villager.greeting=Omorfi mera, etsi den einai? / Je krasny den, co?
+villager.greeting=Tha brochi. Syntoma.  / Bude prset. A to brzo.
+villager.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ Zadne mesto se nemuze rovnat Konstantinopoli.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / Nejsme rekove, jsme Rimani!
+villager.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / Jsme posledni pravi Rimane. Vyhrivej se v paprscich nasi civilizace.
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Myslim, ze si pujdu hrat ven.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Citim se unavene. Myslim, ze pujdu spat.
+villager.makeBread=To psomi einai aedae myrodia kalo. / Tento chleb voni opravdu skvele...
+villager.gorest=Nomizo oti tha pao gia Hypno. / Pujdu si odpocinout.
+villager.BecomeAdult=Telos tha ginei mia romaiki politi! / Konecne jsem se stal obcanem!
+villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / Rimska rise byla napadena! Do zbrane!
+
+
+artisan_byzantine.construction=Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / Stavim uzasne propracovane budovy, jsem asi umelec.
+artisan_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / Nasi architekturu nelze srovnavat s jinou.
+artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / Muz zivot je mnohem lepsi nez zivot jinych.
+artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / Rimske umeni je nejpokrocilejsi na celem svete.
+
+
+wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / Nasim ukolem je vest nase muze.
+wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / Jako zena nemate moc moznosti...
+wife_byzantine.getGoodsHousehold=Ora na noiazontai gia to noikokyrio. / Cas postarat se o domacnost.
+wife_byzantine.DeliverGoodsHousehold=Tetoia pragmata opos afto einai ta mona pragmata pou boro na kano edo. / Noseni veci je jedine co tu muzu delat.
+wife_byzantine.GetHouseTHResources=Telos o syzygos mou echei paradothei porous tou, opos tou eipa. / Muj manzel konecne dorucil veci o ktere sem ho pozadala.
+wife_byzantine.cooking=Ae kouzina tou einai pragmatika diaskedastiko. / Vareni je zabava.
+
+miner_byzantine.Mining=Se afti tin dynami kai tin antochi douleia einai aparaititi. Omos, kaneis edo den echei syneiditopoiaesei pote... / Pro tuto praci je potreba sila a vydrz. Ale toho si nikdo nevsima...
+miner_byzantine.Mining=Eimai perifanos pou Romaiki kai ergazontai gia afto to Empire doxa , akoma kai se afto to dyskolo ergo. / Jsem hrdy Rimsky obcan pracujici pro slavnou Risi i kdyz to je nekdy tezka prace.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / Moje knihy jsou jedny z nejlepsich rukopisu v okoli.
+
+lumberman_byzantine.BringBackResourcesHome=Ae gynaikos mou prepei na einai perifanoi giati ola ta xyla pou echo pira . / Ma zena na me musi byt hrda, za to vsechno drevo.
+lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / Kazda budova potrebuje drevo a moji praci je ziskat ho!
+lumberman_byzantine.GatherGoods=Nikaia dendryllio ekei. / Pekny stromecek.
+lumberman_byzantine.PlantSaplings=Syntoma auto tha einai ana megalo, epivlitiko dentro ! Kai tha to meiosoun.  / Brzy to bude velky a uctyhodny strom. Pak ho pokacim.
+
+keeperBirch_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Jak si muze nekdo myslet, ze by tu mel byt nekdo vyvesen...
+keeperBirch_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Tady je takova nuda...
+keeperBirch_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Vitej cestovateli, zajimalo by me jak si skoncil na takto vzdalenem miste.
+
+
+keeperOak_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Jak si muze nekdo myslet, ze by tu mel byt nekdo vyvesen...
+keeperOak_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Tady je takova nuda...
+keeperOak_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Vitej cestovateli, zajimalo by me jak si skoncil na takto vzdalenem miste.
+keeperOak_byzantine.greeting=Aftoi oi anthropoi edo, lene eafto tou 'Normans', mou thymizoun ti doxa tis aftokratorias mas. / Lide nazyvajici se Normane mi pripominaji slavu nasi Rise.
+
+keeperPine_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Jak si muze nekdo myslet, ze by tu mel byt nekdo vyvesen...
+keeperPine_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Tady je takova nuda...
+keeperPine_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Vitej cestovateli, zajimalo by me jak si skoncil na takto vzdalenem miste.
+keeperPine_byzantine.greeting=Afto to kryo einai fovero. Den yparchei amfivolia den boro na vro tous anthropous edo... / Ta zima je hrozna, neni divu, ze sem nikdo nechodi.
+
+keeperTropical_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Jak si muze nekdo myslet, ze by tu mel byt nekdo vyvesen...
+keeperTropical_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Tady je takova nuda...
+keeperTropical_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Vitej cestovateli, zajimalo by me jak si skoncil na takto vzdalenem miste.
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den boro na katalavo giati aftoi 'Hindi' zoun se afti ti gi. / Tady je takove vedro. Nechapu jak tady ti Indove muzou zit.
+keeperTropical_byzantine.greeting=Echete dei pote aftes tis perierges 'Maya' ? Ktirion tous moiazoun san na borouse na katarrefsei kathe defterolepto. / Videl si nekdy ty podivne Maye? Jejich budovy vypadaji, ze se kazdou chvili zriti.

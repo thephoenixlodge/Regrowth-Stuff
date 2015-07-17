@@ -1,0 +1,50 @@
+version:1.1.4
+Millénaire Gebouwen
+
+Fort. In military dorpen vervangt dit kleine houten fort het gemeentehuis. Een ridder en zijn vrouw wonen hier. Met genoeg toegang tot steen zullen de dorpelingen het in een machtig kasteel veranderen.
+
+Abbaye : Abdij. Ecclesiastic dorpen zijn gebouwd rond dit gebouw van intelligentie en toewijding, waar een monnik onvermoeibaar manuscripten maakt, opgeslagen in nette boekenkasten. Het is immers daar waar de lokale boeren betalen voor hun recht - met goederen en gratis voor de heilige kerk. Het wordt allemaal terugbetaald in de volgende wereld.
+
+Manoir : Herenhuis. In het midden van agricultural dorpen in deze villa woont een seneschal. Hij zorgt ervoor dat de dorpelingen hun belasting betalen aan de koning en aan hem.
+
+Hall de la Guilde : Gildehuis. Een ode aan het vakmanschap van de makers, dit gilde huis is het hoofdkwartier van lokale vakmannen onder de strenge Gildemeester.
+
+Archives du village : Dorpsarchief. Plaatst een bord voor elke dorpeling met informatie over wat ze aan het doen zijn en met familiegeschiedenis.
+
+Armurerie : Arsenaal. Als er een smid in woont is dit het productiecentrum voor pantsers en zwaarden.
+
+Boulangerie : Bakkerij. Gebruikt door de vrouwen om van graan brood te maken. Belangrijk gebouw omdat de aanwezigheid van brood de snelheid waarmee kinderen groeien flink verhoogt.
+
+Elevage Bovin : Veeboerderij. Hier worden koeien gehouden voor hun leer en om vullende Normandische pens te maken.
+
+Elevage Porcin : Varkensboerderij. Hier worden varkens veranderd in grote hoeveelheden porkchop en bloedworst.
+
+Elevage Ovin : Schapenboerderij. Schapen die hier worden gehouden zorgen voor wol. In een kleiner omheind gebied worden kippen gehouden voor hun veren en eieren.
+
+Chapelle / Eglise : Kerk / Kapel. De kerk, later verbeterd naar een kapel, wordt bezocht door mensen die het nodig vinden om te bidden.
+
+Ferme : Boerderij. Een graanboerderij waar een boer graan produceert voor de bakkerij.
+
+Forge :  Smederij. Als er een smid in woont is dit het productiecentrom voor Normandische gereedschappen, die kunnen worden gebruikt door andere dorpelingen en gekocht kunnen worden door de speler.
+
+Maison du garde : Bewakershuis. Hier wonen een bewaker en zijn vrouw.
+
+Hutte du bûcheron :  Houthakkershut. Hier wonen een houthakker en zijn vrouw.
+
+Prestitère : Pastorie. Hier woont een priester.
+
+Carrière : Groeve. Hier wonen een mijnwerker en zijn vrouw, en van hier graaft hij schijnbaar oneindige voorraden steen en zand op.
+
+Maison du charpentier : Timmermanshuis. Hier wonen een timmerman en zijn vrouw.
+
+Taverne : Taveerne. Vrouwen komen hier om cider, en later na een verbetering calva te produceren. Hier komen ook dorpelingen wat drinken.
+
+Auberge : Herberg. Bezoekende handelaren logeren hier terwijl ze goederen uit het dorp verzamelen. Als hij leeg is kan een mannelijke tiener er komen wonden en een handelaar worden.
+
+Relais : Pension. Kleiner dan een herberg, hier kan een bezoekende handelaar verblijven maar er zal geen tiener gaan wonen.
+
+Marché : Markt. Elk fatsoenlijk dorp zal uiteindelijk een plek willen waar buitenlandse handelaren hun exotische waren kunnen verkopen.
+
+Tour de guet : Uitkijktoren. Een uitkijkpost die wordt bezocht door de bewaker terwijl hij patrouilleert.
+
+Fontaine / Grande Fontaine: Fontein / Grote fontein. Puur decoratieve gebouwen.

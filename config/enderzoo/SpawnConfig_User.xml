@@ -30,14 +30,25 @@
     </biomeFilter>
   </entry>
   
-  <entry id="DireWolf1" mobName="enderzoo.DireWolf" rate="30" minGroupSize="2" maxGroupSize="6">
-    <biomeFilter type="all">
+  <entry id="DireWolf1" mobName="enderzoo.DireWolf" rate="0" minGroupSize="2" maxGroupSize="6">
+    <biomeFilter type="any">
       <biome type="BASE_LAND_TYPES" />
 	  <biome type="OCEAN" />
 	  <biome type="BEACH" />
       <biome type="NETHER" exclude="true" />
       <biome type="END" exclude="true" />
     </biomeFilter>
+  </entry>
+  
+  <entry id="ConcussionCreeper" mobName="enderzoo.ConcussionCreeper" creatureType="monster" rate="40"
+    minGroupSize="1" maxGroupSize="3" remove="false">
+    <biomeFilter type="any">
+      <biome type="BASE_LAND_TYPES" />
+      <biome type="NETHER" exclude="true" />
+      <biome type="END" exclude="true" />
+      <biome type="MUSHROOM" exclude="true" />
+    </biomeFilter>   
+    <dimensionExclude id="-42"/>
   </entry>
 
 

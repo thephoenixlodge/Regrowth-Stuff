@@ -1,0 +1,54 @@
+version:4.8.0
+Millénaire: Construções Japonesas
+
+Centros da Aldeia
+
+Shuudannoujou: Fazenda. O centro de uma aldeia agrícola onde o chefe agricultor e a sua esposa vivem. Os aldeões trazem as colheitas, a madeira e a pedra para a fazenda.
+
+Bousai: Castelo. Este edifício é onde reside o samurai e a sua esposa e pode ser melhorado e transformado numa fortaleza impressionante, rodeada de muralhas e de torres de vigia.
+
+Kumonjo: Palácio Imperial. Os Japoneses construíam sedes imperiais enormes onde centravam as suas aldeias. O imperador e a sua esposa residem aqui, vigiando a sua aldeia de dia e de noite. Todos os projectos de construção são criados aqui, bem como outras propostas e planos adicionais.
+
+Tsukurizakaya: Fábrica de Saqué. Este edifício complexo é dedicado à produção do famoso saqué a partir do arroz. O chefe cervejeiro e a sua esposa trabalham aqui, e em redor da fábrica desenvolve-se uma aldeia comerciante.
+
+NEW_PAGE
+Habitações
+
+Shoko: Arquivo. Esta construção contém toda a informação sobre os aldeões na aldeia.
+
+Tansetsu: Forja Militar. Esta forja contém todos os recursos necessários para produzir armas e armaduras militares Japonesas. Aqui é possível forjar espadas Tachi e os letais arcos Yumi, bem como uma vasta variedade de armaduras Japonesas. Necessitam, no entanto, de um ferreiro-mestre para forjar as ferramentas e de uma mulher para as vender.
+
+Tansetsu: Forja. É aqui que são fabricadas e vendidas as ferramentas de ferro. O ferreiro produz as ferramentas necessárias para acelerar todas as outras tarefas. O jogador pode também adquirir essas ferramentas aqui.
+
+Shugi Ie: Oficina. Produz e vende papel feito a partir do arroz e produz os painéis decorativos de papel de arroz e as armações de madeira utilizados na construção.
+
+Tsuribori / Gyogyo: Lago de Pesca / Lota. Os pescadores passam as horas aqui a pescar o peixe para a aldeia.
+
+Kodachi: Plantação. Os lenhadores Japoneses cortam aqui as árvores para obter madeira.
+
+Shijin: Albergaria. É aqui que os comerciantes se deslocam para descansar depois de uma jornada vinda doutra cidade, carregados de bens.
+
+Daidokoro: Cozinha Comunitária. É aqui que se produz a comida e o Udon. Vende-se também galinha e peixe.
+
+Kikori Koya: Casa do Lenhador. É nesta casa que residem o lenhador e a sua esposa. Ele serra a madeira, trá-la para casa e a esposa entrega-a no centro da aldeia.
+
+Bourou: Torre de Vigia. Esta torre é mais decorativa do que utilitária, e é construída geralmente nos limites das aldeias. O seu principal propósito é garantir aos guardas um ponto vantajoso para poder vigiar os inimigos que possam invadir a aldeia.
+
+Suiden: Arrozal. Os aldeões plantam aqui o arroz para a aldeia. Este é cultivado pelos camponeses e pelas mulheres, que por sua vez levam-no para o centro da aldeia, onde pode ser adquirido pelo jogador.
+
+Buttou: Pagode. É para este edifício que os aldeões se deslocam para rezar, e onde o monge vive.
+
+Noufu Ie: Casa de Camponeses. Esta é a habitação onde os camponeses e as suas esposas residem.
+
+Saisekijou: Pedreira. É aqui que o mineiro e a sua esposa vivem, e de onde é recolhida a pedra para ser entregue no centro da aldeia.
+
+Heisha: Casa do Guerreiro. Nesta habitação reside um guerreiro ou um guarda junto com a sua esposa.
+
+Noujou Nojo: Plantação de Trigo. É aqui que o agricultor e a sua esposa vivem, e onde produzirão e recolherão o trigo para a aldeia.
+
+NEW_PAGE
+Construções Decorativas
+
+Ike: Charco. Uma construção decorativa que dá um ar apelativo à aldeia.
+
+Soushi: Santuário Xintoísta. Este pequeno santuário é utilizado pelos aldeões para as suas orações.

@@ -1,0 +1,58 @@
+version:1.1.4
+Millénaire: Popis Severskych budov
+
+Centra vesnic:
+
+Fortin : Pevnost. Ve vojenskych vesnicich tato mala drevena pevnost nahrazuje radnici. Rytir zde zije se svou pani. S dostatkem pristupu ke kameni ji vesnicane promeni v mohutnou pevnost.
+
+Abbaye : Opatsvi. Cirkevni obce jsou sostredeny kolem tohoto mista zboznosti a ucenosti, kde mnich neunavne vyrabi rukopisy, ktere uklada do knihovny. Presto sem chodi mistni obcane platit - zbozim a praci pro svaty kostel. Vse jim bude splaceno v pristim zivote.
+
+Manoir : Panstvi. V centru zemedelskych vesnic lezi pansky dum spravce, ktery se ujistuje, ze obcane zaplati dane krali - a jemu samotnemu.
+
+Hall de la Guilde : Cechovni dum. Jako dukaz dovednosti remeslniku, kteri jej postavili, slouzi tento dum jako centrala pro mistni remeslniky pod zastitou cechmistra.
+NEW_PAGE
+Obydli:
+
+Armurerie : Zbrojnice. Pokud je obyvana kovarem, slouzi jako produkcni centrum na vyrobu zbrani a zbroji.
+
+Elevage Bovin : Dobytci farma. V teto budove se chovaji kravy, ze kterych se shromazduji kozky a vyrabi drstky.
+
+Elevage Porcin : Praseci farma. Zde se prasata promenuji na velike hromady veprovych kotlet a chutnych klobas.
+
+Elevage Ovin : Ovci farma. Zde chovane ovce poskytuji vlnu. Mensi oploceny areal obyvaji slepice, ktere jsou chovany pro peri a vejce.
+
+Ferme : Farma. Psenicna farma poskytuje psenici potrebnou v pekarnach.
+
+Forge :  Kovarna. Pokud je osidlena kovarem, slouzi jako produkcni centrum na vyrobu severskych nastroju, pouzivanych vesnicany, nebo jsou nabidnuty ke koupi hraci.
+
+Maison du garde : Dum strazce. Slouzi jako skromny pribytek strazci a jeho zene.
+
+Hutte du bûcheron : Drevorubecka bouda. Slouzi jako skromny pribytek drevorubci a jeho zene.
+
+Prestitère : Presbytar je mistem, kde ziji knezi.
+
+Carrière : Lom. Obydleny hornikem a jeho zenou, ze ktereho se cerpaji zdanlive nekonecne zasoby kamene a pisku.
+
+Maison du charpentier : Tesaruv dum. Obydlen tesarem a jeho manzelkou.
+
+Auberge : Hostinec. Navstevovany kupci, kteri zde zustavaji po dobu, co obchoduji se zbozim z osady. Pokud je budova prazdna, dorustajici chlapec nebo divka se zde muze stat obchodnikem.
+
+Relais : Penzion. Mensi nez hostninec, toto misto take poskytuje pristresi pro kupce, ale dorustajici chlapci a divky se sem nestehuji.
+
+Marché : Obchod. Kazda slusna osada bude nakonec chtit misto, ktere navstevuji orientalni kupci a prodavaji zde sve zbozi.
+NEW_PAGE
+Neobydlene budovy:
+
+Archives du village : Mestsky archiv. Zobrazuje zaznamy o kazdem pristehovalci, ktery obsahuje informace co osoba dela a jeho rodinou historii.
+
+Boulangerie : Pekarna. Pouzivana zenami, ktere zde pacou chleb z psenice nashromazdene farmari. Velmi dulezita budova, dostupnost chleba vyrazne zvysuje rychlost, jakou deti rostou.
+
+Tour de guet : Strazni vez. Rozhledny navstevuji hlidkujici straze.
+
+Chapelle / Eglise : Kaple / Kostel. Kaple, pozdeji prestavena na kostel je navstevovana obyvately, kteri maji potrebu se modlit.
+
+Taverne : Krcma. Zeny z vesnice zde vyrabi most, a pozdeji, po nainstalovani destilacniho pristroje i Calvados. Vesnicane se sem chodi napit.
+NEW_PAGE
+Dekorativni budovy:
+
+Fontaine / Grande Fontaine. Fontanka / Fontana : Ciste dekorativni budova.

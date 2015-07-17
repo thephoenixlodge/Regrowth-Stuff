@@ -1,0 +1,13 @@
+{
+    "name": "cobblestoneburnt",
+    "default-texture": "cobblestone_burnt",
+    "material": "stone",
+    "hardness": 2,
+    "type": "block",
+	"drops-self": "false",
+	"drops": [
+		{"item": "minecraft:cobblestone", "amount": "1", "damage": "1"}
+    ],
+	"flammable": "false",
+    "requires-tool": "true"
+}

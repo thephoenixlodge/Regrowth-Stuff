@@ -1,0 +1,47 @@
+culture.japanese=Japanese
+
+villager.japanese_boy=Junge
+villager.japanese_girl=Mädchen
+villager.japanese_teenagermale=Jugendlicher
+villager.japanese_teenagerfemale=Jugendliche
+villager.japanese_lumberman=Holzfäller
+villager.japanese_miner=Bergarbeiter
+villager.japanese_loneminer=Bergarbeiterin
+villager.japanese_monk=Mönch
+villager.japanese_peasant=Bauer
+villager.japanese_peasantwife=Frau des Farmers
+villager.japanese_samuraigeneral=Lord
+villager.japanese_richwoman=Lady
+villager.japanese_samurai=Krieger
+villager.japanese_emperor=Kaiser
+villager.japanese_crafter=Handwerker
+villager.japanese_armysmith=Waffenschmied
+villager.japanese_sculptor=Kunsthandwerker
+villager.japanese_kuge=Kuge
+villager.japanese_merchant=Händler
+villager.japanese_chickenfarmer=Geflügelzüchter
+villager.japanese_smith=Schmied
+villager.japanese_fisherman=Angler
+villager.japanese_farmer=Weizen Landwirt
+villager.japanese_farmerchief=Vorsitzender Landwirt
+// Chief Farmer
+villager.japanese_farmwife=Frau des Landwirts
+villager.japanese_womanservant=Dienerin
+villager.japanese_merchant_food=Lebensmittel Händler
+villager.japanese_merchant_blacksmith=Werkzeug Händler
+villager.japanese_bravewoman=Heldenhafte Frau
+// Courageous Woman
+villager.japanese_bandit=Japanischer Bandit
+// Japanese Bandit
+villager.japanese_brewer=Braumeister
+// Chief Brewer
+villager.japanese_brewerwife=Frau des Brauers
+
+shop.japanesetownhall=Dorfzentrum
+shop.forge=Werkzeuge
+shop.armyforge=Waffen & Rüstungen
+shop.japanesecrafter=Papier
+shop.kitchen=Lebensmittel
+shop.lonemine=Stein
+shop.japaneseoutpost=Handelsaußenposten
+shop.fishery=Fisch Händler

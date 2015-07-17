@@ -1,0 +1,10 @@
+0;Vreemdeling;We zijn geen buitenstaanders gewend in ons dorp.
+4*64;Bekend Gezicht;Tot nu toe, heb je niet schuldig gemaakt aan een grote inbreuk op maat.
+16*64;Geregelde Bezoeker;Namaste, $name! Wat nieuws breng je?
+64*64;Favoriete Handelaar;Welkom terug, $name. Wat brengt je om met ons te handelen?
+2*64*64;Vriend van het dorp;$name-ji, we beschouwen je allemaal als een echte vriend.
+8*64*64;Een van ons;Ik heb nog nooit een buitenstaander geacepteerd in het dorp, maar jij $name-ji, jij bent nu een van ons!
+32*64*64;Natuurlijke Leider;$name-ji, jij hebt het vertrouwen en respect van mijn mensen. Ze zullen je overal volgen. 
+-64;Overlastveroorzaker;We houden niet van buitenstaanders, speciaal niet van jouw soort.
+-4*64;Onplezierige Buitenstaander;Je hebt een erg slechte baan, We hopen dat je snel zal gaan.
+-16*64;Vijand;Elke dag bid ik tot de goden dat ik je nooit meer hoef te zien.

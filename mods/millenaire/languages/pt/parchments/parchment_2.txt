@@ -1,0 +1,58 @@
+version:1.1.4
+Millénaire: Construções Normandas
+
+Centros da Aldeia
+
+Fort: Forte. Nas aldeias militares, este pequeno forte de madeira substitui a prefeitura. O cavaleiro e a sua dama vivem aqui. Com acesso suficiente a pedra, os aldeões transformá-lo-ão numa impressionante fortaleza.
+
+Abbaye: Abadia. As aldeias eclesiásticas centram-se neste local de aprendizagem e devoção, onde um monge produz incansavelmente os seus manuscritos, armazenados em belas estantes. É aqui, afinal de contas, que os agricultores locais se deslocam para prestar o dízimo - em bens e em mão-de-obra gratuita para a Igreja Sagrada. Tudo será retribuído no próximo mundo.
+
+Manoir: Solar. No centro das aldeias agrícolas, este solar é a residência do senescal, cuja tarefa é certificar-se de que os camponeses pagam os seus impostos ao rei - e a si.
+
+Hall de la Guilde: Salão do Grémio. Um testemunho da habilidade dos trabalhadores que o construíram, este salão serve de quartel-general para os artesãos locais sob a liderança do severo mestre do grémio.
+NEW_PAGE
+Habitações
+
+Armurerie: Armeiro. Quando habitado por um ferreiro, serve de centro de produção de armaduras e espadas.
+
+Elevage Bovin: Quinta Bovina. Aqui criam-se vacas para recolher couro e fazer saborosas tripes Normandas.
+
+Elevage Porcin: Quinta Suína. Aqui os porcos são transformados em enormes pilhas de costeletas e boudin noir soberbos.
+
+Elevage Ovin: Quinta Ovina. Criam-se aqui ovelhas para obter a lã. Uma pequena área vedada serve de anexo para a criação de galinhas, das quais se aproveitam as penas e os ovos.
+
+Ferme: Quinta. Uma plantação de trigo, onde um agricultor o colhe e junta para a padaria da aldeia.
+
+Forge: Forja. Quando habitada por um ferreiro, serve de centro de produção de ferramentas Normandas, utilizadas pelos outros aldeões e vendidas ao jogador.
+
+Maison du Garde: Casa do Guarda. Habitada por um guarda e a sua esposa.
+
+Hutte du Bûcheron: Cabana do Lenhador. Habitada por um lenhador e pela sua esposa.
+
+Prestitère: Prebistério. Habitado por um padre.
+
+Carrière: Pedreira. Habitada por um mineiro e a sua esposa, onde ele escava pilhas aparentemente infinitas de pedra e areia.
+
+Maison du Charpentier: Carpintaria. Habitada pelo carpinteiro e pela sua esposa.
+
+Auberge: Albergaria. Os comerciantes de visita à aldeia ocupam os quartos da albergaria enquanto adquirem bens na aldeia. Se estiver vazia, um adolescente masculino poderá tornar-se um comerciante aqui.
+
+Relais: Estalagem. Mais pequena do que uma albergaria, este local pode hospedar um comerciante de passagem, mas nenhum adolescente poder-se-á instalar aqui.
+
+Marché: Mercado. Qualquer aldeia decente acabará por precisar de um local onde os comerciantes estrangeiros se possam instalar e vender os seus bens exóticos!
+NEW_PAGE
+Construções Inabitadas
+
+Archives du Village: Arquivo Municipal. Contém uma tabuleta para cada habitante que armazena informação sobre o seu historial geneológico e qual a sua tarefa actual.
+
+Boulangerie: Padaria. Utilizada pelas aldeãs para cozer o pão a partir do trigo recolhido pelos agricultores. É uma construção importante, visto que a disponibilidade do pão reduz consideravelmente o tempo que demora uma criança a tornar-se num adolescente pronto a executar as tarefas de adulto.
+
+Chapelle / Eglise: Capela / Igreja. A capela, mais tarde actualizada para uma igreja, é visitada por todos os aldeões que necessitem de rezar.
+
+Taverne: Taberna. As aldeãs deslocam-se aqui para produzir a sidra e, mais tarde, quando adicionarem um alambique, calva. Os aldeões vêm cá regularmente para tomarem um copo.
+
+Tour de Guet: Torre de Vigia. Um posto de vigia visitado pelo guarda durante as suas patrulhas.
+NEW_PAGE
+Construções Decorativas
+
+Fontaine / Grande Fontaine / Puit: Fonte / Fonte Grande / Poço. Construções meramente decorativas.

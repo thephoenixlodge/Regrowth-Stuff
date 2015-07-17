@@ -1,0 +1,73 @@
+culture.norman=Норманы
+
+//Norman:
+villager.abbot=Аббат
+villager.carpenter=Столяр
+villager.cattleFarmerMale=Животновод
+villager.cattleFarmerFemale=Молочница
+villager.pigherd=Свинопас
+villager.pigherdF=Свинопасха
+villager.shepherd=Пастух
+villager.shepherdF=Пастушка
+villager.boy=Мальчик
+villager.girl=Девочка
+villager.teenagerMale=Юноша
+villager.teenagerFemale=Девушка
+villager.farmer=Фермер
+villager.merchant_viking=Торговец викинг
+villager.merchant_weapon=Торговец оружием
+villager.merchant_plant=Торговец растениями
+villager.merchant_art=Торговец предметами искусства
+villager.merchant_wool=Торговец шерстью
+villager.merchant_food=Торговец пищей
+villager.guard=Стражник
+villager.guildmaster=Управляющий гильдией
+villager.knight=Шевалье
+villager.lady=Леди
+villager.lumberman=Дровосек
+villager.merchant=Купец
+villager.miner=Шахтер
+villager.monk=Монах
+villager.priest=Священник
+villager.seneschal=Сенешаль
+villager.smith=Кузнец
+villager.wife=Поселенка
+
+villager.innkeeperfemale=Трактирщица
+villager.innkeepermale=Трактирщик
+villager.lonemiller=Мельник
+villager.merchant_weapons=Оружейник
+villager.robberbaron=Предводитель бандитов
+villager.robberleader=Предводительница бандитов
+
+villager.lonelumberman=Одинокий дровосек
+villager.lonelumbermantaiga=Одинокий дровосек
+villager.loneminer=Одинокий шахтер
+villager.lonemonk=Монах отшельник
+villager.loneabbot=Аббат отшельник
+villager.alchemist=Алхимик
+villager.alchemistassistant=Ассистент алхимика
+villager.alchemistapprentice=Ученик алхимика
+villager.bandit=Бандит
+villager.armoredbandit=Бандит в доспехе
+villager.felonbaron=Барон преступников
+villager.felonsoldier=Солдат преступников
+
+
+
+shop.townhall=Главный магазин
+shop.forge=Инструменты
+shop.armoury=Оружие и броня
+shop.bakery=Хлеб
+shop.cattlefarm=Продукты из говядины
+shop.pigfarm=Продукты из свинины
+shop.sheepchickenfarm=Птица
+shop.tavern=Алкоголь
+shop.lumberman=Яблочный сидр
+shop.lonemine=Камень
+shop.alchemyworkshop=Алхимические продукты
+shop.lonelumberman=Древесина и яблоки
+shop.lonemill=Хлеб
+shop.loneinn=Еда и напитки
+shop.lonelumbermantaiga=Дерево
+shop.loneabbey=товары Abbey

@@ -1,0 +1,37 @@
+culture.norman=Norman
+
+//Norman:
+villager.abbot=Opat
+villager.carpenter=Ciesla
+villager.cattleFarmerMale=Chodowca bydla
+villager.cattleFarmerFemale=Chodowczyni bydla
+villager.boy=Chlopczyk
+villager.girl=Dziewczynka
+villager.teenagerMale=Nastolatek
+villager.teenagerFemale=Nastolatka
+villager.farmer=
+villager.viking_merchant=Wikingski handlarz
+villager.weapon_merchant=Handlarz broni
+villager.plant_merchant=Handlarz roslin
+villager.oriental_merchant=Handlarz orientu
+villager.art_merchant=Handlarz sztuki
+villager.wool_merchant=Handlarz runa
+villager.food_merchant=Handlarz zywnoscia
+villager.guard=Straznik
+villager.guildmaster=Szef gildii
+villager.knight=Rycerz
+villager.lady=Dama dworu
+villager.lumberman=Drwal
+villager.merchant=Handlarz
+villager.miner=Gornik
+villager.monk=Mnich
+villager.priest=Klecha
+villager.seneschal=Namiestnik krolewski
+villager.smith=Kowal
+villager.wife=Wiesniaczka
+
+villager.lonelumberman=Drwal
+villager.lonelumbermantaiga=Drwal
+villager.loneminer=Gornik
+villager.lonemonk=Pustelnik
+villager.loneabbot=Pustelnik

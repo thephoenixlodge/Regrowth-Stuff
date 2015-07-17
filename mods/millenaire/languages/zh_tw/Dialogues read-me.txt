@@ -1,0 +1,59 @@
+對話說明:
+
+"key"(關鍵字)必須是在該文化中為獨一無二的存在
+"weight" 表示對話會被選中的變動(如果有效的話)(貌似是作者打錯了，應該是weigth)
+"v1" 被限定(指定)為第一個村民，而 "v2" 被限定(指定)為第二個村民。這些限制可以是:
+adult(成人) : 必須是個成人
+child(孩子) : 必須是個孩子
+male(男性) : 必須是一個男人或男孩
+female(女性) : 必須是一個女人或女孩
+hasspouse(有配偶) : 必須是已婚
+nospouse(無配偶) : 必須是未婚
+vtype : 必須是這種類型的村民。設置好幾個選項是可行的，會用破折號來隔開。例如 : vtype:guard-lumberman
+novtype : 不能屬於這種類型。例如 : novtype:monk-priest-abbot
+
+"rel"(相關) 表示兩個村民之間所需要的關係。關係可以是 :
+"spouse"(配偶) : 這兩位村民是婚姻關係
+"parent"(父母親) : v1 是 v2 的父母親
+"child"(孩子) : v1 是 v2 的小孩
+"sibling"(兄弟姐妹) : v1 和 v2 是兄弟姐妹
+
+"notrel"(無關)接受相同的相關關係類型，但是這種關係是被禁止的
+
+"building"(建築物)是指一個建築物必須要存在於村莊中
+"notbuilding"(非存在建築物)是指一個建築物是不存在於村莊中
+
+"villager"(村民)是指一種村民種類必須要存在於村莊中
+"notvillager"(非村民))是指一種村民種類必須要不存在於村莊中
+
+"tag"(標籤)是指一種特殊條件必須要是true(存在、開啟)的狀態。這些條件可以是 :
+"raining"(下雨) : 世界正在下雨(或下雪)。(即使它是不可能發生在村民們的身上的，例如在沙漠當中)
+"notraining"(非下雨) : 與上述相反的情況
+
+這些準則都是累積性的 : 所有一切的對話都必須是有效的
+
+舉例:
+
+一個男人與女人間的對話，皆是未婚，他們也不是兄弟姐妹，而且這個男人既不是牧師也不是僧侶(翻譯師註:從下方判斷這男人應該也不是修道院長) :
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:novtype:monk-priest-abbot,weigth:20
+
+一名騎士與樵夫之間的對話，他們在一座沒有酒館的村子裡 :
+
+newchat;key:letsbuildatavern,v1:vtype:lumberman,v2:knight,notbuilding:tavern,weigth:20
+
+在一座村莊中，兩人談論到關於一名煉金術士學徒的對話，兩名成人既不是煉金術士學徒也不是工會長 :
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+
+
+這些句子條件達成之後，具有三個值:
+- 說話的人 (v1 or v2)
+- 在對話開始之後，要說話的那一刻 (用 "ticks" - 一秒是 20 ticks)
+- 句子本身會有 "/" 去區隔開村莊的當地語言 (在遊戲中顯示為藍色) 和玩家使用的語言 (顯示為紅色)。 
+- 對話中可以有玩家的名稱("$name")、其他人的名 ("$targetfirstname") 和他的姓 ("$targetlastname")
+
+
+舉例來說，由第二個村民在tick 30的時候說的印地對話:
+
+v2;30;Sab kuch thik hai, $targetfirstname! / 一切都很好，$targetfirstname！

@@ -1,0 +1,52 @@
+culture.mayan=Mayan
+
+villager.mayan_boy=소년
+villager.mayan_girl=소녀
+villager.mayan_teenagerMale=10대 소년
+villager.mayan_teenagerFemale=10대 소녀
+villager.mayan_lumberman=나무꾼
+villager.mayan_miner=광부
+villager.mayan_shaman=주술사
+villager.mayan_peasant=소작농
+villager.mayan_peasantwife=여성 소작농
+villager.mayan_leader=지휘자
+villager.mayan_richwoman=여왕
+villager.mayan_warrior=전사
+villager.mayan_chieftain=족장
+villager.mayan_crafter=공예가
+villager.mayan_armysmith=무기 대장장이
+villager.mayan_sculptor=조각가
+villager.mayan_shamanwife=주술사의 아내
+villager.mayan_king=왕
+villager.mayan_merchant=상인
+villager.mayan_chickenfarmer=양계장 농부
+villager.mayan_farmer=옥수수재배 농부
+villager.mayan_obsidiancrafter=흑요석 제작가
+villager.mayan_cocoafarmer=카카오 재배 농부
+
+villager.lonemayanfarmer=농부
+villager.lonemayanpeasantwife=농부의 아내
+villager.lonemayanshaman=주술가
+villager.lonemayanshamanwife=주술가의 아내
+villager.mayanbanditboy=도둑
+villager.mayanbanditwarrior=강도
+villager.mayanfemalebandit=도둑
+
+villager.merchant_mayanfarmer=농부 거래사
+villager.merchant_mayanhunter=사냥꾼 거래사
+villager.merchant_mayanshaman=주술가 거래사
+
+villager.questfallenking=추락한 왕
+villager.questkingelitewarrior=최고의 전사
+villager.questkinglieutnant=중위
+villager.questkingscout=정찰병
+villager.questkingwarrior=전사
+villager.questshaman=주술가
+
+shop.mayantownhall=중앙상점
+shop.mayancrafter=도구
+shop.mayanarmyforge=방어구와 무기들
+shop.mayansheepchickenfarm=닭 생산가
+shop.mayanobsidiancrafter=흑요석 제작자
+shop.lonemayanfarm=농장 제작자
+shop.mayancocoa=코코아 가게

@@ -1,0 +1,14 @@
+version:3.4
+<darkblue>Külade loomine
+
+Sa saad luua külasid mis iganes tüüpi sa tahad ja mis kohta sa tahad loomise võlukeppiga,mille sa saad osta külalt kui sul on küllat hea reputatsioon.Selle võlukeppi kasutamiseks pane kulne plokk kuhu sa tahad,et küla tuleks ja parema hiire klõpsuga vajuta sellele võlukeppiga. Järgnev ekraan laseb sul valida mis tüüpi kula sa tahad.
+
+<darkblue>Küla või üksildase ehitise hävitamine
+
+Külaelanikud või ehitise elanikud taassünnivad iga õhtu isegi kui sa hävitad kõik ehitised külas. Selle ärahoidmiseks (näiteks kui sa tahad okupeerida ehitised endale), sa pead kasutama <darkblue>Läbiraakimise võlukeppi<black>: sa leiad selle pea hoone kirstust kui kõik elanikud on surnud. Pane tähele,et küla hävitamine on tühistamattu.
+
+<darkblue>Mängija kontrollitud külad
+
+On võimalikd teha küla kus sina oled juht,kus sa saad ise valida ehitiste asukohad.Selle tegemiseks sa pead olema tunnustatud juhina selle küla kultuuris või tee ära Loomise Ülesanne(vaata ülesannete sektsiooni), või saa enda reputatsioon ´´naturaalne juht'' külas ja räägi selle juhiga. Saa siis näed valikut,et teha mängija kontrollitud külad kui kasutad loomise võlukeppi kuldsel plokkil.
+
+Mängija kontrollitud külades sa saad korraltada uues ehitise ehitamist kastuatdes võlukeppi soovitud koha peal. Ekraan avaneb mis laseb sul valida soovitud ehitis. Sa saad ka lubada või peatada uuendusi olemasolevatele ehitistele ´´projektid´´ paneeli kaudu. Resursside kauplemine teiste küladega ei ole vajalik selles külas - lihtsalt pane asjad kirstutesse.

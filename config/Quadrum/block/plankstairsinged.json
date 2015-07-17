@@ -1,0 +1,10 @@
+{
+    "name": "singedStair",
+    "default-texture": "planksinged",
+    "material": "wood",
+    "hardness": 1,
+    "type": "stair",
+	"drops-self": "true",
+	"flammable": "true",
+    "requires-tool": "false"
+}

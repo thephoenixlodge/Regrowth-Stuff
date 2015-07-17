@@ -1,0 +1,42 @@
+version:1.1.4
+millénaire: hinduskie budynki
+
+centra wiosek
+
+mukhiya ka ghar : dom wodza. mieszka tu wodz i jego zona, a jednoczesnie jest to centrum wioski. wiele kufrow w nim sie znajdujacych zawiera "darowizne" od mieszkancow wiosko.
+
+qila : fort. ta wieża może zostać zmieniona przez generala w potezna twierdze. Ponadto, pomaga utrzymywac wzgledny spokoj w okolicy.
+new_page
+Domy
+
+kisan ka ghar : Dom wiesniaka. Zwyczajny budynek zrobiony z wysuszonych cegiel. Moze zostac ulepszony i zawierac takze zagrode dla kur i taras na odpoczynek.
+
+lakarhara ka ghar : Dom drwala. Zrobiony przez niego wlasnorecznie z drewna i cegiel, z czasem robi sie coraz ladniejszy.
+
+sikaar : Kamieniolom. Dziura w ziemi wykopana az do twardych skal. To tutaj gornik wydobywa kamien i piaskowiec, potrzebne wiosce.
+
+bhati : Kuznia. Codzienne narzedzia mieszkancow wioski pochodza wlasnie stad. Kowadlo jest tak samo kochane przez kowala, jak jego zona.
+
+sena ka bhati : Kuznia wojskowa. Zbrojownia, zbudowana z piaskowca, jest w stanie pomiescic uzbrojenie, bron i samego kowala.
+
+muurtikaar ka ghar :  Dom rzezbiarza. Ten maly domek ma obok siebie pracownie, w ktorej rzezbiarz przerabia kamien i piaskowiec w posagi hinduskich bostw.
+
+sainik ka ghar : Dom zolnierza. Zbudowany z kamienia, mieszka w nim dzielny zolnierz i jego zona.
+
+pandit ka ghar : Dom kaplana. Ten piekny dom, bardziej wykwintny niz domy wiesniakow, jest schronieniem dla kaplana i jego zony.
+new_page
+Niezamieszkale budowle:
+
+inta bhatta : Sklad cegiel. Bardzo wazny budynek dla kazdej wioski. To tu przygotowuje sie cegly, albo przez suszenie ich na sloncu, albo przy uzyciu pieca.
+
+kunja : Gaj. Opiekuje sie nim drwal, jest to glowne zrodlo drewna dla wioski. Zyzna gleba i troska drwala sprawia, ze drzewa rosna tu wyjatkowo szybko.
+
+puraalekhagar : Archiwum swiatynne. To tutaj kaplan i jego zona przechowuja informacje o wszystkich mieszkancach wioski.
+
+dhaan : Pole ryzu. Ryz, podstawowy posilek - chyba nie ma dobrej kuchni, ktora go nie uzywa, prawda?
+
+masaalaa udyaana : Ogrod z przyprawami. Przyprawy sa tutaj uprawiane - bez nich jedzenie byloby strasznie mdle!
+
+gannaa baagaana : Plantacja cukru. Nie da sie przygotowac dobrego jedzenia i napitkow bez cukru.
+
+gaanv ka mandir :  Swiatynia. Swiadectwo wiary mieszkancow. Trzy posagi wykonane przez rzezbiarza dodaja jej powagi.

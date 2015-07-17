@@ -1,0 +1,41 @@
+version:4.8.0
+Millénaire: Japanse objecten
+
+Denier. Toen de Japanners in dit land kwamen hebben ze de valuta naar de denier verander. Hij komt in 3 waarden: Denier (brons), Denier Argent (zilver) met een waarde van 64 bronzen en een Denier Or (goud) met een waarde van 64 zilveren.
+NEW_PAGE
+Voedsel
+
+Rijst. Blank en smakeloos, maar de Japanners oogsten het alsof er geen morgen is. Rijst in de kisten zorgt voor meer kinderen en er wordt papier van gemaakt.
+
+Udon. Dit mysterieuse voedsel wordt door de Japanners in hun keuken gemaakt.
+
+Sake. Deze alcholische drank van rijst wordt alleen in handelsdorpen gemaakt en geeft leven terug aan de speler. Ook verhoogt het de kans op kinderen in het dorp.
+
+NEW_PAGE
+Werktuigen en wapens
+
+Tachi zwaard. Dit zwaard doet net zoveel schade als een ijzeren zwaard maar heeft een kritieke klap met 3x schade. Goed voor de moeilijkere vijand.
+
+Yumi Boog. Groter dan de Engels Longbow was en is nog steeds de grootste boog in de geschiedenis met zijn 2.2 meter. Deze boog schiet verder en sneller. Dit geeft betere accuraatheid over een lange afstand. Hij herlaadt ook sneller en doet meer schade dan een normale boog.
+
+Keiko Pantser. Dit is de soldaat zijn pantser gelijk aan de malienkolder met leer erin. Het is zo sterk als ijzer maar toch duurzamer. Het wordt gemaakt uit ijzer en leer.
+
+O-Yoroi Pantser. Dit pantser komt in 2 ontwerpen. Rood en blauw. Het is sterker dan ijzer en zo duurzaam als diamant. De leiders dragen dit pantser.
+NEW_PAGE
+Construction & Decoration
+
+Thatch. Wordt gemaakt uit graan voor op de daken. Ook is het erg lekker om op te slapen.
+
+Papieren muur. Dit is een dunne laag papier opgerekt door 4 stokken. Licht kan erdoorheen maar je kan er niet doorheen kijken. Wordt gebruikt als decoratie. Het is gemaakt van papier die uit rijst wordt gemaakt.
+
+Houten frame. De Japanners maken rechte frames. Het wordt gemaakt uit donker hout en aarde.
+New_PAGE
+Rollen
+
+Japanse dorpelingen. Een rol die de soorten dorpelingen aangeeft die ke kunnen doden als je er één aanraakt.
+
+Japanse gebouwen. Een beschrijving van de gebouwen die de Japanners op aarde zetten.
+
+Japanse objecten. Je leest hem nu.
+
+Complete Japanse Rol. De inhoudt van de vorige 3 in 1 rol gevoegd voor makkelijk transport.

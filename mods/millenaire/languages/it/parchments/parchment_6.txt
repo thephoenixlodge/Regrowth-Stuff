@@ -1,0 +1,42 @@
+version:1.1.4
+Millénaire: Costruzioni indiane
+
+Centri dei villaggi
+
+Mukhiya ka Ghar : La casa del capo. Questa casa di mattoni funge da casa per il capo e sua moglie, oltre a essere il centro del villaggio. Vi sono inoltre molte casse per raccogliere i generosi "contributi" degli abitanti del villaggio.
+
+Qila : Forte. Questa torre in mattoni di piccole dimensioni può essere trasformata in una fortezza possente dal generale Rajput che vive lì. Aiuta a controllare la zona circostante e ad accentrare le proprietà dei contadini.
+NEW_PAGE
+Abitazioni
+
+Kisan ka Ghar : Casa del contadino. Un edificio semplice, fatto di mattoni essiccati al sole. Questa casa modesta può essere ampliata per ospitare un recinto di polli e una terrazza per il riposo.
+
+Lakarhara ka Ghar : Casa del boscaiolo. Realizzata in legno dal boscaiolo stesso, e aggiornata in seguito con mattoni cotti, questa casa diventa sempre più bella con il tempo.
+
+Sikaar : Cava. Una semplice cavità scavata fino alla roccia più profonda. E' qui che il minatore estrae la pietra e l'arenaria richiesti dal villaggio.
+
+Bhati : Fucina. Gli strumenti quotidiani del villaggio sono prodotti qui dal fabbro; ama la sua incudine allo stesso modo in cui ama sua moglie.
+
+Sena ka Bhati : Fucina militare. Questa robusta fucina in arenaria ospita un fabbro specializzato in armi e armature.
+
+Muurtikaar ka Ghar : Casa dello scultore. Questa piccola casa è unita a un laboratorio in cui lo scultore trasforma pietra e arenaria in statue di divinità indù.
+
+Sainik ka Ghar : Casa del soldato. Costruita in solida pietra, questo casolare ospita un fiero guerriero Rajput e sua moglie.
+
+Pandit ka Ghar : Casa del sacerdote. Questa bella casa, più elaborata rispetto a quella dei contadini, ospita un sacerdote e sua moglie, uno più pigro dell'altro.
+NEW_PAGE
+Costruzioni non abitate:
+
+Inta bhatta : Forno per mattoni. Questo edificio è indispensabile per qualsiasi villaggio indiano. Qui i mattoni sono preparati sia lasciandoli asciugare al sole, sia cuocendoli dentro al forno, dopo ovviamente l'aggiunta del forno stesso alla struttura.
+
+Kunja : Boschetto. Scrupolosamente mantenuto dai boscaioli, il boschetto è la fonte primaria di legno per il villaggio. Il terreno ricco e una attenta cura dei boscaioli aiutano gli alberi a ricrescere molto più rapidamente del normale.
+
+Puraalekhagar : Archivio del tempio. E' qui dove il sacerdote e la moglie custodiscono tutti i loro pettegolezzi e informazioni segrete su tutti gli altri abitanti del villaggio.
+
+Dhaan : Risaia. Riso, un prodotto essenziale. D'altronde, quale buona cucina non utilizza riso?
+
+Masaalaa udyaana : Giardino delle spezie. La curcuma qui cresce facilmente grazie alle attenzioni delle donne del villaggio - ed è un bene, perché il cibo del villaggio sarebbe estremamente blando senza di essa!
+
+Gannaa baagaana : Piantagione di zucchero. Non si può fare della buona rasgulla senza zucchero, e non c'è espressione migliore di affetto tra gli abitanti del villaggio.
+
+Gaanv ka Mandir : Tempio del villaggio. Questo splendido edificio è la testimonianza della fede e della religiosità degli abitanti del villaggio, o forse dell'influenza che il sacerdote esercita su di loro. Tre statue scolpite dallo scultore abbelliscono il tempio finito.

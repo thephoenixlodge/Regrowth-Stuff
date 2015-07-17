@@ -1,0 +1,40 @@
+version:1.1.4
+Millénaire: Indische Objecten
+          
+Denier. Voor Redenen nog altijd onbekend gebruikten de indische dorpe de Deniers als betaalmiddel net als de noormannen. Er bestaab 3 soorten Deniers: Brons, Zilver (Waarde: 64 Brons) en Goud (Waarde 64 Zilver).
+NEW_PAGE
+Voedsel
+
+Rijst. Het standaardvoedsel voor de dorpelingen, Rijst kan worden gekocht van het dorp. Van zichzelf heeft het geen smaak en kun je het niet eten. De dorpskinderen groeien sneller als er rijst in het dorp is.
+
+Turmeric. Dit scherpe kruid wordt verkregen door de wortel van de Turmericplant te Malen. Het is een essentieel ingredient voor Curry. Net als met rijst versnelt de aanwezigheid hiervan de groei van de dorpskinderen.
+
+Vegetarische curry. Gemaakt door een portie rijst met Turmeric te mengen, deze simpele curry hersteld 2 hartjes
+
+Kippenvlees. Verzameld door boeren met een kippenboerderij, Kippenvlees wordt gebruikt om heerlijke murgh Curry te maken. Indische kinderen die het krijgen groeien sneller, het kan rauw gegeten worden maar herstelt dan maar een half hartje.
+
+Murgh curry. Murgh curry wordt gemaakt door rijst, turmeric en kippenvlees te combineren, deze delicatesse herteld 4 hartjes.
+
+Rasgulla. Dit dessert gemaakt van gesmolten kaas en zoete siroop wordt door de dorpsvrouwen van suikerriet gemaakt. Gekocht door de speler hersteld het 1 hartje en je kunt een stack van 8 hebben. Als het gegeten wordt door stelletjes in het dorp verhoogt het de kans op kinderen. Nee meer details krijg je niet
+NEW_PAGE
+Constructie & decoratie
+
+Natte Bakstenen. Dr eerste stap in het maken van bakstenen, natte bakstenen worden naar de oven gebracht om in de zon te drogen.
+
+Modderbakstenen. Verkregen door natte bakstenen in de zon te drogen, modderbakstenen zijn het basismateriaal voor Indische dorpen.
+
+Gebakken Bakstenen. Na in een oven gebakken te zijn worden modderbakstenen gebakken bakstenen, sterker en aantrekkelijker met hun witgewassen look.
+
+Baksteenmal. Dit gereedschap, dat van het dorp gekocht kan worden zorgt ervoor dat je natte bakstenen kan maken. Gebruik het op een platte ondergrond met aarde en zand in je inventory.
+
+Hindu statue. Deze standbeelden van Hindoestaanse goder worden gemaakt door de beeldhouwer om de dorpstempel te verfraaien, en worden verkocht aan spelers met een geraffineerde smaak.
+NEW_PAGE
+Scrolls
+
+Indische dorpelingen. En rol die de verschillende Indische dorpelingen beschrijft, zij die werken en zij die toekijken hoe anderen werken.
+
+Indische gebouwen. Een lijst van alle gebouwen gebouwd door de indiche dorpelingen, van het houthakkershuis tot het machtige fort van de Rajput generaal.
+
+Indische objecten. Moeten we je het echt vertellen?
+
+Complete Indische rol. De inhoud van de vorige 3 rollen, in een compacte rol voor eenvoudig transport.

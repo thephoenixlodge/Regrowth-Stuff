@@ -1,0 +1,14 @@
+version:4.8.0
+<darkblue>Los Japoneses
+
+Viven en aldeas religiosas, militares, comerciales o imperiales, y se distinguen por su elegante arquitectura. Hablan Japonés, pero el diálogo se traducirá mientras el jugador "aprende" a hablar su idioma con ellos.
+
+<darkblue>Objetos únicos y bloques
+
+-Cultivan arroz. El jugador puede pedir al jefe de la aldea para enseñarle a cultivar este cereal.
+-Cocinan deliciosos fideos udon con trigo y pollo.
+-En las aldeas comerciales, los cerveceros producen sake de arroz.
+-Al igual que los Normandos, producen los edificios de madera.
+-Usan una gran cantidad de bloques de paja fabricados con trigo.
+-Producen paredes elegantes de papel de arroz para sus edificios avanzados.
+-Sus herreros forjan formidables espadas Tachi y arcos Yumi, así como tres tipos de armadura muy eficaces.

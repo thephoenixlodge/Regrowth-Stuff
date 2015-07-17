@@ -11,6 +11,7 @@ val goldEssence = <magicalcrops:magicalcrops_CropEssence:5>;
 val diamondEssence = <magicalcrops:magicalcrops_CropEssence:3>;
 val emeraldEssence = <magicalcrops:magicalcrops_CropEssence:8>;
 val certusEssence = <magicalcrops:magicalcrops_ModCropEssence:4>;
+val tornVampPage = <witchery:ingredient:160>;
 
 ////Add essences to dungeon chest loot - otherwise only obtainable through quests, and required to craft the seeds
 //Tier 1
@@ -28,6 +29,8 @@ vanilla.loot.addChestLoot("dungeonChest", diamondEssence.weight(5), 1, 1);
 vanilla.loot.addChestLoot("dungeonChest", emeraldEssence.weight(5), 1, 1);
 //Tier 4
 vanilla.loot.addChestLoot("dungeonChest", certusEssence.weight(1), 1, 1);
+//Other
+vanilla.loot.addChestLoot("dungeonChest", tornVampPage.weight(10), 1, 1);
 
 ////Add essences to mineshaft loot - otherwise only obtainable through quests, and required to craft the seeds
 //Tier 1
@@ -45,6 +48,8 @@ vanilla.loot.addChestLoot("mineshaftCorridor", diamondEssence.weight(3), 1, 1);
 vanilla.loot.addChestLoot("mineshaftCorridor", emeraldEssence.weight(3), 1, 1);
 //Tier 4
 vanilla.loot.addChestLoot("mineshaftCorridor", certusEssence.weight(1), 1, 1);
+//Other
+vanilla.loot.addChestLoot("mineshaftCorridor", tornVampPage.weight(10), 1, 1);
 
 ////Removing Loot that breaks progression
 //Forestry Village chest
@@ -92,6 +97,7 @@ vanilla.loot.removeChestLoot("mineshaftCorridor", <Thaumcraft:ItemResource:*>);
 vanilla.loot.removeChestLoot("mineshaftCorridor", <appliedenergistics2:item.ItemMultiMaterial:*>);
 vanilla.loot.removeChestLoot("mineshaftCorridor", <Railcraft:cube:2>);
 vanilla.loot.removeChestLoot("mineshaftCorridor", <minecraft:hopper_minecart>);
+vanilla.loot.removeChestLoot("mineshaftCorridor", <minecraft:dye:4>);
 //Ocean Floor Chest
 vanilla.loot.removeChestLoot("oceanFloorChest", <minecraft:diamond>);
 vanilla.loot.removeChestLoot("oceanFloorChest", <minecraft:gold_ingot>);

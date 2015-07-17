@@ -1,0 +1,255 @@
+//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.                                             
+
+
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Kitni Garmi Hai! / 뜨거워!
+v2;30;Main is garmi se pagal ho gaya hoon. / 더워 미치겠네
+v1;70;Baarish kab hogi? / 비가 오려나?
+
+//西뺖?西ㅰㄸ誓 西쀠ㅀ誓띭ㄾ誓 西밝쪎!
+//西?쪎西?西뉋ㅈ 西쀠ㅀ誓띭ㄾ誓 西멘쪍 西むㅎ西쀠ㅂ 西밝쪑 西쀠ㄿ西?西밝쪈西?|
+//西оㅎ西겯?西?西뺖ㄼ 西밝쪑西쀠? ?
+
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Barish nahi ho rahi hai. / 비가 않오는데..?
+v2;30;Barish hogi. Chinta mat karo. / 언젠간 비가 오겠지..
+v1;60;Tum har sal yahi bolte ho... / 매년 같은소리야..
+
+//西оㅎ西겯ㅏ西?西ⓣㅉ誓 西밝쪑 西겯ㅉ誓 西밝쪎 |
+//西оㅎ西겯ㅏ西?西밝쪑西쀠?| 西싟ㅏ西ⓣ쪓西ㅰㅎ 西?ㄴ 西뺖ㅀ誓?
+//西ㅰ쪇西?西밝ㅀ 西멘ㅎ西?西?ㅉ誓 西뺖ㅉ西ㅰ쪍 西밝쪑 ...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Arre! Baarish ho rahi hai! / 야호 비다!
+v2;40;Itni si baarish se kya hoga... / 적은 비는 아무것도 아니지
+v1;80;Sukhe se toh behtar hai. / 비가 않오는것보다는 낫군.
+v1;120;Lekin fasal kaise hogi? / 하지만 작물은 어떻게 자라지?
+
+
+//西끶ㅀ誓? 西оㅎ西겯ㅏ西?西밝쪑 西겯ㅉ誓 西밝쪎!
+//西뉋ㄴ西ⓣ? 西멘? 西оㅎ西겯ㅏ西?西멘쪍 西뺖쪓西?ㅎ 西밝쪑西쀠ㅎ ...        
+//西멘쪈西뽤쪍 西멘쪍 西ㅰ쪑 西о쪍西밝쪓西ㅰㅀ 西밝쪎誓?
+//西꿋쪍西뺖ㅏ西?西ムㅈ西?西뺖쪎西멘쪍 西밝쪑西쀠??        
+
+newchat;key:sandstone,weigth:10
+v1;0;Hamara gaon pragati kar raha hai, hai na? / 마을이 작업중이죠?
+v2;40;Par abhi bahut kaam baki hai. / 할게 많네..
+v1;80;Sach me? / 진짜??
+v2;100;Bilkul! / 진짜!!
+
+//西밝ㄾ西약ㅀ西?西쀠ㅎ西귖ㅅ 西む쪓西겯쨽西ㅰㅏ 西뺖ㅀ 西겯ㅉ西?西밝쪎, 西밝쪎 西ⓣㅎ?
+//西밝ㅎ西? 西꿋쪍西뺖ㅏ西?西끶ㄽ誓 西оㅉ誓곟ㄴ 西뺖ㅎ西?西оㅎ西뺖? 西밝쪎 |
+//西멘쩀 西?쪍西?
+//西оㅏ西꿋쪓西뺖쪇西?
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jao, puja ke liye ek thali le aao. / 푸자 한접시 먹으러 가자고!
+v2;40;Turant le aata hoon. / 바로가자!
+v1;80;Bhagwaan ko prabhavit karna jaroori hai. / 신에게 감사먼저 해.
+v1;130;Tab hi baarish samay par aayegi. / 그 다음에야 비가 올거야.
+
+
+//西쒉ㅎ西? 西む쪈西쒉ㅎ 西뺖쪍 西꿋ㅏ西?西뤲쨻誓?西?ㅎ西꿋? 西꿋쪍 西녱쨹|
+//西ㅰ쪇西겯쨧西?西꿋쪍 西녱ㄴ西?西밝쪈西?|        
+//西?쨽西듀ㅎ西?西뺖쪑 西む쪓西겯ㄽ西약ㅅ西욈ㄴ 西뺖ㅀ西ⓣㅎ 西녱ㅅ西뜩쪓西?쨻 西밝쪎 |
+//西ㅰㄼ 西밝? 西оㅎ西겯ㅏ西?西멘ㄾ西?西むㅀ 西녱쨵西쀠? |        
+
+
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kabhi socha hai, guy ka maas ka swad kya ho sakta hai? / 소고기 맛이 궁금해?
+v2;60;Guy ka maas? Lekin ye toh dharm ke khilaaf hai! / 그걸 먹는건 금지되어있어!
+v1;120;Lekin shayad woh swadisht hai...? / 그게..맛있다면??
+v2;180;Kya tum normandi ke jungli ho? / 니가 무슨 노르만 야만인이야? 소고기를 먹으려 하다니?
+
+//西뺖ㄽ誓 西멘쪑西싟ㅎ 西밝쪎, 西쀠ㅎ西?西뺖ㅎ 西?ㅎ西귖ㅈ 西뺖ㅎ 西뺖쪓西?ㅎ 西멘쪓西듀ㅎ西?西밝쪑 西멘쨻西ㅰㅎ 西밝쪎?
+//西쀠ㅎ西?西뺖ㅎ 西?ㅎ西귖ㅈ? 西꿋쪍西뺖ㅏ西?西?ㅉ 西㏅ㅀ誓띭ㄾ 西뺖쪍 西뽤ㅏ西꿋ㅎ西?西밝쪎!
+//西꿋쪍西뺖ㅏ西?西뜩ㅎ西?ㄶ 西듀ㅉ 西멘쪓西듀ㅎ西╆ㅏ西룅쪓西?西밝쪎...?        
+//西뺖쪓西?ㅎ 西ㅰ쪇西?西ⓣ쪑西겯ㄾ西귖ㄱ誓 西뺖쪍 西쒉쨧西쀠ㅂ誓 西밝쪑
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Mai rasgulla chahta hoon. Mujhe bohot bhukh lagi hai! / 배고파! 간식줘!
+v2;60;Nahi. Tumhe sirf chawal khaana chahiye. / 밥이나 먹어.
+v1;120;Lekin maine subhah hi ye khaya hai! / 아침에 이미 먹었잖아!
+v1;180;Aur kal bhi, parson bhi... / 어제도..그제도..
+v2;220;Toh tum yahi aaj raat ko, kal, aur jeevan bhar khao! / 오늘밤에도 밥을 먹어야해!
+
+//西?쪎西?西겯ㅈ西쀠쪇西꿋쪓西꿋ㅎ 西싟ㅎ西밝ㄴ西?西밝쪇誓?西?쪇西앧쪍 西?쪈西? 西꿋쨽 西겯ㅉ西?西밝쪎 誓?
+//西ⓣㅉ誓西?| 西ㅰ쪇西?쪓西밝쪍 西멘ㅏ西겯쪓西?西싟ㅎ西듀ㅂ 西뽤ㅎ西ⓣㅎ 西싟ㅎ西밝ㅏ西?|
+//西꿋쪍西뺖ㅏ西?西?쪎西귖ㄸ誓? 西멘쪇西оㅉ 西밝?  西?ㅉ 西뽤ㅎ西?ㅎ 西밝쪎!
+//西붲ㅀ 西뺖ㅂ 西??, 西むㅀ西멘쪑西?西?ㅏ??       
+//西ㅰ쪑 西ㅰ쪇西?西?ㅉ誓 西녱쩂 西겯ㅎ西?西뺖쪑, 西뺖ㅂ, 西붲ㅀ 西쒉?西듀ㄸ 西?ㅀ 西뽤ㅎ西ⓣㅎ!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Aaj maine bahut jyada lakdi kaat li! / 나무를 잘라야 겠어
+v2;60;Tum hamare jungle ko reghistaan bana doge!        / 그러다 숲을 사막으로 만들거야! 
+v1;120;Pareshan mat ho, yahaan bina kuch kiye hi pedh badhte hai. / 여기 나무는 스스로 자라니까 괸찮아.
+
+//西끶쩂 西?쪎西ⓣ쪍 西оㅉ誓곟ㄴ 誓쎹쪓西?ㅎ西╆ㅎ  西꿋쨻誓쒉? 西뺖ㅎ西잀?西? !
+//西ㅰ쪇西?西밝ㄾ西약ㅀ誓?西쀠ㅎ西곟ㅅ 西뺖쪑 西겯쪍西쀠ㅏ西멘쪓西ㅰㅎ西?西?쪍西?西оㄶ西?西╆쪑西쀠쪍 !
+//西むㅀ誓뉋ㅆ西약ㄸ  西?ㄴ 西밝쪑, 西?ㅉ西약쨦 西оㅏ西ⓣㅎ 西뺖쪇西?西뺖ㅏ西?쪍 西밝? 西む쪍誓?西оㄲ西ㅰ쪍 西밝쪎西귖ⅳ 
+
+
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mera mahal bahut chota ho gaya hai. / 내 궁전이 작아지고 있어...
+v2;60;Lekin maharaj, ye is kshetra me sabse bada hai! / 그게 이 나라에서 가장 큰 집이거든?!
+v1;120;Lekin ye mujhe chota lagne laga hai. / 그래도 작아..
+
+
+//西?쪍西겯ㅎ 西?ㅉ西?西оㅉ誓곟ㄴ 西쎹쪑西잀ㅎ 西밝쪑 西쀠ㄿ西?西밝쪎 |        
+//西꿋쪍西뺖ㅏ西?西?ㅉ西약ㅀ西약쩂, 西?ㅉ 西뉋ㅈ 西뺖쪓西룅쪍西ㅰ쪓西?西?쪍西?西멘ㄼ西멘쪍 西оㄱ西솰ㅎ 西밝쪎!
+//西꿋쪍西뺖ㅏ西?西?쪇西앧쪍 西?ㅉ 西쎹쪑西잀ㅎ 西꿋쨽西ⓣ쪍 西꿋쨽西?西밝쪎 |
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ek shaktishali qila hamare dushmanon ke khilaaf sabse accha bachaav hai. / 강한 요세는 적을 막을때 도움이 되지!
+v2;60;Kaun se dushman, senapati? / 적이 누구인가요?
+v1;100;Ye Norman aur anya jungli log. / 노르만인과 기타 등등이 적이란다(예?)
+
+//西뤲쨻 西뜩쨻誓띭ㄴ西욈ㅆ西약ㅂ誓 西뺖ㅏ西꿋쪍 西밝ㄾ西약ㅀ誓?西╆쪇西뜩쪓西?ㄸ誓뗠쨧 西뺖쪍 西뽤ㅏ西꿋ㅎ西?西멘ㄼ西멘쪍 西끶쩀誓띭쩁西?西о쩀西약ㅅ 西밝쪎 |
+//西뺖쪒西?西멘쪍 西╆쪇西뜩쪓西?ㄸ, 西멘쪍西ⓣㅎ西むㄴ西?        
+//西?쪍 西ⓣ쪏西겯쪓西?ㄸ 西붲ㅀ 西끶ㄸ誓띭ㄿ 西쒉쨧西쀠ㅂ誓 西꿋쪑西?|        
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mere pati amir aur prasidh hai. / 내 남편 부자다!
+v2;50;Ji han! Yeh sach hai. / 그래그래..
+v1;110;Par ve mere liye kabhi kuch laatey nahi hai. / 근데 아무것도 주지 않았어.
+v2;160;Kyon nahi? Kal hi unhone tumhare liye teen sariyaan laayi thi. / 왜? 어제 그가 너에게 사리 세개를 주었잖아!
+
+//西?쪍西겯ㅎ 西むㄴ西?西끶ㄾ誓西?西붲ㅀ 西む쪓西겯ㅈ西욈ㄶ誓띭ㄷ 西밝쪎 |        
+//西쒉? 西밝ㅎ西? 西?쪍 西멘쩀 西밝쪎 |
+//西むㅀ 西듀쪍 西?쪍西겯쪍 西꿋ㅏ西?쪍 西뺖ㄽ誓 西뺖쪇西?西꿋ㅎ西ㅰ쪍 西ⓣㅉ誓 西밝쪎 |
+//西뺖쪓西?쪑西?西ⓣㅉ誓西? 西뺖ㅂ 西밝? 西됢ㄸ誓띭ㅉ誓뗠쨧西ⓣ쪍 西ㅰ쪇西?쪓西밝ㅎ西겯쪍 西꿋ㅏ西?쪍 西ㅰ?西?西멘ㅎ西□ㅌ西욈ㄿ西약쨦 西뽤ㅀ誓西╆ㅎ 西??|
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Aaj mere pati ne mere liye 50 tola sona kharida. / 내 남편이 금화 50닢을 벌어았어!
+v2;60;50 tola sona! Mere paas sirf 10 tola sona hai... / 50닢이라고? 나는 10닢이 전재산인데..
+v1;120;Aasha hai ki sitaare tumhare paksh mein honge. / 잘되길 빌게.
+
+
+//西녱쩂 西?쪍西겯쪍 西むㄴ西?西ⓣ쪍 西?쪍西겯쪍 西꿋ㅏ西?쪍 50 西ㅰ쪑西꿋ㅎ 西멘쪑西ⓣㅎ 西뽤ㅀ誓西╆ㅎ |        
+//50 西ㅰ쪑西꿋ㅎ 西멘쪑西ⓣㅎ! 西?쪍西겯쪍 西むㅎ西?西멘ㅏ西겯쪓西?10 西ㅰ쪑西꿋ㅎ 西멘쪑西ⓣㅎ 西밝쪎 ...        
+//西녱ㅆ西?西밝쪎 西뺖ㅏ 西멘ㅏ西ㅰㅎ西겯쪑西?西ㅰ쪇西?쪓西밝ㅎ西겯쪍 西む쨻誓띭ㅇ 西?쪍西?西밝쪑西귖쨽誓?                                
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mujhe pratimaon banane ka achha mauka mila hai. / 동상을 만들겠어!
+v2;50;Tum bahut achhe murtiyan banate ho.        / 그거 잘되겠는데?
+v1;100;Main pandhara saal se murtiyan bana raha hoon. / 동상을 15년째 만들고있는 달인이거든.
+
+//西?쪇西앧쪍 西む쪓西겯ㄴ西욈ㄾ西약쨹西?西оㄸ西약ㄸ誓?西뺖ㅎ 西끶쩀誓띭쩁西?西?쪒西뺖ㅎ 西?ㅏ西꿋ㅎ 西밝쪎|        
+//西ㅰ쪇西?西оㅉ誓곟ㄴ 西끶쩀誓띭쩁誓?西?쪈西겯쪓西ㅰㅏ西?쪑西?西оㄸ西?西ㅰ쪍 西밝쪑|        
+//西?쪎西?15 西멘ㅎ西?西멘쪍 西?쪈西겯쪓西ㅰㅏ 西оㄸ西?西겯ㅉ西?西밝쪈西?|        
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Hame aur phavadon ki zarurat hai. / 곡굉이가 필요해!
+v2;50;Main kaam mein vyasth hoon. / 바빠!
+v1;100;Phavdiyon ki bhi zarurat hai. / 삽도 필요해!
+v2;150;Uff! Mujhe kitna kaam karna padta hai! / 느어어어어! 일이 산더미다아아아아아!
+
+//西밝ㄾ誓뉋쨧 西붲ㅀ 西ムㅎ西듀ㄱ誓뗠쨧 西뺖? 西쒉ㅀ誓귖ㅀ西?西밝쪎 |
+//西?쪎西?西뺖ㅎ西?西?쪎西?西듀쪓西?ㅈ誓띭ㄴ 西밝쪈西?        
+//西ムㅎ西듀ㄱ西솰ㅏ西?쪑西?西뺖? 西?? 西쒉ㅀ誓귖ㅀ西?西밝쪎 |        
+//西됢ㄻ西솰ㄻ西? 西?쪇西앧쪍 西뺖ㅏ西ㅰㄸ西?西뺖ㅎ西?西뺖ㅀ西ⓣㅎ 西むㄱ西ㅰㅎ 西밝쪎 !        
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, shayad gaon ke nikat daaku hai! / <targetname>, 도둑이 있는게 느껴져!
+v2;50;Chinta mat karo, main gaon ki raksha karonga. / 걱정마, 내가 마을을 지키겠어!(사망플레그?)
+v1;100;Tum bahut shaktishaali ho! / 오오..강하구나..
+v1;130;Aur sundar bhi. / 멋져..
+v1;150;Agar aap ke paas moonch na hoti... / 수염만 없었다면..
+v2;200;Meri moonch ke baare main kuch bhi na kaho! / 수염예기좀 하지마!
+
+
+//<targetname>, 西뜩ㅎ西?ㄶ 西쀠ㅎ西귖ㅅ 西뺖쪍 西ⓣㅏ西뺖쩅 西□ㅎ西뺖쪈 西밝쪎!
+//西싟ㅏ西귖ㄴ西?西?ㄴ 西뺖ㅀ誓? 西?쪎西?西쀠ㅎ西곟ㅅ 西뺖? 西겯쨻誓띭ㅇ西?西뺖ㅀ誓귖쨧西쀠ㅎ|        
+//西ㅰ쪇西?西оㅉ誓곟ㄴ 西뜩쨻誓띭ㄴ西욈ㅆ西약ㅂ誓 西밝쪑!        
+//西붲ㅀ 西멘쪇西귖ㄶ西?西?? |        
+//西끶쨽西?西녱ㄺ 西뺖쪍 西むㅎ西?西?쪈西귖쩁誓뉋쨧 西?西밝쪑西ㅰ? ...        
+//西?쪍西겯? 西?쪈西귖쩁 西뺖쪍 西оㅎ西겯쪍 西?쪍西?西뺖쪇西?西?? 西?西뺖ㅉ誓?
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ 농사를..망쳤어...
+v2;40;Tu aalsi hai! Jyada kaam kar! / 너무 게으르니까 그렇지! 일좀 하라고!
+v1;80;Lekin baarish hi nahi hui... / 비가 오지 않았어..
+v2;120;Meri galti nahi hai. Mujhe apna paisa chahiye. / 내잘못이 아니야. 빌린돈 내놔!
+v1;170;Lekin mere paas paise nahi hai. / 돈이..없어..
+v2;210;Fir mujhe meri zameen do. / 그럼 밭이라도 가져가도록 하지.
+v1;260;Mere paas kuch bhi nahi rehe jayega! / 에에? 그럼 진짜 빈털털이야!
+
+//西멘쪍西ⓣㅎ西むㄴ西? 西뉋ㅈ 西멘ㅎ西?西ムㅈ西?西끶쩀誓띭쩁誓 西ⓣㅉ誓西?西밝쪎 |
+//西ㅰ쪈 西녱ㅂ西멘? 西밝쪎! 西쒉쪓西?ㅎ西╆ㅎ 西뺖ㅎ西?西뺖ㅀ!        
+//西꿋쪍西뺖ㅏ西?西оㅎ西겯ㅏ西?西밝? 西ⓣㅉ誓 西밝쪇西?...        
+//西?쪍西겯? 西쀠ㅂ西ㅰ? 西ⓣㅉ誓西?西밝쪎| 西?쪇西앧쪍 西끶ㄺ西ⓣㅎ 西む쪎西멘ㅎ 西싟ㅎ西밝ㅏ西?|        
+//西꿋쪍西뺖ㅏ西?西?쪍西겯쪍 西むㅎ西?西む쪎西멘쪍 西ⓣㅉ誓 西밝쪎 |        
+//西ムㅏ西?西?쪇西앧쪍 西?쪍西겯? 西쒉ㄾ誓西?西╆쪑|        
+//西?쪍西겯? 西むㅎ西?西뺖쪇西?西?? 西ⓣㅉ誓 西겯ㅉ 西쒉ㅎ西뤲쨽西?        
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Vaha Vyapaari apne ghar ke bagal mein ek naya ghar ban rahe hai. / 상인이 내 옆집에 살려고 하고있어!
+v2;60;Ek aur ghar? Par kyun? / 집을 짓는다고? 왜?
+v1;90;Vaha naya ghar unke betey ke liye hai. / 아들이 살 집이라나봐!
+v1;140;Jab unke betey ki shaadi hogi, tab dono paas me honge. / 그의 아들이 결혼하면 아버지와 아들집이 붙어있겠네?
+
+
+//西듀ㅉ 西듀쪓西?ㅎ西むㅎ西겯? 西끶ㄺ西ⓣ쪍 西섁ㅀ 西뺖쪍 西о쨽西?西?쪍西?西뤲쨻 西ⓣㄿ西?西섁ㅀ 西оㄸ西?西겯ㅉ誓?西밝쪎|
+//西뤲쨻 西붲ㅀ 西섁ㅀ? 西むㅀ 西뺖쪓西?쪑西?        
+//西듀ㅉ 西ⓣㄿ西?西섁ㅀ 西끶ㄺ西ⓣ쪍 西о쪍西잀쪍 西뺖쪍 西꿋ㅏ西?西밝쪎 |        
+//西쒉ㄼ 西됢ㄸ西뺖쪍 西о쪍西잀쪍 西뺖? 西뜩ㅎ西╆? 西밝쪑西쀠?, 西ㅰㄼ 西╆쪑西ⓣ쪑西?西むㅎ西?西?쪍西?西밝쪑西귖쨽誓?|
+
+
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Gaon ke mukhiye ne apni patni ke liye sone ke kangan laaye. / 도둑이 내 아내의 금목걸이를 가져갔어.
+v1;60;Par aap mere liye kuch nahi laatey... / 나는 보석을 받은적이 없는데..
+v2;110;Tumhe ek amir aadmi se shaadi karni chahiye thi. / 너는 부자랑 결혼했어야 했어.
+v1;160;Lekin mujhe aur dahej dena padta. / 지참금이 더 필요했을거야.
+v2;200;Fir tumhe bhagyawaan lagna chahiye ki main tumhara pati hoon. / 그럼 나랑 결혼한걸 행운으로 생각해.
+
+//西쀠ㅎ西귖ㅅ 西뺖쪍 西?쪇西뽤ㅏ西?쪍 西ⓣ쪍 西끶ㄺ西ⓣ? 西むㄴ誓띭ㄸ誓 西뺖쪍 西꿋ㅏ西?쪍 西멘쪑西ⓣ쪍 西뺖쪍 西뺖쨧西쀠ㄸ 西꿋ㅎ西?쪍|        
+//西듀ㅎ西? 西むㅀ 西녱ㄺ 西?쪍西겯쪍 西꿋ㅏ西?쪍 西뺖쪇西?西ⓣㅉ誓 西꿋ㅎ西ㅰ쪍...        
+//西ㅰ쪇西?쪓西밝쪍 西뤲쨻 西끶ㄾ誓西?西녱ㄶ西?? 西멘쪍 西뜩ㅎ西╆? 西뺖ㅀ西ⓣ? 西싟ㅎ西밝쨵 西?? |        
+//西꿋쪍西뺖ㅏ西?西?쪇西앧쪍 西붲ㅀ 西╆ㅉ誓뉋쩂 西╆쪍西ⓣㅎ 西むㄱ西ㅰㅎ|                
+//西ムㅏ西?西ㅰ쪇西?쪓西밝쪍 西?ㅎ西쀠쪓西?ㅎ西듀ㅎ西?西꿋쨽西ⓣㅎ 西싟ㅎ西밝ㅏ西?西뺖? 西?쪎西?西ㅰ쪇西?쪓西밝ㅎ西겯ㅎ 西むㄴ西?西밝쪈西?
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Maine bahit dinon se sharaab nahi piya hai. / 오랫동안 술을 본적이 없어..
+v2;50;Gaon ke bahar ek aadmi sharaab aur moongfali bechta hai. / 마을밖의 반얀나무 아래에있는 사람이 술이랑 땅콩을 팔아!
+v1;110;Sach? Maine socha tha ki gaon mein sharaab par pratibandh laga diya gaya hai. / 마을에서 술은 금지잖아!
+v2;160;Yeh kisi aur ko mat batana. / 아무한테도 말하지마.
+v1;200;Chalo, hum aaj shaam ko vahan jaatey hai. / 알았어, 저녁에 한번 가보자.
+
+
+
+
+//西?쪎西ⓣ쪍 西뺖쨮 西╆ㅏ西ⓣ쪑西?西멘쪍 西뜩ㅀ西약ㄼ 西ⓣㅉ誓 西むㅏ西?ㅎ 西밝쪎|
+//西쀠ㅎ西귖ㅅ 西뺖쪍 西оㅉ西약ㅀ 西뤲쨻 西녱ㄶ西?? 西뜩ㅀ西약ㄼ 西붲ㅀ 西?쪈西귖쨽西ムㅂ誓 西о쪍西싟ㄴ西?西밝쪎 |
+//西멘쩀? 西?쪎西귖ㄸ誓?西멘쪑西싟ㅎ 西?ㅎ 西뺖? 西쀠ㅎ西귖ㅅ 西?쪍西?西뜩ㅀ西약ㄼ 西むㅀ 西む쪓西겯ㄴ西욈ㄼ西귖ㄷ 西꿋쨽西?西╆ㅏ西?ㅎ 西밝쪎|        
+//西?ㅉ 西뺖ㅏ西멘? 西붲ㅀ 西뺖쪑 西?ㄴ 西оㄴ西약ㄸ西?         
+//西싟ㅂ誓?西밝ㄾ 西녱쩂 西뜩ㅎ西?西뺖쪑 西듀ㅉ西약쨦
+//西싟ㅂ誓? 西밝ㄾ 西녱쩂 西뜩ㅎ西?西뺖쪑 西듀ㅉ西약쨦
+
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kya aap ne mere liye khiloune laaye? / 장난감좀 있나요?
+
+
+//西뺖쪓西?ㅎ 西녱ㄺ 西ⓣ쪍 西?쪍西겯쪍 西꿋ㅏ西?쪍 西뽤ㅏ西꿋쪒西ⓣ쪍 西꿋쪍西?
+
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mere paas bahut saare dost hai.         / 나는 친구가 많아요.
+
+
+//西?쪍西겯쪍 西むㅎ西?西оㅉ誓곟ㄴ 西멘ㅎ西겯쪍 西╆쪑西멘쪓西?西밝쪎西?|
+
+
+
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Meri maa shaam ko mujhe khelne nahi deti hai. / 우리 엄마는 밤에 노는걸 허락하지 않으셔요.
+
+
+//西?쪍西겯? 西?ㅎ西?西뜩ㅎ西?西뺖쪑 西뽤쪍西꿋ㄸ誓?西ⓣㅉ誓 西╆쪍西ㅰ? 西밝쪎 |

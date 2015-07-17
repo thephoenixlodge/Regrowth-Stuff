@@ -1,0 +1,24 @@
+//Indian villagers
+culture.hindi=Hindi
+
+villager.indian_boy=Chlopczyk
+villager.indian_girl=Dziewczynka
+villager.indian_teenagerMale=Nastolatek
+villager.indian_teenagerFemale=Nastolatka
+villager.indian_lumberman=Drwal
+villager.indian_miner=Gornik
+villager.indian_pandit=Guru
+villager.indian_peasant=Robotnik
+villager.indian_peasantwife=zona robotnika
+villager.indian_rajputgeneral=Rajpucki General
+villager.indian_richwoman=Mozna pani
+villager.indian_soldier=Rajpucki zolnierz 
+villager.indian_villagechief=Szef wioski
+villager.indian_smith=Kowal
+villager.indian_armysmith=Wojskowy kowal
+villager.indian_sculptor=Rzezbiarz
+villager.indian_panditayin=Zona Guru
+villager.indian_raja=Radza
+villager.indian_rani=
+villager.indian_merchant=Kupiec
+villager.indian_lonetrader=Samotny kupiec

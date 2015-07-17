@@ -1,0 +1,300 @@
+//Name of the villager types
+//Left empty when no translation is needed
+//Norman:
+villager.carpenter=Normansk Snickare
+villager.cattleFarmerMale=Normansk Manlig djurbonde
+villager.cattleFarmerFemale=Normansk Kvinnlig djurbone
+villager.boy=Normansk Pojke
+villager.girl=Normansk Flicka
+villager.teenagerMale=Normansk Tonårig Pojke
+villager.teenagerFemale=Normansk Tonårig Flicka
+villager.farmer=Normansk Bonde
+villager.viking_merchant=Normansk Vikinga Handlare
+villager.weapon_merchant=Normansk Vapen Handlare
+villager.plant_merchant=Normansk Växt Handlare
+villager.oriental_merchant=Normansk Orientalisk Handlare
+villager.art_merchant=Normansk Konstnärlig Handlare
+villager.wool_merchant=Normansk Ull Handlare
+villager.food_merchant=Normansk Mat Handlare
+villager.guard=Normansk Vakt
+villager.guildmaster=Normansk Skrå Mästare
+villager.knight=Normansk Riddare
+villager.lady=Normansk Dam
+villager.lumberman=Normansk Timmerman
+villager.merchant=Normansk Handlare
+villager.miner=Normansk Gruvarbetare
+villager.monk=Normansk Munk
+villager.priest=Normansk Präst
+villager.seneschal=Normansk Lagman
+villager.smith=Normansk Smed
+villager.wife=Normansk Fru
+
+//Indian villagers
+villager.indian_boy=Indisk Pojke
+villager.indian_girl=Indisk Flicka
+villager.indian_teenagerMale=Indisk Tonårig Pojke
+villager.indian_teenagerFemale=Indisk Tonårig Flicka
+villager.indian_lumberman=Indisk Timmerman
+villager.indian_miner=Indisk Gruvarbetare
+villager.indian_pandit=Indisk Präst
+villager.indian_peasant=Indisk Bonde
+villager.indian_peasantwife=Indisk Bondfru
+villager.indian_rajputgeneral=Indisk Rajput General
+villager.indian_richwoman=Indisk Rik Dam
+villager.indian_soldier=Indisk rajput Soldat
+villager.indian_villagechief=Indisk Stadsöverhuvud
+villager.indian_smith=Indisk Smed
+villager.indian_armysmith=Indisk Armé Smed
+villager.indian_sculptor=Indisk Skulptör
+villager.indian_merchant=Indisk Handlare
+villager.indian_panditayin=Indisk Präst Fru
+villager.indian_raja=Raja
+villager.indian_rani=Rani
+
+
+
+//Cultures
+culture.norman=Normande
+culture.hindi=Hindi
+
+startup.loadproblem=Ett fel uppstod när Minecraft skulle ladda <0>.
+startup.checkload=Kontrollera att Culture katalogen är i Millenaire katalogen i Minecraft katalogen.
+startup.millenaireloaded=<0> är laddad. Utforska och tryck "v" för att lokalisera byar.
+startup.radiuswarning=VARNING: Ställa Village Radius så högt bör inte behövas och kommer att orsaka mycket större eftersläpning. Värden över 70 rekommenderas inte.
+
+command.nogenerate=<0>kommer inte längre att generera byar på nya Chunks i denna värld.
+command.willgenerate=<0> kommer nu att generera byar på nya Chunks i denna värld.
+command.astarpathing=Använder A* pathing
+command.binarypathing=Använder binär pathing
+command.inactive=Inaktiv
+command.active=Aktiv
+command.frozen=Frusen
+command.villagelist=<0> (<1>) är <2> meter åt <3>.
+command.noknowvillage=Inga kända byar närmare än 2 km. Fortsätta att leta!
+command.newvillagefound=Ny by hittad: <0> av typen <1> och kultur <2> är <3> meter åt <4>.
+
+//Text used in various UI parts, in no specific order:
+ui.lockedchest=Låst kista
+ui.largelockedchest=Stor låst kista
+ui.outofstock=Tillfälligt slut!
+ui.missingdeniers=Du saknar <0> deniers.
+ui.missingequipment=Saknad utrustning
+ui.noneininventory=Du har inte någon i din väska.
+ui.selling=Säljer
+ui.buying=Köper
+ui.sellercoming=Jag kommer snart, herrn!
+ui.tradecomplete=Jag hoppas att du tyckte om att handla hos oss idag! Ha en bra dag.
+ui.wesell=Vi säljer
+ui.webuy=Vi köper
+ui.isell=Jag säljer
+ui.inventory=Väska
+ui.villagechief=Ledare över byn <0>
+ui.yourstatus=Din status
+ui.possiblehousing=Möjliga hus
+ui.alreadybuilt=Redan byggd
+ui.alreadyrequested=Redan efterfrågad
+ui.notavailableyet=Inte tillgänglig än
+ui.available=Tillgänglig
+ui.youaremissing=Du saknar: <0>
+ui.scrollsnoreputation=Ditt rykte är inte tillräckligt för att köpa byns rullar.
+ui.scrollsok=Du kan köpa byns rullar.
+ui.buyscroll=Köp byrullen.
+ui.cost=Kostar
+ui.scrollbought=Du är anförtros nu med vår bys pergament!
+ui.housebought=Uppbyggnaden av ditt <0> börjar snart!
+ui.inconstruction=Under uppbyggnad
+ui.nospace=Inte tillräckligt med utrymme
+ui.reservedforvillager1=Reserverad
+ui.reservedforvillager2=För bybo
+ui.currentlyempty1=Just nu är
+ui.currentlyempty2=huset obebott
+ui.visitorslist1=Lista över
+ui.visitorslist2=besökare
+ui.goodstraded=Varor handlade
+ui.imports=Importerar
+ui.exports=Exporterar
+ui.merchants=Handlare
+ui.goalscompleted1=Alla byggnads
+ui.goalscompleted2=mål klara
+ui.project=Projekt
+ui.noconstruction1=Inget är 
+ui.noconstruction2=under uppbyggnad
+ui.upgrading=Uppgraderar
+ui.construction=Uppbyggnad
+ui.population=Population
+ui.adults=Vuxna
+ui.teens=Tonåringar
+ui.children=Barn
+ui.villagemap=Karta över byn
+ui.wandwrongblock=Denna stav fungerar bara på ett obsidian block för en slumpmässig by eller på följande block:
+ui.wandblocklist=<0> för en <1>
+ui.brickinstructions=En jord och en sand behövs för att skapa tegel.
+ui.buildingscentre=Mitten
+ui.buildingsstarting=Start byggnader
+ui.buildingsplayer=Spelarens byggnader
+ui.buildingskey=Nyckel byggnader
+ui.buildingssecondary=Andra byggnader
+ui.buildingsextra=Extra byggnader
+ui.worldnotgenerated=Området runtomkring är inte helt genererat. Gå runt lite och kom tillbaka.
+ui.lackingresources=Otillräckliga resurser
+ui.import_total=Total import
+ui.export_total=Total export
+
+
+//Item names
+item.building=Byggnad
+item.normanPickaxe=Normansk Stenhacka
+item.normanAxe=Normansk Yxa
+item.normanShovel=Normansk Spade
+item.normanHoe=Normanskt Hacka
+item.normanBroadsword=Normanskt Svärd
+item.normanHelmet=Normansk Hjälm
+item.normanPlate=Normansk Bröstplåt
+item.normanLegs=Normanska Byxor
+item.normanBoots=Normanska Stövlar
+item.rice=Ris
+item.turmeric=Gurkmeja
+item.vegcurry=Vegetarisk Curry
+item.chickenmeat=Kyckling
+item.chickencurry=Murgh Curry
+item.brickmould=Tegel Form
+item.rasgulla=Rasgulla
+item.plaintimber=Enkel Trästomme
+item.crosstimber=Korsformad Trästomme
+item.wetbrick=Blöt Tegel
+item.cookedbrick=Kokt Tegel
+item.mudbrick=Ler Tegel
+item.indianstatue=Indisk Staty
+item.cider=Cider
+item.villagescroll=By Rulle
+item.normanfull=Normansk Rulle
+item.villagewand=Byskaparstav
+item.dwarves_amulet=Dvärg Amulet
+item.yddrasil_amulet=Yddrasil Amulet
+item.skoll_hati_amulet=Sköll och Hati Amulet
+item.normanitems=Normanska Saker
+item.normanbuildings=Normanska Byggnader
+item.ciderapple=Cider Äpple
+item.normanvillagers=Normanska Bybor
+item.tapestry=Tavla
+item.raven_amulet=Korp Amulet
+item.indianfull=Indisk Rulle
+item.indianitems=Indiska saker
+item.indianbuildings=Indiska byggnader
+item.indianvillagers=Indiska bybor
+
+
+
+
+//Errors
+ui.updateEntity=Fel i TileEntityBuilding.updateEntity(). Titta i millenaire.log.
+
+//Panels & parchments
+panels.notextfound=Ingen text hittad för boken.
+panels.invalidid=Ogiltig by ID.
+panels.toofar=Byn är för långt bort för att ladda sina journaler.
+panels.recordsnotloaded=By journalerna kunde inte laddas.
+panels.villagescroll=By rulle
+panels.mother=Mor
+panels.father=Far
+panels.spouse=Make
+panels.missing=FÖRSVUNNEN!
+panels.multiple=NUVARANDE <0> GÅNGER!
+panels.currentoccupation=Nuvarande sysselsättning
+panels.visitors=Besökare
+panels.constructions=Uppbyggnader
+panels.upgrade=uppgraderingar
+panels.buildingprojects=Byggnads Projekt
+panels.notyetbuilt=inte byggd än
+panels.nbupgradesleft=<0> uppgraderingar kvar att bygga.
+panels.finished=klar
+panels.houseunoccupied=Det här huset är obebott. Barn som har vuxit till tonåringar kommer så småningom att flytta in och bli vuxna.
+panels.man=Man
+panels.woman=Kvinna
+panels.nofemaleresident=Detta hus kommer aldrig att få en kvinnlig invånare.
+panels.bachelor=Mannen som bor här är fortfarande en ungkarl. En flicka som växer till en tonåring kommer så småningom att flytta in
+panels.nomaleresident=Detta hus kommer aldrig att ha en manlig invånare.
+panels.spinster=Kvinnan som bor här är fortfarande ogift. En pojke som växer till en tonåring kommer så småningom att flytta in
+panels.resources=Resurser
+panels.goodstraded=Varor som handlas i den här byn
+panels.goodsimported=Importerad från andra byar
+panels.goodsexported=Exporterad till andra byar
+panels.innvisitors=Besökare till den här <0>
+panels.mappurple=Lila: pågående uppbyggnader.
+panels.mapblue=Blå: andra byggnader.
+panels.mapgreen=Grön: lämplig byggnads områden.
+panels.mapred=Röd: farliga områden (lava, kaktus, etc).
+panels.mapyellow=Gul: konstruktion förbjudet (is, konstgjorda block).
+panels.maporange=Orange: konstruktion förbjuden (för nära en byggnad).
+panels.maplightblue=Ljusblå: vatten.
+panels.mapbrown=Brun: andra områden (utanför höjdintervall, etc).
+panels.merchantlist=Handlare lista
+panels.capacity=Kapacitet
+panels.nbnightsin=I byn sedan <0> natt/nätter.
+panels.storedexports=<0> lagrade följande för export
+panels.broughtimport=<0> tog med sig följande till byn
+panels.startedtrading=<0> (<1>) har omfamnat handels karriären.
+panels.merchantmovedout=<0> (<1>) gick till <2> efter <3> dagar i byn.
+panels.merchantarrived=<0> (<1>) kom från <2>.
+
+
+
+
+//Goals (text displayed above the villager when he is doing it)
+goal.gorest=Vilar
+goal.godrink=Borta för en drink
+goal.gopray=Ber
+goal.GatherGoods=Samlar varor
+goal.BringBackResourcesHome=Tar resurserna tillbaka
+goal.GetTool=Hämtar ett redskap
+goal.huntMonster=Slåss mot ett monster
+goal.GetGoodsHousehold=Hämtar varor för hushållet
+goal.DeliverGoodsHousehold=Levererar varor till hushållet
+goal.GetHouseTHResources=Tar varor från hemmet
+goal.DeliverResourcesShop=Levererar varor
+goal.CollectCrop=Samlar grödor
+goal.PlantSeeds=Sår frön
+goal.ChopTrees=Hugger träd
+goal.PlantSaplings=Planterar plantor
+goal.GetResourcesForBuild=Samlar resurser för en konstruktion
+goal.MakeBread=Bakar bröd
+goal.BeSeller=Säljer till spelaren
+goal.MakeCider=Gör cider eller calva
+goal.Construction=Bygger
+goal.GoPlay=Leker
+goal.BecomeAdult=Flyttar in
+goal.MakeTools=Tillverkar redskap
+goal.Patrol=Patrullerar
+goal.Butcher=Styckar Kött
+goal.MakeBoudin=Lagar boudin
+goal.Mining=Hugger sten
+goal.Cooking=Smälter Resurser
+goal.MakeBooks=Tillverkar pergament
+goal.MakeTapestry=Tillverkar tapestries
+goal.VisitInn=Går till värdshuset
+goal.VisitBuilding=Går till en affär
+goal.MakeAmulet=Tillverkar en amulet
+goal.KeepStall=Håller sitt stall
+goal.MakeTimberFrame=Tillverkar trästomme
+goal.DryBrick=Sätter tegel på tork
+goal.GatherBrick=Samlar torkat tegel
+goal.CookBrick=Steker tegel
+goal.PlantRice=Planterar ris
+goal.HarvestRice=Skördar ris
+goal.PlantTurmeric=Planterar gurkmeja
+goal.HarvestTurmeric=Skördar gurkmeja
+goal.SlaughterChicken=Slaktar kyckling
+goal.PlantSugarCane=Planterar sockerrör
+goal.HarvestSugarCane=skördar sockerrör
+goal.MakeRasgulla=Tillverkar rasgullas
+goal.makeindianweapons=Tillverkar vapen
+goal.makeindiantools=Tillverkar redskap
+goal.scult=Tillverkar en skulptur
+
+
+//other
+other.west=Väst
+other.east=Öst
+other.north=Nord
+other.south=Syd
+

@@ -1,0 +1,92 @@
+villager.greeting=Bonjour, $name! / Witaj, $name!
+villager.greeting=Belle journée, n'est pas? / Piekny dzien, czyz nie?
+villager.greeting=Il va pleuvoir, je le sens / Zanosi sie na deszcz, czuje to.
+villager.greeting=Je ne me souvenais pas de la Normandie comme ça. / Nie tak zapamietalem Normandie.
+guard.greeting=Vous avez l'air un peu faible, $name. Je vous protègerais si vous avez des ennuis. / Cos zes chuderlawy, $name. Obronie Cie jesli wpadniesz w klopoty.
+priest.greeting=Soyez béni, mon fils. / Blogoslawie Cie moj synu.
+monk.greeting=Dieu soit avec toi, mon frère. / Bog z Toba bracie.
+boy.greeting=Quand je serai grand, je veux être comme papa. / Kiedy dorosne chce byc jak tata!
+knight.greeting=Je n'obéi qu'au Roi Guillaume, Duc de Normandie, et à Dieu. Dans cet ordre. / Sluze tylko Krolowi Williamowi, Ksieciu Normandii i Bogu. W tej kolejnosci.
+knight.greeting=$name, saviez-vous que j'ai combattu à Hastings? / $name czy wiedziales, ze walczylem pod Hastings?
+knight.greeting=Je prend possession de cette terre au nom du Duc de Normandie! / Zajmuje ta dziwna kraine w imieniu Ksiecia Normandii!
+lady.greeting=Ma sœur a épousé un duc. Je vis ici. / Moja siostra wyszla za ksiecia, a ja mieszkam tutaj.
+lady.greeting=Vous auriez dû voir le château de mon père. Ca c'était une vrai forteresse. / Powinienes zobaczyc zamek mojego ojca. Teraz jest to imponujaca forteca.
+viking_merchant.greeting=Cette terre appartient aux vikings. L'Angleterre aussi. La Sicile aussi. Vive nous! / Teraz jest to ziemia Wikingow. Anglia jest ziemia Wikingow. Sycylia jest ziemia Wikingow. Rzadzimy!
+viking_merchant.greeting=Aujourd'hui je vient commercer. Demain... / Dzis przybylem handlowac. Jutro...
+weapon_merchant.greeting=Vous voulez vraiment savoir comment j'ai survécu toutes ces années voyageant seul avec des marchandises précieuses? / Czy ciekawi Cie jak przetrwalem wszystkie te lata podrozujac samotnie z cennym towarem?
+plant_merchant.greeting= / Niektorzy twierdza zem marzyciel, lecz nie ja jedyny...
+oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soit si froid? / Ta ziemia jest bogata, ale czy musi byc tu tak zimno?
+oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Byles w Cordobie? Teraz jest to cywilizowane miejsce.
+art_merchant.greeting=Les gens ici sont des barbares. / Tutejsi ludzie to barbarzyncy.
+art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / zadne miasto na swiecie nie moze sie rownac z Konstantynopolem.
+art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / My Bizantyjczycy jestesmy ostatnimi prawdziwymi Rzymianami. Plawimy sie w blasku chwaly naszego imperium.
+wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Holenderskie tkaniny sa najdoskonalsze na zachod od Cathay.
+seneschal.greeting=Je gère ces terres pour mon roi. / Zarzadzam tymi ziemiami w imieniu krola.
+seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Nie moge sie doczekac powrotu na dwor krolewski.
+guildmaster.greeting=Les artisans ne valent rien sans quelqu'un pour les superviser. / Rzemieslnicy sa do niczego bez kogos do pokierowania nimi.
+
+knight.patrol=Je reigne sur ces terres. / Rzadze tymi ziemiami.
+knight.patrol=La force fait le droit, et je suis fort. / Potega jest prawa, a ja jestem potezny.
+
+lady.MakeTapestry=Personne ici n'apprécie l'art. / Nikt tu nie docenia sztuki.
+lady.MakeTapestry=Peut-être que ces pièces seront moins glauques avec ces tapisseries. Peut-être. / Moze to miejsce bedzie wygladac mniej obskurnie z tymi na murze. Moze.
+
+villager.gorest=Un peu de repos me ferait du bien... / Przydalo by mi sie troche odpoczynku...
+villager.gorest=La vie ici est un peu morne. / zycie tu jest troche nudne.
+villager.gorest=Rien d'intéressant n'arrive jamais ici. / Nic ekscytujacego tu sie nigdy nie dzieje.
+villager.gorest=Je suis fatigué. / Jestem zmeczony.
+villager.godrink=C'est à boire qu'il nous faut! / Musze sie napic!
+villager.godrink=Un cidre n'a jamais fait de mal à personne. / lyczek jablecznika jeszcze nikogo nie zabil.
+villager.gopray=Je parle à Dieu, pas vous, $name. / Mowie do Boga, a nie do Ciebie $name.
+
+farmer.BringBackResourcesHome=Récoltons ce blé doré. / Zaniesmy ta zlocista pszenice do domu.
+farmer.CollectCrop=On dirait que le blé est mûr. / Spojrz jaka ta pszenica jest dojrzala.
+farmer.PlantSeeds=Je plante, et je récolterai. / Sieje, by pozniej zbierac plony.
+
+lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Nawet zona przyzna, ze sie urobilem po pachy.
+lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Uwazaj! scinam drzewo.
+lumberman.GatherGoods=Bel arbrisseau là-bas. / Fajna ta sadzonka.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Wkrotce to bedzie wielkie, majestatyczne drzewo. I wtedy je zetne!
+
+wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Wyglada na to, ze moj leniwy maz choc raz cos zrobil.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Przerwa, by przyniesc tone lub dwie materialow budowlanych. Jestem silniejszy niz wygladam.
+//villager.DeliverResourcesShop=
+wife.MakeBread=Mon pain est le meilleure du village. / Moj chleb jest najlepszy w wiosce.
+//villager.BeSeller=Coming, coming!
+wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Przygotowywanie jablecznika to nie jest wcale taka zla robota.
+wife.Construction=Je construit, je construit, comme seule une femme le peu ! / Budowanie, budowanie, jak tylko kobieta potrafi!
+wife.Construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Mezczyzna nie ma zrecznosci potrzebnej do precyzyjnej roboty.
+wife.Construction=Ca va être un bâtiment superbe. / To bedzie niezle wybujaly budynek.
+wife.GetGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Czemu to zawsze mnie wysylaja po nowe materialy?
+wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Przynies to, przynies tamto". Ktoregos dnia sie wkurze!
+
+villager.GoPlay=Je vais aller jouer dehors. / Mysle, ze pojde sie bawic na dworze.
+villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Czas zostac kims na tym swiecie!
+
+villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Nie zjadl bys tego, gdybys wiedzial jak to jest robione.
+
+smith.MakeTools=Les outils normands sont les meilleurs du monde. / Narzedzia Normanow sa najdoskonalsze na swiecie.
+
+miner.Mining=Miner est un art, vous savez. / Wiesz, gornictwo to sztuka.
+miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Nikt inny w wiosce nie ma sily i wytrzymalosci do tej pracy. A myslisz, ze czemu ja zawdzieczam?
+miner.Cooking=Ca c’est de la vrai cuisson. / No, teraz to jest prawdziwe gotowanie.
+
+villager.gopray.chosen=Ca fait longtemps que je n’ai pas prié… / Zbyt dlugo sie nie modlilem…
+priest.gopray.chosen=Prier est plus dur qu’il n’y paraît. / Modlitwa to wiecej pracy niz na to wyglada.
+
+villager.calltoarms=Aux armes ! Aux armes ! / Do broni! Do broni!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tous pour un ! / Jeden za wszystkich!
+villager.calltoarms=Aux armes, citoyens! / Do broni mieszczanie!
+
+monk.makebooks=Si la vanité n’était pas un péché, je dirai que mes manuscrits sont les plus beaux du pays. / Gdyby proznosc nie byla grzechem to powiedzialbym, ze moje manuskrypty sa najlepsze w kraju.
+
+priest.makeamulets=Ceci ne devrait pas être vu par un étranger… / Tego nie nie powinny widziec obcy...
+
+viking_merchant.KeepStall=La magie viking est puissance. / Magia Wikingow to potezna magia.
+viking_merchant.KeepStall=Venez et achetez. Je ne vous parlerai pas des sacrifices nécessaires pour rendre ces amulettes puissantes. / Chodz i kup. Nie powiem Ci jakie poswiecenia byly uczynione by dac tym amuletom moc.
+weapon_merchant.KeepStall=Vous ne voulez pas savoir ce qui est arrivé à l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisée. / Nie chcesz wiedziec co sie stalo z czlowiekiem, ktory podarowal mi ta blizne. Mozesz jednak kupic miecz, ktorego wtedy uzylem.
+plant_merchant.KeepStall=Je vend toutes les herbes dont vous aurez jamais besoin. / Sprzedaje wszelkie ziola jakich moglbys kiedykolwiek potrzebowac.
+oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d’ici ne voient jamais ! / Chodz i zobacz luksusy o jakich ludzie moga tylko marzyc!
+art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Perly przed swiniami, jak to mawiaja tutaj.
+wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Wszelka rozowa welna jakiej kiedykolwiek bedziesz potrzebowac!

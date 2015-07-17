@@ -1,0 +1,43 @@
+﻿Millénaire: Aldeanos normandos
+
+Jefes de aldea
+
+Chevalier: Caballero. Vive en el fuerte, desde el cual sale a patrullar su tierra y a visitar la taberna. ¡Ten cuidado de encontrártelo en batalla! Es el jefe de los pueblos militares y Grous Bourgs (Grandes Ciudades).
+
+Moine: Monje. Vive en la abadía, en la que laboriosamente copia libros antiguos a nuevos pegaminos. Un arte, según él - Jefe de las aldeas y caseríos eclesiásticos.
+
+Sénéchal : Senescal. Supervisa la producción agrícola de su pueblo, acomodado en una finca. Jefe de las aldeas y caseríos agrícolas.
+
+Maître de la Guilde : Maestro gremial. Supervisa la producción de los artesanos desde una casa gremial. Cabeza de las aldeas y caseríos artesanales.
+NEW_PAGE
+Mujeres
+
+Villageoise: Aldeana. Casi todas las mujeres adultas son de este tipo. Su rol incluye traer recursos recolectados por sus esposos al ayuntamiento, trabajo de contrucción en nuevos edificios y mejoras en los viejos, y vender y comprar bienes al jugador en distintos lugares.
+
+Dame: Dama. Vive en el fuerte con su esposo, en donde hace tapices a partir de lana para decorar el fuerte y vendérselos al jugador.
+NEW_PAGE
+Hombres
+
+Fermier: Granjero. Vive en una granja, en donde siembra y cosecha cultivos.
+
+Bûcheron: Leñador. Vive en una cabaña de leñador. Recoge madera y manzanas de sidra de árboles que planta en arboledas, luego los replanta para continuar la producción.
+
+Garde: Guardia. Vive en una casa de guardia. No hace nada sino beber sidra y ocasionalmente rezar, al menos que un amigo aldeanos sea atacado. No es bueno tenerlo de enemigo, especialmente si está armado con una temible espada larga normanda.
+
+Prêtre: Sacerdote. Vive solo en un presbiterio. Cuando no está rezando en la iglesia, duerme. Se rumorea que esconde su conocimiento de rituales vikingos antiguos detrás de una fachada de devoción católica.
+
+Forgeron: Herrero. Vive en una herrería o en una armería. Si hay hierro disponible, hará herramientas si está en la herrería y espadas y armadura si está en la armería.
+
+Eleveur / Eleveuse : Criador / Criadora. Viven en fincas ganaderas, granjas de cerdo o en granjas de pollos. Recolectan varios bienes provenientes de las granjas y hacen deliciosas tripas normandas y sabroso boudín noir.
+
+Mineur : Minero. Vive y trabaja en una cantera, mina sin descanso piedra y arena. Cuando su cantera es mejorada con hornos, funde la piedra y la arena en piedra lisa y vidrio.
+
+Charpentier : Carpintero. Vive y trabaja en una casa de carpintero, en donde hace marcos de madera para ser usados en contrucciones de edificios.
+
+Marchant : Mercader. Va de posada en posada, comerciando bienes de un pueblo al otro. Su destino es vagar, por el bien de todos los pueblos.
+
+Marchant étranger : Mercader extranjero. Mercaderes provenientes de lugares muy lejanos visitarán los mercados para vender sus productos exóticos.
+NEW_PAGE
+Niños
+
+Garçon / fille : Niño / Niña. Viven con sus padres, crecen durante la noche, hasta que son lo suficientemente grandes para mudarse a casas vacías.

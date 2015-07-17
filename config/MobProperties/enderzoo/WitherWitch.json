@@ -1,6 +1,9 @@
 {
   "_name": "enderzoo.WitherWitch",
-  "drops": [],
+  "drops": [{
+	"function" : "remove",
+	"id" : "minecraft:redstone"
+	}],
   "pre_stats": [],
   "stats": []
 }

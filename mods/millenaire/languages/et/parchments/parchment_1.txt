@@ -1,0 +1,44 @@
+﻿version:4.2.1
+Millénaire: Normanni elanikud
+
+Küla juhid
+
+Ratsarüütel: Rüütel. Elab lossis, kust ta läheb patrullima oma maad ja külastab kõrtsi. Ole valmis kohtuma temaga lahingus! Sõjaväe ja Gros Bourg küla juht.
+
+Abbé: Abbot. Elab kloostris, juhatab munki. Vaimulike alevike ja külade juht.
+
+Sénéchal : Seneschal. Jälgib oma küla põllumajandustoodangut oma mõisast. Juhataja põllumajandus-alevikes ja külades.
+
+Maître de la Guilde : Gildi Meister. Juhendab käsitööliste tootmist gildi majast. Juht käsitöönduslikes alevikes ja külades.
+NEW_PAGE
+Naised
+
+Villageoise: Nais külaelanik. Peaaegu kõik täiskasvanud naised on seda tüüpi. Nende roll on tuua valmistatud materjalid, mis nende abikaasad teinud, raekotta. Ehitus tööd uutes hoonetes ja vanade täiustamine ning müüa ja osta mängjialt mitmeis erikohas.
+
+Dame: Leedi. Elab kindluses koos oma abikaasaga, kus ta valmistab villaseid vaipu, et dekoreerida kindlust ja müüa mängijale.
+NEW_PAGE
+Mehed
+
+Fermier: Mees farmer. Elab farmis, kus ta kasvatab ja koristab vilja.
+
+Bûcheron: Metsatööline. Elab metsatööliseonnis. Kogub puitu ja siidriõunu puiestikest ja istutab viljapuuistikud et toota rohkem puid.
+
+Garde: Valvur. Elab valvurite majas. Ei tee midagi peale siidri joomise ja väga harva palvetab, niikaua kui külaelaniku pole rünnatud. Ei ole hea vastane, eriti siis kui ta on relvastatud hirmuäratava Normannimõõgaga.
+
+Prêtre: Preester. Elab üksi. Kui ta ei palveta kirikus, siis ta magab.Forgeron: Sepp. Eleb sepikojas või relvalaos.  Kui rauda on võimalik saada valmistab ta tööriistu, kui ta on sepikojas või relvalaos valmistab mõõku ja rüüsid.
+
+Eleveur : Looma kasvataja. Elab veisekasvanduses, sigalates või a kanalates. Kogub erinevaid loomseid saadusi ja teeb kirglikku Normanni tripeseid ning maitsvaid Boudin noire.
+
+Mineur : Kaevur. Elab ja töötab karjääris, kaevab väsimatult kivi ja liiva. Kui ta karjääri täiustada ahjudega, siis sulatab ta ilu kive ja klaasi ka.
+
+Dissler : Dissler. Elab ja töötab töökojas, kus ta teeb puitraame mida kasutatakse ehitistes.
+
+Moine : Munk. elab kloostris, kus ta raskustega kopeerib vana raamatuid uutele pärgamentidele. See on kunst tema arvates.
+
+Marchant : Kaupmees. Käib baaridest baaridesse, vahetab kaupa külast külla. See on tema töö liikuda ringi külaelanike hüvanguks.
+
+Marchant étranger : Võõr kaupmees. Kaupmehed kaugetest kohtadest külastavad turge et müüa eksootilist kaupa, enne kui nad lahkuvad raskelt teenidud denaaridega.
+NEW_PAGE
+Lapsed
+
+Garçon / fille : Pois ja tüdruk. Elavad vanematega, kasvavad öösiti, enne kui nad pole piisavalt suured et liikuda tühja elamusse ja saada täiskasvanuks.

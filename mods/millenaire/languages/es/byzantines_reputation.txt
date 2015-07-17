@@ -1,0 +1,10 @@
+0;Extranjero;Como pueblo debemos aceptar a todos. Pero eso no significa que confiemos en ellos.
+4*64;Cara Conocida;En este ultimo tiempo se te ha visto bastante en esta tierra Romana.
+16*64;Visitante Regular;Xaire, $name! Me alegro de verte, ¿Cómo ha ido todo?
+64*64;Comerciante Favorito;Todos estan muy felices de verte, ¿Tienes algo para comerciar hoy?
+2*64*64;Amigo de la Aldea;Eres parte de nuestra aldea $name, ¡Confiamos en ti!
+8*64*64;Uno de Nosotros;Eres un ciudadano Romano $name. Tal vez no hayas nacido como uno de nosotros, pero estamos orgullosos de poder llamarte un verdadero Romano.
+32*64*64;Lider Natural;$name, te has ganado la confianza y el respeto de los Bizantinos. Te seguirán a donde vayan.
+-64;Molestia;No eres muy agradable, $name. Ten Cuidado.
+-4*64;Forastero Desagradable;Aceptamos comerciantes, pero no gente como tu. Mantente Alerta.
+-16*64;Enemigo Público;Es una verguenza que aún estés vivo. Mientras aún estés vivo mantente alejado de las tierras romanas.

@@ -1,0 +1,67 @@
+﻿
+
+villager.greeting=Namaste, $name-ji! / Gegroet, $name-ji!
+villager.greeting=Aaj bahut garmi hai. / Het is erg warm vandaag.
+villager.greeting=Kya haal hai? / Hoe is het?
+villager.greeting=Kya khabar hai? / Is er nieuws?
+villager.greeting=Ghar par sa theek hain? / Is alles goed thuis?
+villager.greeting=Yeh barish kyun nahin ho rahi? / Waarom regent het niet?
+villager.greeting=Kya tum se kale pani se pare ho? / Ben je van over de oceaan?
+indian_pandit.greeting=Jeetey raho. / Heb een lang leven.
+merchant_oriental.greeting=Salam alaikum, bhai! / Vrede is aan jou, broeder!
+merchant_adivasi.greeting=Main van se a raha hoon / Ik heb net aangekomen van het bos
+merchant_villagewoman.greeting=Ek akeelii mahila ke lie safar karna mushkil hai / Reizen is moeilijk voor een alleenstaande vrouw.
+
+male.gorest=Ab jaakey aaram karta hoon. / Nu ga ik en ik ga rusten.
+male.gorest=Subah sey kaam kar raha hoon. / Ik werk al sinds de ochtend.
+male.gorest=Main thak gaya hoon. / Ik ben moe.
+
+female.gorest=Ab jaakey aaram karti hoon. / Ik ga nu en ik ga rusten.
+female.gorest=Subah sey kaam kar rahi hoon. / Ik werk sinds de zon op is.
+female.gorest=Main thak gayi hoon. / Ik ben moe.
+
+villager.gopray=Hey Bhagwan, is baar phasal achhi ho. / Beste god, zal de oogst goed zijn?
+villager.gopray=Bhagwan, bas aap hi ka sahara hai. / God U bent mijn enige hoop.
+
+indian_lumberman.BringBackResourcesHome=Itna saara lakri ghar ley jaaney mein mushkil hooga. / Het zal moeilijk zijn zo veel hout naar huis te brengen.
+indian_lumberman.ChopTrees=Yeh lakri kaat-tey kaat-tey meri zindagi beet jayegi. / Het lijkt erop dat ik in mijn leven alleen bomen zal om hakken.
+indian_lumberman.GatherGoods=Ab saari lakriyan ikaththa karta hoon. / Nu verzamel ik al het hout.
+indian_lumberman.PlantSaplings=Jitna zyaada ped lagaoonga, utna hi aagey jaakey aaram raheyga. / Hoe meer bomen ik plant, des te makkelijker mijn leven later zal zijn. 
+
+indian_peasant.DryBrick=Ghar bananey key liye kitney inth chahiyey? / Hoeveel stenen heb je nodig om een huis te bouwen? 
+indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / De zon is fel, ze drogen snel vandaag. 
+indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Kijk hoe goed deze stenen bakken in de oven.
+villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Als het hard regent, zal de oogst goed zijn dit jaar.
+villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Omdat het de laatste tijd veel regent, is de oogst goed.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Na alles, heeft iedereen tumeric nodig.
+villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Deze tumeric oogsten, maakt mijn handen geel.
+indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Als ik genoeg vegetarische curry had!
+
+indian_peasantwife.GetHouseTHResources=Sab kuch toh thakur ko dey dena padta hai. / Alles verdwijnt altijd in het huis van de landheer. 
+indian_peasantwife.GetGoodsHousehold=Inkey liye chahey jitna bhi khana lao, kam padta hai. / Het maakt niet uit hoeveel je hebt voor deze familie, het is nooit genoeg!
+indian_peasantwife.DeliverGoodsHousehold=Uffh, itna sara khana akeley kaisey leh jaoongi. / Hoe moet ik al dit eten alleen vervoeren?
+indian_peasantwife.makeRasgulla= Bacchon koh rasgulla bahut pasand hai. / De kinderen houden van rasgullas.
+
+
+indian_peasant.GetResourcesForBuild=Hmmm, ek tan ka inth  chahiye, dau tan paththar .. / Laten we zien, een ton aan bakstenen, twee tonnen van stenen...
+indian_peasant.construction=Hindu vastu-kala desh videsh mein mashoor hai. / Hindu architectuur is over de hele wereld.
+indian_peasant.construction=Iskey baad, main lal kila banaoonga. / Als ik klaar ben met dit, maak ik een rood fort. 
+
+villager.GoPlay=Mujjhey mitti sey khelna accha lagta hai. / Ik hou van spelen met aarde.
+villager.BecomeAdult=Khel kud bahut ho gaya, ab kaam par chalo. / Genoeg gespeelt, aan het werk.
+male.BecomeAdult=Main badey hokar yodhdha ban-na chahta tha. / Ik wou een grote krijger worden toen ik jong was...
+female.BecomeAdult=Mainey socha tha kisi rajkumar sey shaadi hogi... / Ik droomde om te trouwen met een prins...
+
+villager.gopray.chosen=Mandir jaaney ka samay ho gaya. / Tijd om opnieuw de tempel te bezoeken.
+indian_pandit.gopray.chosen=Main mandir ki dekh bhaal nahin karoonga toh kaun karega? / Als ik niet zorg voor de tempel, wie doet het dan?
+
+villager.calltoarms=Jeet hamari hoogi. / De overwinning is aan ons.
+villager.calltoarms=Dushmano ki haar. / Versla de vijanden!
+villager.calltoarms=Sab apney apney hathiyar utha lo! / Iedereen pak je wapens!
+
+indian_smith.MakeTools=Sabhi merey banaye huye upkaran istamal kartey hain, phir bhi mujhey neecha samachtey hain. / Iedereen gebruik mijn gereedschap, en toen keek iedereen naar mij.
+indian_armysmith.MakeWeapons=Hathiyaar bananey mein, upkaran bananey sey zyaada maan hai. / Wapens maken is zo meer beter dan werktuigen maken!
+indian_sculptor.Scult=Murtikala ched aur gaanth ki kala hai. / Sckulpturen maken is de kunst van het gat en de forfaitaire
+merchant_oriental.KeepStall=Dekho yeh phaarsa ka gaurav! / Zie de schoonheid van Persie!
+merchant_adivasi.KeepStall= Sab kuch mere parivar dwara kheti ki gayi hai. / Iedereen van mijn familie is opgegroeid diep in de jungle.
+merchant_villagewoman.KeepStall=Ghara ka bana khana, bhukhe yaatriyon ke lie! / Zelfgemaakt eten voor hongerige reizigers!

@@ -1,0 +1,55 @@
+﻿version:1.1.4 
+Millénaire: Normannide asjad 
+
+Denier. Keskaja valuuta, mida kasutasid külaelanikud. Rahal on kolm väärtust: Denier (pronks), Deiner Argent (hõbe) on väärt 64 pronksi Denieri , ja Denier Or (kuld) on väärt 64 hõbedat Denier Argent. 
+Siidri õun. See mittesöödav õun kogutakse metsatöölise poolt, et valmistada siidrit ja calva. Seda saab mängija osta, kuid seda saab ainult müüa teistese Normannide küladesse. 
+NEW_PAGE 
+Toidu asjad. 
+
+Cider: Valmistatud külaelanike poolt siidri õuntest, see värskendav jook paraneb kaks südant ja seda saab kasutada kolm korda. 
+
+Calva. Rohkem tuntud kui kalvadosid, see õuna-brandy Normandiast tervendab kaks südant ja seda saab kasutada kümme korda. See on valmistatud siidrist kõrtsis, ja väljaspool Millénaire'i tarbimist on soovitatav väikestes annustes: selle kangus on 40 to 45°. 
+
+Tripes. See kuulus Normannide roog  lihtsalt peale pikka aega väljas külma käes töötamist, või pärast vastikut Minecraft kukkumist. See tervendab 5 südant ja seda saab kasutada kolm korda. Mitte-Normannid kipuvad nautima seda rohkem, kui pole öelnud seda, mis ta on. Sind on hoiatatud. 
+
+Boudin noir. Peaaegu sama hea kui tripes, boudin noir tervendab kolm südant ja seda saab kasutada kolm korda. Just nagu verivorstiki naudivad need inimesed kes ei tea, kuidas on see valmistatud. 
+NEW_PAGE 
+Tööriistad ja Relvad 
+
+Normannide labidas. See kvaliteetne Normannnide labidas on nii vastupidav kui rauast tehtud ja on nii kiire kui oleks kullast valatud. Soositud vahend tõsistel kaevuril saadaval lähimas Normannide sepikojas. 
+
+Normannide kirka. Kaevab sama kiirelt kui kuld ning on sama vastupidav kui rauast tehtud. Ideaalne nendeks pikadeks kaevandus ekspeditsioonideks! Aga ole TÄHELEPANEKIK see ei raju obsidianit. 
+
+Normannide kirves. On sama kiire kui kullast ja sama vastupidav kui rauast, see annab tõelise kiiruse. Eriti siis kui se satub kurja metsaraiduri kätesse. 
+
+Normannide kõblas. Põhimõtteliselt samaväärne teemantiga, aga näeb välja vägevam. 
+
+Normannide rüü. Normannide rüü komplekt annab sulle ekstra 50% rohkem kaitset kui rauast ja on vastupidav kui teemant, ning see paneb sind väljanägema palju ohtlikumana, mitte nagu oleksid kostüümipeol. 
+
+Normannide Lahmakasmõõk. Kallis, väga kallis ja väärt iga dinaari sellest, kui silmitsed rasket vaenlast. 
+NEW_PAGE 
+Ehitus ja Dekoratsioonid 
+
+Puitkarkass. Selle hoone materjal sisaldab talasid tumedat puitu ümbritsev maad või keetmata tellised. Tehtud puusepa poolt kasutamiseks külas hoonetes või kauplemiseks mängijaga. 
+
+Normanni vaip. Käsitsi valmistatud linnuse daami poolt, need eeposelisi seinavavaipu mis kaunistavad pangandus saali. Muster on võetud Bayeux vaibalt, kõige suuremalt 15 * 3 mõõtmetes William Vallutaja laevastikult mis purjetas Inglismaale. 
+NEW_PAGE 
+Amuletid 
+
+Amulet of Yggrasil. Graveeritud Yggrasil,ilmapuu Norra mütoloogiast, kelle juured ulatusid maailma põhja, ja mille oksad puutusid otstega taevast, see amulett garanteerib teile alati teadmise, kui kõrgel või sügaval te olete.
+
+Päkapikkude amulet. Toodud Normandia kallastelt viikingite poolt ja meisterdatud kujult nagu Thori haamer, päkapikkude amulett näitab sulle maa rikkused. 
+
+Amulett of Sköll and Rati. Juhtides oma võimu Skoll ja Rati, kari hunte kes jälitasid Päikest ja Kuud. See amulett võimaldab selle kandjal muuta päev õhtuks ja öö hommikuks. Aga ole hoiatatud: selle võim ei kesta igavesti. 
+
+Ronga amulett. Normannide preestrid võivad olla lojaalsed kiriku ja paavsti suhtes kaugel maal Roomas, aga nad ei ole unustanud iidsete viikingite traditsioone... See amulett pühendatud Odinile. See amulett hoiatab sind saabuvate ohtude eest muutudes veri punaseks kui ebaloomulik olend on lähedal. Hea kasutada nende vältimiseks - või hoopis neid otsida. 
+NEW_PAGE
+Pärgamendid
+
+Normannide külad. Pärgamentmides käsitletakse erinevaid külaelanike, mis tapavad teid, kui te puudutate ühte neist.
+
+Normannide ehitised. Kirjeldus erinevaid hooneid millega külaelenikud jänni jäävad.
+
+Normannide asjad. Sa peaksid teadma nüüd. 
+
+Valmis Normandia Scroll. Kolm erinevat sisu, ühes lihtsas scrollis mida on kerge kanda.

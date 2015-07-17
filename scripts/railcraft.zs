@@ -2,11 +2,18 @@
 import mods.railcraft.BlastFurnace;
 import mods.railcraft.Rolling;
 import mods.railcraft.RockCrusher;
+import mods.witchinggadgets.InfernalBlastfurnace;
 
 ////Value Declarations
 //Steel
 val refinedSteel = <Quadrum:refinedSteel>;
 val ingotSteel = <ore:ingotSteel>;
+val rcSteel = <Railcraft:ingot>;
+val ingotWroughtIron = <GardenStuff:wrought_iron_ingot>;
+val blockWroughtIron = <GardenStuff:metal_block>;
+val nuggetWroughtIron = <GardenStuff:wrought_iron_nugget>;
+val blockSteel = <Railcraft:cube:2>;
+val nuggetSteel = <Railcraft:nugget:1>;
 
 //Plates
 val plateAluminum = <Mariculture:crafting:7>;
@@ -27,6 +34,7 @@ val cokeOvenBrick = <Railcraft:machine.alpha:7>;
 val waterTank = <Railcraft:machine.alpha:14>;
 val worldAnchor = <Railcraft:machine.alpha>;
 val personalAnchor = <Railcraft:machine.alpha:2>;
+val sturdyCasing = <Forestry:sturdyMachine>;
 
 //Other
 val blazeEssence = <magicalcrops:magicalcrops_CropEssence:7>;
@@ -35,6 +43,7 @@ val ingotOsmium = <Mekanism:Ingot:1>;
 val ingotCobalt = <TConstruct:materials:3>;
 val ingotArdite = <TConstruct:materials:4>;
 val ingotGlowstone = <Mekanism:Ingot:3>;
+var ingotBronze = <ore:ingotBronze>;
 val copperToughRod = <TConstruct:toughRod:13>;
 val plateOsmium = <Quadrum:plateOsmium>;
 val plateArdite = <Quadrum:plateArdite>;
@@ -48,10 +57,34 @@ val ingotIron = <ore:ingotIron>;
 val manaSteel = <Botania:manaResource>;
 val obsidian = <minecraft:obsidian>;
 val manaPearl = <Botania:manaResource:1>;
+val wroughtLattice = <GardenStuff:lattice:2>;
 
 //Add better steel recipes (Y U NO HAVE OREDICT SUPPORT?!?)
 for steel in ingotSteel.items {
 	BlastFurnace.addRecipe(steel, false, false, 400, refinedSteel);
+	InfernalBlastfurnace.addRecipe(refinedSteel, steel, 600, nuggetSteel, true);
+}
+
+//change steel recipes to be from wrought iron instead of iron
+BlastFurnace.removeRecipe(rcSteel);
+BlastFurnace.removeRecipe(nuggetSteel);
+BlastFurnace.removeRecipe(blockSteel);
+InfernalBlastfurnace.removeRecipe(rcSteel);
+InfernalBlastfurnace.removeRecipe(blockSteel);
+BlastFurnace.addRecipe(ingotWroughtIron, false, false, 1280, rcSteel);
+BlastFurnace.addRecipe(blockWroughtIron, false, false, 11520, blockSteel);
+BlastFurnace.addRecipe(nuggetWroughtIron, false, false, 640, nuggetSteel);
+InfernalBlastfurnace.addRecipe(rcSteel, ingotWroughtIron, 1280, null, false);
+InfernalBlastfurnace.addRecipe(blockSteel, blockWroughtIron, 11520, null, false);
+InfernalBlastfurnace.addRecipe(nuggetSteel, nuggetWroughtIron, 640, null, false);
+
+//remove rutile -> titanium Infernal Blast Furnace recipe
+InfernalBlastfurnace.removeRecipe(titanium);
+
+//Move sturdy casing recipe to rolling machine
+recipes.remove(sturdyCasing);
+for bronze in ingotBronze.items {
+	Rolling.addShaped(sturdyCasing, [[bronze, bronze, bronze], [bronze, null, bronze], [bronze, bronze, bronze]]);
 }
 
 //Add rolling machine recipes for Mariculture sheet metal & quadrum added plates
@@ -76,7 +109,7 @@ recipes.addShaped(sandyBlock, [[searedBrick, sand], [sand, searedBrick]]);
 
 //Change blast furnace recipe
 recipes.remove(blastFurnace);
-recipes.addShaped(blastFurnace * 9, [[plateTitanium, infernalBrick, plateTitanium], [brickConstruction, blazeEssence, brickConstruction], [plateTitanium, infernalBrick, plateTitanium]]);
+recipes.addShaped(blastFurnace * 3, [[wroughtLattice, infernalBrick, wroughtLattice], [brickConstruction, blazeEssence, brickConstruction], [wroughtLattice, infernalBrick, wroughtLattice]]);
 
 //Change shunting wire recipe (removes the only use for lead in the pack)
 Rolling.removeRecipe(shuntingWire * 8);

@@ -1,0 +1,9 @@
+0;Obcy;Nie przywyklismy do obcych w naszej odleglej wiosce.
+4*64;Znajoma twarz;Jak dotad, nie dopusciles sie zadnego duzego zlamania zwyczajow.
+16*64;Regularny gosc;Namaste, $name! Jakie nowiny przynosisz?
+64*64;Ulubiony handlarz;Witaj ponownie, $name. Co Cie sprowadza do handlu z nami?
+2*64*64;Przyjaciel wioski;$name-ji, wszyscy uwazamy Cie tu za prawdziwego przyjaciela.
+8*64*64;Jeden z nas;Nie przypuszczalbym ze dozyje by zobaczyc obcego przyjetego w wiosce, lecz $name-ji, jestes teraz jednym z nas!
+-64;Nieznosny;Nie lubimy tutaj obcych, zwlaszcza twojego pokroju.
+-4*64;Nielubiany obcy;Ktokolwiek cie wychowal spartaczyl robote. Mamy nadzieje, ze szybko stad znikniesz.
+-16*64;Wrog publiczny;Kazdego ranka modle sie do Bogini abym nie musial ogladac twojej mordy nigdy wiecej!

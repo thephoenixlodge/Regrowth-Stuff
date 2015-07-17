@@ -1,0 +1,73 @@
+culture.norman=Norman
+
+//Norman:
+villager.abbot=수도원장
+villager.carpenter=목수
+villager.cattleFarmerMale=남자 소잡이
+villager.cattleFarmerFemale=여자 소잡이
+villager.pigherd=남자 돼지 농장 주인
+villager.pigherdF=여자 돼지 농장 주인
+villager.shepherd=양치기
+villager.shepherdF=여자 양치기
+villager.boy=소년 
+villager.girl=소녀
+villager.teenagerMale=10대 소년
+villager.teenagerFemale=10대 소녀
+villager.farmer=농부
+villager.merchant_viking=바이킹 상인
+villager.merchant_weapon=무기상인
+villager.merchant_plant=식물상인
+villager.merchant_art=예술품 전문 취급 상인
+villager.merchant_wool=직물상인
+villager.merchant_food=음식상인
+villager.guard=보초
+villager.guildmaster=길드 마스터
+villager.knight=기사
+villager.lady=숙녀
+villager.lumberman=나무꾼
+villager.merchant=상인
+villager.miner=광부
+villager.monk=수도승
+villager.priest=성직자
+villager.seneschal=관리원
+villager.smith=대장장이
+villager.wife=여자 마을사람
+
+villager.innkeeperfemale=여자 여관주인
+villager.innkeepermale=남자 여관주인
+villager.lonemiller=제분소 주인
+villager.merchant_weapons=무기상인
+villager.robberbaron=조폭 두목
+villager.robberleader=조폭 두목
+
+villager.lonelumberman=나무꾼
+villager.lonelumbermantaiga=나무꾼
+villager.loneminer=광부
+villager.lonemonk=수도승
+villager.loneabbot=수도원장
+villager.alchemist=연금술사
+villager.alchemistassistant=연금술사 보조
+villager.alchemistapprentice=견습 연금술사
+villager.bandit=강도
+villager.armoredbandit=강도
+villager.felonbaron=강도
+villager.felonsoldier=강도
+
+
+
+shop.townhall=중앙상점
+shop.forge=도구들
+shop.armoury=방어구와 무기들
+shop.bakery=빵
+shop.cattlefarm=소 제공자
+shop.pigfarm=돼지 제공자
+shop.sheepchickenfarm=닭 제공자
+shop.tavern=알코올
+shop.lumberman=사과주
+shop.lonemine=돌
+shop.alchemyworkshop=연금품 제공자
+shop.lonelumberman=나무와 사과들
+shop.lonemill=빵
+shop.loneinn=음식과 음료수
+shop.lonelumbermantaiga=나무
+shop.loneabbey=수도원으로부터 제공됨

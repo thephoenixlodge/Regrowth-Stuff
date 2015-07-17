@@ -1,0 +1,53 @@
+﻿playerestate_A0=Mansión del jugador
+forge_A0=Herrería
+armyforge_A0=Herrería del ejército
+scultorhouse_A0=Casa de escultor
+archives_A0=Archivos del templo
+chiefhouse_A0=Casa del jefe
+chiefhouse_b0=Casa del jefe
+fort_A0=Fuerte
+fort_A_forge_A0=Herrería del fuerte
+fort_A_soldierhouse_A0=Barracas
+peasanthouse_A0=Casa campesina
+peasanthouse_B0=Casa campesina
+peasanthouse_C0=Casa campesina
+lumbermanhouse_A0=Casa de leñador
+quarry_A0=Cantera
+quarry_B0=Cantera
+soldierhouse_A0=Casa de soldado
+brickkiln_A0=Horno de ladrillos
+grove_A0=Arboleda
+paddy_A0=Arrozal
+spicegarden_A0=Jardín de especias
+sugarplantation_A0=Cultivo de caña de azúcar
+villagetemple_A0=Templo de la aldea
+palace_A0=Palacio
+guesthouse_A0=Casa de huéspedes
+inn_A0=Posada
+largepeasanthouse_A0=Casa grande
+largepeasanthouse_A_secondary_A0=Casa secundaria
+playerpalace_A0=Palacio del jugador
+playerhugefield_A0=Terreno muy grande
+playerlargefield_A0=Terreno grande
+playersmallfield_A0=Terreno pequeño
+playersmallhouse_A0=Casa pequeña
+bazaar_A0=Bazar
+pandithouse_A0=Casa de sacerdote
+
+//extra buildings:
+well_A0=Pozo
+
+//lone buildings:
+adivasifarm_A0=Granja adivasi
+adivasifarm_B0=Granja adivasi
+deserttradeoutpost_A0=Puesto comercial del desierto
+ruinedfort_A0=Fuerte en ruinas
+sandblasted_A0=Puesto comercial desierto
+indiandesertedfarm_A0=Granja india destruida
+loneshrine_A0=Santuario solitario hindú
+sadhutree_A0=Árbol del Sadhu
+
+
+
+
+

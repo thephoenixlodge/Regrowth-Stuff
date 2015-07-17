@@ -1,0 +1,42 @@
+version:1.1.4
+Millénaire: Popis Indianskych budov
+
+Centra vesnic:
+
+Mukhiya ka Ghar : Nacelnikuv dum. Tento dum postaveny z hlinenych cihel je pribytkem nacelnika a jeho zeny, stejne jako centrum cele vesnice. Mnoho truhel ukrytych v jeho zdech shromazduji velkoryse "prispevky" vesnicanu.
+
+Qila : Pevnost. Tato mala cihlova vez muze byt transformovana v mocnou pevnost generalem Rajput, zde zijicim. Pomaha kontrolovat okoli a centralizuje vesnicky majetek.
+NEW_PAGE
+Obydli:
+
+Kisan ka Ghar : Domorody dum. Jednoducha budova postavena z cihel vysusenych sluncem, tento skromny dum lze rozsirit o sklad kureciho peri a terasu na relaxaci a odpocinek.
+
+Lakarhara ka Ghar : Drevorubcova bouda. Postavena ze dreva samotnym drevorubcem a pozdeji upravena palenymi cihlamy. Tento dum roste do krasy v case.
+
+Sikaar : Lom. Jednoducha dira vedouci az ke kameni, ve ktere hornik kuta kamen a piskovec potrebny ve vesnici.
+
+Bhati : Kovarna. Ze dne na den zde kovar vyrabi vesnicke nastroje; jeho kovadlina je mu blizsi nez jeho zena.
+
+Sena ka Bhati : valecna kovarna. Zbrojnice, postavena z piskovce.. cepele, zbroje a kovar, ktery je vyrabi.
+
+Muurtikaar ka Ghar :  Socharska dilna. Tento maly domek ma pripojenou dilnu, ve ktere promenuje sochar kamen a piskovec v sochy Hindskych bohu.
+
+Sainik ka Ghar : Valecnikuv dum. Vystaven z kamene poskytuje ubytovani pro divokeho valecnika Rajput a jeho zenu.
+
+Pandit ka Ghar : Knezuv dum. Tento krasny dum, daleko komplikovanejsi nez domorody, obyva knez se svoji zenou, jeden linejsi nez druhy.
+NEW_PAGE
+Neobydlene budovy:
+
+Inta bhatta : Cihelna. Tato budova je nezbytna pro kazdou Indianskou vesnici. Zde se pripravuji hlinene cihly, kazda se nechava vysusit na slunci, nebo vypalit v peci.
+
+Kunja : Lesik. Opatrne udrzovan drevorubci, slouzi jako primarni zdroj dreva pro vesnici. Bohata zemina a peclive pocinani drevorubcu pomaha stromum vyrust daleko rychleji nez obvykle.
+
+Puraalekhagar : Chramovy archiv. Je mistem, kde knez a jeho zena uchovavaji vsechny informace a zvesti o zdejsich vesnicanech.
+
+Dhaan : Ryzove pole. Ryze, zakladni surovina - ktera dobra kuchyne neobsahuje ryzi?
+
+Masaalaa udyaana : Policko s korenim. Zde davaji domorode zeny bedlivy pozor na kurkumu - a to je velmi dobre, jinak by bez ni bylo jidlo ve vesnici velice nevyrazne.
+
+Gannaa baagaana : Cukrova plantaz. Nemuzete udelat dobre Rasgulle bez cukru, ktere vesnicani tolik miluji.
+
+Gaanv ka Mandir :  Chram. Tato prekrasna budova je dukazem viry a zbotnosti vesnicanu, nebo pripadneho vlivu kneze. Chram zdobi tri bozske sochy rucne vyrobene socharem.

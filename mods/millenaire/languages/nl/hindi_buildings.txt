@@ -1,0 +1,75 @@
+playerestate_A0=Huis
+
+forge_A0=Smederij
+armyforge_A0=Leger Smederij
+
+scultorhouse_A0=SteenhouwersHuis
+archives_A0=Tempelarchieven
+
+chiefhouse_A0=Dorpshoofd Huis
+
+chiefhouse_B0=Dorpshoofd Huis
+fort_A0=Fort
+
+fort_A_forge_A0=Forts Smederij
+
+fort_A_soldierhouse_A0=Barrakken
+
+peasanthouse_A0=Dorpelingenhuis
+
+peasanthouse_B0=Dorpelingenhuis
+
+peasanthouse_C0=Dorpelingenhuis
+
+lumbermanhouse_A0=Houthakkershuis
+
+pandithouse_A0=Huis van de priester
+quarry_A0=Groeve
+quarry_B0=Groeve
+
+soldierhouse_A0=Soldatenhuis
+
+brickkiln_A0=Steenoven
+grove_A0=Park
+paddy_A0=Rijstveld
+spicegarden_A0=Kruidentuin
+
+sugarplantation_A0=Suikerplantage
+villagetemple_A0=Dorpstempel
+palace_A0=Paleis
+guesthouse_A0=Gastenwoning
+
+inn_A0=herberg
+largepeasanthouse_A0=Groot Huis
+
+largepeasanthouse_A_secondary_A0=Tweede Huis
+
+playerpalace_A0=Spelerspaleis
+
+playerhugefield_A0=Erg Groot Veld
+playerlargefield_A0=Groot Veld
+playersmallfield_A0=Klein Veld
+
+playersmallhouse_A0=Klein Huis
+tank_A0=Put
+
+bazaar_A0=Bazaar
+
+
+//extra buildings:
+
+well_A0=Put
+
+//lone buildings:
+
+adivasifarm_A0=Adivasiboederij
+adivasifarm_B0=Adivasiboederij
+
+deserttradeoutpost_A0=Handelspost In De Woestijn
+
+ruinedfort_A0=Ruine
+sandblasted_A0=Verlaten Handelspost
+indiandesertedfarm_A0=Vernietigde Indiaanse Boerderij
+loneshrine_A0=Eenzame Hindu Tempel
+sadhutree_A0=Sadhus Boom
+gifthouse_a0=Cadeautjeshuis

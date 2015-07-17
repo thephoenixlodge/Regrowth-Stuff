@@ -1,0 +1,10 @@
+0;Vreemdeling;We hebben er nog geen gezien met jouw huidskleur, we moeten opletten.
+4*64;Bekend Gezicht;Wees gewaarschuwd, onze soldaten letten op je.
+16*64;Geregelde Bezoeker;$name! Zijn de tijden veranderd?
+64*64;Favoriete Handelaar;Hallo, $name. Zoals altijd welkom.
+2*64*64;Vriend van het dorp;$name, je hebt ons echt naar betere tijden geholpen.
+8*64*64;Een van ons;$name Onze shamanen hebben gezegd dat je een van ons bent.
+32*64*64;Natuurlijke Leider;Je hebt het vertrouwen en respect van alle Maya's gekregen. Ze zullen je overal volgen. 
+-64;Overlastveroorzaker;Verlaat onze grond. Jouw soort ontheiligd onze cultuur.
+-4*64;Ongevraagde Buitenstaander;Je hebt stank en rumoer gebracht naar ons dorp.
+-16*64;Vijand;Je hebt onze manier van leven vernield, dit wordt niet getolereerd!

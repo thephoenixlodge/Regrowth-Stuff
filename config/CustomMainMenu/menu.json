@@ -165,7 +165,7 @@
 		
 		"packVersion":
 		{
-			"text" : "Version 0.7.0 (alpha)",
+			"text" : "Version 0.8.0 (alpha)",
 			"alignment" : "bottom_left",
             "posX" : 150,
             "posY" : -20

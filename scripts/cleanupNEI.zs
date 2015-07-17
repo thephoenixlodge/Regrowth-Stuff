@@ -4,6 +4,7 @@ import mods.nei.NEI;
 ////Variable declarations
 val cowSeeds = <magicalcrops:magicalcrops_SoulSeedsCow>;
 val magmaCubeSeeds = <magicalcrops:magicalcrops_SoulSeedsMagma>;
+val leather = <minecraft:leather>;
 //Essences
 val redstoneEssence = <magicalcrops:magicalcrops_CropEssence:1>;
 val glowstoneEssence = <magicalcrops:magicalcrops_CropEssence:2>;
@@ -125,13 +126,19 @@ NEI.hide(<magicalcrops:magicalcrops_CropTomato>);
 NEI.hide(<magicalcrops:magicalcrops_CropSugarCane>);
 
 //Hide charms
+recipes.remove(<magicalcrops:magicalcrops_Charms>);
 NEI.hide(<magicalcrops:magicalcrops_Charms>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:1>);
 NEI.hide(<magicalcrops:magicalcrops_Charms:1>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:2>);
 NEI.hide(<magicalcrops:magicalcrops_Charms:2>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:3>);
 NEI.hide(<magicalcrops:magicalcrops_Charms:3>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:4>);
 NEI.hide(<magicalcrops:magicalcrops_Charms:4>);
 
 //Hide Unused Essences
+recipes.removeShaped(leather, [[cowEssence, cowEssence, cowEssence], [cowEssence, cowEssence, cowEssence], [cowEssence, null, cowEssence]]);
 NEI.hide(cowEssence);
 NEI.hide(magmaCubeEssence);
 NEI.hide(<magicalcrops:magicalcrops_ModCropEssence:2>);

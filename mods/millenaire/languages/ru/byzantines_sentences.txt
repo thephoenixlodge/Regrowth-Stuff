@@ -1,0 +1,64 @@
+villager.greeting=Xaire, $name! / Привет, $name!
+villager.greeting=Omorfi mera, etsi den einai? /  Прекрасный день, не правда ли?
+villager.greeting=Tha brochi. Syntoma.  /  Будет дождь. Скоро.
+villager.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ Нет такого города в мире, что мог бы сравниться с Константинополем.
+villager.greeting=Den eimaste Ellines , eimaste Romaioi. / Мы не Греки, мы - Римляне.
+villager.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / Мы - Византийцы, последние из истинных Римлян. Грейтесь в лучах нашей славы.
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Пойду поиграю на улицу.
+villager.gorest=Eimai kourasmenos. Tha pao spiti na koimitho. / Я устал. Пойду домой посплю.
+villager.makeBread=To psomi einai aedae myrodia kalo. / Хлеб уже вкусно пахнет..
+villager.gorest=Nomizo oti tha pao gia Hypno. / Пойду, пожалуй,  посплю.
+villager.BecomeAdult=Telos tha ginei mia romaiki politi! / Наконец-то я стал римским гражданином!
+villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / Римская Империя под атакой! К оружию!
+villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Пойду поиграю на улицу.
+
+architect_byzantine.construction=Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / Я построил такие сложные сооружения. Я настоящий архитектор.
+architect_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / Наша архитектура не сравниться ни с какой другой.
+artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / Моя жизнь гораздо лучше, чем жизнь других людей здесь.
+artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / Римское искусство - самое передовое в мире.
+
+merchant_art.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ Ни один город в мире не может сравниться с Константинополем.
+merchant_art.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / Мы - Византийцы, последние из истинных Римлян.
+
+smith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / Византийские инструменты являются лучшими в мире.
+armysmith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / Византийское оружие - лучшее в мире.
+armysmith_byzantine.MakeByzantineMace=Mi̱n prospathi̱sete katapolemi̱si̱ enan andra oplismeno me mena. / Даже не пытайтесь сражаться со мной, я - целая армия
+
+wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / Наша задача - контроль наших мужчин
+wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / Как и женщины, вы не можете сделать здесь многое
+wife_byzantine.getGoodsHousehold=Ora na noiazontai gia to noikokyrio. / Время позаботиться о домашнем хозяйстве.
+wife_byzantine.DeliverGoodsHousehold=Tetoia pragmata opos afto einai ta mona pragmata pou boro na kano edo. / Подобные дела - единственное, что я могу здесь сделать.
+wife_byzantine.GetHouseTHResources=Telos o syzygos mou echei paradothei porous tou, opos tou eipa. / Мой муж, наконец, принес домой все то, о чем я его просила.
+wife_byzantine.cooking=Ae kouzina tou einai pragmatika diaskedastiko. / Готовить очень весело.
+
+miner_byzantine.Mining=Se afti tin dynami kai tin antochi douleia einai aparaititi. Omos, kaneis edo den echei syneiditopoiaesei pote... / В этой работе сила и выносливость необходимы. Но здесь никто этого не замечает ...
+miner_byzantine.Mining=Eimai perifanos pou Romaiki kai ergazontai gia afto to Empire doxa , akoma kai se afto to dyskolo ergo. / Я горд быть римским гражданином, работающим во славу Империи, даже на такой тяжелой работе.
+
+patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / Мои книги являются одними из лучших рукописей за пределами Византии.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / Мои книги являются одними из лучших рукописей за пределами Византии.
+
+lumberman_byzantine.BringBackResourcesHome=Ae gynaikos mou prepei na einai perifanoi giati ola ta xyla pou echo pira . / Моя жена должна гордиться мной и всей той древесиной что я принес.
+lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / Для каждой постройки требуется дерево и добывать его - моя работа!
+lumberman_byzantine.GatherGoods=Nikaia dendryllio ekei. / Nice sapling over there.
+lumberman_byzantine.PlantSaplings=Syntoma auto tha einai ana megalo, epivlitiko dentro ! Kai tha to meiosoun.  / Вскоре это будет большое, величественное дерево! И я срублю его.
+
+keeperBirch_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Как можно было додуматься кого-то размещать здесь...
+keeperBirch_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Здесь так скучно, никогда ничего не происходит...
+keeperBirch_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Приветствую вас, путешественник, как же вы оказались в наших краях?
+
+
+keeperOak_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Как можно было додуматься кого-то размещать здесь...
+keeperOak_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Здесь так скучно, никогда ничего не происходит...
+keeperOak_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Приветствую вас, путешественник, как же вы оказались в наших краях?
+keeperOak_byzantine.greeting=Aftoi oi anthropoi edo, lene eafto tou 'Normans', mou thymizoun ti doxa tis aftokratorias mas. / Эти люди, которые называют себя Норманны, напоминают мне о нашей славной Империи.
+
+keeperPine_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Как можно было додуматься кого-то размещать здесь...
+keeperPine_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Здесь так скучно, никогда ничего не происходит...
+keeperPine_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Приветствую вас, путешественник, как же вы оказались в наших краях?
+keeperPine_byzantine.greeting=Afto to kryo einai fovero. Den yparchei amfivolia den boro na vro tous anthropous edo... / Тут ужасно холодно. Не удивительно, что никого нет вокруг.
+
+keeperTropical_byzantine.greeting=Pos tha borouse na irthe me tin idea tis ergasias edo... / Как можно было додуматься кого-то размещать здесь...
+keeperTropical_byzantine.greeting=Einai toso vareti edo, tipota den symvainei pote... / Здесь так скучно, никогда ничего не происходит...
+keeperTropical_byzantine.greeting=Geia sou, anarotiemai pos tha vrethei afto to mikro meros makrino. / Приветствую вас, путешественник, как же вы оказались в наших краях?
+keeperTropical_byzantine.greeting=Einai toso zesta edo. Den boro na katalavo giati aftoi 'Hindi' zoun se afti ti gi. / Здесь так жарко. Я не могу понять, почему эти Хинди живут в этих землях?
+keeperTropical_byzantine.greeting=Echete dei pote aftes tis perierges 'Maya' ? Ktirion tous moiazoun san na borouse na katarrefsei kathe defterolepto. / Вы когда-нибудь видели этих странных Майя? Их здания выглядят, как будто они могут рухнуть в любую секунду.

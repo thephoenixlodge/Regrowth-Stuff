@@ -1,0 +1,40 @@
+version:1.1.4
+Millénaire: Objectos Hindus
+
+Denier: Por motivos que os historiadores nunca conseguiram explicar, as aldeias Hindus utilizam os deniers como a sua moeda, tal como o povo Normanda. A moeda divide-se em três valores: deniers, deniers argent (prata), que valem 64 deniers, e deniers or (ouro), que valem 64 deniers argent, ou 4096 deniers.
+NEW_PAGE
+Alimentos
+
+Arroz: Um produto alimentar bem presente na alimentação dos aldeões, que pode até ser comprado pelo jogador na aldeia. Cru, não tem qualquer sabor, e o jogador não o pode comer. As crianças Hindus crescem mais depressa se a aldeia tiver bastante arroz disponível.
+
+Açafrão-da-Índia: Esta especiaria em pó é obtida a partir da raíz da curcuma longa e é um ingrediente obrigatório no caril. Tal como o arroz, a sua disponibilidade acelera o crescimento das crianças.
+
+Caril Vegetariano: Cozinhado com uma parte de arroz e outra de açafrão, este simples caril recupera dois corações.
+
+Frango Cru: Obtido pelos agricultores que possuam um curral de galinhas, a carne de frango é utilizada para cozinhar o delicioso caril de frango. A sua presença numa aldeia acelera fortemente o crescimento das crianças. Pode ser comido cru, mas apenas recupera meio coração.
+
+Caril de Frango: Este caril é preparado com uma parte de arroz, outra de açafrão e carne de frango. Esta iguaria recupera um valor substancial de quatro corações.
+
+Rasgullā: Este doce de queijo frito e xarope adocicado é preparado pelas camponesas a partir da cana do açúcar. Pode ser adquirido pelo jogador e recupera um coração, podendo também ser combinado numa pilha de 8. Se for consumido por um casal numa aldeia, aumenta a probabilidade de terem filhos. Não, não há mais detalhes disponíveis.
+NEW_PAGE
+Construção e Decoração
+
+Tijolo Húmido: A primeira etapa no fabrico de tijolos, o tijolo húmido é seco ao sol num forno de tijolos.
+
+Tijolo Seco: Um tijolo húmido depois de seco ao sol. Este material é a base da arquitectura Hindu.
+
+Tijolo Cozido: Os tijolos secos podem ser cozidos num forno. Muito mais resistentes e elegantes, com um aspecto branqueado, substituem o tijolo seco na maioria das construções.
+
+Molde de Tijolo: Esta ferramenta que pode ser adquirida numa aldeia permite fabricar tijolos húmidos a partir de um bloco de terra e outro de areia. Basta clicar numa superfície plana e o bloco de tijolo húmido é colocado, podendo depois ser seco ao sol para se transformar em tijolo seco.
+
+Estatueta Hindu: Estas estatuetas dos deuses Hindus são criadas pelo escultor para ornamentar o templo da aldeia, mas podem também ser vendidas aos jogadores com gostos artísticos requintados.
+NEW_PAGE
+Pergaminhos
+
+Aldeões Hindus: Um pergaminho que descreve os diversos tipos de aldeões Hindus - tanto aqueles que trabalham, como aqueles que observam os outros a trabalhar.
+
+Construções Hindus: Uma lista de todas as construções edificadas pelos aldeões Indianos, desde a cabana do lenhador até à imponente fortaleza do general Rajput.
+
+Objectos Hindus: É preciso mesmo dizer?
+
+Pergaminho Hindu Completo: Contém os três pergaminhos anteriores, num rolo compacto para transporte fácil.

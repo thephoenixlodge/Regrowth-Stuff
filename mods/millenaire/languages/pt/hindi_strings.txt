@@ -1,0 +1,35 @@
+culture.hindi=Hindu
+
+villager.indian_boy=Rapaz
+villager.indian_girl=Rapariga
+villager.indian_teenagerMale=Jovem
+villager.indian_teenagerFemale=Jovem
+villager.indian_lumberman=Lenhador
+villager.indian_miner=Mineiro
+villager.indian_pandit=Sacerdote
+villager.indian_peasant=Camponês
+villager.indian_peasantwife=Camponesa
+villager.indian_rajputgeneral=General Rajput
+villager.indian_richwoman=Mulher Rica
+villager.indian_soldier=Soldado Rajput
+villager.indian_villagechief=Chefe da Aldeia
+villager.indian_smith=Ferreiro
+villager.indian_armysmith=Ferreiro Militar
+villager.indian_sculptor=Escultor
+villager.indian_panditayin=Esposa do Sacerdote
+villager.indian_raja=Rei
+villager.indian_rani=Rainha
+villager.indian_merchant=Comerciante
+villager.indian_lonetrader=Comerciante
+villager.indian_adivasipeasant=Camponês Adivasi
+villager.indian_adivasipeasantwife=Camponesa Adivasi
+villager.indian_sadhu=Sadhu
+villager.merchant_oriental=Comerciante Persa
+villager.merchant_adivasi=Comerciante Adivasi
+villager.merchant_villagewoman=Aldeã Comerciante
+
+shop.adivasifarm=Produtos Adivasi
+shop.armyforge=Armas e Armaduras
+shop.deserttradeoutpost=Mercadorias Preciosas
+shop.forge=Ferramentas
+shop.townhall=Loja Central

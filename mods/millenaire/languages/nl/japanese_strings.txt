@@ -1,0 +1,44 @@
+culture.japanese=Japans
+
+villager.japanese_boy=Jongen
+villager.japanese_girl=Meisje
+villager.japanese_teenagermale=Jongere
+villager.japanese_teenagerfemale=Jongere
+villager.japanese_lumberman=Houthakker
+villager.japanese_miner=Mijnwerker
+villager.japanese_loneminer=Eenzame Mijnwerker
+villager.japanese_monk=Monnik
+villager.japanese_peasant=Dorpeling
+villager.japanese_peasantwife=Vrouwelijke Dorpeling
+villager.japanese_samuraigeneral=Samurai Generaal
+villager.japanese_richwoman=Rijke Vrouw
+villager.japanese_samurai=Samurai
+villager.japanese_emperor=Keizer
+villager.japanese_crafter=Timmerman
+villager.japanese_armysmith=Meestersmid
+villager.japanese_sculptor=Kunstenaar
+villager.japanese_kuge=Kuge
+villager.japanese_merchant=Handelaar
+villager.japanese_chickenfarmer=Kippen Boer
+villager.japanese_smith=Smid
+villager.japanese_fisherman=Visser
+villager.japanese_farmer=Graan Boer
+villager.japanese_farmerchief=Hoofdboer
+villager.japanese_farmwife=Vrouwelijke Boer
+villager.japanese_womanservant=Knecht
+villager.japanese_merchant_food=Etenshandelaar
+villager.japanese_merchant_blacksmith=Werktuigenhandelaar
+villager.japanese_bravewoman=Dappere vrouw
+villager.japanese_bandit=Japanse Bandiet
+villager.japanese_brewer=Meesterbrouwer
+villager.japanese_brewerwife=Brouwer
+
+
+shop.japanesetownhall=Centrale winkel
+shop.forge=Werktuigen
+shop.armyforge=Pantser en wapens
+shop.japanesecrafter=Papier
+shop.kitchen=Voedsel
+shop.lonemine=Steen
+shop.japaneseoutpost=Centrale winkel
+shop.fishery=Gekookte vis

@@ -1,0 +1,38 @@
+version:3.1.7
+Mill√©naire: Oggetti giapponesi
+
+Denier. Quando i Giapponesi arrivarono in queste nuove terre cambiarono la loro moneta con i denier. Ci sono tre valute: Denier (bronzo), Denier Argent (argento) che equivale a 64 denier in bronzo, e Denier Or (oro) che ne vale 64 d'argento.
+NEW_PAGE
+Cibo
+
+Riso. Blando e insipido ma i giapponesi lo raccolgono come se non ci fosse un domani. Se i giapponesi hanno del riso nei loro bauli avranno più figli. E' anche usato nella creazione della carta.
+
+Udon. Questo misterioso cibo è fatto dai giapponesi nelle loro cucine.
+NEW_PAGE
+Utensili e armi
+
+Spada Tachi. Questa spada infligge lo stesso danno di una di ferro ma può avere dei colpi critici con un danno triplo rispetto al normale. Ottima per uccidere nemici resistenti.
+
+Arco Yumi. Più grande dell'arco lungo inglese, questo arco era ed è il più grande arco della storia con i suoi 2.2 metri. Scaglia le frecce veloce e lontano: questa caratteristica conferisce una grande accuratezza sulle grosse distanze. Inoltre si ricarica più velocemente e infligge più danno dell'arco normale.
+
+Armatura Keiko. E' l'armatura dei soldati simile alla maglia di ferro con del cuoio. Difende come un'armatura di ferro ma ha maggiore resistenza. E' fatta con ferro e cuoio.
+
+Armatura O-Yoroi. Questa armatura esiste in due versioni: una di colore rosso e una blu. Ha una difesa maggiore di quella di ferro ed ha la resistenza di una di diamante. E' indossata dai capi villagi.
+NEW_PAGE
+Edifici e Decorazioni
+
+Pagliericcio. Creato a partire dal grano e usato per i tetti degli edifici. E' anche piuttosto confortevole come letto.
+
+Muri di carta. E' un sottile foglio di carta teso da 4 bastoncini. Lascia passare la luce ma non è possibile vederci attraverso. E' usato per decifrare gli edifici. Viene prodotto con la carta ottenuta dal riso.
+
+Strutture in legno. I giapponesi usano delle strutture in legno per alcuni edifici. Queste sono fatte con legno di pino e terra.
+New_PAGE
+Documenti
+
+Abitanti Giapponesi. Una pergamena con i vari tipi di abitanti, che potrebbero ucciderti nel caso li attaccassi.
+
+Edifici Giapponesi. Una descrizione degli edifici che vedrai costruiti dagli abitanti del villaggio.
+
+Oggetti Giapponesi. Quello che stai leggendo.
+
+Pergamena completa dei Giapponesi. Il contenuto dei precedenti documenti, in un unica pergamena per facilità di trasporto.

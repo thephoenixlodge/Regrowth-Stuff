@@ -3,6 +3,7 @@ import mods.botania.ManaInfusion;
 import mods.botania.RuneAltar;
 import mods.nei.NEI;
 import mods.botania.Lexicon;
+import minetweaker.item.IItemStack;
 
 //Value declaration
 //Tool Parts
@@ -30,6 +31,7 @@ val hoeStone = <minecraft:stone_hoe>;
 val hoeIron = <minecraft:iron_hoe>;
 val hoeDia = <minecraft:diamond_hoe>;
 val swordIron = <minecraft:iron_sword>;
+val pickIron = <minecraft:iron_pickaxe>;
 //Botania
 val botaniaFlower = <Botania:flower:*>;
 val lexicaBotania = <Botania:lexicon>;
@@ -48,6 +50,9 @@ val mandrakeSeeds = <witchery:seedsmandrake>;
 val wheatBag = <Natura:wheatBag>;
 val barleyBag = <Natura:barleyBag>;
 val cottonBag = <Natura:cottonBag>;
+val potatoBag = <Natura:potatoBag>;
+val carrotBag = <Natura:carrotBag>;
+val bonemealBag = <Natura:boneBag>;
 val bMushSeed = <AgriCraft:seedShroomBrown>;
 val rMushSeed = <AgriCraft:seedShroomRed>;
 val bMush = <minecraft:brown_mushroom>;
@@ -107,6 +112,25 @@ val gaiaSpirit = <Botania:manaResource:5>;
 val charcoal = <minecraft:coal:1>;
 val cactus = <minecraft:cactus>;
 val wool = <minecraft:wool:*>;
+val woolAll = 
+	[
+		<minecraft:wool>,
+		<minecraft:wool:1>,
+		<minecraft:wool:2>,
+		<minecraft:wool:3>,
+		<minecraft:wool:4>,
+		<minecraft:wool:5>,
+		<minecraft:wool:6>,
+		<minecraft:wool:7>,
+		<minecraft:wool:8>,
+		<minecraft:wool:9>,
+		<minecraft:wool:10>,
+		<minecraft:wool:11>,
+		<minecraft:wool:12>,
+		<minecraft:wool:13>,
+		<minecraft:wool:14>,
+		<minecraft:wool:15>
+	] as IItemStack[];
 val redstone = <minecraft:redstone>;
 val glowstone = <minecraft:glowstone_dust>;
 val feather = <minecraft:feather>;
@@ -142,6 +166,7 @@ val spawnCreeper = <minecraft:spawn_egg:50>;
 val spawnSlime = <minecraft:spawn_egg:55>;
 val spawnSilverfish = <minecraft:spawn_egg:60>;
 val spawnFallenKnight = <minecraft:spawn_egg:5>;
+val spawnHobgoblin = <minecraft:spawn_egg:6415>;
 //Barrel Structural Upgrades
 val struct1 = <JABBA:upgradeStructural>;
 val struct3 = <JABBA:upgradeStructural:2>;
@@ -163,6 +188,9 @@ recipes.addShaped(woodBinding, [[null, stick], [stick, null]]);
 //Change crafting table recipe
 recipes.remove(craftingTable);
 recipes.addShapeless(craftingTable, [hatchet.reuse(), <ore:plankWood>]);
+
+//Add secondary crafting table recipe for after the first one
+recipes.addShaped(craftingTable, [[<ore:slabWood>, <ore:slabWood>], [<ore:plankWood>, <ore:plankWood>]]);
 
 //Change Quest Book recipe
 recipes.remove(questBook);
@@ -216,11 +244,21 @@ vanilla.seeds.removeSeed(mandrakeSeeds);
 vanilla.seeds.removeSeed(<witchery:seedssnowbell>);
 vanilla.seeds.removeSeed(<witchery:seedswolfsbane>);
 vanilla.seeds.removeSeed(<witchery:seedsbelladonna>);
+vanilla.seeds.removeSeed(<witchery:garlic>);
 
 //Remove seed bag recipes
 recipes.remove(wheatBag);
+NEI.hide(wheatBag);
 recipes.remove(barleyBag);
+NEI.hide(barleyBag);
 recipes.remove(cottonBag);
+NEI.hide(cottonBag);
+recipes.remove(potatoBag);
+NEI.hide(potatoBag);
+recipes.remove(carrotBag);
+NEI.hide(carrotBag);
+recipes.remove(bonemealBag);
+NEI.hide(bonemealBag);
 
 //Add Mushroom -> seed recipes
 recipes.addShapeless(rMushSeed, [rMush]);
@@ -244,6 +282,11 @@ ManaInfusion.addInfusion(floralFertilizer, bonemeal, 500);
 recipes.remove(manaSpreader);
 recipes.addShaped(manaSpreader, [[livingWood, livingWood, livingWood], [livingWood, mysticPetal, null], [livingWood, livingWood, livingWood]]);
 
+//Fix Lexica Botania showing incorrect recipe for mana spreader \o/
+Lexicon.removePage("botania.entry.spreader", 6);
+Lexicon.addCraftingPage("botania.page.spreaderR","botania.entry.spreader",7,[manaSpreader], [[[livingWood, livingWood, livingWood], [livingWood, mysticPetal, null], [livingWood, livingWood, livingWood]]]);
+game.setLocalization("en_US", "botania.page.spreaderR", "Crafting the &1Mana Spreader&0");
+
 //misc dead log crafting
 recipes.addShaped(deadLog, [[deadPlanks, deadPlanks, deadPlanks], [deadPlanks, deadPlanks, deadPlanks], [deadPlanks, deadPlanks, deadPlanks]]);
 //misc Slate block crafting
@@ -252,24 +295,9 @@ recipes.addShaped(slate, [[flint, flint], [flint, flint]]);
 //alt mutandis recipe
 recipes.addShaped(mutandis*3, [[woodAsh, <ore:dyeGreen>, woodAsh], [mandrake, bonemeal, mandrake], [woodAsh, <ore:dyeGreen>, woodAsh]]);
 
-//ore dict water buckets
-bucketWater.add(bucketWaterClay);
-bucketWater.add(bucketWaterIron);
-
-//ore dict lava buckets
-bucketLava.add(bucketLavaClay);
-bucketLava.add(bucketLavaIron);
-
-//make sand from cracked sand recipe work with clay water buckets
-recipes.removeShapeless(sand);
-recipes.addShapeless(sand, [crackedSand, bucketWater]);
-
 //change chisel recipe
 recipes.remove(chisel);
 recipes.addShaped(chisel, [[null, flint], [stick, null]]);
-
-//Add egg recipe
-RuneAltar.addRecipe(egg * 16, [seeds, pastureSeeds, mandrakeSeeds, earthRune, manaRune], 3000);
 
 //Change Map recipe
 recipes.removeShaped(map, [[<*>, <*>, <*>], [<*>, <minecraft:compass>, <*>], [<*>, <*>, <*>]]);
@@ -283,48 +311,6 @@ recipes.addShapeless(slottedBook, [book, label]);
 recipes.remove(draftingCompass);
 recipes.addShaped(draftingCompass, [[null, flint, null], [flintToolRod, null, flintToolRod], [stick, null, stick]]);
 
-//Spawn egg recipes
-RuneAltar.addRecipe(spawnCow, [leather, leather, wheat, wheat, expDrop, expDrop, expDrop, egg], 20000);
-RuneAltar.addRecipe(spawnVillager, [emerald, emerald, wheat, potato, carrot, expDrop, expDrop, expDrop, egg], 30000);
-RuneAltar.addRecipe(spawnWolf, [bone, bone, rawBeef, rawBeef, expDrop, expDrop, expDrop, egg], 22000);
-RuneAltar.addRecipe(spawnOcelot, [gunpowder, gunpowder, fish, fish, expDrop, expDrop, expDrop, egg], 22000);
-RuneAltar.addRecipe(spawnPig, [redMushroom, brownMushroom, carrot, carrot, expDrop, expDrop, expDrop, egg], 20000);
-RuneAltar.addRecipe(spawnSheep, [wool, wool, wheat, wheat, expDrop, expDrop, expDrop, egg], 20000);
-RuneAltar.addRecipe(spawnBat, [feather, wool, <ore:dyeBrown>, <ore:dyeBrown>, expDrop, expDrop, expDrop, egg], 25000);
-//hostiles
-RuneAltar.addRecipe(spawnZombie, [zombieCandle, fleshBlock, brain, ironIngot, expDrop, expDrop, expDrop, expDrop, spawnVillager], 35000);
-RuneAltar.addRecipe(spawnSkeleton, [skeleCandle, boneBlock, bow, arrow, expDrop, expDrop, expDrop, expDrop, spawnVillager], 35000);
-RuneAltar.addRecipe(spawnFallenKnight, [witherCandle, fleshBlock, boneBlock, swordIron, expDrop, expDrop, expDrop, expDrop, expDrop, spawnZombie, spawnSkeleton], 40000);
-RuneAltar.addRecipe(spawnCreeper, [creeperHead, creeperHeart, gunpowder, <minecraft:tnt>, expDrop, expDrop, expDrop, expDrop, spawnPig], 30000);
-RuneAltar.addRecipe(spawnSpider, [spiderEye, spiderEye, <minecraft:string>, <minecraft:string>, expDrop, expDrop, expDrop, expDrop, spawnSheep], 30000);
-RuneAltar.addRecipe(spawnSilverfish, [<ore:stone>, emeraldNugget, expDrop, expDrop, expDrop, expDrop, spawnSpider], 35000);
-RuneAltar.addRecipe(spawnSlime, [slimeCrystal, slimeCrystal, milk, expDrop, expDrop, expDrop, expDrop, spawnCow], 30000);
-
-//Fix JABBA
-recipes.remove(struct1);
-recipes.remove(struct3);
-recipes.remove(struct6);
-recipes.addShaped(struct1, [[constructionWooden, copper, constructionWooden], [copper, null, copper], [constructionWooden, copper, constructionWooden]]);
-recipes.addShaped(struct3, [[constructionWooden, bronze, constructionWooden], [bronze, null, bronze], [constructionWooden, bronze, constructionWooden]]);
-recipes.addShaped(struct6, [[constructionWooden, steel, constructionWooden], [steel, null, steel], [constructionWooden, steel, constructionWooden]]);
-
 //Change magical fertilizer recipe
 recipes.remove(magicFert);
 recipes.addShapeless(magicFert * 3, [bonemeal, floralFert, mutandis, natureEssence, natureEssence]);
-
-//Add recipes for green heart canister
-recipes.addShaped(gHeart, [[null, terrasteel, null], [terrasteel, yHeart, terrasteel], [null, terrasteel, null]]);
-recipes.addShapeless(gHeartCanister, [yHeartCanister, gHeart, gaiaSpirit]);
-
-//Remove recipe for making cactus from Nature Essence
-recipes.remove(cactus);
-
-//Fix Lexica Botania showing incorrect recipe for mana spreader \o/
-Lexicon.removePage("botania.entry.spreader", 6);
-Lexicon.addCraftingPage("botania.page.spreaderR","botania.entry.spreader",7,[manaSpreader], [[[livingWood, livingWood, livingWood], [livingWood, mysticPetal, null], [livingWood, livingWood, livingWood]]]);
-game.setLocalization("en_US", "botania.page.spreaderR", "Crafting the &1Mana Spreader&0");
-
-//Remove redstone and glowstone alchemy
-ManaInfusion.removeRecipe(redstone * 1);
-ManaInfusion.removeRecipe(glowstone * 1);
-Lexicon.removePage("botania.entry.manaAlchemy", 19);
